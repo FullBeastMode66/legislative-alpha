@@ -4,87 +4,133 @@
   "sectors": {
     "PAVE": {
       "name": "Infrastructure & Materials",
+      "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
       "bill_count": 20,
+      "trade_count": 0,
+      "lobbying_count": 360,
       "avg_momentum": 35
     },
     "CIBR": {
       "name": "Cybersecurity",
+      "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
       "bill_count": 4,
+      "trade_count": 0,
+      "lobbying_count": 288,
       "avg_momentum": 36
     },
     "GRID": {
       "name": "Grid & Electrification",
+      "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
       "bill_count": 0,
+      "trade_count": 0,
+      "lobbying_count": 265,
       "avg_momentum": 0
     },
     "QTUM": {
       "name": "Quantum Computing",
+      "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 0,
+      "trade_count": 1,
+      "lobbying_count": 221,
       "avg_momentum": 0
     },
     "XBI": {
       "name": "Biotech",
+      "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
       "bill_count": 2,
+      "trade_count": 0,
+      "lobbying_count": 314,
       "avg_momentum": 36
     },
     "ITA": {
       "name": "Defense",
+      "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
       "bill_count": 4,
+      "trade_count": 0,
+      "lobbying_count": 300,
       "avg_momentum": 43
     },
     "UFO": {
       "name": "Space",
+      "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
       "bill_count": 2,
+      "trade_count": 0,
+      "lobbying_count": 250,
       "avg_momentum": 35
     },
     "URA": {
       "name": "Uranium & Nuclear",
+      "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
       "bill_count": 3,
+      "trade_count": 0,
+      "lobbying_count": 231,
       "avg_momentum": 40
     },
     "SMH": {
       "name": "Semiconductors & AI",
+      "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 3,
+      "trade_count": 1,
+      "lobbying_count": 300,
       "avg_momentum": 23
     },
     "ICLN": {
       "name": "Clean Energy",
+      "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
       "bill_count": 0,
+      "trade_count": 0,
+      "lobbying_count": 165,
       "avg_momentum": 0
     },
     "MOO": {
       "name": "Agriculture",
+      "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
       "bill_count": 6,
+      "trade_count": 0,
+      "lobbying_count": 206,
       "avg_momentum": 33
     },
     "FINX": {
       "name": "Financial Technology",
+      "short": "Fintech",
       "etf": "FINX",
       "color": "#3C6E8F",
       "bill_count": 16,
+      "trade_count": 0,
+      "lobbying_count": 190,
       "avg_momentum": 30
+    },
+    "OTHER": {
+      "name": "Other / Unclassified",
+      "short": "Other",
+      "etf": null,
+      "color": "#565F73",
+      "bill_count": 0,
+      "trade_count": 41,
+      "lobbying_count": 0,
+      "avg_momentum": 0
     }
   },
   "bills": [
@@ -1591,6 +1637,446 @@
   ],
   "trades": [
     {
+      "sector": "OTHER",
+      "ticker": "T",
+      "company": "AT&T Inc.",
+      "senator": "Gary C Peters",
+      "transaction_date": "06/29/2026",
+      "filed_date": "07/02/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/40fbe259-f282-4982-a53f-1c7278d041cd/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "WFC",
+      "company": "Wells Fargo & Company Common Stock",
+      "senator": "A. Mitchell McConnell, Jr.",
+      "transaction_date": "06/01/2026",
+      "filed_date": "06/30/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/36b2e868-6789-43e3-91eb-ebe85aad5699/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "BRK.B",
+      "company": "Berkshire Hathaway Inc. New Common Stock",
+      "senator": "Jerry Moran,",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/25/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GOOG",
+      "company": "Alphabet Inc. - Class C Capital Stock",
+      "senator": "Jerry Moran,",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/25/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "VEA",
+      "company": "Vanguard Developed Markets Index Fund - ETF Shares",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "VNQI",
+      "company": "Vanguard Global ex-U.S. Real Estate Index Fund - ETF Shares",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "LITP",
+      "company": "Sprott Lithium Miners ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IVV",
+      "company": "iShares Core S&P 500 ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SCHP",
+      "company": "Schwab U.S. TIPS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/13/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "RNWGX",
+      "company": "NEW WORLD FUND INC - Class R-6",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JMBS",
+      "company": "Janus Henderson Mortgage-Backed Securities ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/13/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SPYM",
+      "company": "Tradr 2X Long SPY Monthly ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IWM",
+      "company": "iShares Russell 2000 ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "EFA",
+      "company": "iShares MSCI EAFE ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CMBS",
+      "company": "iShares CMBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/13/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IEI",
+      "company": "iShares 3-7 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/13/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$50,001 - $100,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "MBB",
+      "company": "iShares MBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/13/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GEM",
+      "company": "Goldman Sachs ActiveBeta(R) Emerging Markets Equity ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "FTGC",
+      "company": "First Trust Global Tactical Commodity Strategy Fund",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "EIPI",
+      "company": "FT Energy Income Partners Enhanced Income ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "ECL",
+      "company": "Ecolab Inc. Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "05/15/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "ACN",
+      "company": "Accenture plc Class A Ordinary Shares (Ireland)",
+      "senator": "John Boozman",
+      "transaction_date": "05/15/2026",
+      "filed_date": "06/16/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SCHP",
+      "company": "Schwab U.S. TIPS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc. - Class A Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "05/15/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JMBS",
+      "company": "Janus Henderson Mortgage-Backed Securities ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IEF",
+      "company": "iShares 7-10 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TLH",
+      "company": "iShares 10-20 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CMBS",
+      "company": "iShares CMBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "MBB",
+      "company": "iShares MBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "AGZ",
+      "company": "iShares Agency Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GBIL",
+      "company": "Goldman Sachs Access Treasury 0-1 Year ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GIGB",
+      "company": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GIGB",
+      "company": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/13/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XFIV",
+      "company": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XFIV",
+      "company": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/13/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$50,001 - $100,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XTWO",
+      "company": "BondBloxx Bloomberg Two Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "05/27/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "ALB",
+      "company": "Albemarle Corporation Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "05/15/2026",
+      "filed_date": "06/16/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "KHC",
+      "company": "The Kraft Heinz Company - Common Stock",
+      "senator": "Gary C Peters",
+      "transaction_date": "05/21/2026",
+      "filed_date": "06/11/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/be9bb561-8290-4364-85b4-06a59ef0ec01/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "PTON",
+      "company": "Peloton Interactive, Inc. - Common Stock",
+      "senator": "James Banks",
+      "transaction_date": "06/05/2026",
+      "filed_date": "06/07/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/59c6f909-ad10-429d-8a8c-df81b00cf5fd/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "ORCL",
+      "company": "Oracle Corporation Common Stock",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "05/07/2026",
+      "filed_date": "06/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4aa0094d-d9da-4a05-aa13-6d9f5d376105/"
+    },
+    {
       "sector": "QTUM",
       "ticker": "NVDA",
       "company": "NVIDIA",
@@ -1611,6 +2097,17 @@
       "type": "Sale (Partial)",
       "amount_range": "$100,001 - $250,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/4aa0094d-d9da-4a05-aa13-6d9f5d376105/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "ETOR",
+      "company": "eToro Group Ltd. - Class A Common Shares",
+      "senator": "Bernie Moreno",
+      "transaction_date": "05/06/2026",
+      "filed_date": "05/22/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$100,001 - $250,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/86810b3e-3dee-4e8e-9b47-6d3822385b7d/"
     }
   ],
   "lobbying": [

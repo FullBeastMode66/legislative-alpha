@@ -417,9 +417,12 @@ def fetch_senate_trades(ticker_index):
         except requests.RequestException:
             continue
         for tx in transactions:
-            matches = ticker_index.get(tx["ticker"])
-            if not matches:
-                continue  # not one of our tracked constituents
+            # Every disclosed trade is kept. Trades in a tracked constituent
+            # are attributed to that constituent's sector(s); everything else
+            # goes in the OTHER bucket so nothing is silently dropped.
+            matches = ticker_index.get(tx["ticker"]) or [
+                {"sector": "OTHER", "company": tx["asset_name"]}
+            ]
             for info in matches:
                 dedupe_key = (report["senator"], tx["ticker"], tx["transaction_date"], tx["type"], tx["amount_range"], info["sector"])
                 if dedupe_key in seen:
@@ -438,7 +441,8 @@ def fetch_senate_trades(ticker_index):
                 })
         time.sleep(0.25)
 
-    print(f"  {len(trades)} trades matched a tracked ticker", file=sys.stderr)
+    matched = sum(1 for t in trades if t["sector"] != "OTHER")
+    print(f"  {len(trades)} trades captured ({matched} matched a tracked sector)", file=sys.stderr)
     return trades
 
 
@@ -557,17 +561,32 @@ def flag_pre_filing_trades(bills, trades):
     return bills
 
 
-def build_sector_summaries(sectors, bills):
+def build_sector_summaries(sectors, bills, trades=(), lobbying=()):
     summaries = {}
     for code, sector in sectors.items():
         sector_bills = [b for b in bills if b["sector"] == code]
         avg_momentum = round(sum(b["momentum"] for b in sector_bills) / len(sector_bills)) if sector_bills else 0
         summaries[code] = {
             "name": sector["name"],
+            "short": sector.get("short", sector["name"]),
             "etf": sector["etf"],
             "color": sector["color"],
             "bill_count": len(sector_bills),
+            "trade_count": sum(1 for t in trades if t["sector"] == code),
+            "lobbying_count": sum(1 for l in lobbying if l["sector"] == code),
             "avg_momentum": avg_momentum,
+        }
+    other_trades = sum(1 for t in trades if t["sector"] == "OTHER")
+    if other_trades:
+        summaries["OTHER"] = {
+            "name": "Other / Unclassified",
+            "short": "Other",
+            "etf": None,
+            "color": "#565F73",
+            "bill_count": 0,
+            "trade_count": other_trades,
+            "lobbying_count": 0,
+            "avg_momentum": 0,
         }
     return summaries
 
@@ -581,7 +600,7 @@ def main():
     trades = fetch_senate_trades(ticker_index)
     lobbying = fetch_lobbying(sectors)
     bills = flag_pre_filing_trades(bills, trades)
-    sector_summaries = build_sector_summaries(sectors, bills)
+    sector_summaries = build_sector_summaries(sectors, bills, trades, lobbying)
 
     output = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
