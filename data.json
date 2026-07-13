@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T14:45:48Z",
+  "generated_at": "2026-07-13T17:41:19Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 27,
+      "bill_count": 29,
       "trade_count": 0,
       "lobbying_count": 360,
       "avg_momentum": 35
@@ -77,10 +77,10 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 5,
+      "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 232,
-      "avg_momentum": 43
+      "avg_momentum": 42
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -107,20 +107,20 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 10,
+      "bill_count": 11,
       "trade_count": 0,
       "lobbying_count": 206,
-      "avg_momentum": 33
+      "avg_momentum": 34
     },
     "FINX": {
       "name": "Financial Technology",
       "short": "Fintech",
       "etf": "FINX",
       "color": "#3C6E8F",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 190,
-      "avg_momentum": 37
+      "avg_momentum": 36
     },
     "OTHER": {
       "name": "Other / Unclassified",
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 43,
+      "trade_count": 46,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1310,31 +1310,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-SJRES-3",
-      "number": "SJRES 3",
-      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
-      "sector": "FINX",
-      "introduced_date": "2025-01-21",
-      "latest_action": {
-        "date": "2025-03-12",
-        "text": "Message received in Senate: Returned to the Senate pursuant to the provisions of H.Res. 212."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Cruz, Ted [R-TX]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 14,
-      "amendments": [],
-      "momentum": 41,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-4950",
       "number": "HR 4950",
       "title": "Data BRIDGE Act",
@@ -1558,9 +1533,142 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-3200",
+      "number": "HR 3200",
+      "title": "Critical Minerals and Manufacturing Support Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-05-05",
+      "latest_action": {
+        "date": "2025-05-05",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3200",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ruiz, Raul [D-CA-25]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5236",
+      "number": "HR 5236",
+      "title": "Critical Infrastructure Security Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-09-09",
+      "latest_action": {
+        "date": "2025-09-09",
+        "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5236",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Pappas, Chris [D-NH-1]",
+        "party": "D",
+        "state": "NH"
+      },
+      "committee_count": 3,
+      "cosponsor_count": 4,
+      "amendments": [],
+      "momentum": 37,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-2813",
+      "number": "HR 2813",
+      "title": "Small Modular Reactor Commercialization Act of 2025",
+      "sector": "URA",
+      "introduced_date": "2025-04-10",
+      "latest_action": {
+        "date": "2025-04-10",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2813",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Baird, James R. [R-IN-4]",
+        "party": "R",
+        "state": "IN"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-178",
+      "number": "HR 178",
+      "title": "To require the Secretary of Agriculture to carry out activities to suppress wildfires, and for other purposes.",
+      "sector": "MOO",
+      "introduced_date": "2025-01-03",
+      "latest_action": {
+        "date": "2026-01-08",
+        "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-429, Part I."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/178",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. McClintock, Tom [R-CA-5]",
+        "party": "R",
+        "state": "CA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 9,
+      "amendments": [],
+      "momentum": 39,
+      "sector_trade_flag": false
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "IGV",
+      "company": "iShares Expanded Tech-Software Sector ETF",
+      "senator": "John Boozman",
+      "transaction_date": "06/25/2026",
+      "filed_date": "07/13/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "PALL",
+      "company": "abrdn Physical Palladium Shares ETF",
+      "senator": "John Boozman",
+      "transaction_date": "06/25/2026",
+      "filed_date": "07/13/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated Common Stock (DE)",
+      "senator": "John Boozman",
+      "transaction_date": "06/04/2026",
+      "filed_date": "07/13/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/"
+    },
     {
       "sector": "OTHER",
       "ticker": "AAPL",
@@ -6427,6 +6535,23 @@
       "sector": "PAVE",
       "ticker": "ACM",
       "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "45000.00",
+      "posted_date": "2026-07-13T10:09:02-04:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d2d11d9e-8d3a-4df6-afc4-d8dde27dad54/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
       "client_name": "AECOM",
       "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "2nd Quarter - Report",
@@ -6848,23 +6973,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/9b2fef6e-dd08-4c66-a8a9-eed9f7ac3b78/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM CONSULT, INC",
-      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "45000.00",
-      "posted_date": "2026-01-09T09:26:13-05:00",
-      "issues": [
-        "Clean Air and Water (quality)",
-        "Environment/Superfund"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ee421a0c-6a6d-48de-b5a8-af163c6e60b3/print/"
     },
     {
       "sector": "PAVE",
@@ -9341,6 +9449,22 @@
       "sector": "CIBR",
       "ticker": "ZS",
       "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-07-13T09:47:04-04:00",
+      "issues": [
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e305c564-50a9-480f-98d6-bc974c537197/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
       "client_name": "ZSCALER INC.",
       "registrant_name": "BALLARD PARTNERS",
       "filing_type": "1st Quarter - Report",
@@ -9709,22 +9833,6 @@
       "posted_date": "2023-10-20T15:51:52-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/9f1cbe69-6e35-439f-b511-11fb9e95499c/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "ZS",
-      "company": "Zscaler",
-      "client_name": "ZSCALER, INC. AND AFFILIATES",
-      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2023,
-      "income": "30000.00",
-      "posted_date": "2023-10-20T11:27:51-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/6368e6e3-8593-4f0a-b491-3d6532ebfd3a/print/"
     },
     {
       "sector": "CIBR",
@@ -28100,6 +28208,23 @@
       "sector": "ITA",
       "ticker": "GD",
       "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-13T09:50:54-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c58904ae-9c25-4ec9-acd6-d5f266ac04b4/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "GD",
+      "company": "General Dynamics",
       "client_name": "GENERAL DYNAMICS CORPORATION",
       "registrant_name": "MELTSNER STRATEGIES, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -28511,22 +28636,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/5faef596-f4db-4524-9725-4d5f62662fdf/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS CORP",
-      "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "20000.00",
-      "posted_date": "2026-02-11T14:12:24-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/665d9744-01bf-42d2-ae95-d16b27c3bd0b/print/"
     },
     {
       "sector": "ITA",
@@ -37479,6 +37588,22 @@
       "sector": "URA",
       "ticker": "OKLO",
       "company": "Oklo",
+      "client_name": "OKLO INC",
+      "registrant_name": "CASSIDY & ASSOCIATES, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-07-13T11:44:54-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/423390c7-476c-41d2-a280-9a59939c446f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "OKLO",
+      "company": "Oklo",
       "client_name": "OKLO INC.",
       "registrant_name": "OKLO INC.",
       "filing_type": "1st Quarter - Amendment",
@@ -37884,22 +38009,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/317b3fe1-7063-47e9-9304-0606cabbbf58/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "OKLO",
-      "company": "Oklo",
-      "client_name": "OKLO INC",
-      "registrant_name": "CASSIDY & ASSOCIATES, INC.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2025-04-20T15:19:49-04:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c0c7f5a0-f57f-489b-87da-858f52dcdb71/print/"
     },
     {
       "sector": "URA",
@@ -45134,6 +45243,23 @@
       "sector": "SMH",
       "ticker": "MRVL",
       "company": "Marvell Technology",
+      "client_name": "CLARK STREET ASSOCIATES ON BEHALF OF MARVELL TECHNOLOGY, INC.",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-13T08:31:35-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4c8e429a-1401-46ea-82b3-41fc114ca516/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
       "client_name": "MARVELL TECHNOLOGY, INC.",
       "registrant_name": "CLARK STREET ASSOCIATES",
       "filing_type": "1st Quarter - Report",
@@ -45519,22 +45645,6 @@
         "Science/Technology"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/face6839-605e-422c-838a-19976e5dcac9/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "client_name": "MARVELL TECHNOLOGY, INC.",
-      "registrant_name": "MARVELL TECHNOLOGY, INC.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2023,
-      "income": null,
-      "posted_date": "2023-04-19T18:27:17-04:00",
-      "issues": [
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a9fbe2e3-6dc7-4574-aef9-45b89ecc82b6/print/"
     },
     {
       "sector": "ICLN",
@@ -49313,6 +49423,24 @@
       "sector": "MOO",
       "ticker": "BG",
       "company": "Bunge Global",
+      "client_name": "BUNGE NORTH AMERICA, INC.",
+      "registrant_name": "SQUIRE PATTON BOGGS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-13T13:10:29-04:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d44f4246-5c52-4f3e-912a-cafaaa9818cf/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "BG",
+      "company": "Bunge Global",
       "client_name": "BUNGE NORTH AMERICA, INC",
       "registrant_name": "BUNGE NORTH AMERICA, INC",
       "filing_type": "1st Quarter - Report",
@@ -49830,30 +49958,6 @@
     },
     {
       "sector": "MOO",
-      "ticker": "BG",
-      "company": "Bunge Global",
-      "client_name": "BUNGE NORTH AMERICA, INC",
-      "registrant_name": "BUNGE NORTH AMERICA, INC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2022,
-      "income": null,
-      "posted_date": "2022-04-19T13:37:37-04:00",
-      "issues": [
-        "Agriculture",
-        "Energy/Nuclear",
-        "Environment/Superfund",
-        "Financial Institutions/Investments/Securities",
-        "Food Industry (safety, labeling, etc.)",
-        "Foreign Relations",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5d091327-d954-4101-bb3a-825d4385da31/print/"
-    },
-    {
-      "sector": "MOO",
       "ticker": "CF",
       "company": "CF Industries Holdings",
       "client_name": "CF INDUSTRIES INC",
@@ -50352,6 +50456,22 @@
       "ticker": "MOS",
       "company": "The Mosaic Company",
       "client_name": "THE MOSAIC COMPANY",
+      "registrant_name": "BLUE STAR STRATEGIES LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-07-13T11:40:59-04:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/03858775-9142-4343-88ca-c5c1a55da23b/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "MOS",
+      "company": "The Mosaic Company",
+      "client_name": "THE MOSAIC COMPANY",
       "registrant_name": "SQUIRE PATTON BOGGS",
       "filing_type": "2nd Quarter - Report (No Activity)",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -50754,22 +50874,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/5319c50d-24d3-4605-96e2-af32376db2d5/print/"
-    },
-    {
-      "sector": "MOO",
-      "ticker": "MOS",
-      "company": "The Mosaic Company",
-      "client_name": "THE MOSAIC COMPANY",
-      "registrant_name": "BALLARD PARTNERS",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "80000.00",
-      "posted_date": "2025-07-17T20:29:30-04:00",
-      "issues": [
-        "Food Industry (safety, labeling, etc.)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/64011b9d-d2d4-4c86-84aa-664e2adee41c/print/"
     },
     {
       "sector": "MOO",
