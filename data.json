@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:19:07Z",
+  "generated_at": "2026-07-15T15:19:56Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 30,
+      "bill_count": 29,
       "trade_count": 0,
       "lobbying_count": 360,
       "avg_momentum": 36
@@ -67,20 +67,20 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 26
+      "avg_momentum": 30
     },
     "URA": {
       "name": "Uranium & Nuclear",
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 6,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 232,
-      "avg_momentum": 42
+      "avg_momentum": 40
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -134,56 +134,6 @@
     }
   },
   "bills": [
-    {
-      "id": "119-HR-6491",
-      "number": "HR 6491",
-      "title": "Streamline Transit Projects Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-12-05",
-      "latest_action": {
-        "date": "2026-02-02",
-        "text": "Referred to the Subcommittee on Highways and Transit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6491",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Kennedy, Mike [R-UT-3]",
-        "party": "R",
-        "state": "UT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-669",
-      "number": "HR 669",
-      "title": "Restricting First Use of Nuclear Weapons Act of 2025",
-      "sector": "URA",
-      "introduced_date": "2025-01-23",
-      "latest_action": {
-        "date": "2025-01-23",
-        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/669",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Lieu, Ted [D-CA-36]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 35,
-      "amendments": [],
-      "momentum": 49,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-SRES-750",
       "number": "SRES 750",
@@ -685,31 +635,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-7662",
-      "number": "HR 7662",
-      "title": "Railroad Safety Enhancement Act of 2026",
-      "sector": "PAVE",
-      "introduced_date": "2026-02-24",
-      "latest_action": {
-        "date": "2026-02-25",
-        "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7662",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Nehls, Troy E. [R-TX-22]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-7298",
       "number": "HR 7298",
       "title": "Connecting Communities Through Transit Planning Act of 2026",
@@ -730,6 +655,31 @@
       },
       "committee_count": 1,
       "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-7662",
+      "number": "HR 7662",
+      "title": "Railroad Safety Enhancement Act of 2026",
+      "sector": "PAVE",
+      "introduced_date": "2026-02-24",
+      "latest_action": {
+        "date": "2026-02-25",
+        "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7662",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Nehls, Troy E. [R-TX-22]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
       "sector_trade_flag": false
@@ -1410,28 +1360,28 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-3200",
-      "number": "HR 3200",
-      "title": "Critical Minerals and Manufacturing Support Act",
+      "id": "119-HR-5236",
+      "number": "HR 5236",
+      "title": "Critical Infrastructure Security Act",
       "sector": "PAVE",
-      "introduced_date": "2025-05-05",
+      "introduced_date": "2025-09-09",
       "latest_action": {
-        "date": "2025-05-05",
-        "text": "Referred to the House Committee on Ways and Means."
+        "date": "2025-09-09",
+        "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3200",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5236",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Ruiz, Raul [D-CA-25]",
+        "name": "Rep. Pappas, Chris [D-NH-1]",
         "party": "D",
-        "state": "CA"
+        "state": "NH"
       },
-      "committee_count": 1,
-      "cosponsor_count": 2,
+      "committee_count": 3,
+      "cosponsor_count": 4,
       "amendments": [],
-      "momentum": 36,
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -1460,31 +1410,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-5236",
-      "number": "HR 5236",
-      "title": "Critical Infrastructure Security Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-09-09",
-      "latest_action": {
-        "date": "2025-09-09",
-        "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5236",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Pappas, Chris [D-NH-1]",
-        "party": "D",
-        "state": "NH"
-      },
-      "committee_count": 3,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-2813",
       "number": "HR 2813",
       "title": "Small Modular Reactor Commercialization Act of 2025",
@@ -1504,6 +1429,31 @@
         "state": "IN"
       },
       "committee_count": 2,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-3200",
+      "number": "HR 3200",
+      "title": "Critical Minerals and Manufacturing Support Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-05-05",
+      "latest_action": {
+        "date": "2025-05-05",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3200",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ruiz, Raul [D-CA-25]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
@@ -1557,6 +1507,31 @@
       "cosponsor_count": 6,
       "amendments": [],
       "momentum": 37,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-4336",
+      "number": "HR 4336",
+      "title": "CBP SPACE Act",
+      "sector": "UFO",
+      "introduced_date": "2025-07-10",
+      "latest_action": {
+        "date": "2025-07-10",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4336",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Lee, Laurel M. [R-FL-15]",
+        "party": "R",
+        "state": "FL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 7,
+      "amendments": [],
+      "momentum": 38,
       "sector_trade_flag": false
     }
   ],
@@ -3878,6 +3853,20 @@
       "company": "United Rentals",
       "client_name": "UNITED RENTALS, INC.",
       "registrant_name": "SQUIRE PATTON BOGGS",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-14T14:54:52-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/8dfb10ed-8474-4001-af96-64ff525bb0c1/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "URI",
+      "company": "United Rentals",
+      "client_name": "UNITED RENTALS, INC.",
+      "registrant_name": "SQUIRE PATTON BOGGS",
       "filing_type": "1st Quarter - Report (No Activity)",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -4214,20 +4203,17 @@
     },
     {
       "sector": "PAVE",
-      "ticker": "URI",
-      "company": "United Rentals",
-      "client_name": "UNITED RENTALS, INC.",
-      "registrant_name": "SQUIRE PATTON BOGGS",
-      "filing_type": "2nd Quarter - Report",
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "client_name": "DEERE & COMPANY",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
+      "filing_type": "2nd Quarter - Report (No Activity)",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2020,
-      "income": "20000.00",
-      "posted_date": "2020-07-16T12:53:55.050000-04:00",
-      "issues": [
-        "Government Issues",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c76d6915-d19a-4fea-a477-064c71b11c8d/print/"
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-15T09:14:53-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f2088a23-4b33-48f7-bab4-40d6d0f778e6/print/"
     },
     {
       "sector": "PAVE",
@@ -4290,7 +4276,7 @@
       "ticker": "DE",
       "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -4345,7 +4331,7 @@
       "ticker": "DE",
       "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -4400,7 +4386,7 @@
       "ticker": "DE",
       "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -4416,7 +4402,7 @@
       "ticker": "DE",
       "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "Registration",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -4681,22 +4667,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/9fc63b2a-bd7a-4dce-8e8a-0928828060e4/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "client_name": "JOHN DEERE",
-      "registrant_name": "THEGROUP DC, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2023,
-      "income": "50000.00",
-      "posted_date": "2024-01-22T15:07:47-05:00",
-      "issues": [
-        "Agriculture"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/968fd6bc-0135-4c52-a735-e2a4aa9ced99/print/"
     },
     {
       "sector": "PAVE",
@@ -6515,6 +6485,23 @@
       "sector": "PAVE",
       "ticker": "ACM",
       "company": "AECOM",
+      "client_name": "AECOM",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-14T11:37:30-04:00",
+      "issues": [
+        "Roads/Highway",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/38d172d9-da22-4f97-9c9a-8d5b22944b62/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
       "client_name": "AECOM CONSULT, INC",
       "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
       "filing_type": "2nd Quarter - Report",
@@ -6533,7 +6520,7 @@
       "ticker": "ACM",
       "company": "AECOM",
       "client_name": "AECOM",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
@@ -6681,7 +6668,7 @@
       "ticker": "ACM",
       "company": "AECOM",
       "client_name": "AECOM",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -6843,7 +6830,7 @@
       "ticker": "ACM",
       "company": "AECOM",
       "client_name": "AECOM",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -6935,24 +6922,6 @@
         "Environment/Superfund"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1ab00332-699e-4fc5-bdc6-6583fa9b1a39/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "BALLARD PARTNERS",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2026-01-12T18:07:00-05:00",
-      "issues": [
-        "Disaster Planning/Emergencies",
-        "Roads/Highway",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/9b2fef6e-dd08-4c66-a8a9-eed9f7ac3b78/print/"
     },
     {
       "sector": "PAVE",
@@ -8669,7 +8638,7 @@
       "ticker": "PANW",
       "company": "Palo Alto Networks",
       "client_name": "PALO ALTO NETWORKS, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -8733,7 +8702,7 @@
       "ticker": "PANW",
       "company": "Palo Alto Networks",
       "client_name": "PALO ALTO NETWORKS, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -8805,7 +8774,7 @@
       "ticker": "PANW",
       "company": "Palo Alto Networks",
       "client_name": "PALO ALTO NETWORKS, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -8952,7 +8921,7 @@
       "ticker": "PANW",
       "company": "Palo Alto Networks",
       "client_name": "PALO ALTO NETWORKS, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2025,
@@ -12657,6 +12626,23 @@
       "sector": "CIBR",
       "ticker": "CACI",
       "company": "CACI International",
+      "client_name": "CACI INTERNATIONAL, INC",
+      "registrant_name": "A1.9 STRATEGIES LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-14T14:23:15-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/651fca5c-1109-407f-b5bf-5776ee03976d/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CACI",
+      "company": "CACI International",
       "client_name": "CACI INTERNATIONAL INC.",
       "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
       "filing_type": "1st Quarter - Report (No Activity)",
@@ -13037,22 +13023,6 @@
         "Homeland Security"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1f843a19-42d3-47ab-aac4-ed362e12df4f/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CACI",
-      "company": "CACI International",
-      "client_name": "CACI INTERNATIONAL INC.",
-      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
-      "filing_type": "1st Quarter - Amendment",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2024,
-      "income": "60000.00",
-      "posted_date": "2024-05-01T09:15:44-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e685bfce-df6e-440d-b146-904988af0869/print/"
     },
     {
       "sector": "GRID",
@@ -15665,6 +15635,22 @@
       "sector": "GRID",
       "ticker": "XEL",
       "company": "Xcel Energy",
+      "client_name": "XCEL ENERGY INC",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-15T10:55:32-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/aa83f8a2-1213-4f90-925f-6742b1531615/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "XEL",
+      "company": "Xcel Energy",
       "client_name": "XCEL ENERGY SERVICES, INC.",
       "registrant_name": "MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP)",
       "filing_type": "Registration - Amendment",
@@ -15705,7 +15691,7 @@
       "ticker": "XEL",
       "company": "Xcel Energy",
       "client_name": "XCEL ENERGY INC",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -15814,7 +15800,7 @@
       "ticker": "XEL",
       "company": "Xcel Energy",
       "client_name": "XCEL ENERGY INC",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -15888,7 +15874,7 @@
       "ticker": "XEL",
       "company": "Xcel Energy",
       "client_name": "XCEL ENERGY INC",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -15962,7 +15948,7 @@
       "ticker": "XEL",
       "company": "Xcel Energy",
       "client_name": "XCEL ENERGY INC",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2025,
@@ -16019,7 +16005,7 @@
       "ticker": "XEL",
       "company": "Xcel Energy",
       "client_name": "XCEL ENERGY INC",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "1st Quarter - Report (No Activity)",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2025,
@@ -16091,7 +16077,7 @@
       "ticker": "XEL",
       "company": "Xcel Energy",
       "client_name": "XCEL ENERGY INC",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "4th Quarter - Report (No Activity)",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2024,
@@ -16099,24 +16085,6 @@
       "posted_date": "2025-01-20T16:01:48-05:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/27d2a92d-0be1-4146-95cc-634963e3cb83/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "XEL",
-      "company": "Xcel Energy",
-      "client_name": "XCEL ENERGY SERVICES, INC.",
-      "registrant_name": "S-3 GROUP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2024,
-      "income": "50000.00",
-      "posted_date": "2025-01-20T14:25:30-05:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code",
-        "Utilities"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/7fcde4b0-6990-45f5-baa0-b5408f26c843/print/"
     },
     {
       "sector": "GRID",
@@ -16477,6 +16445,22 @@
       "posted_date": "2014-03-24T14:53:24.823000-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/4be62316-0a31-4282-a614-ad68a2205285/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "client_name": "BLOOM ENERGY",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "120000.00",
+      "posted_date": "2026-07-14T17:32:14-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e0d1199f-fd5a-46b4-93ba-8e3a480fb89d/print/"
     },
     {
       "sector": "GRID",
@@ -16864,22 +16848,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/dd3875e4-2ee5-4723-91a5-f3c7b7918f33/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "client_name": "BLOOM ENERGY",
-      "registrant_name": "BALLARD PARTNERS",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "120000.00",
-      "posted_date": "2025-10-15T10:18:43-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3e840696-dc0f-4e61-a4fc-c99e4e57e980/print/"
     },
     {
       "sector": "GRID",
@@ -19978,7 +19946,7 @@
       "ticker": "HON",
       "company": "Honeywell",
       "client_name": "HONEYWELL INTERNATIONAL INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -20667,6 +20635,24 @@
       "sector": "QTUM",
       "ticker": "GOOGL",
       "company": "Alphabet",
+      "client_name": "CORNERSTONE GOVERNMENT AFFAIRS OBO GOOGLE CLIENT SERVICES LLC",
+      "registrant_name": "JGB & ASSOCIATES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-15T09:37:14-04:00",
+      "issues": [
+        "Consumer Issues/Safety/Products",
+        "Copyright/Patent/Trademark",
+        "Labor Issues/Antitrust/Workplace"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1743222d-786e-4970-a4a5-aabb85853cc3/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
       "client_name": "GOOGLE CLIENT SERVICES LLC",
       "registrant_name": "FOCUS DC LLC",
       "filing_type": "2nd Quarter - Report",
@@ -21107,19 +21093,21 @@
     },
     {
       "sector": "QTUM",
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "client_name": "GOOGLE, INC.",
-      "registrant_name": "RUBIN, TURNBULL & ASSOCIATES",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "40000.00",
-      "posted_date": "2026-01-23T14:13:43-05:00",
+      "ticker": "AMZN",
+      "company": "Amazon.com",
+      "client_name": "AMAZON.COM",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-14T12:16:54-04:00",
       "issues": [
-        "Science/Technology"
+        "Consumer Issues/Safety/Products",
+        "Small Business",
+        "Trade (domestic/foreign)"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/26b66184-467c-4a34-9110-f94aada0bb1c/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/48e7f48c-068a-44a5-a7f3-38082afd594b/print/"
     },
     {
       "sector": "QTUM",
@@ -21588,25 +21576,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/38e8fe6a-b73f-48ec-9884-b68702592526/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "AMZN",
-      "company": "Amazon.com",
-      "client_name": "AMAZON.COM, INC.",
-      "registrant_name": "MONUMENT ADVOCACY",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "80000.00",
-      "posted_date": "2026-01-20T11:48:34-05:00",
-      "issues": [
-        "Agriculture",
-        "Computer Industry",
-        "Government Issues",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/4adfdda9-052c-4b68-8650-1b58250511b0/print/"
     },
     {
       "sector": "XBI",
@@ -23282,6 +23251,22 @@
       "sector": "XBI",
       "ticker": "MRNA",
       "company": "Moderna",
+      "client_name": "MODERNA US, INC.",
+      "registrant_name": "HEALTH POLICY SOURCE, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "100000.00",
+      "posted_date": "2026-07-14T13:17:45-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d2b08d14-8d73-495b-97d9-220885e55919/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "MRNA",
+      "company": "Moderna",
       "client_name": "MODERNA, INC.",
       "registrant_name": "HOLLAND & KNIGHT LLP",
       "filing_type": "2nd Quarter - Report",
@@ -23661,22 +23646,6 @@
         "Health Issues"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/ed9d0abe-b585-4423-b4e2-dea2540e3c18/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "client_name": "MODERNA US INC.",
-      "registrant_name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "80000.00",
-      "posted_date": "2025-10-16T16:20:05-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a8518ea6-de09-4c82-8387-0de05e1ebab1/print/"
     },
     {
       "sector": "XBI",
@@ -27412,7 +27381,7 @@
       "ticker": "RTX",
       "company": "RTX Corporation",
       "client_name": "RAYTHEON TECHNOLOGIES CORPORATION",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -27477,7 +27446,7 @@
       "ticker": "RTX",
       "company": "RTX Corporation",
       "client_name": "RAYTHEON TECHNOLOGIES CORPORATION",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -27554,7 +27523,7 @@
       "ticker": "RTX",
       "company": "RTX Corporation",
       "client_name": "RAYTHEON TECHNOLOGIES CORPORATION",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -27683,7 +27652,7 @@
       "ticker": "RTX",
       "company": "RTX Corporation",
       "client_name": "RAYTHEON TECHNOLOGIES CORPORATION",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2025,
@@ -28434,7 +28403,7 @@
       "ticker": "GD",
       "company": "General Dynamics",
       "client_name": "GENERAL DYNAMICS",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -28615,6 +28584,24 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/5faef596-f4db-4524-9725-4d5f62662fdf/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "BA",
+      "company": "Boeing",
+      "client_name": "THE BOEING COMPANY",
+      "registrant_name": "SQUIRE PATTON BOGGS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-07-15T10:37:26-04:00",
+      "issues": [
+        "Aviation/Airlines/Airports",
+        "Government Issues",
+        "Tariff (miscellaneous tariff bills)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/bd6abdd2-6f1f-4be6-8081-da76e792e1ed/print/"
     },
     {
       "sector": "ITA",
@@ -29049,22 +29036,6 @@
         "Aviation/Airlines/Airports"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/5e5b4d10-d089-4569-83af-f3cefd34e5d0/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "BA",
-      "company": "Boeing",
-      "client_name": "THE DOERRER GROUP LLC (ON BEHALF OF THE BOEING COMPANY)",
-      "registrant_name": "TEAM HALLAHAN LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "20000.00",
-      "posted_date": "2026-01-16T13:49:57-05:00",
-      "issues": [
-        "Aviation/Airlines/Airports"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/b53b995c-0ef8-49d1-a122-7bb50bf3a9c8/print/"
     },
     {
       "sector": "ITA",
@@ -30036,7 +30007,7 @@
       "ticker": "TXT",
       "company": "Textron",
       "client_name": "TEXTRON INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -30104,7 +30075,7 @@
       "ticker": "TXT",
       "company": "Textron",
       "client_name": "TEXTRON INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -30190,7 +30161,7 @@
       "ticker": "TXT",
       "company": "Textron",
       "client_name": "TEXTRON INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -30325,7 +30296,7 @@
       "ticker": "TXT",
       "company": "Textron",
       "client_name": "TEXTRON INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2025,
@@ -30794,6 +30765,23 @@
       "sector": "ITA",
       "ticker": "KTOS",
       "company": "Kratos Defense & Security",
+      "client_name": "KRATOS DEFENSE AND SECURITY SOLUTIONS, INC.",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-07-15T06:19:09-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/046e5819-4d61-4597-931f-520dd1554521/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "KTOS",
+      "company": "Kratos Defense & Security",
       "client_name": "KRATOS DEFENSE & SECURITY SOLUTIONS",
       "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
       "filing_type": "2nd Quarter - Report",
@@ -30827,7 +30815,7 @@
       "ticker": "KTOS",
       "company": "Kratos Defense & Security",
       "client_name": "KRATOS DEFENSE & SECURITY SOLUTION, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -30876,7 +30864,7 @@
       "ticker": "KTOS",
       "company": "Kratos Defense & Security",
       "client_name": "KRATOS DEFENSE & SECURITY SOLUTION, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -30941,7 +30929,7 @@
       "ticker": "KTOS",
       "company": "Kratos Defense & Security",
       "client_name": "KRATOS DEFENSE & SECURITY SOLUTION, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -31038,7 +31026,7 @@
       "ticker": "KTOS",
       "company": "Kratos Defense & Security",
       "client_name": "KRATOS DEFENSE & SECURITY SOLUTION, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2025,
@@ -31087,7 +31075,7 @@
       "ticker": "KTOS",
       "company": "Kratos Defense & Security",
       "client_name": "KRATOS DEFENSE & SECURITY SOLUTION, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2025,
@@ -31136,7 +31124,7 @@
       "ticker": "KTOS",
       "company": "Kratos Defense & Security",
       "client_name": "KRATOS DEFENSE & SECURITY SOLUTION, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2024,
@@ -31179,22 +31167,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/820251dd-a8b4-4cf3-98c7-46a4235aeee7/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "KTOS",
-      "company": "Kratos Defense & Security",
-      "client_name": "KRATOS DEFENSE & SECURITY SOLUTIONS",
-      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2024,
-      "income": "60000.00",
-      "posted_date": "2024-10-18T10:22:15-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/53cd1ff3-4052-4976-b389-bdb54f2a9467/print/"
     },
     {
       "sector": "ITA",
@@ -31365,7 +31337,7 @@
       "ticker": "LDOS",
       "company": "Leidos Holdings",
       "client_name": "LEIDOS",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -31558,7 +31530,7 @@
       "ticker": "LDOS",
       "company": "Leidos Holdings",
       "client_name": "LEIDOS",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL, INC.",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -32937,6 +32909,34 @@
       "ticker": "VSAT",
       "company": "Viasat",
       "client_name": "VIASAT, INC.",
+      "registrant_name": "PRASAM",
+      "filing_type": "2nd Quarter - Amendment (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-14T16:36:39-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/422c0163-a160-44c2-bf6a-c3c9470bf4e2/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "VSAT",
+      "company": "Viasat",
+      "client_name": "VIASAT, INC.",
+      "registrant_name": "PRASAM",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-14T15:42:50-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/ed9f5ea3-de7f-472d-91d8-37029494f085/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "VSAT",
+      "company": "Viasat",
+      "client_name": "VIASAT, INC.",
       "registrant_name": "HOLLAND & KNIGHT LLP",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -33307,41 +33307,6 @@
         "Telecommunications"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/8649c363-b17f-49de-9a1b-e44a0f7f91be/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "VSAT",
-      "company": "Viasat",
-      "client_name": "VIASAT, INC.",
-      "registrant_name": "DLA PIPER LLP (US)",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "90000.00",
-      "posted_date": "2025-10-16T16:17:28-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e1404607-7d78-4e5c-bdd0-53452199939f/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "VSAT",
-      "company": "Viasat",
-      "client_name": "VIASAT INC",
-      "registrant_name": "VIASAT, INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-10-16T15:52:29-04:00",
-      "issues": [
-        "Defense",
-        "Homeland Security",
-        "Science/Technology",
-        "Telecommunications"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8ee771a1-e629-4df5-9a65-152b0064871d/print/"
     },
     {
       "sector": "UFO",
@@ -35032,6 +34997,24 @@
       "sector": "UFO",
       "ticker": "BA",
       "company": "Boeing",
+      "client_name": "THE BOEING COMPANY",
+      "registrant_name": "SQUIRE PATTON BOGGS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-07-15T10:37:26-04:00",
+      "issues": [
+        "Aviation/Airlines/Airports",
+        "Government Issues",
+        "Tariff (miscellaneous tariff bills)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/bd6abdd2-6f1f-4be6-8081-da76e792e1ed/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "BA",
+      "company": "Boeing",
       "client_name": "BOEING",
       "registrant_name": "STAPLETON & ASSOCIATES, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -35461,22 +35444,6 @@
         "Aviation/Airlines/Airports"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/5e5b4d10-d089-4569-83af-f3cefd34e5d0/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "BA",
-      "company": "Boeing",
-      "client_name": "THE DOERRER GROUP LLC (ON BEHALF OF THE BOEING COMPANY)",
-      "registrant_name": "TEAM HALLAHAN LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "20000.00",
-      "posted_date": "2026-01-16T13:49:57-05:00",
-      "issues": [
-        "Aviation/Airlines/Airports"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/b53b995c-0ef8-49d1-a122-7bb50bf3a9c8/print/"
     },
     {
       "sector": "UFO",
@@ -37991,6 +37958,23 @@
       "sector": "URA",
       "ticker": "CEG",
       "company": "Constellation Energy",
+      "client_name": "CONSTELLATION ENERGY",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-14T17:35:02-04:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9154001c-a134-4a2f-9492-403273f29639/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "CEG",
+      "company": "Constellation Energy",
       "client_name": "CONSTELLATION ENERGY GROUP, INC",
       "registrant_name": "THE HARPLE GROUP, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -38397,23 +38381,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/2b899322-4a63-4174-bf6d-8e5bcac62b39/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "CEG",
-      "company": "Constellation Energy",
-      "client_name": "CONSTELLATION ENERGY",
-      "registrant_name": "BALLARD PARTNERS",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "90000.00",
-      "posted_date": "2026-01-13T21:58:31-05:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5b1ba9af-2561-420a-9919-7ed946bcfdf0/print/"
     },
     {
       "sector": "URA",
@@ -38840,6 +38807,22 @@
       "sector": "URA",
       "ticker": "LEU",
       "company": "Centrus Energy",
+      "client_name": "CENTRUS ENERGY CORP.",
+      "registrant_name": "BRIDGE PUBLIC AFFAIRS, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-07-14T19:58:18-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c7353caf-c8f8-4524-bfd4-cf6b61dfa335/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "LEU",
+      "company": "Centrus Energy",
       "client_name": "CENTRUS ENERGY CORP. (FORMERLY KNOWN AS USEC INC.)",
       "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
       "filing_type": "1st Quarter - Report",
@@ -39224,22 +39207,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/719fd29c-1cc0-43f8-8f81-20f7beb364b5/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "LEU",
-      "company": "Centrus Energy",
-      "client_name": "CENTRUS ENERGY CORP.",
-      "registrant_name": "BRIDGE PUBLIC AFFAIRS, LLC",
-      "filing_type": "Registration",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-07T09:46:57-04:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/dbd85981-cb33-488b-85f5-10a2fe6f64f3/print/"
     },
     {
       "sector": "URA",
@@ -43911,6 +43878,26 @@
       "sector": "SMH",
       "ticker": "AMAT",
       "company": "Applied Materials",
+      "client_name": "APPLIED MATERIALS, INC",
+      "registrant_name": "APPLIED MATERIALS, INC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-14T15:09:40-04:00",
+      "issues": [
+        "Labor Issues/Antitrust/Workplace",
+        "Manufacturing",
+        "Science/Technology",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/87431f84-ee8c-470a-b94b-5b5ee39b0ef3/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "AMAT",
+      "company": "Applied Materials",
       "client_name": "APPLIED MATERIALS, INC.",
       "registrant_name": "RICCHETTI INCORPORATED",
       "filing_type": "2nd Quarter - Termination",
@@ -44330,24 +44317,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/f4ac002f-41c2-4fa9-8203-07001e87b959/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "client_name": "APPLIED MATERIALS, INC.",
-      "registrant_name": "THORN RUN PARTNERS",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "70000.00",
-      "posted_date": "2025-07-16T14:39:07-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Manufacturing",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/211496ec-2358-41e2-b1a0-a1b237806b81/print/"
     },
     {
       "sector": "SMH",
@@ -47578,6 +47547,22 @@
       "ticker": "BE",
       "company": "Bloom Energy",
       "client_name": "BLOOM ENERGY",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "120000.00",
+      "posted_date": "2026-07-14T17:32:14-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e0d1199f-fd5a-46b4-93ba-8e3a480fb89d/print/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "client_name": "BLOOM ENERGY",
       "registrant_name": "ODONNELL & SON LLC",
       "filing_type": "1st Quarter - Report (No Activity)",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
@@ -47959,22 +47944,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/dd3875e4-2ee5-4723-91a5-f3c7b7918f33/print/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "client_name": "BLOOM ENERGY",
-      "registrant_name": "BALLARD PARTNERS",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "120000.00",
-      "posted_date": "2025-10-15T10:18:43-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3e840696-dc0f-4e61-a4fc-c99e4e57e980/print/"
     },
     {
       "sector": "ICLN",
@@ -48400,6 +48369,20 @@
       "sector": "MOO",
       "ticker": "DE",
       "company": "Deere & Company",
+      "client_name": "DEERE & COMPANY",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-15T09:14:53-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f2088a23-4b33-48f7-bab4-40d6d0f778e6/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "DE",
+      "company": "Deere & Company",
       "client_name": "DEERE AND COMPANY",
       "registrant_name": "POLARIS GOVERNMENT RELATIONS, LLC",
       "filing_type": "Registration",
@@ -48457,7 +48440,7 @@
       "ticker": "DE",
       "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -48512,7 +48495,7 @@
       "ticker": "DE",
       "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -48567,7 +48550,7 @@
       "ticker": "DE",
       "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -48583,7 +48566,7 @@
       "ticker": "DE",
       "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
-      "registrant_name": "HOGAN LOVELLS US LLP",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "Registration",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -48848,22 +48831,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/9fc63b2a-bd7a-4dce-8e8a-0928828060e4/print/"
-    },
-    {
-      "sector": "MOO",
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "client_name": "JOHN DEERE",
-      "registrant_name": "THEGROUP DC, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2023,
-      "income": "50000.00",
-      "posted_date": "2024-01-22T15:07:47-05:00",
-      "issues": [
-        "Agriculture"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/968fd6bc-0135-4c52-a735-e2a4aa9ced99/print/"
     },
     {
       "sector": "MOO",
@@ -53443,6 +53410,23 @@
       "sector": "FINX",
       "ticker": "SQ",
       "company": "Block, Inc.",
+      "client_name": "BLOCKCHAIN (US), INC.",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-14T16:17:57-04:00",
+      "issues": [
+        "Banking",
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c7d095c7-67b6-44a5-b2d8-ab357ba93453/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "SQ",
+      "company": "Block, Inc.",
       "client_name": "BLOCK, INC.",
       "registrant_name": "RESONANT TAX STRATEGIES, LLP",
       "filing_type": "Registration",
@@ -53841,24 +53825,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/a761e735-86e8-4530-b31d-eab7f541da02/print/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "SQ",
-      "company": "Block, Inc.",
-      "client_name": "BLOCK, INC.",
-      "registrant_name": "AVOQ, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2025-10-20T17:46:06-04:00",
-      "issues": [
-        "Computer Industry",
-        "Financial Institutions/Investments/Securities",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/83e4b1f1-c846-4add-b472-a0c7868c25c6/print/"
     },
     {
       "sector": "FINX",
