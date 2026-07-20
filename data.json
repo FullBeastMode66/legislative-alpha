@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T11:15:25Z",
+  "generated_at": "2026-07-20T12:23:11Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,17 +7,17 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 14,
+      "bill_count": 12,
       "trade_count": 0,
       "lobbying_count": 360,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 2,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 288,
       "avg_momentum": 35
@@ -49,7 +49,7 @@
       "color": "#2C6E8C",
       "bill_count": 0,
       "trade_count": 0,
-      "lobbying_count": 314,
+      "lobbying_count": 315,
       "avg_momentum": 0
     },
     "ITA": {
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 6,
+      "bill_count": 8,
       "trade_count": 1,
       "lobbying_count": 300,
       "avg_momentum": 37
@@ -67,20 +67,20 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 1,
+      "bill_count": 0,
       "trade_count": 1,
       "lobbying_count": 250,
-      "avg_momentum": 16
+      "avg_momentum": 0
     },
     "URA": {
       "name": "Uranium & Nuclear",
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 232,
-      "avg_momentum": 39
+      "avg_momentum": 38
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -97,20 +97,20 @@
       "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 1,
       "lobbying_count": 165,
-      "avg_momentum": 20
+      "avg_momentum": 28
     },
     "MOO": {
       "name": "Agriculture",
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 12,
+      "bill_count": 10,
       "trade_count": 0,
       "lobbying_count": 206,
-      "avg_momentum": 38
+      "avg_momentum": 37
     },
     "FINX": {
       "name": "Financial Technology",
@@ -134,206 +134,6 @@
     }
   },
   "bills": [
-    {
-      "id": "119-HR-5633",
-      "number": "HR 5633",
-      "title": "Agriculture Infrastructure Stability Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-09-30",
-      "latest_action": {
-        "date": "2025-12-02",
-        "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5633",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Jackson, Ronny [R-TX-13]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5866",
-      "number": "HR 5866",
-      "title": "To require the Secretary of Agriculture to release a reversionary interest in certain land in the Black River State Forest in Millston, Wisconsin, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2025-10-28",
-      "latest_action": {
-        "date": "2025-12-02",
-        "text": "Referred to the Subcommittee on Forestry and Horticulture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5866",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Van Orden, Derrick [R-WI-3]",
-        "party": "R",
-        "state": "WI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HRES-856",
-      "number": "HRES 856",
-      "title": "Expressing the sense of the House of Representatives that the United States Department of Agriculture should use its contingency funds and interchange authority to finance the supplemental nutrition assistance program.",
-      "sector": "MOO",
-      "introduced_date": "2025-11-04",
-      "latest_action": {
-        "date": "2025-12-02",
-        "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/856",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Bonamici, Suzanne [D-OR-1]",
-        "party": "D",
-        "state": "OR"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 51,
-      "amendments": [],
-      "momentum": 50,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5710",
-      "number": "HR 5710",
-      "title": "Bridge the Gap for Rural Communities Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-10-08",
-      "latest_action": {
-        "date": "2025-12-02",
-        "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5710",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]",
-        "party": "R",
-        "state": "AR"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 31,
-      "amendments": [],
-      "momentum": 47,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5564",
-      "number": "HR 5564",
-      "title": "To amend the Federal Insecticide, Fungicide, and Rodenticide Act to provide for improved coordination between the Administrator of the Environmental Protection Agency and the Secretary of Agriculture, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2025-09-26",
-      "latest_action": {
-        "date": "2025-12-02",
-        "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5564",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Arrington, Jodey C. [R-TX-19]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5617",
-      "number": "HR 5617",
-      "title": "Geothermal Gold Book Development Act",
-      "sector": "ICLN",
-      "introduced_date": "2025-09-30",
-      "latest_action": {
-        "date": "2026-05-20",
-        "text": "Placed on the Union Calendar, Calendar No. 573."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5617",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
-        "party": "D",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-7273",
-      "number": "HR 7273",
-      "title": "NASA Reauthorization Act of 2026",
-      "sector": "UFO",
-      "introduced_date": "2026-01-30",
-      "latest_action": {
-        "date": "2026-02-04",
-        "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 37 - 0."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7273",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Babin, Brian [R-TX-36]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 16,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5638",
-      "number": "HR 5638",
-      "title": "Geothermal Royalty Reform Act",
-      "sector": "ICLN",
-      "introduced_date": "2025-09-30",
-      "latest_action": {
-        "date": "2026-05-20",
-        "text": "Placed on the Union Calendar, Calendar No. 575."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5638",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Kennedy, Mike [R-UT-3]",
-        "party": "R",
-        "state": "UT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-HR-3548",
       "number": "HR 3548",
@@ -535,25 +335,25 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-HR-3200",
-      "number": "HR 3200",
-      "title": "Critical Minerals and Manufacturing Support Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-05-05",
+      "id": "119-HR-2813",
+      "number": "HR 2813",
+      "title": "Small Modular Reactor Commercialization Act of 2025",
+      "sector": "URA",
+      "introduced_date": "2025-04-10",
       "latest_action": {
-        "date": "2025-05-05",
-        "text": "Referred to the House Committee on Ways and Means."
+        "date": "2025-04-10",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3200",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2813",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Ruiz, Raul [D-CA-25]",
-        "party": "D",
-        "state": "CA"
+        "name": "Rep. Baird, James R. [R-IN-4]",
+        "party": "R",
+        "state": "IN"
       },
-      "committee_count": 1,
+      "committee_count": 2,
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
@@ -585,25 +385,25 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-2813",
-      "number": "HR 2813",
-      "title": "Small Modular Reactor Commercialization Act of 2025",
-      "sector": "URA",
-      "introduced_date": "2025-04-10",
+      "id": "119-HR-3200",
+      "number": "HR 3200",
+      "title": "Critical Minerals and Manufacturing Support Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-05-05",
       "latest_action": {
-        "date": "2025-04-10",
-        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        "date": "2025-05-05",
+        "text": "Referred to the House Committee on Ways and Means."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2813",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3200",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Baird, James R. [R-IN-4]",
-        "party": "R",
-        "state": "IN"
+        "name": "Rep. Ruiz, Raul [D-CA-25]",
+        "party": "D",
+        "state": "CA"
       },
-      "committee_count": 2,
+      "committee_count": 1,
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
@@ -1332,6 +1132,181 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5176",
+      "number": "HR 5176",
+      "title": "Defense Industry Pricing Transparency Act",
+      "sector": "ITA",
+      "introduced_date": "2025-09-08",
+      "latest_action": {
+        "date": "2025-09-08",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5176",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Deluzio, Christopher R. [D-PA-17]",
+        "party": "D",
+        "state": "PA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4730",
+      "number": "S 4730",
+      "title": "Community College Agriculture Advancement Act of 2026",
+      "sector": "MOO",
+      "introduced_date": "2026-06-10",
+      "latest_action": {
+        "date": "2026-06-10",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4730",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Hickenlooper, John W. [D-CO]",
+        "party": "D",
+        "state": "CO"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 9,
+      "amendments": [],
+      "momentum": 39,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-8969",
+      "number": "HR 8969",
+      "title": "Nuclear Forensics Authority Realignment Act",
+      "sector": "URA",
+      "introduced_date": "2026-05-21",
+      "latest_action": {
+        "date": "2026-05-22",
+        "text": "Referred to the Subcommittee on Emergency Management and Technology."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8969",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Foster, Bill [D-IL-11]",
+        "party": "D",
+        "state": "IL"
+      },
+      "committee_count": 4,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4772",
+      "number": "S 4772",
+      "title": "Renewable Energy Choice Act",
+      "sector": "ICLN",
+      "introduced_date": "2026-06-11",
+      "latest_action": {
+        "date": "2026-06-11",
+        "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4772",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Merkley, Jeff [D-OR]",
+        "party": "D",
+        "state": "OR"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": true
+    },
+    {
+      "id": "119-HR-912",
+      "number": "HR 912",
+      "title": "9\u20138\u20138 Lifeline Cybersecurity Responsibility Act",
+      "sector": "CIBR",
+      "introduced_date": "2025-02-04",
+      "latest_action": {
+        "date": "2025-02-04",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/912",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Obernolte, Jay [R-CA-23]",
+        "party": "R",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-1007",
+      "number": "S 1007",
+      "title": "9\u20138\u20138 Lifeline Cybersecurity Responsibility Act",
+      "sector": "CIBR",
+      "introduced_date": "2025-03-12",
+      "latest_action": {
+        "date": "2025-03-12",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1007",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Mullin, Markwayne [R-OK]",
+        "party": "R",
+        "state": "OK"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-8935",
+      "number": "HR 8935",
+      "title": "Department of Energy Drone Defense Act",
+      "sector": "ITA",
+      "introduced_date": "2026-05-20",
+      "latest_action": {
+        "date": "2026-05-20",
+        "text": "Referred to the House Committee on Oversight and Government Reform."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8935",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Lee, Susie [D-NV-3]",
+        "party": "D",
+        "state": "NV"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 7,
+      "amendments": [],
+      "momentum": 38,
       "sector_trade_flag": false
     }
   ],
@@ -4096,6 +4071,22 @@
       "sector": "PAVE",
       "ticker": "DE",
       "company": "Deere & Company",
+      "client_name": "DEERE AND COMPANY",
+      "registrant_name": "POLARIS GOVERNMENT RELATIONS, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T20:35:55-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3bed14d6-968f-4c0a-a583-4114febecfb3/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "DE",
+      "company": "Deere & Company",
       "client_name": "DEERE & COMPANY",
       "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
       "filing_type": "2nd Quarter - Report (No Activity)",
@@ -4536,28 +4527,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/784c6507-8be8-4966-b8d0-fef6f3e18b97/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "client_name": "DEERE & COMPANY",
-      "registrant_name": "DEERE & COMPANY",
-      "filing_type": "4th Quarter - Amendment",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2023,
-      "income": null,
-      "posted_date": "2024-02-12T14:49:24-05:00",
-      "issues": [
-        "Agriculture",
-        "Budget/Appropriations",
-        "Communications/Broadcasting/Radio/TV",
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/9fc63b2a-bd7a-4dce-8e8a-0928828060e4/print/"
     },
     {
       "sector": "PAVE",
@@ -6377,6 +6346,22 @@
       "ticker": "ACM",
       "company": "AECOM",
       "client_name": "AECOM",
+      "registrant_name": "THE MCKEON GROUP, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-20T02:42:00-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e7de7a09-f1f2-46c0-9f4f-b6c07b76d54e/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "AECOM",
       "registrant_name": "H.A. CUMBER & COMPANY, INC.",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -6799,22 +6784,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/8b7a19ce-1a44-4a8a-b619-fb64c1ea57ac/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "SBL STRATEGIES, LLC",
-      "filing_type": "4th Quarter - Termination",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "40000.00",
-      "posted_date": "2026-01-19T09:55:13-05:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ed12162b-bbb7-4cb2-8405-3f7c1dd1c472/print/"
     },
     {
       "sector": "PAVE",
@@ -7646,6 +7615,22 @@
       "company": "Advanced Drainage Systems",
       "client_name": "ADVANCED DRAINAGE SYSTEMS",
       "registrant_name": "THORN RUN PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-07-20T06:54:47-04:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d25faef2-dbe1-4e72-acd4-00beb7d91ada/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "WMS",
+      "company": "Advanced Drainage Systems",
+      "client_name": "ADVANCED DRAINAGE SYSTEMS",
+      "registrant_name": "THORN RUN PARTNERS",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -8007,22 +7992,6 @@
       "posted_date": "2022-07-20T12:15:08-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/50fe697b-e4ec-45a2-b4af-6221331af18a/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "WMS",
-      "company": "Advanced Drainage Systems",
-      "client_name": "ADVANCED DRAINAGE SYSTEMS",
-      "registrant_name": "THORN RUN PARTNERS",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2022,
-      "income": "50000.00",
-      "posted_date": "2022-04-20T13:27:31-04:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/35715a7b-9230-49c3-b927-2acb722a98a4/print/"
     },
     {
       "sector": "CIBR",
@@ -12513,6 +12482,22 @@
       "sector": "CIBR",
       "ticker": "CACI",
       "company": "CACI International",
+      "client_name": "CACI INTERNATIONAL, INC.",
+      "registrant_name": "ICEBREAKER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T13:54:02-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4a5c5265-8c64-40f1-8ddd-78d1812cfd9b/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CACI",
+      "company": "CACI International",
       "client_name": "CACI INTERNATIONAL, INC",
       "registrant_name": "A1.9 STRATEGIES LLC",
       "filing_type": "2nd Quarter - Report",
@@ -12893,23 +12878,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/6bda8495-b6a1-4d3a-86a4-9535f5a483a4/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CACI",
-      "company": "CACI International",
-      "client_name": "CACI INTERNATIONAL, INC",
-      "registrant_name": "A1.9 STRATEGIES LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2024,
-      "income": "30000.00",
-      "posted_date": "2024-07-11T12:17:33-04:00",
-      "issues": [
-        "Defense",
-        "Homeland Security"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/1f843a19-42d3-47ab-aac4-ed362e12df4f/print/"
     },
     {
       "sector": "GRID",
@@ -13797,6 +13765,20 @@
       "sector": "GRID",
       "ticker": "AME",
       "company": "AMETEK",
+      "client_name": "AMETEK, INC.",
+      "registrant_name": "ARENTFOX SCHIFF LLP",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-19T23:13:09-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/b0ccb796-4eb0-49f4-8084-90bb4e388ef8/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "AME",
+      "company": "AMETEK",
       "client_name": "AMETEK AIRTECHNOLOGY GROUP LTD",
       "registrant_name": "CAPITAL PARK PARTNERS LLC",
       "filing_type": "2nd Quarter - Report",
@@ -14170,22 +14152,6 @@
         "Homeland Security"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/5810a94d-8172-46a0-8535-42d9b8802386/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "AME",
-      "company": "AMETEK",
-      "client_name": "MORRIS J AMITAY P C (ON BEHALF OF AMETEK)",
-      "registrant_name": "AMITAY CONSULTING",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2009,
-      "income": "10000.00",
-      "posted_date": "2010-01-21T15:04:49.087000-05:00",
-      "issues": [
-        "Homeland Security"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3bb05d3e-b3b1-4c1a-bd80-a1e572b4a0c4/print/"
     },
     {
       "sector": "GRID",
@@ -14634,6 +14600,22 @@
       "ticker": "DUK",
       "company": "Duke Energy",
       "client_name": "DUKE ENERGY CORPORATION",
+      "registrant_name": "CAPITOL COUNSEL LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T14:03:36-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5974382a-a597-4bcf-b593-747a22934ee7/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "DUK",
+      "company": "Duke Energy",
+      "client_name": "DUKE ENERGY CORPORATION",
       "registrant_name": "CGCN GROUP, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -15073,24 +15055,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/603852f1-bed9-47c8-81f8-988018ec4b65/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "DUK",
-      "company": "Duke Energy",
-      "client_name": "DUKE ENERGY BUSINESS SERVICES LLC",
-      "registrant_name": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2026-01-18T12:45:20-05:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c3644697-1b40-4480-8da1-a276758a1eec/print/"
     },
     {
       "sector": "GRID",
@@ -15986,6 +15950,22 @@
       "company": "MYR Group",
       "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
       "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-19T10:57:12-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ea05fbcd-d6e8-4180-b2ca-f327c00f6b17/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -16328,17 +16308,20 @@
     },
     {
       "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "4th Quarter - Report (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2013,
-      "income": null,
-      "posted_date": "2014-03-24T14:53:24.823000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/4be62316-0a31-4282-a614-ad68a2205285/print/"
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "client_name": "BLOOM ENERGY",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T15:55:39-04:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/007a8fac-9e66-40c4-b52b-91b6502cc016/print/"
     },
     {
       "sector": "GRID",
@@ -16726,22 +16709,6 @@
         "Accounting"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/08963b13-21fd-4ed3-abd3-56519f333fb1/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "client_name": "BLOOM ENERGY",
-      "registrant_name": "HOLLIER & ASSOCIATES",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2025-10-21T05:42:30-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3e6ba42b-fae4-43b2-ba5f-e07bb7522d89/print/"
     },
     {
       "sector": "GRID",
@@ -17448,6 +17415,23 @@
       "sector": "QTUM",
       "ticker": "IONQ",
       "company": "IonQ",
+      "client_name": "IONQ INC.",
+      "registrant_name": "THE BERNHARDT GROUP LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "110000.00",
+      "posted_date": "2026-07-19T15:51:12-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/53da9b55-4fb4-4619-ba35-41ce84cf9c67/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "IONQ",
+      "company": "IonQ",
       "client_name": "IONQ, INC.",
       "registrant_name": "HOLLAND & KNIGHT LLP",
       "filing_type": "2nd Quarter - Report",
@@ -17853,22 +17837,6 @@
         "Science/Technology"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/d26bb835-9ef7-402d-bfaa-bdbff44f34b6/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "IONQ",
-      "company": "IonQ",
-      "client_name": "IONQ, INC. (FKA QUBITEKK, INC.)",
-      "registrant_name": "RBW GROUP, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-04-11T12:55:38-04:00",
-      "issues": [
-        "Budget/Appropriations"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/78417683-1b66-42ef-adc9-6e65285038d3/print/"
     },
     {
       "sector": "QTUM",
@@ -19170,6 +19138,61 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "client_name": "MICROSOFT CORPORATION",
+      "registrant_name": "ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-20T01:06:20-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/810b5ac0-4637-4e8e-93b6-e106ec59512a/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "client_name": "MICROSOFT CORPORATION",
+      "registrant_name": "POLARIS GOVERNMENT RELATIONS, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-19T20:45:42-04:00",
+      "issues": [
+        "Science/Technology",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/15a633a6-6b49-40a3-b7f0-abb16e16d976/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "client_name": "MICROSOFT CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-19T17:23:35-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Energy/Nuclear",
+        "Homeland Security",
+        "Immigration",
+        "Labor Issues/Antitrust/Workplace",
+        "Law Enforcement/Crime/Criminal Justice"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/dd88e1d9-200e-4b31-a56c-7034b57672ec/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "client_name": "MICROSOFT CORPORATION",
       "registrant_name": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -19564,68 +19587,34 @@
     },
     {
       "sector": "QTUM",
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "client_name": "MICROSOFT CORPORATION",
-      "registrant_name": "THE GIBSON GROUP, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "ticker": "HON",
+      "company": "Honeywell",
+      "client_name": "INTELLIGRATED SYSTEMS, INC. DBA HONEYWELL INTELLIGRATED",
+      "registrant_name": "K&L GATES, LLP",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-09T11:12:58-04:00",
-      "issues": [
-        "Computer Industry",
-        "Copyright/Patent/Trademark",
-        "Immigration",
-        "Postal",
-        "Telecommunications",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/10bdc3d7-fc05-403c-8969-d54cc60cf493/print/"
+      "income": null,
+      "posted_date": "2026-07-19T15:06:36-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/beb0843d-e726-4ca3-a38b-ad0944bfde22/print/"
     },
     {
       "sector": "QTUM",
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "client_name": "MICROSOFT CORPORATION",
-      "registrant_name": "D&P CREATIVE STRATEGIES, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "ticker": "HON",
+      "company": "Honeywell",
+      "client_name": "HONEYWELL INTERNATIONAL",
+      "registrant_name": "GUIDEPOSTSTRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-06T16:07:13-04:00",
+      "income": "90000.00",
+      "posted_date": "2026-07-19T11:59:11-04:00",
       "issues": [
-        "Homeland Security",
-        "Immigration",
-        "Intelligence",
-        "Taxation/Internal Revenue Code",
-        "Telecommunications"
+        "Budget/Appropriations",
+        "Energy/Nuclear"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/68fa431b-da41-4aa9-b207-305aea396c48/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "client_name": "MICROSOFT CORPORATION",
-      "registrant_name": "ELEVATE GOVERNMENT AFFAIRS, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2026-01-20T21:32:34-05:00",
-      "issues": [
-        "Communications/Broadcasting/Radio/TV",
-        "Consumer Issues/Safety/Products",
-        "Copyright/Patent/Trademark",
-        "Environment/Superfund",
-        "Homeland Security",
-        "Labor Issues/Antitrust/Workplace",
-        "Science/Technology",
-        "Telecommunications",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/1769c7ac-1c9d-4430-8660-8f473bd390f3/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/e10e7267-e7bc-4945-97e1-a637bf30391a/print/"
     },
     {
       "sector": "QTUM",
@@ -20026,36 +20015,21 @@
     },
     {
       "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "HONEYWELL INTERNATIONAL",
-      "registrant_name": "AKIN GUMP STRAUSS HAUER & FELD",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2026-01-20T15:17:31-05:00",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "client_name": "NVIDIA CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T17:36:52-04:00",
       "issues": [
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code"
+        "Computer Industry",
+        "Defense",
+        "Trade (domestic/foreign)"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/872f7f18-5684-4f37-a81f-61b2b3f286bf/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "HONEYWELL INTERNATIONAL",
-      "registrant_name": "THE DUBERSTEIN GROUP INC.",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "90000.00",
-      "posted_date": "2026-01-20T15:12:12-05:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/7d77c24f-b179-4735-9977-840242d09248/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/caf12566-ccc7-4e99-894a-467a0a503943/print/"
     },
     {
       "sector": "QTUM",
@@ -20487,20 +20461,19 @@
     },
     {
       "sector": "QTUM",
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "client_name": "NVIDIA CORPORATION",
-      "registrant_name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
-      "filing_type": "Registration",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-08-13T16:52:40-04:00",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "client_name": "GOOGLE CLOUD",
+      "registrant_name": "CONTINENTAL STRATEGY, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "105000.00",
+      "posted_date": "2026-07-19T10:29:39-04:00",
       "issues": [
-        "Computer Industry",
-        "Trade (domestic/foreign)"
+        "Intelligence"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/838b7711-7926-4a1d-87b4-cc6b85a39a47/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/42947206-aa34-49ea-aed6-7534a97dd625/print/"
     },
     {
       "sector": "QTUM",
@@ -20928,27 +20901,6 @@
       "posted_date": "2026-04-17T10:54:04-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/e6d43594-198f-441a-9c0b-7f633f93836f/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "client_name": "GOOGLE CLIENT SERVICES LLC",
-      "registrant_name": "MARSHALL & POPP, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-04-17T09:00:30-04:00",
-      "issues": [
-        "Advertising",
-        "Consumer Issues/Safety/Products",
-        "Labor Issues/Antitrust/Workplace",
-        "Science/Technology",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/92fe824b-3bce-4e57-bbd0-dbcc424cb9cb/print/"
     },
     {
       "sector": "QTUM",
@@ -21440,6 +21392,23 @@
       "sector": "XBI",
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals",
+      "client_name": "VERTEX PHARMACEUTICALS INCORPORATED",
+      "registrant_name": "CGCN GROUP, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T09:54:24-04:00",
+      "issues": [
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3a80af6b-f283-45ff-90da-11373f2c3a5b/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
       "client_name": "VERTEX PHARMACEUTICALS",
       "registrant_name": "TIBER CREEK GROUP",
       "filing_type": "2nd Quarter - Report",
@@ -21840,23 +21809,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/0515d2b9-fc16-4126-99b6-533e476b80c3/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "VRTX",
-      "company": "Vertex Pharmaceuticals",
-      "client_name": "VERTEX PHARMACEUTICALS INCORPORATED",
-      "registrant_name": "ALSTON & BIRD LLP",
-      "filing_type": "Registration",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-03-20T18:23:55-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e5f0f1e4-5c5b-4368-9942-7c09072fb2b2/print/"
     },
     {
       "sector": "XBI",
@@ -22273,6 +22225,22 @@
       "sector": "XBI",
       "ticker": "GILD",
       "company": "Gilead Sciences",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF GILEAD SCIENCES, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-19T10:56:10-04:00",
+      "issues": [
+        "Pharmacy"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cff5aa08-6866-44fa-930c-c68b25db8899/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
       "client_name": "GILEAD SCIENCES, INC.",
       "registrant_name": "TIBER CREEK GROUP",
       "filing_type": "2nd Quarter - Report",
@@ -22677,19 +22645,52 @@
     },
     {
       "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "JEFFREY J. KIMBELL & ASSOCIATES, INC.",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "75000.00",
-      "posted_date": "2026-01-20T16:08:25-05:00",
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "client_name": "AMGEN INC",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T15:45:23-04:00",
+      "issues": [
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2633ba3d-f28b-47bd-84f2-6f9295827ae6/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "client_name": "AMGEN INC.",
+      "registrant_name": "MICHAEL J. LAMOUREUX",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "10000.00",
+      "posted_date": "2026-07-19T15:14:09-04:00",
       "issues": [
         "Health Issues"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/5bc20af0-6acc-42c0-b069-a970c1547a51/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/efed40b5-8a52-4e30-92ff-c8e69568c08d/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "client_name": "TIBER CREEK HEALTH STRATEGIES, INC. ON BEHALF OF AMGEN, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T10:58:56-04:00",
+      "issues": [
+        "Pharmacy"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/96466a2f-f12d-4777-85dc-aea32d3d1b19/print/"
     },
     {
       "sector": "XBI",
@@ -23060,58 +23061,19 @@
     },
     {
       "sector": "XBI",
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "client_name": "AMGEN INC",
-      "registrant_name": "TARPLIN, DOWNS & YOUNG, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "client_name": "STANTON PARK GROUP LLC ON BEHALF OF MODERNATX, INC.",
+      "registrant_name": "DGSR LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-04-20T15:00:42-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/39ac9c05-29ef-4dbf-b7a2-f057d3883fb9/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "client_name": "AMGEN INC.",
-      "registrant_name": "BGR GOVERNMENT AFFAIRS",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T12:04:34-04:00",
+      "income": "20000.00",
+      "posted_date": "2026-07-20T07:15:40-04:00",
       "issues": [
         "Health Issues"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/d8c777de-0926-4a18-bbf5-6543eba321ec/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "client_name": "AMGEN, INC.",
-      "registrant_name": "WILLIAMS AND JENSEN, PLLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-04-20T11:45:16-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Copyright/Patent/Trademark",
-        "Health Issues",
-        "Labor Issues/Antitrust/Workplace",
-        "Medicare/Medicaid",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/2491bcc7-6956-4a16-b2ec-15cf36d6f475/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/4cf2e3fa-140d-468d-a786-bc3c3a6b520a/print/"
     },
     {
       "sector": "XBI",
@@ -23496,22 +23458,6 @@
         "Health Issues"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/82ec296d-a212-41c4-96e8-c8522e84b906/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "client_name": "STANTON PARK GROUP LLC ON BEHALF OF MODERNATX, INC.",
-      "registrant_name": "DGSR LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "20000.00",
-      "posted_date": "2025-10-20T10:38:44-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c2b27c97-18f0-4eda-a8c9-fa9233d16e0e/print/"
     },
     {
       "sector": "XBI",
@@ -23975,6 +23921,22 @@
       "ticker": "ALNY",
       "company": "Alnylam Pharmaceuticals",
       "client_name": "ALNYLAM PHARMACEUTICALS, INC.",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T15:35:06-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/70756168-064a-4346-b359-55c6b0d3809e/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "ALNY",
+      "company": "Alnylam Pharmaceuticals",
+      "client_name": "ALNYLAM PHARMACEUTICALS, INC.",
       "registrant_name": "CAPITOL COUNSEL LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -24362,20 +24324,20 @@
     },
     {
       "sector": "XBI",
-      "ticker": "ALNY",
-      "company": "Alnylam Pharmaceuticals",
-      "client_name": "ALNYLAM PHARMACEUTICALS, INC.",
-      "registrant_name": "ALNYLAM PHARMACEUTICALS, INC.",
+      "ticker": "INCY",
+      "company": "Incyte",
+      "client_name": "INCYTE CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-07-20T23:01:40-04:00",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T16:11:18-04:00",
       "issues": [
-        "Medicare/Medicaid",
-        "Trade (domestic/foreign)"
+        "Health Issues",
+        "Medicare/Medicaid"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/86351588-d93d-4340-a260-6a8bdf464d47/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/60e6abcc-bbbf-47e4-b4f0-f22b83483eba/print/"
     },
     {
       "sector": "XBI",
@@ -24772,23 +24734,6 @@
         "Medicare/Medicaid"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/e119bb7e-cd63-420a-83dc-80e2aed9cf56/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "INCY",
-      "company": "Incyte",
-      "client_name": "INCYTE CORPORATION",
-      "registrant_name": "LMH STRATEGIC SOLUTIONS",
-      "filing_type": "Registration",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-07-15T23:01:46-04:00",
-      "issues": [
-        "Medicare/Medicaid",
-        "Pharmacy"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/97418d2d-a6e9-4598-a602-3345091bf9c4/print/"
     },
     {
       "sector": "XBI",
@@ -26535,6 +26480,22 @@
       "company": "United Therapeutics",
       "client_name": "UNITED THERAPEUTICS CORPORATION",
       "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T17:22:29-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/56d9e720-fccd-4f85-aed8-b2be515acdb2/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -26763,6 +26724,40 @@
         "Science/Technology"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/394f03d1-110c-426b-8099-fe9f4b65012e/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN CORPORATION",
+      "registrant_name": "CAPITOL COUNSEL LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T14:49:07-04:00",
+      "issues": [
+        "Defense",
+        "Disaster Planning/Emergencies",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9008c6c0-7517-4026-8d7a-2bc17b69394a/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN CORPORORATION",
+      "registrant_name": "MARK REY",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "9000.00",
+      "posted_date": "2026-07-19T12:13:25-04:00",
+      "issues": [
+        "Natural Resources"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/067c9b2c-b636-456c-a126-87ed738b943c/print/"
     },
     {
       "sector": "ITA",
@@ -27147,44 +27142,6 @@
       "posted_date": "2026-04-06T19:30:21-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/2cf59604-5224-4c47-9091-faaf78f2e5ba/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "ETHERTON AND ASSOCIATES, INC.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "20000.00",
-      "posted_date": "2026-04-06T09:37:55-04:00",
-      "issues": [
-        "Defense",
-        "Government Issues",
-        "Intelligence"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ef866762-9f9c-4140-80d6-601c3089785d/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN AERONAUTIC SECTOR",
-      "registrant_name": "MARSHALL BRACHMAN",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "31700.00",
-      "posted_date": "2026-04-02T22:14:18-04:00",
-      "issues": [
-        "Banking",
-        "Budget/Appropriations",
-        "Defense",
-        "Foreign Relations",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8e855fc5-b019-4c8c-b9e9-3938213917eb/print/"
     },
     {
       "sector": "ITA",
@@ -27583,6 +27540,22 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/6ba652b8-92f1-4493-8fa1-0048665f6455/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "NOC",
+      "company": "Northrop Grumman",
+      "client_name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "registrant_name": "ICEBREAKER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T20:11:24-04:00",
+      "issues": [
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5c193c27-d753-415c-b4de-3a444704c838/print/"
     },
     {
       "sector": "ITA",
@@ -27995,21 +27968,37 @@
     },
     {
       "sector": "ITA",
-      "ticker": "NOC",
-      "company": "Northrop Grumman",
-      "client_name": "NORTHROP GRUMMAN CORPORATION",
-      "registrant_name": "ETHERTON AND ASSOCIATES, INC.",
-      "filing_type": "3rd Quarter - Amendment",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
+      "ticker": "GD",
+      "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS",
+      "registrant_name": "ICEBREAKER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
       "income": "30000.00",
-      "posted_date": "2026-01-20T14:00:14-05:00",
+      "posted_date": "2026-07-19T14:06:38-04:00",
       "issues": [
-        "Defense",
-        "Government Issues",
-        "Intelligence"
+        "Budget/Appropriations",
+        "Defense"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/13bd1881-6278-4dbb-9eb3-ac47826b4945/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/cbf695cb-8d22-4fff-97b9-9865ab29f3c0/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "GD",
+      "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS CORPORATION",
+      "registrant_name": "GUIDEPOSTSTRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T11:58:27-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cf5f9ce9-e21a-49c9-9a7a-5b5f0328825e/print/"
     },
     {
       "sector": "ITA",
@@ -28418,39 +28407,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/d348ccdf-92f3-4ef5-b550-e4b87e6e0a72/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS CORPORATION",
-      "registrant_name": "WILLIAMS AND JENSEN, PLLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-17T10:29:28-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/591ab294-e538-429e-851d-2e8faa64e67f/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS CORPORATION",
-      "registrant_name": "ACG ADVOCACY",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-16T16:22:53-04:00",
-      "issues": [
-        "Defense",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/9f605b81-33d1-4c3a-8f83-9327ada9cc7a/print/"
     },
     {
       "sector": "ITA",
@@ -29347,6 +29303,23 @@
       "ticker": "HII",
       "company": "Huntington Ingalls Industries",
       "client_name": "HUNTINGTON INGALLS INCORPORATED",
+      "registrant_name": "CROSSROADS STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T19:30:23-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/31d9549a-11e3-4e8c-8336-aec386c3332a/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "HII",
+      "company": "Huntington Ingalls Industries",
+      "client_name": "HUNTINGTON INGALLS INCORPORATED",
       "registrant_name": "BRIAN GLACKIN & ASSOCIATES LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -29753,22 +29726,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/163056a3-558d-454b-a5b5-822a1cb3a0c3/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "HII",
-      "company": "Huntington Ingalls Industries",
-      "client_name": "HUNTINGTON INGALLS INDUSTRIES",
-      "registrant_name": "GEPHARDT GROUP GOVERNMENT AFFAIRS",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2025-10-20T13:37:48-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/6c70ace9-506c-4a71-a2bd-0f76d0113c27/print/"
     },
     {
       "sector": "ITA",
@@ -31950,6 +31907,22 @@
       "sector": "UFO",
       "ticker": "RKLB",
       "company": "Rocket Lab",
+      "client_name": "ROCKET LAB CORPORATION",
+      "registrant_name": "GUIDEPOSTSTRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T12:03:13-04:00",
+      "issues": [
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2776fa24-0f22-4aba-8fe9-861d22bdfce1/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "RKLB",
+      "company": "Rocket Lab",
       "client_name": "ROCKET LAB USA, INC.",
       "registrant_name": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
       "filing_type": "2nd Quarter - Report",
@@ -32335,22 +32308,6 @@
         "Aerospace"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/0a56d7d8-250a-4164-ade2-6c37957c6855/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "RKLB",
-      "company": "Rocket Lab",
-      "client_name": "ROCKET LAB USA",
-      "registrant_name": "ASCENT PUBLIC POLICY & STRATEGIC COMMUNICATIONS, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": "45000.00",
-      "posted_date": "2025-04-21T11:01:47-04:00",
-      "issues": [
-        "Aerospace"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5d81e79a-5b0f-4d49-9932-3cd7d9c22269/print/"
     },
     {
       "sector": "UFO",
@@ -34005,6 +33962,40 @@
       "ticker": "LMT",
       "company": "Lockheed Martin",
       "client_name": "LOCKHEED MARTIN CORPORATION",
+      "registrant_name": "CAPITOL COUNSEL LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T14:49:07-04:00",
+      "issues": [
+        "Defense",
+        "Disaster Planning/Emergencies",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9008c6c0-7517-4026-8d7a-2bc17b69394a/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN CORPORORATION",
+      "registrant_name": "MARK REY",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "9000.00",
+      "posted_date": "2026-07-19T12:13:25-04:00",
+      "issues": [
+        "Natural Resources"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/067c9b2c-b636-456c-a126-87ed738b943c/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN CORPORATION",
       "registrant_name": "STRATEGIC MARKETING INNOVATIONS",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -34386,41 +34377,19 @@
     },
     {
       "sector": "UFO",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "ETHERTON AND ASSOCIATES, INC.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "ticker": "NOC",
+      "company": "Northrop Grumman",
+      "client_name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "registrant_name": "ICEBREAKER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
-      "income": "20000.00",
-      "posted_date": "2026-04-06T09:37:55-04:00",
+      "income": "60000.00",
+      "posted_date": "2026-07-19T20:11:24-04:00",
       "issues": [
-        "Defense",
-        "Government Issues",
-        "Intelligence"
+        "Budget/Appropriations"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/ef866762-9f9c-4140-80d6-601c3089785d/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN AERONAUTIC SECTOR",
-      "registrant_name": "MARSHALL BRACHMAN",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "31700.00",
-      "posted_date": "2026-04-02T22:14:18-04:00",
-      "issues": [
-        "Banking",
-        "Budget/Appropriations",
-        "Defense",
-        "Foreign Relations",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8e855fc5-b019-4c8c-b9e9-3938213917eb/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/5c193c27-d753-415c-b4de-3a444704c838/print/"
     },
     {
       "sector": "UFO",
@@ -34830,24 +34799,6 @@
         "Intelligence"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/0fa7ad1b-5efe-46dd-80e5-555812570a55/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "NOC",
-      "company": "Northrop Grumman",
-      "client_name": "NORTHROP GRUMMAN CORPORATION",
-      "registrant_name": "ETHERTON AND ASSOCIATES, INC.",
-      "filing_type": "3rd Quarter - Amendment",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2026-01-20T14:00:14-05:00",
-      "issues": [
-        "Defense",
-        "Government Issues",
-        "Intelligence"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/13bd1881-6278-4dbb-9eb3-ac47826b4945/print/"
     },
     {
       "sector": "UFO",
@@ -40104,6 +40055,24 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "client_name": "NVIDIA CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T17:36:52-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/caf12566-ccc7-4e99-894a-467a0a503943/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "client_name": "NVIDIA CORPORATION",
       "registrant_name": "NVIDIA CORPORATION",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -40529,20 +40498,25 @@
     },
     {
       "sector": "SMH",
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "client_name": "NVIDIA CORPORATION",
-      "registrant_name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
-      "filing_type": "Registration",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor",
+      "client_name": "TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY (TSMC)",
+      "registrant_name": "TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY (TSMC)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
       "income": null,
-      "posted_date": "2025-08-13T16:52:40-04:00",
+      "posted_date": "2026-07-20T08:17:30-04:00",
       "issues": [
-        "Computer Industry",
+        "Chemicals/Chemical Industry",
+        "Clean Air and Water (quality)",
+        "Copyright/Patent/Trademark",
+        "Economics/Economic Development",
+        "Immigration",
+        "Taxation/Internal Revenue Code",
         "Trade (domestic/foreign)"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/838b7711-7926-4a1d-87b4-cc6b85a39a47/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/68453749-ac5c-493f-80b3-926ade1f492f/print/"
     },
     {
       "sector": "SMH",
@@ -41042,23 +41016,17 @@
     },
     {
       "sector": "SMH",
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor",
-      "client_name": "TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY (TSMC)",
-      "registrant_name": "TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY (TSMC)",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2020,
-      "income": null,
-      "posted_date": "2020-04-17T15:01:06.353000-04:00",
-      "issues": [
-        "Computer Industry",
-        "Economics/Economic Development",
-        "Manufacturing",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/af85b906-5109-4b69-b849-0b346a0a66b1/print/"
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "client_name": "BROADCOM INC.",
+      "registrant_name": "INVARIANT LLC",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-19T17:55:37-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/8aac170d-6a0d-4409-894f-1350b0408a8e/print/"
     },
     {
       "sector": "SMH",
@@ -41479,23 +41447,6 @@
         "Telecommunications"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/bbdd798a-0488-4123-ba28-d153559a70ab/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "client_name": "BROADCOM INC.",
-      "registrant_name": "CASSIDY & ASSOCIATES, INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2025-10-08T15:36:45-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a0fa62bf-d41b-4b9e-9e36-25ef277646d0/print/"
     },
     {
       "sector": "SMH",
@@ -42396,6 +42347,25 @@
       "sector": "SMH",
       "ticker": "QCOM",
       "company": "Qualcomm",
+      "client_name": "QUALCOMM, INC.",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T19:18:37-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Telecommunications",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a1c5fdd8-806c-4810-80db-403c5e791c8c/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "QCOM",
+      "company": "Qualcomm",
       "client_name": "QUALCOMM INC.",
       "registrant_name": "MERCURY PUBLIC AFFAIRS, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -42800,21 +42770,17 @@
     },
     {
       "sector": "SMH",
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "client_name": "QUALCOMM INCORPORATED",
-      "registrant_name": "COVINGTON & BURLING LLP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "570000.00",
-      "posted_date": "2025-10-20T18:58:08-04:00",
-      "issues": [
-        "Copyright/Patent/Trademark",
-        "Science/Technology",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e1b56138-69e3-4110-9192-9ed3432031df/print/"
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "client_name": "MICRON TECHNOLOGY, INC.",
+      "registrant_name": "BELLWETHER GOVERNMENT AFFAIRS LLC",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-19T11:04:04-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/5604102a-a531-405e-9d1a-ec71f1e44c68/print/"
     },
     {
       "sector": "SMH",
@@ -43204,22 +43170,6 @@
       "posted_date": "2025-07-21T19:56:08-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/8189c0ce-4d3a-49a3-ac9b-f02ccb8f55c7/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "client_name": "MICRON TECHNOLOGY, INC.",
-      "registrant_name": "HILL EAST GROUP, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-07-21T19:18:52-04:00",
-      "issues": [
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/b79dcebf-e879-4783-a7e1-5f689fd9172c/print/"
     },
     {
       "sector": "SMH",
@@ -43740,6 +43690,40 @@
       "sector": "SMH",
       "ticker": "AMAT",
       "company": "Applied Materials",
+      "client_name": "APPLIED MATERIALS, INC.",
+      "registrant_name": "THORN RUN PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-07-19T20:22:17-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Manufacturing",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/71590e49-6ef3-4136-9d88-8c7b49cc250b/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "client_name": "APPLIED MATERIALS",
+      "registrant_name": "CONTINENTAL STRATEGY, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-19T10:52:34-04:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/188ba792-9da2-4639-872b-6070c9d5255b/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "AMAT",
+      "company": "Applied Materials",
       "client_name": "APPLIED MATERIALS, INC",
       "registrant_name": "APPLIED MATERIALS, INC",
       "filing_type": "2nd Quarter - Report",
@@ -44147,38 +44131,35 @@
     },
     {
       "sector": "SMH",
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "client_name": "APPLIED MATERIALS",
-      "registrant_name": "CONTINENTAL STRATEGY, LLC",
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "client_name": "LAM RESEARCH CORPORATION",
+      "registrant_name": "MERCURY PUBLIC AFFAIRS, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "90000.00",
-      "posted_date": "2025-07-18T13:55:03-04:00",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T21:05:25-04:00",
       "issues": [
-        "Trade (domestic/foreign)"
+        "Science/Technology"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/423df24b-297a-459a-9583-00ccac3e0f9e/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/565c93cb-9af3-494d-a895-1598cf20db6b/print/"
     },
     {
       "sector": "SMH",
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "client_name": "APPLIED MATERIALS, INC.",
-      "registrant_name": "MEHLMAN CONSULTING, INC.",
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "client_name": "LAM RESEARCH CORPORATION",
+      "registrant_name": "MERCURY PUBLIC AFFAIRS, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2025-07-18T12:24:36-04:00",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T21:04:39-04:00",
       "issues": [
-        "Manufacturing",
-        "Science/Technology",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
+        "Science/Technology"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/f4ac002f-41c2-4fa9-8203-07001e87b959/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/53374b0e-89f6-4916-b274-f2cbc152560b/print/"
     },
     {
       "sector": "SMH",
@@ -44575,44 +44556,6 @@
       "posted_date": "2025-01-21T14:26:58-05:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/60858a60-9621-4ef8-a76a-f6f2d4559009/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "LRCX",
-      "company": "Lam Research",
-      "client_name": "LAM RESEARCH CORP.",
-      "registrant_name": "THE GALLAGHER GROUP, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2024,
-      "income": "30000.00",
-      "posted_date": "2024-10-30T17:49:59-04:00",
-      "issues": [
-        "Defense",
-        "Science/Technology",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/08cb763b-a5c5-4014-8625-75dc3d743831/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "LRCX",
-      "company": "Lam Research",
-      "client_name": "LAM RESEARCH CORPORATION",
-      "registrant_name": "LAM RESEARCH CORPORATION",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2024,
-      "income": null,
-      "posted_date": "2024-10-21T18:28:22-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Defense",
-        "Science/Technology",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/57fe62ff-3874-4c17-bbf7-382e89f6141f/print/"
     },
     {
       "sector": "SMH",
@@ -45463,6 +45406,22 @@
       "ticker": "FSLR",
       "company": "First Solar",
       "client_name": "FIRST SOLAR, INC.",
+      "registrant_name": "THORN RUN PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T22:29:52-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/83ab7a25-9fd5-4223-a7d7-5a284032cdde/print/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "FSLR",
+      "company": "First Solar",
+      "client_name": "FIRST SOLAR, INC.",
       "registrant_name": "MISSION STRATEGIES LLC (ENERGY)",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -45852,22 +45811,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/a552a6a7-72f6-4652-b22a-c7210d4ab5db/print/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "FSLR",
-      "company": "First Solar",
-      "client_name": "HOLLIER & ASSOCIATES ON BEHALF OF FIRST SOLAR",
-      "registrant_name": "QUICKEL CONSULTING SERVICES, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-16T13:20:40-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8ae2bf19-924b-4994-8136-6a28dad5f1ed/print/"
     },
     {
       "sector": "ICLN",
@@ -46575,6 +46518,72 @@
       "ticker": "NEE",
       "company": "NextEra Energy",
       "client_name": "NEXTERA ENERGY, INC.",
+      "registrant_name": "ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-20T01:10:28-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4c97ccfe-7e0b-4165-a9b1-3a674b52c22c/print/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "client_name": "NEXTERA ENERGY, INC.",
+      "registrant_name": "POLARIS GOVERNMENT RELATIONS, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T20:50:30-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/99c26e9b-b6ac-4b50-be99-f480d6b81d7e/print/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "client_name": "NEXTERA ENERGY",
+      "registrant_name": "CONTINENTAL STRATEGY, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T16:16:06-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0c554444-c9f7-4bd5-8ac6-4e1886a1b2f9/print/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "client_name": "NEXTERA ENERGY, INC.",
+      "registrant_name": "GUIDEPOSTSTRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-19T12:00:58-04:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/088234ca-3252-4993-8dc6-1ce8ae253adb/print/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "client_name": "NEXTERA ENERGY, INC.",
       "registrant_name": "TIDES GROUP, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -46924,67 +46933,21 @@
     },
     {
       "sector": "ICLN",
-      "ticker": "NEE",
-      "company": "NextEra Energy",
-      "client_name": "NEXTERA ENERGY, INC.",
-      "registrant_name": "POLARIS GOVERNMENT RELATIONS, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-17T15:05:02-04:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/75b0b0eb-5f4f-40d9-b6b7-e0366db59172/print/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "NEE",
-      "company": "NextEra Energy",
-      "client_name": "NEXTERA ENERGY, INC.",
-      "registrant_name": "TIDES GROUP, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-17T13:23:24-04:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/df3526bd-8d28-468b-b8b9-1b3cacffb4c2/print/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "NEE",
-      "company": "NextEra Energy",
-      "client_name": "NEXTERA ENERGY, INC.",
-      "registrant_name": "INVARIANT LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "ticker": "RUN",
+      "company": "Sunrun",
+      "client_name": "SUNRUN, INC.",
+      "registrant_name": "CASSIDY & ASSOCIATES, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
       "income": "60000.00",
-      "posted_date": "2026-04-17T10:23:59-04:00",
+      "posted_date": "2026-07-19T17:25:02-04:00",
       "issues": [
-        "Energy/Nuclear"
+        "Energy/Nuclear",
+        "Taxation/Internal Revenue Code",
+        "Utilities"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/9aa5926c-4a06-47e6-a8f5-37e84b66b55a/print/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "NEE",
-      "company": "NextEra Energy",
-      "client_name": "NEXTERA ENERGY, INC.",
-      "registrant_name": "CAPITOL TAX PARTNERS, LLP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "10000.00",
-      "posted_date": "2026-04-17T09:00:47-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c7721421-ac41-4a27-a0dd-97cc0a6655bc/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/ea04d555-ae75-47f0-a218-e3ce266ce7f9/print/"
     },
     {
       "sector": "ICLN",
@@ -47397,20 +47360,20 @@
     },
     {
       "sector": "ICLN",
-      "ticker": "RUN",
-      "company": "Sunrun",
-      "client_name": "SUNRUN, INC.",
-      "registrant_name": "MILLER STRATEGIES, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2024,
-      "income": "40000.00",
-      "posted_date": "2024-10-21T17:39:50-04:00",
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "client_name": "BLOOM ENERGY",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T15:55:39-04:00",
       "issues": [
         "Energy/Nuclear",
         "Taxation/Internal Revenue Code"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/dc4cd464-0f89-4db3-b031-b8f37a4c78f3/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/007a8fac-9e66-40c4-b52b-91b6502cc016/print/"
     },
     {
       "sector": "ICLN",
@@ -47798,22 +47761,6 @@
         "Accounting"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/08963b13-21fd-4ed3-abd3-56519f333fb1/print/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "client_name": "BLOOM ENERGY",
-      "registrant_name": "HOLLIER & ASSOCIATES",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2025-10-21T05:42:30-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3e6ba42b-fae4-43b2-ba5f-e07bb7522d89/print/"
     },
     {
       "sector": "ICLN",
@@ -48234,6 +48181,22 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/9e24838a-5834-4936-90eb-bbf7fabcda71/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "client_name": "DEERE AND COMPANY",
+      "registrant_name": "POLARIS GOVERNMENT RELATIONS, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T20:35:55-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3bed14d6-968f-4c0a-a583-4114febecfb3/print/"
     },
     {
       "sector": "MOO",
@@ -48679,28 +48642,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/784c6507-8be8-4966-b8d0-fef6f3e18b97/print/"
-    },
-    {
-      "sector": "MOO",
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "client_name": "DEERE & COMPANY",
-      "registrant_name": "DEERE & COMPANY",
-      "filing_type": "4th Quarter - Amendment",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2023,
-      "income": null,
-      "posted_date": "2024-02-12T14:49:24-05:00",
-      "issues": [
-        "Agriculture",
-        "Budget/Appropriations",
-        "Communications/Broadcasting/Radio/TV",
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/9fc63b2a-bd7a-4dce-8e8a-0928828060e4/print/"
     },
     {
       "sector": "MOO",
@@ -52417,6 +52358,38 @@
       "company": "Mastercard",
       "client_name": "MASTERCARD",
       "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-07-19T19:00:20-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9fef0f67-81c2-4c69-a668-cb99b11b2baa/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "RESOLUTION PUBLIC AFFAIRS, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T13:32:23-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f2b63919-1ba2-447b-ac0e-0b821e950cb3/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD",
+      "registrant_name": "TIBER CREEK GROUP",
       "filing_type": "1st Quarter - Amendment",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -52787,35 +52760,38 @@
     },
     {
       "sector": "FINX",
-      "ticker": "MA",
-      "company": "Mastercard",
-      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
-      "registrant_name": "BGR GOVERNMENT AFFAIRS",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2026-01-20T12:54:40-05:00",
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "client_name": "PAYPAL",
+      "registrant_name": "THORN RUN PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-19T23:06:11-04:00",
       "issues": [
-        "Financial Institutions/Investments/Securities"
+        "Financial Institutions/Investments/Securities",
+        "Taxation/Internal Revenue Code"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/30043324-fabd-4110-902f-51123f0125dd/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/74b4593f-42c3-42eb-acfb-eea5e2c64330/print/"
     },
     {
       "sector": "FINX",
-      "ticker": "MA",
-      "company": "Mastercard",
-      "client_name": "MASTERCARD WORLDWIDE",
-      "registrant_name": "RESOLUTION PUBLIC AFFAIRS, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2026-01-19T12:47:50-05:00",
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "client_name": "PAYPAL, INC.",
+      "registrant_name": "ERIS GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "29500.00",
+      "posted_date": "2026-07-19T21:07:18-04:00",
       "issues": [
-        "Financial Institutions/Investments/Securities"
+        "Banking",
+        "Consumer Issues/Safety/Products",
+        "Trade (domestic/foreign)"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/91f3823a-bb0b-43c5-b1bc-d3d78d372a67/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/b530133c-1ba5-4e64-8093-8b0dd826ce5b/print/"
     },
     {
       "sector": "FINX",
@@ -53239,38 +53215,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1d5fd093-91ed-4920-be28-af072549cf1a/print/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "PYPL",
-      "company": "PayPal Holdings",
-      "client_name": "PAYPAL",
-      "registrant_name": "STERNHELL GROUP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-07-21T14:31:08-04:00",
-      "issues": [
-        "Financial Institutions/Investments/Securities"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/09568261-4dc9-47d7-9723-c9bfdee06975/print/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "PYPL",
-      "company": "PayPal Holdings",
-      "client_name": "PAYPAL, INC.",
-      "registrant_name": "MINDSET ADVOCACY, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2025-07-21T10:42:35-04:00",
-      "issues": [
-        "Financial Institutions/Investments/Securities"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e7b3b783-7504-4921-9416-e0347248c4c2/print/"
     },
     {
       "sector": "FINX",
