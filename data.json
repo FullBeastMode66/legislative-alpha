@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:53:11Z",
+  "generated_at": "2026-07-23T11:56:42Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 12,
+      "bill_count": 11,
       "trade_count": 7,
       "lobbying_count": 361,
       "avg_momentum": 34
@@ -67,10 +67,10 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 0,
+      "bill_count": 1,
       "trade_count": 4,
       "lobbying_count": 250,
-      "avg_momentum": 0
+      "avg_momentum": 35
     },
     "URA": {
       "name": "Uranium & Nuclear",
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 367,
+      "trade_count": 366,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -182,31 +182,6 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-4950",
-      "number": "HR 4950",
-      "title": "Data BRIDGE Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-08-12",
-      "latest_action": {
-        "date": "2025-08-12",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4950",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Houchin, Erin [R-IN-9]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 12,
-      "amendments": [],
-      "momentum": 40,
       "sector_trade_flag": false
     },
     {
@@ -335,31 +310,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-3200",
-      "number": "HR 3200",
-      "title": "Critical Minerals and Manufacturing Support Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-05-05",
-      "latest_action": {
-        "date": "2025-05-05",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3200",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Ruiz, Raul [D-CA-25]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-5236",
       "number": "HR 5236",
       "title": "Critical Infrastructure Security Act",
@@ -382,6 +332,31 @@
       "cosponsor_count": 4,
       "amendments": [],
       "momentum": 37,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-3200",
+      "number": "HR 3200",
+      "title": "Critical Minerals and Manufacturing Support Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-05-05",
+      "latest_action": {
+        "date": "2025-05-05",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3200",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ruiz, Raul [D-CA-25]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -760,31 +735,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-651",
-      "number": "S 651",
-      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
-      "sector": "GRID",
-      "introduced_date": "2025-02-20",
-      "latest_action": {
-        "date": "2025-02-20",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Ernst, Joni [R-IA]",
-        "party": "R",
-        "state": "IA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-1892",
       "number": "HR 1892",
       "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
@@ -829,6 +779,31 @@
         "state": "SD"
       },
       "committee_count": 2,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-651",
+      "number": "S 651",
+      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
+      "sector": "GRID",
+      "introduced_date": "2025-02-20",
+      "latest_action": {
+        "date": "2025-02-20",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Ernst, Joni [R-IA]",
+        "party": "R",
+        "state": "IA"
+      },
+      "committee_count": 1,
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
@@ -1333,6 +1308,31 @@
       "amendments": [],
       "momentum": 36,
       "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9193",
+      "number": "HR 9193",
+      "title": "Powering the Future of American Space Dominance Act",
+      "sector": "UFO",
+      "introduced_date": "2026-06-08",
+      "latest_action": {
+        "date": "2026-06-08",
+        "text": "Referred to the House Committee on Science, Space, and Technology."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9193",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Kennedy, Mike [R-UT-3]",
+        "party": "R",
+        "state": "UT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": true
     }
   ],
   "trades": [
@@ -6153,17 +6153,6 @@
       "type": "Purchase",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/be9bb561-8290-4364-85b4-06a59ef0ec01/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "PTON",
-      "company": "Peloton Interactive, Inc. - Common Stock",
-      "senator": "James Banks",
-      "transaction_date": "06/05/2026",
-      "filed_date": "06/07/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/59c6f909-ad10-429d-8a8c-df81b00cf5fd/"
     }
   ],
   "lobbying": [
@@ -33198,6 +33187,26 @@
       "ticker": "LHX",
       "company": "L3Harris Technologies",
       "client_name": "L3HARRIS TECHNOLOGIES",
+      "registrant_name": "MCALLISTER & QUINN, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-22T10:09:42-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense",
+        "Homeland Security",
+        "Law Enforcement/Crime/Criminal Justice",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/01d52248-0fef-4ba1-a50a-bdd0da4575fd/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LHX",
+      "company": "L3Harris Technologies",
+      "client_name": "L3HARRIS TECHNOLOGIES",
       "registrant_name": "THE GABOTON GROUP, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -33623,22 +33632,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/17f756d1-f8c4-4e75-a2cb-c98e87970154/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LHX",
-      "company": "L3Harris Technologies",
-      "client_name": "L3HARRIS TECHNOLOGIES, INC.",
-      "registrant_name": "BALLARD PARTNERS",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-07-15T20:43:06-04:00",
-      "issues": [
-        "Telecommunications"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/616d34ae-64a4-4bad-b46d-c2a2d76d5a0d/print/"
     },
     {
       "sector": "ITA",
@@ -42984,6 +42977,22 @@
       "sector": "URA",
       "ticker": "LEU",
       "company": "Centrus Energy",
+      "client_name": "CENTRUS ENERGY CORP",
+      "registrant_name": "CENTRUS ENERGY CORP.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-22T11:45:35-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/18486d3a-2cf5-4b30-ba49-5dbae819caae/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "LEU",
+      "company": "Centrus Energy",
       "client_name": "CENTRUS ENERGY",
       "registrant_name": "COMPASS CONSULTING GROUP, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -43368,22 +43377,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/e92a560c-7673-4c2c-a000-e07c78196fa2/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "LEU",
-      "company": "Centrus Energy",
-      "client_name": "CENTRUS ENERGY CORP",
-      "registrant_name": "CENTRUS ENERGY CORP.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-21T12:21:02-04:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/6a1e3ac3-f478-4cb4-967b-3f624cc6e7f6/print/"
     },
     {
       "sector": "URA",
@@ -56339,6 +56332,25 @@
       "sector": "FINX",
       "ticker": "V",
       "company": "Visa",
+      "client_name": "FULCRUM PUBLIC AFFAIRS ON BEHALF OF VISA, INC.",
+      "registrant_name": "K&L GATES, LLP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "10000.00",
+      "posted_date": "2026-07-22T09:11:25-04:00",
+      "issues": [
+        "Banking",
+        "Financial Institutions/Investments/Securities",
+        "Small Business",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fc8c58eb-aea0-4182-a9a8-cc39879bb6ad/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "V",
+      "company": "Visa",
       "client_name": "VISA INC.",
       "registrant_name": "PHRONESISDC, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -56757,22 +56769,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/30ebee39-ffd3-4daa-9828-3672a54b6f88/print/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "V",
-      "company": "Visa",
-      "client_name": "VISA INC.",
-      "registrant_name": "PHRONESISDC, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2026-01-20T18:08:10-05:00",
-      "issues": [
-        "Financial Institutions/Investments/Securities"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/16676a52-e528-4d2d-8e45-ed5d18875ff0/print/"
     },
     {
       "sector": "FINX",
