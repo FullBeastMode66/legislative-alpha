@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:56:42Z",
+  "generated_at": "2026-07-24T11:47:44Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 11,
+      "bill_count": 10,
       "trade_count": 7,
       "lobbying_count": 361,
       "avg_momentum": 34
@@ -37,10 +37,10 @@
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 9,
       "lobbying_count": 222,
-      "avg_momentum": 16
+      "avg_momentum": 26
     },
     "XBI": {
       "name": "Biotech",
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 9,
+      "bill_count": 8,
       "trade_count": 10,
       "lobbying_count": 300,
       "avg_momentum": 37
@@ -134,56 +134,6 @@
     }
   },
   "bills": [
-    {
-      "id": "119-HR-4380",
-      "number": "HR 4380",
-      "title": "To rename the portion of United States Highway 75 between President George Bush Turnpike and United States Highway 380 as the \"U.S. Congressman and Prisoner of War Sam Johnson Memorial Highway\".",
-      "sector": "PAVE",
-      "introduced_date": "2025-07-14",
-      "latest_action": {
-        "date": "2025-07-15",
-        "text": "Referred to the Subcommittee on Highways and Transit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4380",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Self, Keith [R-TX-3]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9073",
-      "number": "HR 9073",
-      "title": "To amend section 844 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 to change the applicability of the amendments made by such section, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-05-29",
-      "latest_action": {
-        "date": "2026-05-29",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9073",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Olszewski, Johnny [D-MD-2]",
-        "party": "D",
-        "state": "MD"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-HR-3564",
       "number": "HR 3564",
@@ -310,31 +260,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-5236",
-      "number": "HR 5236",
-      "title": "Critical Infrastructure Security Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-09-09",
-      "latest_action": {
-        "date": "2025-09-09",
-        "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5236",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Pappas, Chris [D-NH-1]",
-        "party": "D",
-        "state": "NH"
-      },
-      "committee_count": 3,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-3200",
       "number": "HR 3200",
       "title": "Critical Minerals and Manufacturing Support Act",
@@ -357,6 +282,31 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5236",
+      "number": "HR 5236",
+      "title": "Critical Infrastructure Security Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-09-09",
+      "latest_action": {
+        "date": "2025-09-09",
+        "text": "Referred to the Committee on Financial Services, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5236",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Pappas, Chris [D-NH-1]",
+        "party": "D",
+        "state": "NH"
+      },
+      "committee_count": 3,
+      "cosponsor_count": 4,
+      "amendments": [],
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -1333,6 +1283,31 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": true
+    },
+    {
+      "id": "119-HR-9318",
+      "number": "HR 9318",
+      "title": "National Security Commission Quantum Computing Act of 2026",
+      "sector": "QTUM",
+      "introduced_date": "2026-06-15",
+      "latest_action": {
+        "date": "2026-06-15",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committees on Education and Workforce, Foreign Affairs, Science, Space, and Technology, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9318",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Lawler, Michael [R-NY-17]",
+        "party": "R",
+        "state": "NY"
+      },
+      "committee_count": 5,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
     }
   ],
   "trades": [
@@ -32728,6 +32703,22 @@
       "sector": "ITA",
       "ticker": "BA",
       "company": "Boeing",
+      "client_name": "BOEING EMPLOYEES' CREDIT UNION",
+      "registrant_name": "K&L GATES, LLP",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-07-23T11:25:25-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/19a14c82-c75c-44bf-8e40-ba381418d235/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "BA",
+      "company": "Boeing",
       "client_name": "BOEING COMPANY",
       "registrant_name": "THE LUGAR GROUP (FKA LUGAR HELLMANN GROUP)",
       "filing_type": "2nd Quarter - Report",
@@ -33163,24 +33154,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/058d7cea-9ba7-4806-9d71-5c05b954180c/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "BA",
-      "company": "Boeing",
-      "client_name": "THE BOEING COMPANY",
-      "registrant_name": "SQUIRE PATTON BOGGS",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "40000.00",
-      "posted_date": "2026-04-16T14:37:41-04:00",
-      "issues": [
-        "Aviation/Airlines/Airports",
-        "Government Issues",
-        "Tariff (miscellaneous tariff bills)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/33d75f1e-be53-440e-9e56-8413eeda942b/print/"
     },
     {
       "sector": "ITA",
@@ -39145,6 +39118,22 @@
       "sector": "UFO",
       "ticker": "BA",
       "company": "Boeing",
+      "client_name": "BOEING EMPLOYEES' CREDIT UNION",
+      "registrant_name": "K&L GATES, LLP",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-07-23T11:25:25-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/19a14c82-c75c-44bf-8e40-ba381418d235/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "BA",
+      "company": "Boeing",
       "client_name": "BOEING COMPANY",
       "registrant_name": "THE LUGAR GROUP (FKA LUGAR HELLMANN GROUP)",
       "filing_type": "2nd Quarter - Report",
@@ -39580,24 +39569,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/058d7cea-9ba7-4806-9d71-5c05b954180c/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "BA",
-      "company": "Boeing",
-      "client_name": "THE BOEING COMPANY",
-      "registrant_name": "SQUIRE PATTON BOGGS",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "40000.00",
-      "posted_date": "2026-04-16T14:37:41-04:00",
-      "issues": [
-        "Aviation/Airlines/Airports",
-        "Government Issues",
-        "Tariff (miscellaneous tariff bills)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/33d75f1e-be53-440e-9e56-8413eeda942b/print/"
     },
     {
       "sector": "UFO",
@@ -46422,7 +46393,7 @@
       "ticker": "INTC",
       "company": "Intel",
       "client_name": "INTEL CORP",
-      "registrant_name": "FS VECTOR",
+      "registrant_name": "FS VECTOR LLC",
       "filing_type": "1st Quarter - Termination (No Activity)",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -46515,7 +46486,7 @@
       "ticker": "INTC",
       "company": "Intel",
       "client_name": "INTEL CORP",
-      "registrant_name": "FS VECTOR",
+      "registrant_name": "FS VECTOR LLC",
       "filing_type": "4th Quarter - Report (No Activity)",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -46671,7 +46642,7 @@
       "ticker": "INTC",
       "company": "Intel",
       "client_name": "INTEL CORP",
-      "registrant_name": "FS VECTOR",
+      "registrant_name": "FS VECTOR LLC",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
