@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:47:44Z",
+  "generated_at": "2026-07-25T11:16:05Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 10,
+      "bill_count": 11,
       "trade_count": 7,
       "lobbying_count": 361,
       "avg_momentum": 34
@@ -47,10 +47,10 @@
       "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
-      "bill_count": 0,
+      "bill_count": 1,
       "trade_count": 5,
       "lobbying_count": 315,
-      "avg_momentum": 0
+      "avg_momentum": 37
     },
     "ITA": {
       "name": "Defense",
@@ -77,10 +77,10 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 4,
+      "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 233,
-      "avg_momentum": 38
+      "avg_momentum": 37
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -235,31 +235,6 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-HR-2813",
-      "number": "HR 2813",
-      "title": "Small Modular Reactor Commercialization Act of 2025",
-      "sector": "URA",
-      "introduced_date": "2025-04-10",
-      "latest_action": {
-        "date": "2025-04-10",
-        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2813",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Baird, James R. [R-IN-4]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-3200",
       "number": "HR 3200",
       "title": "Critical Minerals and Manufacturing Support Act",
@@ -307,6 +282,31 @@
       "cosponsor_count": 4,
       "amendments": [],
       "momentum": 37,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-2813",
+      "number": "HR 2813",
+      "title": "Small Modular Reactor Commercialization Act of 2025",
+      "sector": "URA",
+      "introduced_date": "2025-04-10",
+      "latest_action": {
+        "date": "2025-04-10",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2813",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Baird, James R. [R-IN-4]",
+        "party": "R",
+        "state": "IN"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -685,31 +685,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-1892",
-      "number": "HR 1892",
-      "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
-      "sector": "GRID",
-      "introduced_date": "2025-03-05",
-      "latest_action": {
-        "date": "2025-03-05",
-        "text": "Referred to the Subcommittee on Highways and Transit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1892",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Stevens, Haley M. [D-MI-11]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-3972",
       "number": "HR 3972",
       "title": "Highway Funding Flexibility Act of 2025",
@@ -757,6 +732,31 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-1892",
+      "number": "HR 1892",
+      "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
+      "sector": "GRID",
+      "introduced_date": "2025-03-05",
+      "latest_action": {
+        "date": "2025-03-05",
+        "text": "Referred to the Subcommittee on Highways and Transit."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1892",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Stevens, Haley M. [D-MI-11]",
+        "party": "D",
+        "state": "MI"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 4,
+      "amendments": [],
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -1307,6 +1307,106 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9093",
+      "number": "HR 9093",
+      "title": "BRIDGE Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-02",
+      "latest_action": {
+        "date": "2026-06-02",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9093",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Fitzgerald, Scott [R-WI-5]",
+        "party": "R",
+        "state": "WI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3016",
+      "number": "S 3016",
+      "title": "Advancing Research in Nuclear Fuel Recycling Act of 2025",
+      "sector": "URA",
+      "introduced_date": "2025-10-16",
+      "latest_action": {
+        "date": "2025-10-16",
+        "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3016",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Cruz, Ted [R-TX]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9197",
+      "number": "HR 9197",
+      "title": "Advancing Research in Nuclear Fuel Recycling Act",
+      "sector": "URA",
+      "introduced_date": "2026-06-08",
+      "latest_action": {
+        "date": "2026-06-08",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9197",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moore, Tim [R-NC-14]",
+        "party": "R",
+        "state": "NC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-1954",
+      "number": "S 1954",
+      "title": "Biosimilar Red Tape Elimination Act",
+      "sector": "XBI",
+      "introduced_date": "2025-06-04",
+      "latest_action": {
+        "date": "2026-06-17",
+        "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1954",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Lee, Mike [R-UT]",
+        "party": "R",
+        "state": "UT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 5,
+      "amendments": [],
+      "momentum": 37,
       "sector_trade_flag": false
     }
   ],
