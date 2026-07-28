@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T13:02:11Z",
+  "generated_at": "2026-07-28T12:04:25Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -47,17 +47,17 @@
       "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 5,
       "lobbying_count": 315,
-      "avg_momentum": 37
+      "avg_momentum": 36
     },
     "ITA": {
       "name": "Defense",
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 13,
+      "bill_count": 12,
       "trade_count": 10,
       "lobbying_count": 300,
       "avg_momentum": 36
@@ -107,7 +107,7 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 10,
+      "bill_count": 12,
       "trade_count": 5,
       "lobbying_count": 208,
       "avg_momentum": 37
@@ -134,31 +134,6 @@
     }
   },
   "bills": [
-    {
-      "id": "119-HR-4560",
-      "number": "HR 4560",
-      "title": "Building Resilient Infrastructure and Communities for All Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-07-21",
-      "latest_action": {
-        "date": "2025-07-22",
-        "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4560",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Figures, Shomari [D-AL-2]",
-        "party": "D",
-        "state": "AL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-HRES-1042",
       "number": "HRES 1042",
@@ -410,31 +385,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-1892",
-      "number": "HR 1892",
-      "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
-      "sector": "GRID",
-      "introduced_date": "2025-03-05",
-      "latest_action": {
-        "date": "2025-03-05",
-        "text": "Referred to the Subcommittee on Highways and Transit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1892",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Stevens, Haley M. [D-MI-11]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-651",
       "number": "S 651",
       "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
@@ -482,6 +432,31 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-1892",
+      "number": "HR 1892",
+      "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
+      "sector": "GRID",
+      "introduced_date": "2025-03-05",
+      "latest_action": {
+        "date": "2025-03-05",
+        "text": "Referred to the Subcommittee on Highways and Transit."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1892",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Stevens, Haley M. [D-MI-11]",
+        "party": "D",
+        "state": "MI"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 4,
+      "amendments": [],
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -582,31 +557,6 @@
       "cosponsor_count": 6,
       "amendments": [],
       "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-8925",
-      "number": "HR 8925",
-      "title": "Job Corps and Skilled Defense Workforce Act",
-      "sector": "ITA",
-      "introduced_date": "2026-05-20",
-      "latest_action": {
-        "date": "2026-05-20",
-        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8925",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Courtney, Joe [D-CT-2]",
-        "party": "D",
-        "state": "CT"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 18,
-      "amendments": [],
-      "momentum": 42,
       "sector_trade_flag": false
     },
     {
@@ -1110,31 +1060,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-1954",
-      "number": "S 1954",
-      "title": "Biosimilar Red Tape Elimination Act",
-      "sector": "XBI",
-      "introduced_date": "2025-06-04",
-      "latest_action": {
-        "date": "2026-06-17",
-        "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1954",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Lee, Mike [R-UT]",
-        "party": "R",
-        "state": "UT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 5,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-4727",
       "number": "S 4727",
       "title": "Artificial Intelligence Environmental Impacts Act of 2026",
@@ -1632,6 +1557,81 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-SRES-57",
+      "number": "SRES 57",
+      "title": "An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.",
+      "sector": "MOO",
+      "introduced_date": "2025-02-05",
+      "latest_action": {
+        "date": "2025-02-05",
+        "text": "Referred to the Committee on Rules and Administration. (text: CR S671)"
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/57",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Boozman, John [R-AR]",
+        "party": "R",
+        "state": "AR"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9366",
+      "number": "HR 9366",
+      "title": "Eastern Frontier Defense Infrastructure Readiness Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-18",
+      "latest_action": {
+        "date": "2026-06-18",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9366",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Self, Keith [R-TX-3]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-SRES-289",
+      "number": "SRES 289",
+      "title": "A resolution recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 15 through June 22, 2025, as \"National Pollinator Week\".",
+      "sector": "MOO",
+      "introduced_date": "2025-06-18",
+      "latest_action": {
+        "date": "2025-06-18",
+        "text": "Referred to the Committee on Environment and Public Works. (text: CR S3474-3475)"
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/289",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Merkley, Jeff [D-OR]",
+        "party": "D",
+        "state": "OR"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
       "sector_trade_flag": false
     }
   ],
@@ -7272,6 +7272,20 @@
       "ticker": "NUE",
       "company": "Nucor",
       "client_name": "NUCOR CORPORATION",
+      "registrant_name": "STONE MATTHEIS XENOPOULOS AND BREW, PC",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-27T13:01:57-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/c083b2d7-5d8d-4716-ba92-5ea8ab1689cd/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "NUE",
+      "company": "Nucor",
+      "client_name": "NUCOR CORPORATION",
       "registrant_name": "NUCOR CORPORATION",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -7689,22 +7703,6 @@
       "posted_date": "2025-05-20T12:57:04-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/afb0cca9-8690-4d21-a90e-8673036305e0/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "NUE",
-      "company": "Nucor",
-      "client_name": "NUCOR CORPORATION",
-      "registrant_name": "WILEY REIN LLP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": "170000.00",
-      "posted_date": "2025-04-21T14:41:20-04:00",
-      "issues": [
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/7432b3f1-69c3-4ada-8a8c-a3728fb9e95c/print/"
     },
     {
       "sector": "PAVE",
@@ -46707,7 +46705,7 @@
       "ticker": "INTC",
       "company": "Intel",
       "client_name": "INTEL CORP",
-      "registrant_name": "FS VECTOR LLC",
+      "registrant_name": "FS VECTOR",
       "filing_type": "1st Quarter - Termination (No Activity)",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -46800,7 +46798,7 @@
       "ticker": "INTC",
       "company": "Intel",
       "client_name": "INTEL CORP",
-      "registrant_name": "FS VECTOR LLC",
+      "registrant_name": "FS VECTOR",
       "filing_type": "4th Quarter - Report (No Activity)",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -46956,7 +46954,7 @@
       "ticker": "INTC",
       "company": "Intel",
       "client_name": "INTEL CORP",
-      "registrant_name": "FS VECTOR LLC",
+      "registrant_name": "FS VECTOR",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -54909,6 +54907,23 @@
       "ticker": "MOS",
       "company": "The Mosaic Company",
       "client_name": "THE MOSAIC COMPANY",
+      "registrant_name": "THE MOSAIC COMPANY",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-27T16:11:26-04:00",
+      "issues": [
+        "Manufacturing",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/558b491d-65a2-4fbb-a67c-5dcb65783813/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "MOS",
+      "company": "The Mosaic Company",
+      "client_name": "THE MOSAIC COMPANY",
       "registrant_name": "TORREY ADVISORY GROUP (FORMERLY MICHAEL TORREY ASSOCIATES, LLC)",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -55307,25 +55322,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/f4b7af8d-d0b2-466d-8d3f-e880aa786f53/print/"
-    },
-    {
-      "sector": "MOO",
-      "ticker": "MOS",
-      "company": "The Mosaic Company",
-      "client_name": "THE MOSAIC COMPANY",
-      "registrant_name": "THE MOSAIC COMPANY",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-07-22T11:00:18-04:00",
-      "issues": [
-        "Agriculture",
-        "Environment/Superfund",
-        "Natural Resources",
-        "Waste (hazardous/solid/interstate/nuclear)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/eb6da900-41d2-4bd2-aaf1-ce4fd4734f25/print/"
     },
     {
       "sector": "MOO",
