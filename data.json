@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T12:04:25Z",
+  "generated_at": "2026-07-29T12:07:23Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 13,
+      "bill_count": 12,
       "trade_count": 7,
       "lobbying_count": 361,
-      "avg_momentum": 34
+      "avg_momentum": 36
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -107,7 +107,7 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 12,
+      "bill_count": 13,
       "trade_count": 5,
       "lobbying_count": 208,
       "avg_momentum": 37
@@ -134,31 +134,6 @@
     }
   },
   "bills": [
-    {
-      "id": "119-HRES-1042",
-      "number": "HRES 1042",
-      "title": "Providing for consideration of the bill (H.R. 2189) to modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes; providing for consideration of the bill (H.R. 261) to amend the National Marine Sanctuaries Act to prohibit requiring an authorization for the installation, continued presence, operation, maintenance, repair, or recovery of undersea fiber optic cables in a national marine sanctuary if such activities have previously been authorized by a Federal or State agency; providing for consideration of the bill (H.R. 3617) to amend the Department of Energy Organization Act to secure the supply of critical energy resources, including critical minerals and other materials, and for other purposes; and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-02-09",
-      "latest_action": {
-        "date": "2026-02-10",
-        "text": "Motion to reconsider laid on the table Agreed to without objection."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1042",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Langworthy, Nicholas A. [R-NY-23]",
-        "party": "R",
-        "state": "NY"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-S-1733",
       "number": "S 1733",
@@ -385,31 +360,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-651",
-      "number": "S 651",
-      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
-      "sector": "GRID",
-      "introduced_date": "2025-02-20",
-      "latest_action": {
-        "date": "2025-02-20",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Ernst, Joni [R-IA]",
-        "party": "R",
-        "state": "IA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-3972",
       "number": "HR 3972",
       "title": "Highway Funding Flexibility Act of 2025",
@@ -429,6 +379,31 @@
         "state": "SD"
       },
       "committee_count": 2,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-651",
+      "number": "S 651",
+      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
+      "sector": "GRID",
+      "introduced_date": "2025-02-20",
+      "latest_action": {
+        "date": "2025-02-20",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Ernst, Joni [R-IA]",
+        "party": "R",
+        "state": "IA"
+      },
+      "committee_count": 1,
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
@@ -1605,6 +1580,31 @@
       },
       "committee_count": 1,
       "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-526",
+      "number": "HRES 526",
+      "title": "Recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 15 through June 22, 2025, as \"National Pollinator Week\".",
+      "sector": "MOO",
+      "introduced_date": "2025-06-20",
+      "latest_action": {
+        "date": "2025-06-20",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/526",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Panetta, Jimmy [D-CA-19]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
@@ -21485,6 +21485,24 @@
       "ticker": "SEDG",
       "company": "SolarEdge Technologies",
       "client_name": "SOLAREDGE TECHNOLOGIES INC.",
+      "registrant_name": "SOLAREDGE TECHNOLOGIES INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-28T09:12:45-04:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0d724e11-1251-48b5-abe3-f6abee42b2cf/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "SEDG",
+      "company": "SolarEdge Technologies",
+      "client_name": "SOLAREDGE TECHNOLOGIES INC.",
       "registrant_name": "FORBES-TATE",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -21893,24 +21911,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/b2cc76f8-9d46-4d47-8ae2-9a43ea735dd1/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "SEDG",
-      "company": "SolarEdge Technologies",
-      "client_name": "SOLAREDGE TECHNOLOGIES INC.",
-      "registrant_name": "FORBES-TATE",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2024,
-      "income": "50000.00",
-      "posted_date": "2024-10-17T19:22:13-04:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Environment/Superfund",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/69c8212f-2cd2-44ca-8a86-0c53ef042af9/print/"
     },
     {
       "sector": "QTUM",
@@ -27225,6 +27225,20 @@
       "sector": "XBI",
       "ticker": "AMGN",
       "company": "Amgen",
+      "client_name": "AMGEN",
+      "registrant_name": "MR. DAN CRIPPEN",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-28T14:22:10-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/dc424c8e-657c-4f23-a30c-f809eab2eafa/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "AMGN",
+      "company": "Amgen",
       "client_name": "AMGEN, INC.",
       "registrant_name": "FEDERAL HEALTH COUNSEL, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -27629,22 +27643,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/45c151bb-64f7-41a4-87c2-dd30774547d0/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "client_name": "AMGEN INC.",
-      "registrant_name": "EMPIRE CONSULTING GROUP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-07-16T12:16:29-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/366902cb-cac3-4301-9633-2069e23a6e8c/print/"
     },
     {
       "sector": "XBI",
@@ -31328,6 +31326,44 @@
       "sector": "ITA",
       "ticker": "LMT",
       "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN",
+      "registrant_name": "PUBLIC STRATEGIES WASHINGTON, INC.",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2023,
+      "income": "30000.00",
+      "posted_date": "2026-07-28T16:37:08-04:00",
+      "issues": [
+        "Aviation/Airlines/Airports",
+        "Budget/Appropriations",
+        "Defense",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e1c7f91c-cab0-4a58-9aaf-3db7db7a31f3/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN",
+      "registrant_name": "PUBLIC STRATEGIES WASHINGTON, INC.",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2021,
+      "income": "30000.00",
+      "posted_date": "2026-07-28T16:04:41-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense",
+        "Labor Issues/Antitrust/Workplace",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d2c0baa4-26fc-4ff6-afc7-af21d23f5da2/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
       "client_name": "LOCKHEED MARTIN CORPORATION",
       "registrant_name": "LOCKHEED MARTIN CORPORATION",
       "filing_type": "2nd Quarter - Report",
@@ -31721,38 +31757,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1f0bf119-29d1-4fcc-9b80-e5b484f0e092/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "BALLARD SPAHR LLP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-20T15:46:11-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3fa15025-153a-40f2-829b-f8d2b05a8392/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "MICHAEL BEST STRATEGIES LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-04-20T14:39:10-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/df8d08e0-c16b-4f47-add6-8a38c817318e/print/"
     },
     {
       "sector": "ITA",
@@ -38577,6 +38581,44 @@
       "sector": "UFO",
       "ticker": "LMT",
       "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN",
+      "registrant_name": "PUBLIC STRATEGIES WASHINGTON, INC.",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2023,
+      "income": "30000.00",
+      "posted_date": "2026-07-28T16:37:08-04:00",
+      "issues": [
+        "Aviation/Airlines/Airports",
+        "Budget/Appropriations",
+        "Defense",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e1c7f91c-cab0-4a58-9aaf-3db7db7a31f3/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN",
+      "registrant_name": "PUBLIC STRATEGIES WASHINGTON, INC.",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2021,
+      "income": "30000.00",
+      "posted_date": "2026-07-28T16:04:41-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense",
+        "Labor Issues/Antitrust/Workplace",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d2c0baa4-26fc-4ff6-afc7-af21d23f5da2/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
       "client_name": "LOCKHEED MARTIN CORPORATION",
       "registrant_name": "LOCKHEED MARTIN CORPORATION",
       "filing_type": "2nd Quarter - Report",
@@ -38970,38 +39012,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1f0bf119-29d1-4fcc-9b80-e5b484f0e092/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "BALLARD SPAHR LLP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-20T15:46:11-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3fa15025-153a-40f2-829b-f8d2b05a8392/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "MICHAEL BEST STRATEGIES LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-04-20T14:39:10-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/df8d08e0-c16b-4f47-add6-8a38c817318e/print/"
     },
     {
       "sector": "UFO",
@@ -50741,6 +50751,24 @@
       "ticker": "SEDG",
       "company": "SolarEdge Technologies",
       "client_name": "SOLAREDGE TECHNOLOGIES INC.",
+      "registrant_name": "SOLAREDGE TECHNOLOGIES INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-28T09:12:45-04:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0d724e11-1251-48b5-abe3-f6abee42b2cf/print/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "SEDG",
+      "company": "SolarEdge Technologies",
+      "client_name": "SOLAREDGE TECHNOLOGIES INC.",
       "registrant_name": "FORBES-TATE",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -51149,24 +51177,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/b2cc76f8-9d46-4d47-8ae2-9a43ea735dd1/print/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "SEDG",
-      "company": "SolarEdge Technologies",
-      "client_name": "SOLAREDGE TECHNOLOGIES INC.",
-      "registrant_name": "FORBES-TATE",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2024,
-      "income": "50000.00",
-      "posted_date": "2024-10-17T19:22:13-04:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Environment/Superfund",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/69c8212f-2cd2-44ca-8a86-0c53ef042af9/print/"
     },
     {
       "sector": "ICLN",
@@ -55767,6 +55777,20 @@
       "ticker": "FMC",
       "company": "FMC Corporation",
       "client_name": "FMC CORPORATION",
+      "registrant_name": "RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC)",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-28T10:19:07-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/7f24a036-fbc7-4efe-a974-ff8cdfda5665/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
       "registrant_name": "MICHAEL BEST STRATEGIES LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -56158,23 +56182,6 @@
         "Chemicals/Chemical Industry"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/cf78dcaf-0050-47d4-97bb-826febd7d299/print/"
-    },
-    {
-      "sector": "MOO",
-      "ticker": "FMC",
-      "company": "FMC Corporation",
-      "client_name": "FMC CORPORATION",
-      "registrant_name": "FMC CORPORATION",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-16T13:46:38-04:00",
-      "issues": [
-        "Agriculture",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f4ca6124-0bb3-4108-a0e4-c0bb60234d83/print/"
     },
     {
       "sector": "MOO",
