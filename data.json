@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T12:07:23Z",
+  "generated_at": "2026-07-30T11:57:14Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 12,
+      "bill_count": 11,
       "trade_count": 7,
       "lobbying_count": 361,
       "avg_momentum": 36
@@ -107,10 +107,10 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 13,
+      "bill_count": 14,
       "trade_count": 5,
       "lobbying_count": 208,
-      "avg_momentum": 37
+      "avg_momentum": 36
     },
     "FINX": {
       "name": "Financial Technology",
@@ -134,31 +134,6 @@
     }
   },
   "bills": [
-    {
-      "id": "119-S-1733",
-      "number": "S 1733",
-      "title": "Highway Funding Transferability Improvement Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-05-13",
-      "latest_action": {
-        "date": "2025-07-23",
-        "text": "Committee on Environment and Public Works Senate Subcommittee on Transportation and Infrastructure. Hearings held."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1733",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Cramer, Kevin [R-ND]",
-        "party": "R",
-        "state": "ND"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-HR-4926",
       "number": "HR 4926",
@@ -385,31 +360,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-651",
-      "number": "S 651",
-      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
-      "sector": "GRID",
-      "introduced_date": "2025-02-20",
-      "latest_action": {
-        "date": "2025-02-20",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Ernst, Joni [R-IA]",
-        "party": "R",
-        "state": "IA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-1892",
       "number": "HR 1892",
       "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
@@ -432,6 +382,31 @@
       "cosponsor_count": 4,
       "amendments": [],
       "momentum": 37,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-651",
+      "number": "S 651",
+      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
+      "sector": "GRID",
+      "introduced_date": "2025-02-20",
+      "latest_action": {
+        "date": "2025-02-20",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Ernst, Joni [R-IA]",
+        "party": "R",
+        "state": "IA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -1620,6 +1595,31 @@
         "text": "Referred to the Committee on Environment and Public Works. (text: CR S3474-3475)"
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/289",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Merkley, Jeff [D-OR]",
+        "party": "D",
+        "state": "OR"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-SRES-782",
+      "number": "SRES 782",
+      "title": "A resolution recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 22 through June 28, 2026, as \"National Pollinator Week\".",
+      "sector": "MOO",
+      "introduced_date": "2026-06-22",
+      "latest_action": {
+        "date": "2026-06-22",
+        "text": "Referred to the Committee on Environment and Public Works. (text: CR S2987)"
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/782",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
@@ -42850,6 +42850,23 @@
       "company": "Vistra",
       "client_name": "VISTRA CORPORATE SERVICES COMPANY F/K/A VISTRA ENERGY",
       "registrant_name": "PUBLIC STRATEGIES WASHINGTON, INC.",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2022,
+      "income": "50000.00",
+      "posted_date": "2026-07-29T10:20:21-04:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ec879189-2a61-4712-b486-d9073ea3eb8c/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "VST",
+      "company": "Vistra",
+      "client_name": "VISTRA CORPORATE SERVICES COMPANY F/K/A VISTRA ENERGY",
+      "registrant_name": "PUBLIC STRATEGIES WASHINGTON, INC.",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
@@ -43248,23 +43265,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/47ba1f42-dd87-4407-87c6-d80846c3f59d/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "VST",
-      "company": "Vistra",
-      "client_name": "VISTRA CORP.",
-      "registrant_name": "GREENBERG TRAURIG, LLP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2025-10-20T09:52:59-04:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/22a6986d-9712-415d-818a-762374433b71/print/"
     },
     {
       "sector": "URA",
