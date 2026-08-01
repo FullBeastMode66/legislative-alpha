@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T12:05:16Z",
+  "generated_at": "2026-08-01T11:22:23Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,17 +7,17 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 10,
+      "bill_count": 11,
       "trade_count": 7,
       "lobbying_count": 361,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 6,
+      "bill_count": 5,
       "trade_count": 5,
       "lobbying_count": 288,
       "avg_momentum": 35
@@ -27,7 +27,7 @@
       "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 5,
       "lobbying_count": 265,
       "avg_momentum": 36
@@ -37,10 +37,10 @@
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 2,
+      "bill_count": 1,
       "trade_count": 9,
       "lobbying_count": 222,
-      "avg_momentum": 26
+      "avg_momentum": 35
     },
     "XBI": {
       "name": "Biotech",
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 12,
+      "bill_count": 13,
       "trade_count": 10,
       "lobbying_count": 300,
       "avg_momentum": 36
@@ -87,7 +87,7 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 13,
       "lobbying_count": 300,
       "avg_momentum": 36
@@ -107,7 +107,7 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 15,
+      "bill_count": 13,
       "trade_count": 5,
       "lobbying_count": 208,
       "avg_momentum": 36
@@ -128,112 +128,12 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 365,
+      "trade_count": 332,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
   },
   "bills": [
-    {
-      "id": "119-HR-6944",
-      "number": "HR 6944",
-      "title": "To require the Secretary of Agriculture to make cost-share grants for retrofitting agricultural tractors with rollover protection structures, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2026-01-06",
-      "latest_action": {
-        "date": "2026-01-06",
-        "text": "Referred to the House Committee on Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6944",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Feenstra, Randy [R-IA-4]",
-        "party": "R",
-        "state": "IA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3580",
-      "number": "S 3580",
-      "title": "A bill to require the Secretary of Agriculture to make cost-share grants for retrofitting agricultural tractors with rollover protection structures, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2026-01-05",
-      "latest_action": {
-        "date": "2026-01-05",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3580",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Hyde-Smith, Cindy [R-MS]",
-        "party": "R",
-        "state": "MS"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 5,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-SRES-175",
-      "number": "SRES 175",
-      "title": "A resolution recognizing April 14, 2025, as \"World Quantum Day\", and commemorating and supporting the goals of World Quantum Day.",
-      "sector": "QTUM",
-      "introduced_date": "2025-04-10",
-      "latest_action": {
-        "date": "2025-04-10",
-        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2577; text: CR S2572-2573)"
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/175",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Young, Todd [R-IN]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 0,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 16,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4564",
-      "number": "S 4564",
-      "title": "Maritime Cybersecurity Act",
-      "sector": "CIBR",
-      "introduced_date": "2026-05-19",
-      "latest_action": {
-        "date": "2026-05-19",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4564",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Scott, Rick [R-FL]",
-        "party": "R",
-        "state": "FL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-S-4565",
       "number": "S 4565",
@@ -260,28 +160,28 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-651",
-      "number": "S 651",
-      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
+      "id": "119-HR-1892",
+      "number": "HR 1892",
+      "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
       "sector": "GRID",
-      "introduced_date": "2025-02-20",
+      "introduced_date": "2025-03-05",
       "latest_action": {
-        "date": "2025-02-20",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
+        "date": "2025-03-05",
+        "text": "Referred to the Subcommittee on Highways and Transit."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1892",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Sen. Ernst, Joni [R-IA]",
-        "party": "R",
-        "state": "IA"
+        "name": "Rep. Stevens, Haley M. [D-MI-11]",
+        "party": "D",
+        "state": "MI"
       },
-      "committee_count": 1,
-      "cosponsor_count": 2,
+      "committee_count": 2,
+      "cosponsor_count": 4,
       "amendments": [],
-      "momentum": 36,
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -310,28 +210,28 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-1892",
-      "number": "HR 1892",
-      "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
+      "id": "119-S-651",
+      "number": "S 651",
+      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
       "sector": "GRID",
-      "introduced_date": "2025-03-05",
+      "introduced_date": "2025-02-20",
       "latest_action": {
-        "date": "2025-03-05",
-        "text": "Referred to the Subcommittee on Highways and Transit."
+        "date": "2025-02-20",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1892",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Stevens, Haley M. [D-MI-11]",
-        "party": "D",
-        "state": "MI"
+        "name": "Sen. Ernst, Joni [R-IA]",
+        "party": "R",
+        "state": "IA"
       },
-      "committee_count": 2,
-      "cosponsor_count": 4,
+      "committee_count": 1,
+      "cosponsor_count": 2,
       "amendments": [],
-      "momentum": 37,
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -1460,31 +1360,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HRES-526",
-      "number": "HRES 526",
-      "title": "Recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 15 through June 22, 2025, as \"National Pollinator Week\".",
-      "sector": "MOO",
-      "introduced_date": "2025-06-20",
-      "latest_action": {
-        "date": "2025-06-20",
-        "text": "Referred to the House Committee on Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/526",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Panetta, Jimmy [D-CA-19]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-SRES-289",
       "number": "SRES 289",
       "title": "A resolution recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 15 through June 22, 2025, as \"National Pollinator Week\".",
@@ -1505,6 +1380,31 @@
       },
       "committee_count": 1,
       "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-526",
+      "number": "HRES 526",
+      "title": "Recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 15 through June 22, 2025, as \"National Pollinator Week\".",
+      "sector": "MOO",
+      "introduced_date": "2025-06-20",
+      "latest_action": {
+        "date": "2025-06-20",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/526",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Panetta, Jimmy [D-CA-19]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
@@ -1633,6 +1533,106 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-2986",
+      "number": "HR 2986",
+      "title": "Expediting Generator Interconnection Procedures Act of 2025",
+      "sector": "GRID",
+      "introduced_date": "2025-04-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2986",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Castor, Kathy [D-FL-14]",
+        "party": "D",
+        "state": "FL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4214",
+      "number": "S 4214",
+      "title": "Artificial Intelligence Data Center Moratorium Act",
+      "sector": "SMH",
+      "introduced_date": "2026-03-25",
+      "latest_action": {
+        "date": "2026-03-25",
+        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Sanders, Bernard [I-VT]",
+        "party": "I",
+        "state": "VT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4728",
+      "number": "S 4728",
+      "title": "Combat Emerging Threats to Critical Infrastructure Act of 2026",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-10",
+      "latest_action": {
+        "date": "2026-06-10",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4728",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Warner, Mark R. [D-VA]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9283",
+      "number": "HR 9283",
+      "title": "Critical Defense Ownership Review Act",
+      "sector": "ITA",
+      "introduced_date": "2026-06-11",
+      "latest_action": {
+        "date": "2026-06-11",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9283",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Khanna, Ro [D-CA-17]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": true
     }
   ],
   "trades": [
@@ -6079,369 +6079,6 @@
       "type": "Sale (Partial)",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "VEA",
-      "company": "Vanguard Developed Markets Index Fund - ETF Shares",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "VNQI",
-      "company": "Vanguard Global ex-U.S. Real Estate Index Fund - ETF Shares",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "LITP",
-      "company": "Sprott Lithium Miners ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "IVV",
-      "company": "iShares Core S&P 500 ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "SCHP",
-      "company": "Schwab U.S. TIPS ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/13/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "RNWGX",
-      "company": "NEW WORLD FUND INC - Class R-6",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "JMBS",
-      "company": "Janus Henderson Mortgage-Backed Securities ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/13/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "SPYM",
-      "company": "Tradr 2X Long SPY Monthly ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "IWM",
-      "company": "iShares Russell 2000 ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "EFA",
-      "company": "iShares MSCI EAFE ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "CMBS",
-      "company": "iShares CMBS ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/13/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "IEI",
-      "company": "iShares 3-7 Year Treasury Bond ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/13/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$50,001 - $100,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "MBB",
-      "company": "iShares MBS ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/13/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "GEM",
-      "company": "Goldman Sachs ActiveBeta(R) Emerging Markets Equity ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "FTGC",
-      "company": "First Trust Global Tactical Commodity Strategy Fund",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "EIPI",
-      "company": "FT Energy Income Partners Enhanced Income ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "ECL",
-      "company": "Ecolab Inc. Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "05/15/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "ACN",
-      "company": "Accenture plc Class A Ordinary Shares (Ireland)",
-      "senator": "John Boozman",
-      "transaction_date": "05/15/2026",
-      "filed_date": "06/16/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "SCHP",
-      "company": "Schwab U.S. TIPS ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "PLTR",
-      "company": "Palantir Technologies Inc. - Class A Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "05/15/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "JMBS",
-      "company": "Janus Henderson Mortgage-Backed Securities ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "IEF",
-      "company": "iShares 7-10 Year Treasury Bond ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "TLH",
-      "company": "iShares 10-20 Year Treasury Bond ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "CMBS",
-      "company": "iShares CMBS ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "MBB",
-      "company": "iShares MBS ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "AGZ",
-      "company": "iShares Agency Bond ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "GBIL",
-      "company": "Goldman Sachs Access Treasury 0-1 Year ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "GIGB",
-      "company": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "GIGB",
-      "company": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/13/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "XFIV",
-      "company": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "XFIV",
-      "company": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/13/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$50,001 - $100,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "XTWO",
-      "company": "BondBloxx Bloomberg Two Year Target Duration US Treasury ETF",
-      "senator": "John Boozman",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "ALB",
-      "company": "Albemarle Corporation Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "05/15/2026",
-      "filed_date": "06/16/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/"
     }
   ],
   "lobbying": [
@@ -33926,6 +33563,23 @@
       "sector": "ITA",
       "ticker": "HII",
       "company": "Huntington Ingalls Industries",
+      "client_name": "HUNTINGTON INGALLS INDUSTRIES INCORPORATED",
+      "registrant_name": "DAHLBERG STRATEGIC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "21000.00",
+      "posted_date": "2026-07-31T16:39:32-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9abf9b5e-8718-4440-8359-1293a45aab2c/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "HII",
+      "company": "Huntington Ingalls Industries",
       "client_name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
       "registrant_name": "KED STRATEGIES, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -34335,22 +33989,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/bcd554ea-c39e-4bfd-833c-44fe8c5890c6/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "HII",
-      "company": "Huntington Ingalls Industries",
-      "client_name": "HUNTINGTON INGALLS INCORPORATED",
-      "registrant_name": "BRIAN GLACKIN & ASSOCIATES LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "40000.00",
-      "posted_date": "2026-01-16T15:03:34-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/034a592e-a486-426b-bb16-777199d56e84/print/"
     },
     {
       "sector": "ITA",
