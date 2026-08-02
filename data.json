@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:22:23Z",
+  "generated_at": "2026-08-02T11:22:15Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,7 +17,7 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 5,
+      "bill_count": 4,
       "trade_count": 5,
       "lobbying_count": 288,
       "avg_momentum": 35
@@ -27,10 +27,10 @@
       "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
-      "bill_count": 3,
+      "bill_count": 1,
       "trade_count": 5,
       "lobbying_count": 265,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "QTUM": {
       "name": "Quantum Computing",
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 13,
+      "bill_count": 16,
       "trade_count": 10,
       "lobbying_count": 300,
       "avg_momentum": 36
@@ -134,106 +134,6 @@
     }
   },
   "bills": [
-    {
-      "id": "119-S-4565",
-      "number": "S 4565",
-      "title": "Strengthening Cyber Resilience Against State-Sponsored Threats Act",
-      "sector": "CIBR",
-      "introduced_date": "2026-05-19",
-      "latest_action": {
-        "date": "2026-05-19",
-        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4565",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Scott, Rick [R-FL]",
-        "party": "R",
-        "state": "FL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-1892",
-      "number": "HR 1892",
-      "title": "Wireless Electric Vehicle Charging Grant Program Act of 2025",
-      "sector": "GRID",
-      "introduced_date": "2025-03-05",
-      "latest_action": {
-        "date": "2025-03-05",
-        "text": "Referred to the Subcommittee on Highways and Transit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1892",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Stevens, Haley M. [D-MI-11]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-3972",
-      "number": "HR 3972",
-      "title": "Highway Funding Flexibility Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-06-12",
-      "latest_action": {
-        "date": "2025-06-13",
-        "text": "Referred to the Subcommittee on Highways and Transit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3972",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Johnson, Dusty [R-SD-At Large]",
-        "party": "R",
-        "state": "SD"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-651",
-      "number": "S 651",
-      "title": "Unplug the Electric Vehicle Charging Stations Programs Act",
-      "sector": "GRID",
-      "introduced_date": "2025-02-20",
-      "latest_action": {
-        "date": "2025-02-20",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/651",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Ernst, Joni [R-IA]",
-        "party": "R",
-        "state": "IA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-HR-5854",
       "number": "HR 5854",
@@ -1627,6 +1527,106 @@
         "name": "Rep. Khanna, Ro [D-CA-17]",
         "party": "D",
         "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": true
+    },
+    {
+      "id": "119-S-4734",
+      "number": "S 4734",
+      "title": "Critical Defense Ownership Review Act",
+      "sector": "ITA",
+      "introduced_date": "2026-06-10",
+      "latest_action": {
+        "date": "2026-06-10",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4734",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Warren, Elizabeth [D-MA]",
+        "party": "D",
+        "state": "MA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": true
+    },
+    {
+      "id": "119-HR-9219",
+      "number": "HR 9219",
+      "title": "National Defense Infrastructure Protection Act of 2026",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-09",
+      "latest_action": {
+        "date": "2026-06-09",
+        "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9219",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Hunt, Wesley [R-TX-38]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4799",
+      "number": "S 4799",
+      "title": "Slash the Pentagon Act",
+      "sector": "ITA",
+      "introduced_date": "2026-06-16",
+      "latest_action": {
+        "date": "2026-06-16",
+        "text": "Read twice and referred to the Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4799",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Markey, Edward J. [D-MA]",
+        "party": "D",
+        "state": "MA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": true
+    },
+    {
+      "id": "119-HR-9215",
+      "number": "HR 9215",
+      "title": "Prioritizing Warfighters in Defense Contracting Act",
+      "sector": "ITA",
+      "introduced_date": "2026-06-09",
+      "latest_action": {
+        "date": "2026-06-09",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9215",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Burchett, Tim [R-TN-2]",
+        "party": "R",
+        "state": "TN"
       },
       "committee_count": 1,
       "cosponsor_count": 0,
