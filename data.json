@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:22:15Z",
+  "generated_at": "2026-08-03T13:00:58Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -134,31 +134,6 @@
     }
   },
   "bills": [
-    {
-      "id": "119-HR-5854",
-      "number": "HR 5854",
-      "title": "Sustainable Agriculture Research Act",
-      "sector": "MOO",
-      "introduced_date": "2025-10-28",
-      "latest_action": {
-        "date": "2025-12-02",
-        "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5854",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Neguse, Joe [D-CO-2]",
-        "party": "D",
-        "state": "CO"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
     {
       "id": "119-HR-3656",
       "number": "HR 3656",
@@ -1633,6 +1608,31 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": true
+    },
+    {
+      "id": "119-S-4853",
+      "number": "S 4853",
+      "title": "United States-Israel Agriculture Cooperation Improvement and Expansion Act",
+      "sector": "MOO",
+      "introduced_date": "2026-06-22",
+      "latest_action": {
+        "date": "2026-06-22",
+        "text": "Read twice and referred to the Committee on Foreign Relations."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4853",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Hoeven, John [R-ND]",
+        "party": "R",
+        "state": "ND"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
     }
   ],
   "trades": [
