@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T10:42:00Z",
+  "generated_at": "2026-08-10T11:15:57Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -37,10 +37,10 @@
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 1,
+      "bill_count": 0,
       "trade_count": 18,
       "lobbying_count": 222,
-      "avg_momentum": 35
+      "avg_momentum": 0
     },
     "XBI": {
       "name": "Biotech",
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 444,
+      "trade_count": 442,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1208,31 +1208,6 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": true
-    },
-    {
-      "id": "119-HR-9318",
-      "number": "HR 9318",
-      "title": "National Security Commission Quantum Computing Act of 2026",
-      "sector": "QTUM",
-      "introduced_date": "2026-06-15",
-      "latest_action": {
-        "date": "2026-06-15",
-        "text": "Referred to the Committee on Armed Services, and in addition to the Committees on Education and Workforce, Foreign Affairs, Science, Space, and Technology, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9318",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Lawler, Michael [R-NY-17]",
-        "party": "R",
-        "state": "NY"
-      },
-      "committee_count": 5,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9322",
@@ -7385,28 +7360,6 @@
       "type": "Purchase",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/36b2e868-6789-43e3-91eb-ebe85aad5699/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "BRK.B",
-      "company": "Berkshire Hathaway Inc. New Common Stock",
-      "senator": "Jerry Moran,",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/25/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "GOOG",
-      "company": "Alphabet Inc. - Class C Capital Stock",
-      "senator": "Jerry Moran,",
-      "transaction_date": "05/27/2026",
-      "filed_date": "06/25/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/"
     }
   ],
   "lobbying": [
