@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:15:57Z",
+  "generated_at": "2026-08-11T10:58:36Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 8,
+      "bill_count": 7,
       "trade_count": 8,
       "lobbying_count": 361,
       "avg_momentum": 36
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 6,
       "lobbying_count": 288,
-      "avg_momentum": 35
+      "avg_momentum": 36
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -60,37 +60,37 @@
       "bill_count": 13,
       "trade_count": 10,
       "lobbying_count": 300,
-      "avg_momentum": 33
+      "avg_momentum": 32
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 4,
       "lobbying_count": 250,
-      "avg_momentum": 35
+      "avg_momentum": 36
     },
     "URA": {
       "name": "Uranium & Nuclear",
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 1,
       "lobbying_count": 233,
-      "avg_momentum": 38
+      "avg_momentum": 39
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 7,
+      "bill_count": 5,
       "trade_count": 25,
       "lobbying_count": 300,
-      "avg_momentum": 37
+      "avg_momentum": 35
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -306,8 +306,33 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 23,
+      "momentum": 15,
       "sector_trade_flag": true
+    },
+    {
+      "id": "119-HRES-1339",
+      "number": "HRES 1339",
+      "title": "Expressing the sense of the House of Representatives in support of Prime Minister Benjamin Netanyahu's initiative to transition the United States-Israel relationship toward mutual defense cooperation and joint economic investment, recognizing the contributions of Israel to joint military operations against Iran, and condemning the global rise of antisemitism.",
+      "sector": "ITA",
+      "introduced_date": "2026-06-03",
+      "latest_action": {
+        "date": "2026-06-03",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1339",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Stutzman, Marlin A. [R-IN-3]",
+        "party": "R",
+        "state": "IN"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 4,
+      "amendments": [],
+      "momentum": 37,
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9755",
@@ -585,31 +610,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9093",
-      "number": "HR 9093",
-      "title": "BRIDGE Act",
-      "sector": "PAVE",
-      "introduced_date": "2026-06-02",
-      "latest_action": {
-        "date": "2026-06-02",
-        "text": "Referred to the House Committee on Foreign Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9093",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Fitzgerald, Scott [R-WI-5]",
-        "party": "R",
-        "state": "WI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-4699",
       "number": "S 4699",
       "title": "Guaranteeing Universal Access to Cybersecurity Act",
@@ -685,31 +685,6 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-HR-9197",
-      "number": "HR 9197",
-      "title": "Advancing Research in Nuclear Fuel Recycling Act",
-      "sector": "URA",
-      "introduced_date": "2026-06-08",
-      "latest_action": {
-        "date": "2026-06-08",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9197",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Moore, Tim [R-NC-14]",
-        "party": "R",
-        "state": "NC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-8665",
       "number": "HR 8665",
       "title": "Allied Defense Sales Act",
@@ -758,31 +733,6 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": true
-    },
-    {
-      "id": "119-S-4727",
-      "number": "S 4727",
-      "title": "Artificial Intelligence Environmental Impacts Act of 2026",
-      "sector": "SMH",
-      "introduced_date": "2026-06-09",
-      "latest_action": {
-        "date": "2026-06-09",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Markey, Edward J. [D-MA]",
-        "party": "D",
-        "state": "MA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9219",
@@ -854,7 +804,7 @@
         "state": "DE"
       },
       "committee_count": 1,
-      "cosponsor_count": 5,
+      "cosponsor_count": 6,
       "amendments": [],
       "momentum": 37,
       "sector_trade_flag": true
@@ -933,6 +883,31 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": true
+    },
+    {
+      "id": "119-SRES-641",
+      "number": "SRES 641",
+      "title": "A resolution recognizing Girl Scouts of the United States of America on its 114th birthday and celebrating its legacy of providing girls with a supportive and inclusive space where they can explore their world, build meaningful relationships, and have access to experiences that prepare them for a life of leadership.",
+      "sector": "UFO",
+      "introduced_date": "2026-03-12",
+      "latest_action": {
+        "date": "2026-03-12",
+        "text": "Referred to the Committee on the Judiciary. (text: CR S1050-1051)"
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/641",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Duckworth, Tammy [D-IL]",
+        "party": "D",
+        "state": "IL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 6,
+      "amendments": [],
+      "momentum": 37,
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9658",
@@ -1232,81 +1207,6 @@
       "cosponsor_count": 6,
       "amendments": [],
       "momentum": 37,
-      "sector_trade_flag": true
-    },
-    {
-      "id": "119-HR-9183",
-      "number": "HR 9183",
-      "title": "Artificial Intelligence Environmental Impacts Act of 2026",
-      "sector": "SMH",
-      "introduced_date": "2026-06-08",
-      "latest_action": {
-        "date": "2026-06-08",
-        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Beyer, Donald S. [D-VA-8]",
-        "party": "D",
-        "state": "VA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 19,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4794",
-      "number": "S 4794",
-      "title": "Precision Agriculture Cybersecurity Act",
-      "sector": "CIBR",
-      "introduced_date": "2026-06-16",
-      "latest_action": {
-        "date": "2026-06-16",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4794",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Sheehy, Tim [R-MT]",
-        "party": "R",
-        "state": "MT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4799",
-      "number": "S 4799",
-      "title": "Slash the Pentagon Act",
-      "sector": "ITA",
-      "introduced_date": "2026-06-16",
-      "latest_action": {
-        "date": "2026-06-16",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4799",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Markey, Edward J. [D-MA]",
-        "party": "D",
-        "state": "MA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": true
     }
   ],
@@ -25027,6 +24927,22 @@
       "sector": "QTUM",
       "ticker": "HON",
       "company": "Honeywell",
+      "client_name": "HONEYWELL INTERNATIONAL, INC.",
+      "registrant_name": "CORRIGAN & USSERY LLC",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-08-10T10:36:55-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/66aa19ae-e5c8-4407-bf95-5ebf0653b1c6/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "HON",
+      "company": "Honeywell",
       "client_name": "HONEYWELL INTERNATIONAL",
       "registrant_name": "HONEYWELL INTERNATIONAL",
       "filing_type": "2nd Quarter - Report",
@@ -25436,22 +25352,6 @@
         "Aviation/Airlines/Airports"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/ccc7cada-ef1d-48de-a6eb-d07dc313c9cb/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "HONEYWELL INTERNATIONAL",
-      "registrant_name": "FARRAGUT PARTNERS LLP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "20000.00",
-      "posted_date": "2026-04-20T11:15:12-04:00",
-      "issues": [
-        "Manufacturing"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/012ba653-fb87-4db6-892b-5389c303ef6b/print/"
     },
     {
       "sector": "QTUM",
@@ -33498,6 +33398,22 @@
       "sector": "ITA",
       "ticker": "GD",
       "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS CORP",
+      "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-08-10T09:22:21-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6b8abfea-837b-42d5-a4db-28f24e02b741/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "GD",
+      "company": "General Dynamics",
       "client_name": "GENERAL DYNAMICS",
       "registrant_name": "HARBINGER STRATEGIES, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -33912,23 +33828,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/8f5b614d-7b2d-4513-ae84-bf15a030efe9/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS",
-      "registrant_name": "AVOQ, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T19:26:53-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/b22dcc8e-3b1a-4480-ad26-9416abfe4dce/print/"
     },
     {
       "sector": "ITA",
@@ -34841,6 +34740,23 @@
       "sector": "ITA",
       "ticker": "HII",
       "company": "Huntington Ingalls Industries",
+      "client_name": "DAHLBERG STRATEGIC ON BEHALF OF HUNTINGTON INGALLS",
+      "registrant_name": "SPLYSS LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "5000.00",
+      "posted_date": "2026-08-10T10:52:22-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f87cd9bb-b8a0-4678-8fdf-9d6e3ec6698f/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "HII",
+      "company": "Huntington Ingalls Industries",
       "client_name": "HUNTINGTON INGALLS INDUSTRIES INCORPORATED",
       "registrant_name": "DAHLBERG STRATEGIC",
       "filing_type": "2nd Quarter - Report",
@@ -35250,23 +35166,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/4c426024-58cb-43b7-8cf8-af8c5ee46bef/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "HII",
-      "company": "Huntington Ingalls Industries",
-      "client_name": "HUNTINGTON INGALLS INCORPORATED",
-      "registrant_name": "CROSSROADS STRATEGIES, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2026-01-18T21:18:24-05:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/bcd554ea-c39e-4bfd-833c-44fe8c5890c6/print/"
     },
     {
       "sector": "ITA",
@@ -44181,6 +44080,22 @@
       "sector": "URA",
       "ticker": "LEU",
       "company": "Centrus Energy",
+      "client_name": "CENTRUS ENERGY CORP. (FORMERLY KNOWN AS USEC INC.)",
+      "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-08-10T09:23:27-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4c09f703-5160-4529-9f8c-265f3f22f0ab/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "LEU",
+      "company": "Centrus Energy",
       "client_name": "CENTRUS ENERGY CORP",
       "registrant_name": "CENTRUS ENERGY CORP.",
       "filing_type": "2nd Quarter - Report",
@@ -44565,22 +44480,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/d4216839-6199-4f6b-8d7b-852fb38c99dd/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "LEU",
-      "company": "Centrus Energy",
-      "client_name": "CENTRUS ENERGY CORP. (FORMERLY KNOWN AS USEC INC.)",
-      "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-05-07T14:52:29-04:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e92a560c-7673-4c2c-a000-e07c78196fa2/print/"
     },
     {
       "sector": "URA",
