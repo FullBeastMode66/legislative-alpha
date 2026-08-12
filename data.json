@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:58:36Z",
+  "generated_at": "2026-08-12T11:08:14Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 13,
+      "bill_count": 12,
       "trade_count": 10,
       "lobbying_count": 300,
       "avg_momentum": 32
@@ -1182,31 +1182,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
-    },
-    {
-      "id": "119-HR-9322",
-      "number": "HR 9322",
-      "title": "Abraham Accords Defense Cooperation Act of 2026",
-      "sector": "ITA",
-      "introduced_date": "2026-06-15",
-      "latest_action": {
-        "date": "2026-06-15",
-        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9322",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Panetta, Jimmy [D-CA-19]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 6,
-      "amendments": [],
-      "momentum": 37,
       "sector_trade_flag": true
     }
   ],
