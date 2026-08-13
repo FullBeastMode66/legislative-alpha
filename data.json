@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:08:14Z",
+  "generated_at": "2026-08-13T11:08:46Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -46913,6 +46913,23 @@
       "sector": "SMH",
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
+      "client_name": "ADVANCED MICRO DEVICES, INC.",
+      "registrant_name": "MICHAEL BEST STRATEGIES LLC",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-08-12T10:11:58-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/45c7b585-da05-4724-a48a-f46e5865e887/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
       "client_name": "ADVANCED MICRO DEVICES (AMD)",
       "registrant_name": "FORBES-TATE",
       "filing_type": "2nd Quarter - Report",
@@ -47334,26 +47351,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/6cc627f7-7979-44ec-9f3c-b3534727447e/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "client_name": "ADVANCED MICRO DEVICES (AMD)",
-      "registrant_name": "FORBES-TATE",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2025-10-19T21:12:35-04:00",
-      "issues": [
-        "Computer Industry",
-        "Manufacturing",
-        "Taxation/Internal Revenue Code",
-        "Telecommunications",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e5e6c076-1280-4b56-9eb2-83e1204aaf3b/print/"
     },
     {
       "sector": "SMH",
