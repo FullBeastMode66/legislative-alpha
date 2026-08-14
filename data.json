@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:08:46Z",
+  "generated_at": "2026-08-14T11:06:12Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 7,
+      "bill_count": 8,
       "trade_count": 8,
       "lobbying_count": 361,
       "avg_momentum": 36
@@ -17,7 +17,7 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 2,
+      "bill_count": 1,
       "trade_count": 6,
       "lobbying_count": 288,
       "avg_momentum": 36
@@ -610,26 +610,26 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-4699",
-      "number": "S 4699",
-      "title": "Guaranteeing Universal Access to Cybersecurity Act",
-      "sector": "CIBR",
-      "introduced_date": "2026-06-08",
+      "id": "119-HR-9093",
+      "number": "HR 9093",
+      "title": "BRIDGE Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-02",
       "latest_action": {
-        "date": "2026-06-08",
-        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+        "date": "2026-06-02",
+        "text": "Referred to the House Committee on Foreign Affairs."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4699",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9093",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Sen. Warner, Mark R. [D-VA]",
-        "party": "D",
-        "state": "VA"
+        "name": "Rep. Fitzgerald, Scott [R-WI-5]",
+        "party": "R",
+        "state": "WI"
       },
       "committee_count": 1,
-      "cosponsor_count": 0,
+      "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
@@ -652,31 +652,6 @@
         "name": "Sen. Coons, Christopher A. [D-DE]",
         "party": "D",
         "state": "DE"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": true
-    },
-    {
-      "id": "119-SRES-760",
-      "number": "SRES 760",
-      "title": "A resolution recognizing the United States-Philippines alliance on the 80th anniversary of diplomatic relations, the 75th anniversary of the Mutual Defense Treaty between the United States of America and the Republic of the Philippines, and the 10th anniversary of the landmark arbitral award upholding Manila's sovereignty against escalating aggression and lawfare by the People's Republic of China in the South China Sea.",
-      "sector": "ITA",
-      "introduced_date": "2026-06-08",
-      "latest_action": {
-        "date": "2026-06-08",
-        "text": "Referred to the Committee on Foreign Relations. (text: CR S2667-2668)"
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/760",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Ricketts, Pete [R-NE]",
-        "party": "R",
-        "state": "NE"
       },
       "committee_count": 1,
       "cosponsor_count": 1,
@@ -1182,6 +1157,31 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": true
+    },
+    {
+      "id": "119-HR-9322",
+      "number": "HR 9322",
+      "title": "Abraham Accords Defense Cooperation Act of 2026",
+      "sector": "ITA",
+      "introduced_date": "2026-06-15",
+      "latest_action": {
+        "date": "2026-06-15",
+        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9322",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Panetta, Jimmy [D-CA-19]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 6,
+      "amendments": [],
+      "momentum": 37,
       "sector_trade_flag": true
     }
   ],
@@ -14516,6 +14516,22 @@
       "ticker": "ZS",
       "company": "Zscaler",
       "client_name": "ZSCALER INC.",
+      "registrant_name": "CROSSROADS STRATEGIES, LLC",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-08-12T16:10:12-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/20c2c1be-37bd-403c-83e7-6d4ed6beefa2/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
       "registrant_name": "BALLARD PARTNERS",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -14885,22 +14901,6 @@
       "posted_date": "2024-01-22T14:17:47-05:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/9dcdddd3-d2e0-452a-9d06-c83e97554303/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "ZS",
-      "company": "Zscaler",
-      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
-      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2023,
-      "income": "40000.00",
-      "posted_date": "2024-01-16T14:44:02-05:00",
-      "issues": [
-        "Government Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/164d4e48-a259-49dd-9697-8602ec0eab13/print/"
     },
     {
       "sector": "CIBR",
@@ -24902,6 +24902,23 @@
       "sector": "QTUM",
       "ticker": "HON",
       "company": "Honeywell",
+      "client_name": "HONEYWELL AEROSPACE US LLC",
+      "registrant_name": "GREENBERG TRAURIG, LLP",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-08-13T11:19:42-04:00",
+      "issues": [
+        "Aerospace",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/16ca6936-49b4-4dc4-b46c-28d9b35cd24c/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "HON",
+      "company": "Honeywell",
       "client_name": "HONEYWELL INTERNATIONAL, INC.",
       "registrant_name": "CORRIGAN & USSERY LLC",
       "filing_type": "2nd Quarter - Amendment",
@@ -25311,22 +25328,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/ae893963-925e-4538-bed2-9b71abf38970/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "HONEYWELL INTERNATIONAL, INC.",
-      "registrant_name": "BGR GOVERNMENT AFFAIRS",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-04-20T12:17:00-04:00",
-      "issues": [
-        "Aviation/Airlines/Airports"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ccc7cada-ef1d-48de-a6eb-d07dc313c9cb/print/"
     },
     {
       "sector": "QTUM",
