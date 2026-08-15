@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:06:12Z",
+  "generated_at": "2026-08-15T10:29:41Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -87,7 +87,7 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 5,
+      "bill_count": 4,
       "trade_count": 25,
       "lobbying_count": 300,
       "avg_momentum": 35
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 442,
+      "trade_count": 441,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -982,31 +982,6 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4774",
-      "number": "S 4774",
-      "title": "Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026",
-      "sector": "SMH",
-      "introduced_date": "2026-06-11",
-      "latest_action": {
-        "date": "2026-06-11",
-        "text": "Read twice and referred to the Committee on Rules and Administration."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4774",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Merkley, Jeff [D-OR]",
-        "party": "D",
-        "state": "OR"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 5,
-      "amendments": [],
-      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -7224,17 +7199,6 @@
       "type": "Purchase",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/40fbe259-f282-4982-a53f-1c7278d041cd/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "WFC",
-      "company": "Wells Fargo & Company Common Stock",
-      "senator": "A. Mitchell McConnell, Jr.",
-      "transaction_date": "06/01/2026",
-      "filed_date": "06/30/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/36b2e868-6789-43e3-91eb-ebe85aad5699/"
     }
   ],
   "lobbying": [
