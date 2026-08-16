@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:29:41Z",
+  "generated_at": "2026-08-16T10:29:38Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 8,
+      "bill_count": 7,
       "trade_count": 8,
       "lobbying_count": 361,
       "avg_momentum": 36
@@ -17,7 +17,7 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 6,
       "lobbying_count": 288,
       "avg_momentum": 36
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 12,
+      "bill_count": 10,
       "trade_count": 10,
       "lobbying_count": 300,
       "avg_momentum": 32
@@ -90,7 +90,7 @@
       "bill_count": 4,
       "trade_count": 25,
       "lobbying_count": 300,
-      "avg_momentum": 35
+      "avg_momentum": 37
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -408,31 +408,6 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": true
-    },
-    {
-      "id": "119-S-4682",
-      "number": "S 4682",
-      "title": "Ultimate Human Responsibility in Defense Systems Act of 2026",
-      "sector": "ITA",
-      "introduced_date": "2026-06-04",
-      "latest_action": {
-        "date": "2026-06-04",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4682",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Kelly, Mark [D-AZ]",
-        "party": "D",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9612",
@@ -785,31 +760,6 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-HR-9091",
-      "number": "HR 9091",
-      "title": "Defense Industrial Base Advanced Manufacturing Enhancement Act",
-      "sector": "ITA",
-      "introduced_date": "2026-06-02",
-      "latest_action": {
-        "date": "2026-06-02",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9091",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Deluzio, Christopher R. [D-PA-17]",
-        "party": "D",
-        "state": "PA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-4728",
       "number": "S 4728",
       "title": "Combat Emerging Threats to Critical Infrastructure Act of 2026",
@@ -960,31 +910,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-4750",
-      "number": "S 4750",
-      "title": "Semiconductor Superiority Act",
-      "sector": "SMH",
-      "introduced_date": "2026-06-11",
-      "latest_action": {
-        "date": "2026-06-11",
-        "text": "Read twice and referred to the Committee on Finance."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4750",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Budd, Ted [R-NC]",
-        "party": "R",
-        "state": "NC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9676",
       "number": "HR 9676",
       "title": "Examining Opioid Treatment Infrastructure Act of 2026",
@@ -1085,31 +1010,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9267",
-      "number": "HR 9267",
-      "title": "Transit Oriented Development Act of 2026",
-      "sector": "PAVE",
-      "introduced_date": "2026-06-11",
-      "latest_action": {
-        "date": "2026-06-11",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9267",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Case, Ed [D-HI-1]",
-        "party": "D",
-        "state": "HI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9651",
       "number": "HR 9651",
       "title": "Space Ready 2.0 Act",
@@ -1135,28 +1035,78 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-HR-9322",
-      "number": "HR 9322",
-      "title": "Abraham Accords Defense Cooperation Act of 2026",
-      "sector": "ITA",
-      "introduced_date": "2026-06-15",
+      "id": "119-HR-9183",
+      "number": "HR 9183",
+      "title": "Artificial Intelligence Environmental Impacts Act of 2026",
+      "sector": "SMH",
+      "introduced_date": "2026-06-08",
       "latest_action": {
-        "date": "2026-06-15",
-        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        "date": "2026-06-08",
+        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9322",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Panetta, Jimmy [D-CA-19]",
+        "name": "Rep. Beyer, Donald S. [D-VA-8]",
         "party": "D",
-        "state": "CA"
+        "state": "VA"
       },
       "committee_count": 2,
-      "cosponsor_count": 6,
+      "cosponsor_count": 19,
       "amendments": [],
-      "momentum": 37,
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4794",
+      "number": "S 4794",
+      "title": "Precision Agriculture Cybersecurity Act",
+      "sector": "CIBR",
+      "introduced_date": "2026-06-16",
+      "latest_action": {
+        "date": "2026-06-16",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4794",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Sheehy, Tim [R-MT]",
+        "party": "R",
+        "state": "MT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4799",
+      "number": "S 4799",
+      "title": "Slash the Pentagon Act",
+      "sector": "ITA",
+      "introduced_date": "2026-06-16",
+      "latest_action": {
+        "date": "2026-06-16",
+        "text": "Read twice and referred to the Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4799",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Markey, Edward J. [D-MA]",
+        "party": "D",
+        "state": "MA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
       "sector_trade_flag": true
     }
   ],
