@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:29:38Z",
+  "generated_at": "2026-08-17T10:39:13Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,7 +17,7 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 2,
+      "bill_count": 1,
       "trade_count": 6,
       "lobbying_count": 288,
       "avg_momentum": 36
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 10,
+      "bill_count": 11,
       "trade_count": 10,
       "lobbying_count": 300,
-      "avg_momentum": 32
+      "avg_momentum": 33
     },
     "UFO": {
       "name": "Space",
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 441,
+      "trade_count": 440,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1060,31 +1060,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-4794",
-      "number": "S 4794",
-      "title": "Precision Agriculture Cybersecurity Act",
-      "sector": "CIBR",
-      "introduced_date": "2026-06-16",
-      "latest_action": {
-        "date": "2026-06-16",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4794",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Sheehy, Tim [R-MT]",
-        "party": "R",
-        "state": "MT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-4799",
       "number": "S 4799",
       "title": "Slash the Pentagon Act",
@@ -1107,6 +1082,31 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": true
+    },
+    {
+      "id": "119-HR-8175",
+      "number": "HR 8175",
+      "title": "To amend title 10, United States Code, and the National Defense Authorization Act for Fiscal Year 1994, to codify and clarify gender neutral standards for members of certain Armed Forces, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-04-02",
+      "latest_action": {
+        "date": "2026-04-02",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8175",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Houlahan, Chrissy [D-PA-6]",
+        "party": "D",
+        "state": "PA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 37,
+      "amendments": [],
+      "momentum": 50,
       "sector_trade_flag": true
     }
   ],
@@ -7138,17 +7138,6 @@
       "type": "Purchase",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "T",
-      "company": "AT&T Inc.",
-      "senator": "Gary C Peters",
-      "transaction_date": "06/29/2026",
-      "filed_date": "07/02/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/40fbe259-f282-4982-a53f-1c7278d041cd/"
     }
   ],
   "lobbying": [
