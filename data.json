@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:39:13Z",
+  "generated_at": "2026-08-18T10:34:47Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -118,7 +118,7 @@
       "etf": "FINX",
       "color": "#3C6E8F",
       "bill_count": 1,
-      "trade_count": 11,
+      "trade_count": 12,
       "lobbying_count": 192,
       "avg_momentum": 36
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 440,
+      "trade_count": 449,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1111,6 +1111,116 @@
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "CBOE",
+      "company": "Cboe Global Markets, Inc. Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "07/31/2026",
+      "filed_date": "08/17/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JPM",
+      "company": "JP Morgan Chase & Co. Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "07/23/2026",
+      "filed_date": "08/17/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "HD",
+      "company": "Home Depot, Inc. (The) Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "07/09/2026",
+      "filed_date": "08/17/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TRV",
+      "company": "The Travelers Companies, Inc. Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "07/02/2026",
+      "filed_date": "08/17/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "APTV",
+      "company": "Aptiv PLC Ordinary Shares",
+      "senator": "John Boozman",
+      "transaction_date": "07/09/2026",
+      "filed_date": "08/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "senator": "John Boozman",
+      "transaction_date": "07/30/2026",
+      "filed_date": "08/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SPYM",
+      "company": "Tradr 2X Long SPY Monthly ETF",
+      "senator": "John Boozman",
+      "transaction_date": "07/23/2026",
+      "filed_date": "08/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "EL",
+      "company": "Estee Lauder Companies, Inc. (The) Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "07/02/2026",
+      "filed_date": "08/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CVX",
+      "company": "Chevron Corporation Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "07/02/2026",
+      "filed_date": "08/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SPYM",
+      "company": "Tradr 2X Long SPY Monthly ETF",
+      "senator": "John Boozman",
+      "transaction_date": "07/02/2026",
+      "filed_date": "08/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
+    },
     {
       "sector": "OTHER",
       "ticker": "--AMCR",
@@ -7248,7 +7358,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HO",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
@@ -7329,7 +7439,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HO",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -7410,7 +7520,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HO",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -7494,7 +7604,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HO",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
