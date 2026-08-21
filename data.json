@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:37:30Z",
+  "generated_at": "2026-08-21T10:37:24Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 8,
+      "bill_count": 6,
       "trade_count": 8,
       "lobbying_count": 361,
       "avg_momentum": 36
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 0,
-      "trade_count": 18,
+      "trade_count": 20,
       "lobbying_count": 222,
       "avg_momentum": 0
     },
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 11,
+      "bill_count": 8,
       "trade_count": 10,
       "lobbying_count": 300,
-      "avg_momentum": 33
+      "avg_momentum": 32
     },
     "UFO": {
       "name": "Space",
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 4,
-      "trade_count": 25,
+      "trade_count": 26,
       "lobbying_count": 300,
       "avg_momentum": 37
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 449,
+      "trade_count": 455,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -660,56 +660,6 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-HR-9215",
-      "number": "HR 9215",
-      "title": "Prioritizing Warfighters in Defense Contracting Act",
-      "sector": "ITA",
-      "introduced_date": "2026-06-09",
-      "latest_action": {
-        "date": "2026-06-09",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9215",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Burchett, Tim [R-TN-2]",
-        "party": "R",
-        "state": "TN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": true
-    },
-    {
-      "id": "119-HR-9219",
-      "number": "HR 9219",
-      "title": "National Defense Infrastructure Protection Act of 2026",
-      "sector": "PAVE",
-      "introduced_date": "2026-06-09",
-      "latest_action": {
-        "date": "2026-06-09",
-        "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9219",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Hunt, Wesley [R-TX-38]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-2363",
       "number": "S 2363",
       "title": "Build More Housing Near Transit Act of 2025",
@@ -783,31 +733,6 @@
       "amendments": [],
       "momentum": 37,
       "sector_trade_flag": true
-    },
-    {
-      "id": "119-S-4728",
-      "number": "S 4728",
-      "title": "Combat Emerging Threats to Critical Infrastructure Act of 2026",
-      "sector": "PAVE",
-      "introduced_date": "2026-06-10",
-      "latest_action": {
-        "date": "2026-06-10",
-        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4728",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Warner, Mark R. [D-VA]",
-        "party": "D",
-        "state": "VA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
     },
     {
       "id": "119-S-4734",
@@ -985,31 +910,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9283",
-      "number": "HR 9283",
-      "title": "Critical Defense Ownership Review Act",
-      "sector": "ITA",
-      "introduced_date": "2026-06-11",
-      "latest_action": {
-        "date": "2026-06-11",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9283",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Khanna, Ro [D-CA-17]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": true
-    },
-    {
       "id": "119-S-4971",
       "number": "S 4971",
       "title": "Western Water Infrastructure Fairness Act",
@@ -1079,35 +979,10 @@
         "state": "VA"
       },
       "committee_count": 2,
-      "cosponsor_count": 19,
+      "cosponsor_count": 20,
       "amendments": [],
       "momentum": 43,
       "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4799",
-      "number": "S 4799",
-      "title": "Slash the Pentagon Act",
-      "sector": "ITA",
-      "introduced_date": "2026-06-16",
-      "latest_action": {
-        "date": "2026-06-16",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4799",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Markey, Edward J. [D-MA]",
-        "party": "D",
-        "state": "MA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": true
     },
     {
       "id": "119-HR-8175",
@@ -1136,6 +1011,105 @@
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "UNH",
+      "company": "Unitedhealth Group Inc",
+      "senator": "John Boozman",
+      "transaction_date": "04/16/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "ORCL",
+      "company": "Oracle Corp",
+      "senator": "John Boozman",
+      "transaction_date": "04/16/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "senator": "John Boozman",
+      "transaction_date": "04/22/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "senator": "John Boozman",
+      "transaction_date": "04/16/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "META",
+      "company": "Meta Platforms Inc",
+      "senator": "John Boozman",
+      "transaction_date": "04/15/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "HYG",
+      "company": "iShares iBoxx $ High Yield Corporate Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "04/09/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "COLPAL",
+      "company": "COLGATE PALMOLIVE LTD.",
+      "senator": "John Boozman",
+      "transaction_date": "04/08/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CBOE",
+      "company": "Cboe Global Markets, Inc. Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "04/08/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "senator": "John Boozman",
+      "transaction_date": "04/08/2025",
+      "filed_date": "08/20/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
+    },
     {
       "sector": "OTHER",
       "ticker": "CBOE",
@@ -22737,6 +22711,23 @@
       "sector": "QTUM",
       "ticker": "IONQ",
       "company": "IonQ",
+      "client_name": "IONQ, INC",
+      "registrant_name": "MICHAEL BEST STRATEGIES LLC",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-08-20T13:10:48-04:00",
+      "issues": [
+        "Defense",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d1e51dbe-8851-4c52-a63a-8af1bd4f12ac/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "IONQ",
+      "company": "IonQ",
       "client_name": "IONQ FEDERAL, INC.",
       "registrant_name": "ALPINE GROUP PARTNERS, LLC.",
       "filing_type": "2nd Quarter - Report",
@@ -23140,22 +23131,6 @@
         "Science/Technology"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/8748449e-5f99-4149-83b7-6cc2e4301a06/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "IONQ",
-      "company": "IonQ",
-      "client_name": "IONQ, INC. (FKA QUBITEKK, INC.)",
-      "registrant_name": "RBW GROUP, LLC",
-      "filing_type": "2nd Quarter - Termination",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "20000.00",
-      "posted_date": "2025-07-18T10:05:31-04:00",
-      "issues": [
-        "Budget/Appropriations"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/177c9094-dcfd-44c5-99b4-4097150e2ddd/print/"
     },
     {
       "sector": "QTUM",
