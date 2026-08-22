@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:37:24Z",
+  "generated_at": "2026-08-22T10:30:28Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,7 +17,7 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 6,
       "lobbying_count": 288,
       "avg_momentum": 36
@@ -982,6 +982,31 @@
       "cosponsor_count": 20,
       "amendments": [],
       "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4794",
+      "number": "S 4794",
+      "title": "Precision Agriculture Cybersecurity Act",
+      "sector": "CIBR",
+      "introduced_date": "2026-06-16",
+      "latest_action": {
+        "date": "2026-06-16",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4794",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Sheehy, Tim [R-MT]",
+        "party": "R",
+        "state": "MT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
