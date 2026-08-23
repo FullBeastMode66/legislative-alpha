@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:30:28Z",
+  "generated_at": "2026-08-23T10:30:40Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 6,
       "lobbying_count": 288,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 0,
-      "trade_count": 20,
+      "trade_count": 19,
       "lobbying_count": 222,
       "avg_momentum": 0
     },
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 4,
-      "trade_count": 26,
+      "trade_count": 24,
       "lobbying_count": 300,
       "avg_momentum": 37
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 455,
+      "trade_count": 452,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -407,7 +407,7 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9612",
@@ -482,7 +482,7 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-7298",
@@ -1033,6 +1033,31 @@
       "amendments": [],
       "momentum": 50,
       "sector_trade_flag": true
+    },
+    {
+      "id": "119-S-5000",
+      "number": "S 5000",
+      "title": "Cyber Letters of Marque and Reprisal Act",
+      "sector": "CIBR",
+      "introduced_date": "2026-07-15",
+      "latest_action": {
+        "date": "2026-07-15",
+        "text": "Read twice and referred to the Committee on Foreign Relations."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5000",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Lee, Mike [R-UT]",
+        "party": "R",
+        "state": "UT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
     }
   ],
   "trades": [
@@ -7206,72 +7231,6 @@
       "type": "Purchase",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "AAPL",
-      "company": "Apple Inc. - Common Stock",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "06/24/2026",
-      "filed_date": "07/08/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "CCI",
-      "company": "Crown Castle Inc. Common Stock",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "06/25/2026",
-      "filed_date": "07/08/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "06/30/2026",
-      "filed_date": "07/08/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "06/30/2026",
-      "filed_date": "07/08/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "COHR",
-      "company": "Coherent Corp. Common Stock",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "06/25/2026",
-      "filed_date": "07/08/2026",
-      "type": "Purchase",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "06/25/2026",
-      "filed_date": "07/08/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/"
     }
   ],
   "lobbying": [
