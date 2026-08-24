@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:30:40Z",
+  "generated_at": "2026-08-24T10:44:37Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 6,
+      "bill_count": 7,
       "trade_count": 8,
       "lobbying_count": 361,
-      "avg_momentum": 36
+      "avg_momentum": 33
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -47,7 +47,7 @@
       "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 9,
       "lobbying_count": 315,
       "avg_momentum": 36
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 8,
+      "bill_count": 9,
       "trade_count": 10,
       "lobbying_count": 300,
-      "avg_momentum": 32
+      "avg_momentum": 31
     },
     "UFO": {
       "name": "Space",
@@ -107,10 +107,10 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 7,
       "lobbying_count": 208,
-      "avg_momentum": 30
+      "avg_momentum": 29
     },
     "FINX": {
       "name": "Financial Technology",
@@ -352,31 +352,6 @@
         "name": "Rep. McCormick, Richard [R-GA-7]",
         "party": "R",
         "state": "GA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9464",
-      "number": "HR 9464",
-      "title": "To prohibit the Secretary of Agriculture from closing any research and development facility of the Forest Service.",
-      "sector": "MOO",
-      "introduced_date": "2026-06-25",
-      "latest_action": {
-        "date": "2026-06-25",
-        "text": "Referred to the House Committee on Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9464",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Goodlander, Maggie [D-NH-2]",
-        "party": "D",
-        "state": "NH"
       },
       "committee_count": 1,
       "cosponsor_count": 1,
@@ -1057,6 +1032,81 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4987",
+      "number": "S 4987",
+      "title": "Pharmaceutical Investment Oversight and Accountability Act",
+      "sector": "XBI",
+      "introduced_date": "2026-07-15",
+      "latest_action": {
+        "date": "2026-07-15",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4987",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Warren, Elizabeth [D-MA]",
+        "party": "D",
+        "state": "MA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2296",
+      "number": "S 2296",
+      "title": "National Defense Authorization Act for Fiscal Year 2026",
+      "sector": "ITA",
+      "introduced_date": "2025-07-15",
+      "latest_action": {
+        "date": "2025-11-12",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2296",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Wicker, Roger F. [R-MS]",
+        "party": "R",
+        "state": "MS"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3022",
+      "number": "S 3022",
+      "title": "Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-10-21",
+      "latest_action": {
+        "date": "2025-11-20",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3022",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Sullivan, Dan [R-AK]",
+        "party": "R",
+        "state": "AK"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 15,
       "sector_trade_flag": false
     }
   ],
