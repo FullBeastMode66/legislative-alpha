@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:44:37Z",
+  "generated_at": "2026-08-25T10:39:51Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 7,
+      "bill_count": 8,
       "trade_count": 8,
       "lobbying_count": 361,
       "avg_momentum": 33
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 9,
+      "bill_count": 10,
       "trade_count": 10,
       "lobbying_count": 300,
       "avg_momentum": 31
@@ -87,10 +87,10 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 24,
       "lobbying_count": 300,
-      "avg_momentum": 37
+      "avg_momentum": 38
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 452,
+      "trade_count": 466,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -360,31 +360,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9619",
-      "number": "HR 9619",
-      "title": "To require artificial intelligence chatbot providers to provide data privacy and security, and for other purposes.",
-      "sector": "SMH",
-      "introduced_date": "2026-07-09",
-      "latest_action": {
-        "date": "2026-07-09",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9619",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Foushee, Valerie P. [D-NC-4]",
-        "party": "D",
-        "state": "NC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9612",
       "number": "HR 9612",
       "title": "American Enrichment Deployment Act",
@@ -602,6 +577,31 @@
         "name": "Sen. Coons, Christopher A. [D-DE]",
         "party": "D",
         "state": "DE"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": true
+    },
+    {
+      "id": "119-SRES-760",
+      "number": "SRES 760",
+      "title": "A resolution recognizing the United States-Philippines alliance on the 80th anniversary of diplomatic relations, the 75th anniversary of the Mutual Defense Treaty between the United States of America and the Republic of the Philippines, and the 10th anniversary of the landmark arbitral award upholding Manila's sovereignty against escalating aggression and lawfare by the People's Republic of China in the South China Sea.",
+      "sector": "ITA",
+      "introduced_date": "2026-06-08",
+      "latest_action": {
+        "date": "2026-06-08",
+        "text": "Referred to the Committee on Foreign Relations. (text: CR S2667-2668)"
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/760",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Ricketts, Pete [R-NE]",
+        "party": "R",
+        "state": "NE"
       },
       "committee_count": 1,
       "cosponsor_count": 1,
@@ -1010,6 +1010,31 @@
       "sector_trade_flag": true
     },
     {
+      "id": "119-HR-8118",
+      "number": "HR 8118",
+      "title": "Election Infrastructure Integrity Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-03-26",
+      "latest_action": {
+        "date": "2026-03-26",
+        "text": "Referred to the House Committee on House Administration."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8118",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Norman, Ralph [R-SC-5]",
+        "party": "R",
+        "state": "SC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 5,
+      "amendments": [],
+      "momentum": 37,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-S-5000",
       "number": "S 5000",
       "title": "Cyber Letters of Marque and Reprisal Act",
@@ -1111,6 +1136,160 @@
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "VEA",
+      "company": "Vanguard FTSE Developed Markets ETF",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "VNQI",
+      "company": "Vanguard Global ex-U.S. Real Estate ETF",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TPYP",
+      "company": "Tortoise North Amer Pipeline Fund",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CRM",
+      "company": "Salesforce Inc",
+      "senator": "John Boozman",
+      "transaction_date": "11/13/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "RNWGX",
+      "company": "NEW WORLD FUND INC - Class R-6",
+      "senator": "John Boozman",
+      "transaction_date": "11/20/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IVV",
+      "company": "iShares Core S&P 500 ETF",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IWM",
+      "company": "iShares Russell 2000 ETF",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "EFA",
+      "company": "iShares MSCI EAFE ETF",
+      "senator": "John Boozman",
+      "transaction_date": "11/20/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "AAXJ",
+      "company": "iShares MSCI All Country Asia ex Japan ETF",
+      "senator": "John Boozman",
+      "transaction_date": "11/06/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GEM",
+      "company": "Goldman Sachs ActiveBeta Emerging Markets Equity E",
+      "senator": "John Boozman",
+      "transaction_date": "11/20/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "FISV",
+      "company": "Fiserv Inc",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "FTGC",
+      "company": "First Trust Global Tactical Commodity Strategy Fun",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "EIPI",
+      "company": "First Trust Exchange-Traded Fund VIII FT Energy In",
+      "senator": "John Boozman",
+      "transaction_date": "11/21/2025",
+      "filed_date": "08/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
+    },
     {
       "sector": "OTHER",
       "ticker": "UNH",
