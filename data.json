@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:39:51Z",
+  "generated_at": "2026-08-26T10:42:04Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 8,
+      "bill_count": 7,
       "trade_count": 8,
       "lobbying_count": 361,
-      "avg_momentum": 33
+      "avg_momentum": 36
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 10,
+      "bill_count": 9,
       "trade_count": 10,
       "lobbying_count": 300,
-      "avg_momentum": 31
+      "avg_momentum": 33
     },
     "UFO": {
       "name": "Space",
@@ -1082,56 +1082,6 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2296",
-      "number": "S 2296",
-      "title": "National Defense Authorization Act for Fiscal Year 2026",
-      "sector": "ITA",
-      "introduced_date": "2025-07-15",
-      "latest_action": {
-        "date": "2025-11-12",
-        "text": "Held at the desk."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2296",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Wicker, Roger F. [R-MS]",
-        "party": "R",
-        "state": "MS"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3022",
-      "number": "S 3022",
-      "title": "Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-10-21",
-      "latest_action": {
-        "date": "2025-11-20",
-        "text": "Held at the desk."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3022",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Sullivan, Dan [R-AK]",
-        "party": "R",
-        "state": "AK"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
       "sector_trade_flag": false
     }
   ],
