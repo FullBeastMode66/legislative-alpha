@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:42:04Z",
+  "generated_at": "2026-08-27T20:18:03Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -22874,6 +22874,23 @@
       "sector": "QTUM",
       "ticker": "IONQ",
       "company": "IonQ",
+      "client_name": "IONQ, INC.",
+      "registrant_name": "IONQ, INC.",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-08-27T13:39:17-04:00",
+      "issues": [
+        "Defense",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/906a123e-fbff-4da6-b327-479e61d139e3/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "IONQ",
+      "company": "IonQ",
       "client_name": "IONQ, INC",
       "registrant_name": "MICHAEL BEST STRATEGIES LLC",
       "filing_type": "Registration",
@@ -23276,24 +23293,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/ce6f3939-bb28-4aad-b8df-598eba2fb421/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "IONQ",
-      "company": "IonQ",
-      "client_name": "IONQ INC.",
-      "registrant_name": "CLARK STREET ASSOCIATES",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "90000.00",
-      "posted_date": "2025-07-18T10:45:19-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Defense",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8748449e-5f99-4149-83b7-6cc2e4301a06/print/"
     },
     {
       "sector": "QTUM",
