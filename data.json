@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T20:18:03Z",
+  "generated_at": "2026-08-28T21:14:59Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 7,
+      "bill_count": 11,
       "trade_count": 8,
       "lobbying_count": 361,
-      "avg_momentum": 36
+      "avg_momentum": 32
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -27,20 +27,20 @@
       "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 6,
       "lobbying_count": 265,
-      "avg_momentum": 26
+      "avg_momentum": 30
     },
     "QTUM": {
       "name": "Quantum Computing",
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 0,
+      "bill_count": 1,
       "trade_count": 19,
       "lobbying_count": 222,
-      "avg_momentum": 0
+      "avg_momentum": 35
     },
     "XBI": {
       "name": "Biotech",
@@ -67,7 +67,7 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 4,
       "lobbying_count": 250,
       "avg_momentum": 36
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 466,
+      "trade_count": 458,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -379,9 +379,9 @@
         "state": "SC"
       },
       "committee_count": 1,
-      "cosponsor_count": 3,
+      "cosponsor_count": 4,
       "amendments": [],
-      "momentum": 36,
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -457,31 +457,6 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-4016",
-      "number": "HR 4016",
-      "title": "Department of Defense Appropriations Act, 2026",
-      "sector": "ITA",
-      "introduced_date": "2025-06-16",
-      "latest_action": {
-        "date": "2025-12-08",
-        "text": "Motion to proceed to consideration of measure made in Senate. (CR S8522)"
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4016",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Calvert, Ken [R-CA-41]",
-        "party": "R",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 15,
       "sector_trade_flag": false
     },
     {
@@ -810,31 +785,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-7388",
-      "number": "HR 7388",
-      "title": "Smart Space Act of 2026",
-      "sector": "UFO",
-      "introduced_date": "2026-02-05",
-      "latest_action": {
-        "date": "2026-03-25",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7388",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Burlison, Eric [R-MO-7]",
-        "party": "R",
-        "state": "MO"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9676",
       "number": "HR 9676",
       "title": "Examining Opioid Treatment Infrastructure Act of 2026",
@@ -1083,6 +1033,181 @@
       "amendments": [],
       "momentum": 36,
       "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2296",
+      "number": "S 2296",
+      "title": "National Defense Authorization Act for Fiscal Year 2026",
+      "sector": "ITA",
+      "introduced_date": "2025-07-15",
+      "latest_action": {
+        "date": "2025-11-12",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2296",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Wicker, Roger F. [R-MS]",
+        "party": "R",
+        "state": "MS"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3022",
+      "number": "S 3022",
+      "title": "Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-10-21",
+      "latest_action": {
+        "date": "2025-11-20",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3022",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Sullivan, Dan [R-AK]",
+        "party": "R",
+        "state": "AK"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4823",
+      "number": "S 4823",
+      "title": "Advancing American Quantum Leadership Act of 2026",
+      "sector": "QTUM",
+      "introduced_date": "2026-06-18",
+      "latest_action": {
+        "date": "2026-06-18",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4823",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Kim, Andy [D-NJ]",
+        "party": "D",
+        "state": "NJ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4830",
+      "number": "S 4830",
+      "title": "A bill to designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-18",
+      "latest_action": {
+        "date": "2026-08-06",
+        "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4830",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Schatz, Brian [D-HI]",
+        "party": "D",
+        "state": "HI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9372",
+      "number": "HR 9372",
+      "title": "Data Infrastructure Energy Measurement and Standards Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-18",
+      "latest_action": {
+        "date": "2026-06-25",
+        "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 34 - 1."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9372",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Subramanyam, Suhas [D-VA-10]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 6,
+      "amendments": [],
+      "momentum": 17,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9232",
+      "number": "HR 9232",
+      "title": "Critical Infrastructure Airspace Defense Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-09",
+      "latest_action": {
+        "date": "2026-07-07",
+        "text": "Referred to the Subcommittee on Transportation and Maritime Security."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9232",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Van Epps, Matt [R-TN-7]",
+        "party": "R",
+        "state": "TN"
+      },
+      "committee_count": 3,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-1692",
+      "number": "S 1692",
+      "title": "Radiology Outpatient Ordering Transmission (ROOT) Act",
+      "sector": "GRID",
+      "introduced_date": "2025-05-08",
+      "latest_action": {
+        "date": "2025-05-08",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1692",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Blackburn, Marsha [R-TN]",
+        "party": "R",
+        "state": "TN"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 4,
+      "amendments": [],
+      "momentum": 37,
+      "sector_trade_flag": true
     }
   ],
   "trades": [
@@ -7322,94 +7447,6 @@
       "type": "Sale (Full)",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "TPYP",
-      "company": "Tortoise North American Pipeline Fund",
-      "senator": "John Boozman",
-      "transaction_date": "06/25/2026",
-      "filed_date": "07/13/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "FTGC",
-      "company": "First Trust Global Tactical Commodity Strategy Fund",
-      "senator": "John Boozman",
-      "transaction_date": "06/25/2026",
-      "filed_date": "07/13/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "IEF",
-      "company": "iShares 7-10 Year Treasury Bond ETF",
-      "senator": "John Boozman",
-      "transaction_date": "06/17/2026",
-      "filed_date": "07/13/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "ATO",
-      "company": "Atmos Energy Corporation Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "06/12/2026",
-      "filed_date": "07/13/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "BSX",
-      "company": "Boston Scientific Corporation Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "06/04/2026",
-      "filed_date": "07/13/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "IGV",
-      "company": "iShares Expanded Tech-Software Sector ETF",
-      "senator": "John Boozman",
-      "transaction_date": "06/25/2026",
-      "filed_date": "07/13/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "PALL",
-      "company": "abrdn Physical Palladium Shares ETF",
-      "senator": "John Boozman",
-      "transaction_date": "06/25/2026",
-      "filed_date": "07/13/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "UNH",
-      "company": "UnitedHealth Group Incorporated Common Stock (DE)",
-      "senator": "John Boozman",
-      "transaction_date": "06/04/2026",
-      "filed_date": "07/13/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/"
     }
   ],
   "lobbying": [
