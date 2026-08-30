@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:04:58Z",
+  "generated_at": "2026-08-30T14:50:00Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 10,
+      "bill_count": 9,
       "trade_count": 8,
       "lobbying_count": 361,
-      "avg_momentum": 33
+      "avg_momentum": 31
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -79,7 +79,7 @@
       "color": "#7A6A00",
       "bill_count": 3,
       "trade_count": 1,
-      "lobbying_count": 208,
+      "lobbying_count": 233,
       "avg_momentum": 39
     },
     "SMH": {
@@ -89,7 +89,7 @@
       "color": "#B5533C",
       "bill_count": 3,
       "trade_count": 24,
-      "lobbying_count": 275,
+      "lobbying_count": 300,
       "avg_momentum": 38
     },
     "ICLN": {
@@ -119,7 +119,7 @@
       "color": "#3C6E8F",
       "bill_count": 1,
       "trade_count": 12,
-      "lobbying_count": 167,
+      "lobbying_count": 192,
       "avg_momentum": 36
     },
     "OTHER": {
@@ -1158,31 +1158,6 @@
       "amendments": [],
       "momentum": 36,
       "sector_trade_flag": true
-    },
-    {
-      "id": "119-S-1532",
-      "number": "S 1532",
-      "title": "A bill to amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
-      "sector": "PAVE",
-      "introduced_date": "2025-04-30",
-      "latest_action": {
-        "date": "2025-04-30",
-        "text": "Read twice and referred to the Committee on Finance."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1532",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Crapo, Mike [R-ID]",
-        "party": "R",
-        "state": "ID"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 47,
-      "amendments": [],
-      "momentum": 50,
-      "sector_trade_flag": false
     }
   ],
   "trades": [
@@ -42575,6 +42550,400 @@
     },
     {
       "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "150000.00",
+      "posted_date": "2026-07-20T14:06:49-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1cc23e7f-786f-4df9-94dc-9257040a393f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "150000.00",
+      "posted_date": "2026-04-20T14:23:08-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fce75637-1a71-41b8-b2a4-9b43204fc3fc/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "150000.00",
+      "posted_date": "2026-01-20T14:39:44-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3c9b9748-78b9-4136-bc3f-a1f6a980caf5/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "150000.00",
+      "posted_date": "2025-10-20T14:45:03-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/66d3d455-4a98-4779-a7e1-1bf5a31e35c5/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "150000.00",
+      "posted_date": "2025-07-21T15:17:06-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/74519290-98da-4d9d-8be7-519ae21fb122/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-04-21T20:25:50-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8da0f97a-6d57-4bdc-a1d7-1a5d29e2306f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "Registration",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-03-14T15:33:50-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1ea92e4a-05cb-4b8a-a75e-852a4eb4700f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "1st Quarter - Termination",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2013,
+      "income": "25000.00",
+      "posted_date": "2013-03-14T14:55:56.620000-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8516f159-4f21-4fbe-a66d-f78b9cfdbcaf/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2012,
+      "income": "30000.00",
+      "posted_date": "2013-01-09T10:33:59.170000-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f804e125-144e-4588-a078-e1b6083a3726/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2012,
+      "income": "30000.00",
+      "posted_date": "2013-01-02T12:36:57.720000-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6da0208c-38be-4f9e-ba82-feb73f26596e/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2012,
+      "income": "37000.00",
+      "posted_date": "2012-07-18T22:33:05.823000-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6a776097-3314-4910-b851-8ab79de1fa81/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2012,
+      "income": "36000.00",
+      "posted_date": "2012-04-16T15:26:49.857000-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1df8e6a4-aa27-4454-be1f-2f87ea0e2518/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2011,
+      "income": "36000.00",
+      "posted_date": "2012-01-19T18:13:49.390000-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/419ce2c3-8dd8-40db-ad53-ef919b41bcaf/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2011,
+      "income": "30000.00",
+      "posted_date": "2011-10-20T20:38:24.543000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c8989db0-9f73-4967-80be-c94492b6464f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2011,
+      "income": "25000.00",
+      "posted_date": "2011-07-19T11:06:53.667000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/eadfe5ec-2814-4468-8da1-dd5f3f50459c/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2011,
+      "income": "8000.00",
+      "posted_date": "2011-04-28T09:11:12.323000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b9cb5774-fd32-4951-b41d-45dffb3e82e7/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2010,
+      "income": "37500.00",
+      "posted_date": "2011-01-24T09:54:03.173000-05:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/73c01e34-fdb4-4701-92f7-ea7f3441bc73/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2010,
+      "income": "37500.00",
+      "posted_date": "2011-01-24T09:50:02.270000-05:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/12dd3d0d-aeaf-40fe-a50d-78e1ada56db3/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2010,
+      "income": "24000.00",
+      "posted_date": "2010-10-27T11:25:30.883000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/15555e2a-c974-4f5f-873d-cb3af3f80e02/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER INC",
+      "registrant_name": "MR. JOHN HOWES",
+      "filing_type": "2nd Quarter - Termination Amendment (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2010,
+      "income": null,
+      "posted_date": "2010-08-11T21:03:24.950000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/457d7deb-5fa4-4143-b397-c4babdeb28d7/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER INC",
+      "registrant_name": "MR. JOHN HOWES",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2010,
+      "income": null,
+      "posted_date": "2010-07-28T14:33:41.470000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/d08299ca-bc7b-44d5-a11b-a067fac16c27/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2010,
+      "income": "24000.00",
+      "posted_date": "2010-07-14T12:33:33.493000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/56775ee4-9f66-41e2-9472-640a16544802/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER INC",
+      "registrant_name": "MR. JOHN HOWES",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2010,
+      "income": null,
+      "posted_date": "2010-04-21T10:07:00.270000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f65bc7f7-2193-447b-a572-15dc0020de84/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2010,
+      "income": "8000.00",
+      "posted_date": "2010-04-20T08:27:09.913000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e85a9028-e1f3-41cc-a4db-a6e6011a25b7/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2009,
+      "income": "24000.00",
+      "posted_date": "2010-02-04T08:20:06.647000-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/eaa69409-f689-4d9b-a91a-23a91a7814d4/print/"
+    },
+    {
+      "sector": "URA",
       "ticker": "OKLO",
       "company": "Oklo",
       "client_name": "OKLO INC.",
@@ -49794,6 +50163,443 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/95842f12-60f9-487f-a7ae-a12d323eae15/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-20T10:41:46-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/afb4bc30-770d-4491-923e-88e72ea89de4/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-20T10:24:41-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b1d48caa-fbfb-41f3-9c92-f41635d93c1c/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-17T12:00:43-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/936c132d-5fe0-42e8-827b-9fa038809b8d/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-20T17:38:51-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6be3711a-f8b9-410d-91ce-07a637935311/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-17T17:25:52-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/79dc7502-5ca0-4eb9-8979-b7f1720db961/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2026-01-20T15:07:32-05:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/dfc1241d-628c-4625-a4fe-b2285d27f061/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-01-16T14:49:30-05:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f37e439c-a751-43a3-b75a-eb14df530681/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-10-20T20:16:16-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1fb764d4-b7f4-4f25-bf5a-714fa1f1ee51/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-20T11:08:41-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/494e16c1-11ec-4670-b435-ae179d566f4a/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-07-30T12:55:21-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6892b8da-e76b-4589-b9bf-6ee8d260e3d2/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-07-20T19:14:11-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6d2de7aa-744b-4056-89f0-1dc0764a4230/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-07-18T16:39:07-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3df64cf5-bc63-49ef-9c7f-c7bbbb1a489f/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-04-21T15:21:08-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/37e97f5e-ba9a-4d41-8eab-398cfe40cabc/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-04-21T11:45:31-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ccfe348e-ccd0-4bcf-aeb1-d0efccc0a801/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2025-01-21T16:43:10-05:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1eaf8525-67f5-482d-b5f3-4aff61ea0d37/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2024,
+      "income": "50000.00",
+      "posted_date": "2025-01-21T10:04:05-05:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a81f2fde-955d-4fcc-bada-078af7f77a34/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2024-10-21T14:10:58-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ea3c40de-71af-400f-8a79-f44a3c9f6b6d/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2024,
+      "income": "50000.00",
+      "posted_date": "2024-10-20T19:05:46-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/54a2f498-6a8c-4d51-8539-deb6ccddb678/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2024-07-22T14:08:37-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6517bcd1-e304-4422-a322-a86e68e01917/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2024,
+      "income": "50000.00",
+      "posted_date": "2024-07-22T08:42:21-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e8f79981-6914-43ef-8e86-712a4686fbc8/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2024,
+      "income": "50000.00",
+      "posted_date": "2024-04-22T13:57:13-04:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7d313dee-55ea-4d47-a5cf-272e4902b9f4/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2024-04-22T11:44:58-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b65b9362-e212-4cb7-abfe-f7a28088d476/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2023,
+      "income": null,
+      "posted_date": "2024-01-22T18:09:10-05:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/370e2d5f-ee46-4e59-b73e-6f4424aeecbd/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2023,
+      "income": "50000.00",
+      "posted_date": "2024-01-22T13:41:01-05:00",
+      "issues": [
+        "Computer Industry",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b9b21679-d79f-4221-92aa-f21f132ff336/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "client_name": "KLA CORPORATION",
+      "registrant_name": "KLA CORPORATION",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2023,
+      "income": null,
+      "posted_date": "2023-10-20T18:23:29-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7b05a491-665c-4a4a-adfb-a07e237018f8/print/"
     },
     {
       "sector": "SMH",
@@ -57194,6 +58000,412 @@
         "Financial Institutions/Investments/Securities"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/6e90f9be-8061-48ad-8e01-cbec33e61948/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD, INC",
+      "registrant_name": "TOWER 19",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "45000.00",
+      "posted_date": "2026-07-20T22:43:36-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e29d7db8-3aba-45f9-b047-b80e31b6cee3/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD",
+      "registrant_name": "THE WILLIAMS GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-20T17:45:26-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0dbd0289-d46b-469e-aae3-e91a576a24df/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "TOWER 19 ON BEHALF OF MASTERCARD INC.",
+      "registrant_name": "LINCOLN PARK GROUP L.L.C.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-07-20T16:51:06-04:00",
+      "issues": [
+        "Banking",
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/058b8002-6fcb-40f4-bfb9-161db0f78911/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "MASTERCARD WORLDWIDE",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-20T16:38:58-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4e81be76-944a-40f0-936d-10e9c5103f13/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "9TH STREET STRATEGIES",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-20T16:34:39-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c1329191-22b8-4065-9013-25297a8c8d26/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "CGCN GROUP, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-20T13:19:13-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fd97b092-a27d-4aa8-b166-5b9b4a520797/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "registrant_name": "THE RABEN GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-20T12:57:47-04:00",
+      "issues": [
+        "Banking",
+        "Consumer Issues/Safety/Products",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e944a7da-1128-4917-9a53-a88737fda115/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "registrant_name": "BGR GOVERNMENT AFFAIRS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-20T12:13:31-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5c148164-9d7a-4c21-9e7e-32a575f914f3/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "registrant_name": "RIDGE PATH STRATEGIES",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-20T11:35:35-04:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2613623c-d847-4bec-8cc7-b2644ec3a101/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "registrant_name": "SIDLEY AUSTIN LLP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-07-20T11:32:35-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/199094b0-067d-443a-8619-6328ae294c9d/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-07-19T19:00:20-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9fef0f67-81c2-4c69-a668-cb99b11b2baa/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "RESOLUTION PUBLIC AFFAIRS, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-19T13:32:23-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f2b63919-1ba2-447b-ac0e-0b821e950cb3/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-04-21T14:14:11-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/17652ec4-247e-4a0a-b2ee-41b7533fd203/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD, INC",
+      "registrant_name": "TOWER 19",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "45000.00",
+      "posted_date": "2026-04-20T23:26:39-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b40d6350-63f3-4c3e-bdb1-cb0214ca647e/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "registrant_name": "RIDGE PATH STRATEGIES",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-04-20T22:29:59-04:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/eb89eefd-83d5-49ac-b55d-f7d7cfebebde/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "CGCN GROUP, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-04-20T20:21:18-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0bd29eaf-37f0-41a8-81d2-d6ad12dc92d7/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "TOWER 19 ON BEHALF OF MASTERCARD INC.",
+      "registrant_name": "LINCOLN PARK GROUP L.L.C.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-04-20T15:39:04-04:00",
+      "issues": [
+        "Banking",
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/09650aad-f880-4901-8b24-b12d2702f26b/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "MASTERCARD WORLDWIDE",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-20T15:30:21-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ac9f9d72-bbbb-4215-b0ca-3795a50f0e1d/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "9TH STREET STRATEGIES",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-04-20T15:05:09-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f6bd1d8a-9dee-4a68-a7c0-8ccee7e81983/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "RESOLUTION PUBLIC AFFAIRS, LLC",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-20T14:52:39-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3a4935eb-053a-4420-965f-8ff3e324266b/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "registrant_name": "THE RABEN GROUP",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-20T14:15:56-04:00",
+      "issues": [
+        "Banking",
+        "Consumer Issues/Safety/Products",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c0a9fe1a-caf9-430f-ab04-5a959fe93ced/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "RESOLUTION PUBLIC AFFAIRS, LLC",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-20T13:28:30-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8dcb38fd-356f-4739-85d9-4b760abbb4e9/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD WORLDWIDE",
+      "registrant_name": "RESOLUTION PUBLIC AFFAIRS, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-20T13:16:50-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/31413c5d-e316-486a-8947-83edd36e7271/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "registrant_name": "SIDLEY AUSTIN LLP",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-04-20T11:54:05-04:00",
+      "issues": [
+        "Banking"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/13673a88-d0b0-42e6-897e-0090ff9955a2/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "MA",
+      "company": "Mastercard",
+      "client_name": "MASTERCARD INTERNATIONAL INCORPORATED",
+      "registrant_name": "BGR GOVERNMENT AFFAIRS",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-20T11:49:57-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5d87fbfb-1199-4d8c-9121-eb4c0994945d/print/"
     },
     {
       "sector": "FINX",
