@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:50:00Z",
+  "generated_at": "2026-08-31T17:33:06Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -28,7 +28,7 @@
       "etf": "GRID",
       "color": "#9B4638",
       "bill_count": 3,
-      "trade_count": 6,
+      "trade_count": 5,
       "lobbying_count": 265,
       "avg_momentum": 30
     },
@@ -58,7 +58,7 @@
       "etf": "ITA",
       "color": "#5B4636",
       "bill_count": 10,
-      "trade_count": 10,
+      "trade_count": 9,
       "lobbying_count": 300,
       "avg_momentum": 33
     },
@@ -68,7 +68,7 @@
       "etf": "UFO",
       "color": "#4A5A6B",
       "bill_count": 3,
-      "trade_count": 4,
+      "trade_count": 3,
       "lobbying_count": 250,
       "avg_momentum": 36
     },
@@ -97,20 +97,20 @@
       "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
-      "bill_count": 0,
-      "trade_count": 3,
+      "bill_count": 1,
+      "trade_count": 2,
       "lobbying_count": 165,
-      "avg_momentum": 0
+      "avg_momentum": 15
     },
     "MOO": {
       "name": "Agriculture",
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 7,
       "lobbying_count": 208,
-      "avg_momentum": 29
+      "avg_momentum": 30
     },
     "FINX": {
       "name": "Financial Technology",
@@ -118,7 +118,7 @@
       "etf": "FINX",
       "color": "#3C6E8F",
       "bill_count": 1,
-      "trade_count": 12,
+      "trade_count": 11,
       "lobbying_count": 192,
       "avg_momentum": 36
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 458,
+      "trade_count": 452,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -232,7 +232,7 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-8881",
@@ -307,7 +307,7 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 15,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HRES-1339",
@@ -457,7 +457,7 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-8899",
@@ -532,7 +532,7 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-SRES-760",
@@ -557,7 +557,7 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-8665",
@@ -682,7 +682,7 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-SRES-641",
@@ -832,7 +832,7 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9183",
@@ -1157,7 +1157,57 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-1388",
+      "number": "HRES 1388",
+      "title": "Recognizing the importance of pollinators to ecosystem health and agriculture in the United States and expressing support for \"National Pollinator Week\".",
+      "sector": "MOO",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-30",
+        "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1388",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Panetta, Jimmy [D-CA-19]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5617",
+      "number": "HR 5617",
+      "title": "Geothermal Gold Book Development Act",
+      "sector": "ICLN",
+      "introduced_date": "2025-09-30",
+      "latest_action": {
+        "date": "2026-05-20",
+        "text": "Placed on the Union Calendar, Calendar No. 573."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5617",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
+        "party": "D",
+        "state": "AZ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
     }
   ],
   "trades": [
@@ -7276,127 +7326,6 @@
       "type": "Purchase",
       "amount_range": "$15,001 - $50,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/cff197e2-b90b-4b53-b97d-eecf226a1980/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "WAB",
-      "company": "Westinghouse Air Brake Technologies Corporation Common Stock",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/09/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "AWK",
-      "company": "American Water Works Company, Inc. Common Stock",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "CSX",
-      "company": "CSX Corporation - Common Stock",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "DUK",
-      "company": "Duke Energy",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "MA",
-      "company": "Mastercard",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "NEE",
-      "company": "NextEra Energy",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "PFE",
-      "company": "Pfizer, Inc. Common Stock",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "PG",
-      "company": "Procter & Gamble Company (The) Common Stock",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "TSCO",
-      "company": "Tractor Supply Company - Common Stock",
-      "senator": "Thomas H Tuberville",
-      "transaction_date": "06/08/2026",
-      "filed_date": "07/16/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/"
     }
   ],
   "lobbying": [
