@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:33:06Z",
+  "generated_at": "2026-09-01T14:41:03Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,20 +7,20 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 9,
+      "bill_count": 8,
       "trade_count": 8,
       "lobbying_count": 361,
-      "avg_momentum": 31
+      "avg_momentum": 30
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 2,
+      "bill_count": 4,
       "trade_count": 6,
       "lobbying_count": 288,
-      "avg_momentum": 35
+      "avg_momentum": 30
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -37,10 +37,10 @@
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 19,
       "lobbying_count": 222,
-      "avg_momentum": 35
+      "avg_momentum": 36
     },
     "XBI": {
       "name": "Biotech",
@@ -57,17 +57,17 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 10,
+      "bill_count": 11,
       "trade_count": 9,
       "lobbying_count": 300,
-      "avg_momentum": 33
+      "avg_momentum": 31
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 3,
       "lobbying_count": 250,
       "avg_momentum": 36
@@ -77,20 +77,20 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 1,
       "lobbying_count": 233,
-      "avg_momentum": 39
+      "avg_momentum": 41
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 24,
       "lobbying_count": 300,
-      "avg_momentum": 38
+      "avg_momentum": 39
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -117,10 +117,10 @@
       "short": "Fintech",
       "etf": "FINX",
       "color": "#3C6E8F",
-      "bill_count": 1,
+      "bill_count": 0,
       "trade_count": 11,
       "lobbying_count": 192,
-      "avg_momentum": 36
+      "avg_momentum": 0
     },
     "OTHER": {
       "name": "Other / Unclassified",
@@ -154,9 +154,9 @@
         "state": "OH"
       },
       "committee_count": 1,
-      "cosponsor_count": 26,
+      "cosponsor_count": 27,
       "amendments": [],
-      "momentum": 45,
+      "momentum": 46,
       "sector_trade_flag": false
     },
     {
@@ -382,106 +382,6 @@
       "cosponsor_count": 4,
       "amendments": [],
       "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9566",
-      "number": "HR 9566",
-      "title": "To establish a pilot program for use by U.S. Customs and Border Protection at land ports of entry along the Arizona border to assess the use of artificial intelligence through an anomaly detection algorithm, and for other purposes.",
-      "sector": "SMH",
-      "introduced_date": "2026-06-30",
-      "latest_action": {
-        "date": "2026-07-07",
-        "text": "Referred to the Subcommittee on Border Security and Enforcement."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9566",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Schweikert, David [R-AZ-1]",
-        "party": "R",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-7298",
-      "number": "HR 7298",
-      "title": "Connecting Communities Through Transit Planning Act of 2026",
-      "sector": "PAVE",
-      "introduced_date": "2026-01-30",
-      "latest_action": {
-        "date": "2026-01-31",
-        "text": "Referred to the Subcommittee on Highways and Transit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7298",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Simon, Lateefah [D-CA-12]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9592",
-      "number": "HR 9592",
-      "title": "American Space Leadership for the 21st Century Act",
-      "sector": "UFO",
-      "introduced_date": "2026-07-06",
-      "latest_action": {
-        "date": "2026-07-06",
-        "text": "Referred to the House Committee on Foreign Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9592",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Biggs, Sheri [R-SC-3]",
-        "party": "R",
-        "state": "SC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-8899",
-      "number": "HR 8899",
-      "title": "Digital Asset PARITY Act",
-      "sector": "FINX",
-      "introduced_date": "2026-05-19",
-      "latest_action": {
-        "date": "2026-05-19",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8899",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Miller, Max L. [R-OH-7]",
-        "party": "R",
-        "state": "OH"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -810,28 +710,28 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9651",
-      "number": "HR 9651",
-      "title": "Space Ready 2.0 Act",
-      "sector": "UFO",
-      "introduced_date": "2026-07-13",
+      "id": "119-HR-9318",
+      "number": "HR 9318",
+      "title": "National Security Commission Quantum Computing Act of 2026",
+      "sector": "QTUM",
+      "introduced_date": "2026-06-15",
       "latest_action": {
-        "date": "2026-07-13",
-        "text": "Referred to the House Committee on Science, Space, and Technology."
+        "date": "2026-06-15",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committees on Education and Workforce, Foreign Affairs, Science, Space, and Technology, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9651",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9318",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Haridopolos, Mike [R-FL-8]",
+        "name": "Rep. Lawler, Michael [R-NY-17]",
         "party": "R",
-        "state": "FL"
+        "state": "NY"
       },
-      "committee_count": 1,
-      "cosponsor_count": 0,
+      "committee_count": 5,
+      "cosponsor_count": 2,
       "amendments": [],
-      "momentum": 35,
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -1205,6 +1105,181 @@
       },
       "committee_count": 1,
       "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4905",
+      "number": "S 4905",
+      "title": "Space Ready 2.0 Act",
+      "sector": "UFO",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4905",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Moody, Ashley [R-FL]",
+        "party": "R",
+        "state": "FL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4916",
+      "number": "S 4916",
+      "title": "Aging with Artificial Intelligence Act of 2026",
+      "sector": "SMH",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4916",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Kelly, Mark [D-AZ]",
+        "party": "D",
+        "state": "AZ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9442",
+      "number": "HR 9442",
+      "title": "Artificial Intelligence Data Center Moratorium Act",
+      "sector": "SMH",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+        "party": "D",
+        "state": "NY"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 14,
+      "amendments": [],
+      "momentum": 41,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2480",
+      "number": "S 2480",
+      "title": "Telecom Cybersecurity Transparency Act",
+      "sector": "CIBR",
+      "introduced_date": "2025-07-28",
+      "latest_action": {
+        "date": "2025-07-29",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2480",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Wyden, Ron [D-OR]",
+        "party": "D",
+        "state": "OR"
+      },
+      "committee_count": 0,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5549",
+      "number": "HR 5549",
+      "title": "Efficient Nuclear Licensing Hearings Act",
+      "sector": "URA",
+      "introduced_date": "2025-09-23",
+      "latest_action": {
+        "date": "2026-07-14",
+        "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "party": "R",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 25,
+      "amendments": [],
+      "momentum": 45,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9477",
+      "number": "HR 9477",
+      "title": "AI Incident Reporting Act",
+      "sector": "CIBR",
+      "introduced_date": "2026-06-25",
+      "latest_action": {
+        "date": "2026-06-25",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moran, Nathaniel [R-TX-1]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-1398",
+      "number": "HRES 1398",
+      "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-06-30",
+      "latest_action": {
+        "date": "2026-07-13",
+        "text": "VACATING PROCEEDINGS - Mr. Steil asked unanimous consent that the ordering of a recorded vote on the question of reconsideration of the vote on adoption on H. Res. 1398 be vacated to the end that the motion to reconsider be laid on the table. Agreed to without objection."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1398",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Scott, Austin [R-GA-8]",
+        "party": "R",
+        "state": "GA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
       "amendments": [],
       "momentum": 15,
       "sector_trade_flag": false
@@ -32853,7 +32928,7 @@
       "ticker": "RTX",
       "company": "RTX Corporation",
       "client_name": "RTX CORPORATION AND AFFILIATES (FKA RAYTHEON TECHNOLOGIES CORPORATION AND AFFIL",
-      "registrant_name": "J.A. GREEN AND COMPANY",
+      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
       "filing_type": "4th Quarter - Termination",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -32962,7 +33037,7 @@
       "ticker": "RTX",
       "company": "RTX Corporation",
       "client_name": "RTX CORPORATION AND AFFILIATES (FKA RAYTHEON TECHNOLOGIES CORPORATION AND AFFIL",
-      "registrant_name": "J.A. GREEN AND COMPANY",
+      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -32995,7 +33070,7 @@
       "ticker": "RTX",
       "company": "RTX Corporation",
       "client_name": "RTX CORPORATION AND AFFILIATES (FKA RAYTHEON TECHNOLOGIES CORPORATION AND AFFIL",
-      "registrant_name": "J.A. GREEN AND COMPANY",
+      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2025,
