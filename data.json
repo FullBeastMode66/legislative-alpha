@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:14:47Z",
+  "generated_at": "2026-09-03T14:18:36Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 2,
-      "trade_count": 19,
+      "trade_count": 21,
       "lobbying_count": 222,
       "avg_momentum": 36
     },
@@ -48,7 +48,7 @@
       "etf": "XBI",
       "color": "#2C6E8C",
       "bill_count": 3,
-      "trade_count": 9,
+      "trade_count": 10,
       "lobbying_count": 315,
       "avg_momentum": 36
     },
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 11,
+      "bill_count": 14,
       "trade_count": 9,
       "lobbying_count": 300,
-      "avg_momentum": 31
+      "avg_momentum": 32
     },
     "UFO": {
       "name": "Space",
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 4,
-      "trade_count": 24,
+      "trade_count": 27,
       "lobbying_count": 300,
       "avg_momentum": 39
     },
@@ -154,7 +154,7 @@
         "state": "OH"
       },
       "committee_count": 1,
-      "cosponsor_count": 27,
+      "cosponsor_count": 28,
       "amendments": [],
       "momentum": 46,
       "sector_trade_flag": false
@@ -385,6 +385,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-5400",
+      "number": "HR 5400",
+      "title": "To amend title 10, United States Code, to require the Secretary of Defense to annually review the amount of financial assistance for child care and youth program services providers provided by the Secretary.",
+      "sector": "ITA",
+      "introduced_date": "2025-09-16",
+      "latest_action": {
+        "date": "2025-09-16",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5400",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Khanna, Ro [D-CA-17]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HR-9093",
       "number": "HR 9093",
       "title": "BRIDGE Act",
@@ -485,6 +510,31 @@
       "sector_trade_flag": true
     },
     {
+      "id": "119-HR-6759",
+      "number": "HR 6759",
+      "title": "To require the Secretary of Defense to establish a pilot program for emerging technologies for moisture control and mitigation in covered housing, to standardize certain mold remediation guidelines, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2025-12-16",
+      "latest_action": {
+        "date": "2025-12-16",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6759",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Neguse, Joe [D-CO-2]",
+        "party": "D",
+        "state": "CO"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-S-2363",
       "number": "S 2363",
       "title": "Build More Housing Near Transit Act of 2025",
@@ -505,6 +555,31 @@
       },
       "committee_count": 1,
       "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3541",
+      "number": "S 3541",
+      "title": "A bill to increase competition in Defense contracting, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2025-12-17",
+      "latest_action": {
+        "date": "2025-12-17",
+        "text": "Read twice and referred to the Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3541",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Peters, Gary C. [D-MI]",
+        "party": "D",
+        "state": "MI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
@@ -1261,6 +1336,72 @@
     }
   ],
   "trades": [
+    {
+      "sector": "QTUM",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "08/13/2026",
+      "filed_date": "09/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "08/13/2026",
+      "filed_date": "09/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "08/13/2026",
+      "filed_date": "09/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "08/13/2026",
+      "filed_date": "09/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "08/13/2026",
+      "filed_date": "09/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "08/12/2026",
+      "filed_date": "09/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
+    },
     {
       "sector": "OTHER",
       "ticker": "VEA",
@@ -33515,6 +33656,22 @@
       "sector": "ITA",
       "ticker": "GD",
       "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS CORPORATION",
+      "registrant_name": "MELTSNER STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Termination",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "12500.00",
+      "posted_date": "2026-09-02T16:40:04-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/db132ccc-f755-42ea-8e4b-d016e1ae78d7/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "GD",
+      "company": "General Dynamics",
       "client_name": "GENERAL DYNAMICS CORP",
       "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
       "filing_type": "2nd Quarter - Report",
@@ -33928,23 +34085,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/3115a549-5729-485b-a344-4bf7dc8da726/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS",
-      "registrant_name": "HARBINGER STRATEGIES, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T20:13:57-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8f5b614d-7b2d-4513-ae84-bf15a030efe9/print/"
     },
     {
       "sector": "ITA",
