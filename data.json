@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T14:18:36Z",
+  "generated_at": "2026-09-04T14:10:44Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 14,
+      "bill_count": 13,
       "trade_count": 9,
       "lobbying_count": 300,
       "avg_momentum": 32
@@ -435,31 +435,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-4707",
-      "number": "S 4707",
-      "title": "Responsible Artificial Intelligence Defense Act of 2026",
-      "sector": "ITA",
-      "introduced_date": "2026-06-08",
-      "latest_action": {
-        "date": "2026-06-08",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4707",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Coons, Christopher A. [D-DE]",
-        "party": "D",
-        "state": "DE"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-SRES-760",
       "number": "SRES 760",
       "title": "A resolution recognizing the United States-Philippines alliance on the 80th anniversary of diplomatic relations, the 75th anniversary of the Mutual Defense Treaty between the United States of America and the Republic of the Philippines, and the 10th anniversary of the landmark arbitral award upholding Manila's sovereignty against escalating aggression and lawfare by the People's Republic of China in the South China Sea.",
@@ -829,7 +804,7 @@
         "state": "VA"
       },
       "committee_count": 2,
-      "cosponsor_count": 20,
+      "cosponsor_count": 21,
       "amendments": [],
       "momentum": 43,
       "sector_trade_flag": false
@@ -33656,6 +33631,40 @@
       "sector": "ITA",
       "ticker": "GD",
       "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS",
+      "registrant_name": "ALIGNMENT GOVERNMENT STRATEGIES",
+      "filing_type": "Registration - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2014,
+      "income": null,
+      "posted_date": "2026-09-03T09:55:13-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/425fba99-dc29-4e28-8e74-4e8fca85eeb4/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "GD",
+      "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS CORPORATION",
+      "registrant_name": "KEAST STRATEGIC SOLUTIONS, LLC",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-09-03T09:54:52-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/582fc470-0464-478b-9a81-c2d3adf7597c/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "GD",
+      "company": "General Dynamics",
       "client_name": "GENERAL DYNAMICS CORPORATION",
       "registrant_name": "MELTSNER STRATEGIES, LLC",
       "filing_type": "3rd Quarter - Termination",
@@ -34051,40 +34060,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/704bfb78-9774-4bd5-9e9c-78b30e871734/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS CORP",
-      "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "20000.00",
-      "posted_date": "2026-05-05T10:06:02-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/fc92b198-3778-4602-bf89-4594b33d661b/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS",
-      "registrant_name": "DB3, LLC (FKA THE DASCHLE GROUP)",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T20:37:13-04:00",
-      "issues": [
-        "Aviation/Airlines/Airports",
-        "Budget/Appropriations",
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3115a549-5729-485b-a344-4bf7dc8da726/print/"
     },
     {
       "sector": "ITA",
