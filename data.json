@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:24:50Z",
+  "generated_at": "2026-09-06T13:33:42Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 6,
+      "bill_count": 7,
       "trade_count": 1,
       "lobbying_count": 361,
-      "avg_momentum": 32
+      "avg_momentum": 33
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -37,10 +37,10 @@
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 13,
       "lobbying_count": 222,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "XBI": {
       "name": "Biotech",
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 12,
+      "bill_count": 13,
       "trade_count": 0,
       "lobbying_count": 300,
       "avg_momentum": 32
@@ -79,7 +79,7 @@
       "color": "#7A6A00",
       "bill_count": 4,
       "trade_count": 1,
-      "lobbying_count": 208,
+      "lobbying_count": 233,
       "avg_momentum": 38
     },
     "SMH": {
@@ -1230,6 +1230,81 @@
       },
       "committee_count": 2,
       "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HJRES-200",
+      "number": "HJRES 200",
+      "title": "Providing for congressional disapproval of the proposed foreign military sale to Turkey of certain defense articles and services.",
+      "sector": "ITA",
+      "introduced_date": "2026-07-02",
+      "latest_action": {
+        "date": "2026-07-02",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/200",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Titus, Dina [D-NV-1]",
+        "party": "D",
+        "state": "NV"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 15,
+      "amendments": [],
+      "momentum": 41,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9585",
+      "number": "HR 9585",
+      "title": "Advancing American Quantum Leadership Act of 2026",
+      "sector": "QTUM",
+      "introduced_date": "2026-07-02",
+      "latest_action": {
+        "date": "2026-07-02",
+        "text": "Referred to the House Committee on Financial Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9585",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Lawler, Michael [R-NY-17]",
+        "party": "R",
+        "state": "NY"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9646",
+      "number": "HR 9646",
+      "title": "Quantum-Enhanced Critical Minerals Mapping Act of 2026",
+      "sector": "PAVE",
+      "introduced_date": "2026-07-13",
+      "latest_action": {
+        "date": "2026-07-21",
+        "text": "Subcommittee Hearings Held"
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9646",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Hurd, Jeff [R-CO-3]",
+        "party": "R",
+        "state": "CO"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
       "sector_trade_flag": false
@@ -38443,6 +38518,400 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/8bcdf99a-4508-40b3-a1ca-e2ca68e2203c/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "150000.00",
+      "posted_date": "2026-07-20T14:06:49-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1cc23e7f-786f-4df9-94dc-9257040a393f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "150000.00",
+      "posted_date": "2026-04-20T14:23:08-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fce75637-1a71-41b8-b2a4-9b43204fc3fc/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "150000.00",
+      "posted_date": "2026-01-20T14:39:44-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3c9b9748-78b9-4136-bc3f-a1f6a980caf5/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "150000.00",
+      "posted_date": "2025-10-20T14:45:03-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/66d3d455-4a98-4779-a7e1-1bf5a31e35c5/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "150000.00",
+      "posted_date": "2025-07-21T15:17:06-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/74519290-98da-4d9d-8be7-519ae21fb122/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-04-21T20:25:50-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8da0f97a-6d57-4bdc-a1d7-1a5d29e2306f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, LLC",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "Registration",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-03-14T15:33:50-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1ea92e4a-05cb-4b8a-a75e-852a4eb4700f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "1st Quarter - Termination",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2013,
+      "income": "25000.00",
+      "posted_date": "2013-03-14T14:55:56.620000-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8516f159-4f21-4fbe-a66d-f78b9cfdbcaf/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2012,
+      "income": "30000.00",
+      "posted_date": "2013-01-09T10:33:59.170000-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f804e125-144e-4588-a078-e1b6083a3726/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2012,
+      "income": "30000.00",
+      "posted_date": "2013-01-02T12:36:57.720000-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6da0208c-38be-4f9e-ba82-feb73f26596e/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2012,
+      "income": "37000.00",
+      "posted_date": "2012-07-18T22:33:05.823000-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6a776097-3314-4910-b851-8ab79de1fa81/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2012,
+      "income": "36000.00",
+      "posted_date": "2012-04-16T15:26:49.857000-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1df8e6a4-aa27-4454-be1f-2f87ea0e2518/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2011,
+      "income": "36000.00",
+      "posted_date": "2012-01-19T18:13:49.390000-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/419ce2c3-8dd8-40db-ad53-ef919b41bcaf/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2011,
+      "income": "30000.00",
+      "posted_date": "2011-10-20T20:38:24.543000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c8989db0-9f73-4967-80be-c94492b6464f/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2011,
+      "income": "25000.00",
+      "posted_date": "2011-07-19T11:06:53.667000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/eadfe5ec-2814-4468-8da1-dd5f3f50459c/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2011,
+      "income": "8000.00",
+      "posted_date": "2011-04-28T09:11:12.323000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b9cb5774-fd32-4951-b41d-45dffb3e82e7/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2010,
+      "income": "37500.00",
+      "posted_date": "2011-01-24T09:54:03.173000-05:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/73c01e34-fdb4-4701-92f7-ea7f3441bc73/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2010,
+      "income": "37500.00",
+      "posted_date": "2011-01-24T09:50:02.270000-05:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/12dd3d0d-aeaf-40fe-a50d-78e1ada56db3/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2010,
+      "income": "24000.00",
+      "posted_date": "2010-10-27T11:25:30.883000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/15555e2a-c974-4f5f-873d-cb3af3f80e02/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER INC",
+      "registrant_name": "MR. JOHN HOWES",
+      "filing_type": "2nd Quarter - Termination Amendment (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2010,
+      "income": null,
+      "posted_date": "2010-08-11T21:03:24.950000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/457d7deb-5fa4-4143-b397-c4babdeb28d7/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER INC",
+      "registrant_name": "MR. JOHN HOWES",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2010,
+      "income": null,
+      "posted_date": "2010-07-28T14:33:41.470000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/d08299ca-bc7b-44d5-a11b-a067fac16c27/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2010,
+      "income": "24000.00",
+      "posted_date": "2010-07-14T12:33:33.493000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/56775ee4-9f66-41e2-9472-640a16544802/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER INC",
+      "registrant_name": "MR. JOHN HOWES",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2010,
+      "income": null,
+      "posted_date": "2010-04-21T10:07:00.270000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f65bc7f7-2193-447b-a572-15dc0020de84/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2010,
+      "income": "8000.00",
+      "posted_date": "2010-04-20T08:27:09.913000-04:00",
+      "issues": [
+        "Utilities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e85a9028-e1f3-41cc-a4db-a6e6011a25b7/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "SMR",
+      "company": "NuScale Power",
+      "client_name": "NUSCALE POWER, INC.",
+      "registrant_name": "MR. GARY BARBOUR",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2009,
+      "income": "24000.00",
+      "posted_date": "2010-02-04T08:20:06.647000-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/eaa69409-f689-4d9b-a91a-23a91a7814d4/print/"
     },
     {
       "sector": "URA",
