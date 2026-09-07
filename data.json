@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T13:33:42Z",
+  "generated_at": "2026-09-07T15:39:56Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 1,
       "lobbying_count": 288,
-      "avg_momentum": 35
+      "avg_momentum": 36
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 13,
+      "bill_count": 12,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 32
+      "avg_momentum": 34
     },
     "UFO": {
       "name": "Space",
@@ -77,30 +77,30 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 1,
       "lobbying_count": 233,
-      "avg_momentum": 38
+      "avg_momentum": 40
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 16,
       "lobbying_count": 300,
-      "avg_momentum": 39
+      "avg_momentum": 40
     },
     "ICLN": {
       "name": "Clean Energy",
       "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
-      "bill_count": 1,
+      "bill_count": 0,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 15
+      "avg_momentum": 0
     },
     "MOO": {
       "name": "Agriculture",
@@ -110,7 +110,7 @@
       "bill_count": 4,
       "trade_count": 2,
       "lobbying_count": 208,
-      "avg_momentum": 30
+      "avg_momentum": 36
     },
     "FINX": {
       "name": "Financial Technology",
@@ -232,56 +232,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-8881",
-      "number": "HR 8881",
-      "title": "SBA Artificial Intelligence Utilization Act of 2026",
-      "sector": "SMH",
-      "introduced_date": "2026-05-19",
-      "latest_action": {
-        "date": "2026-06-24",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Finstad, Brad [R-MN-1]",
-        "party": "R",
-        "state": "MN"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HRES-1333",
-      "number": "HRES 1333",
-      "title": "Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2026-06-03",
-      "latest_action": {
-        "date": "2026-06-03",
-        "text": "Motion to reconsider laid on the table Agreed to without objection."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1333",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Houchin, Erin [R-IN-9]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 15,
       "sector_trade_flag": false
     },
     {
@@ -635,31 +585,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9658",
-      "number": "HR 9658",
-      "title": "Nuclear Regulatory Modernization Act of 2026",
-      "sector": "URA",
-      "introduced_date": "2026-07-13",
-      "latest_action": {
-        "date": "2026-07-13",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9658",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Spartz, Victoria [R-IN-5]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-2909",
       "number": "S 2909",
       "title": "Seasonal Agriculture CDL Modernization Act",
@@ -885,31 +810,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-2296",
-      "number": "S 2296",
-      "title": "National Defense Authorization Act for Fiscal Year 2026",
-      "sector": "ITA",
-      "introduced_date": "2025-07-15",
-      "latest_action": {
-        "date": "2025-11-12",
-        "text": "Held at the desk."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2296",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Wicker, Roger F. [R-MS]",
-        "party": "R",
-        "state": "MS"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-4823",
       "number": "S 4823",
       "title": "Advancing American Quantum Leadership Act of 2026",
@@ -1057,31 +957,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5617",
-      "number": "HR 5617",
-      "title": "Geothermal Gold Book Development Act",
-      "sector": "ICLN",
-      "introduced_date": "2025-09-30",
-      "latest_action": {
-        "date": "2026-05-20",
-        "text": "Placed on the Union Calendar, Calendar No. 573."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5617",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
-        "party": "D",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
       "sector_trade_flag": false
     },
     {
@@ -1302,6 +1177,56 @@
         "name": "Rep. Hurd, Jeff [R-CO-3]",
         "party": "R",
         "state": "CO"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-7658",
+      "number": "HR 7658",
+      "title": "Enhanced Cybersecurity for SNAP Act of 2026",
+      "sector": "CIBR",
+      "introduced_date": "2026-02-24",
+      "latest_action": {
+        "date": "2026-04-03",
+        "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7658",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Goldman, Daniel S. [D-NY-10]",
+        "party": "D",
+        "state": "NY"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 8,
+      "amendments": [],
+      "momentum": 38,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-8507",
+      "number": "HR 8507",
+      "title": "Precision Agriculture Workforce Training and Development Act",
+      "sector": "MOO",
+      "introduced_date": "2026-04-27",
+      "latest_action": {
+        "date": "2026-04-27",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8507",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Flood, Mike [R-NE-1]",
+        "party": "R",
+        "state": "NE"
       },
       "committee_count": 1,
       "cosponsor_count": 2,
