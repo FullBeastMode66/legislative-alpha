@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:18:53Z",
+  "generated_at": "2026-09-10T14:13:33Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 3,
-      "trade_count": 13,
+      "trade_count": 15,
       "lobbying_count": 222,
       "avg_momentum": 38
     },
@@ -48,7 +48,7 @@
       "etf": "XBI",
       "color": "#2C6E8C",
       "bill_count": 3,
-      "trade_count": 5,
+      "trade_count": 6,
       "lobbying_count": 315,
       "avg_momentum": 36
     },
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 8,
-      "trade_count": 16,
+      "trade_count": 17,
       "lobbying_count": 300,
       "avg_momentum": 37
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 141,
+      "trade_count": 144,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1611,6 +1611,83 @@
     }
   ],
   "trades": [
+    {
+      "sector": "QTUM",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Cory A Booker",
+      "transaction_date": "08/11/2026",
+      "filed_date": "09/09/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Cory A Booker",
+      "transaction_date": "08/11/2026",
+      "filed_date": "09/09/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "NFLX",
+      "company": "Netflix, Inc. - Common Stock",
+      "senator": "Cory A Booker",
+      "transaction_date": "08/11/2026",
+      "filed_date": "09/09/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "MCD",
+      "company": "McDonald's Corporation Common Stock",
+      "senator": "Cory A Booker",
+      "transaction_date": "08/11/2026",
+      "filed_date": "09/09/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "AMZN",
+      "company": "Amazon.com",
+      "senator": "Cory A Booker",
+      "transaction_date": "08/11/2026",
+      "filed_date": "09/09/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$100,001 - $250,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "ALNY",
+      "company": "Alnylam Pharmaceuticals",
+      "senator": "Cory A Booker",
+      "transaction_date": "08/11/2026",
+      "filed_date": "09/09/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JD",
+      "company": "JD.com, Inc. - American Depositary Shares",
+      "senator": "Cory A Booker",
+      "transaction_date": "08/11/2026",
+      "filed_date": "09/09/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
+    },
     {
       "sector": "QTUM",
       "ticker": "NVDA",
