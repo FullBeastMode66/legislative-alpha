@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:13:33Z",
+  "generated_at": "2026-09-11T14:13:15Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -107,7 +107,7 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 2,
       "lobbying_count": 208,
       "avg_momentum": 36
@@ -207,31 +207,6 @@
       "cosponsor_count": 28,
       "amendments": [],
       "momentum": 46,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4655",
-      "number": "S 4655",
-      "title": "Farm Credit Adjustment Act",
-      "sector": "MOO",
-      "introduced_date": "2026-06-02",
-      "latest_action": {
-        "date": "2026-06-02",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4655",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Cornyn, John [R-TX]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -529,7 +504,7 @@
         "state": "SC"
       },
       "committee_count": 1,
-      "cosponsor_count": 5,
+      "cosponsor_count": 6,
       "amendments": [],
       "momentum": 37,
       "sector_trade_flag": false
@@ -804,9 +779,9 @@
         "state": "DE"
       },
       "committee_count": 1,
-      "cosponsor_count": 6,
+      "cosponsor_count": 7,
       "amendments": [],
-      "momentum": 37,
+      "momentum": 38,
       "sector_trade_flag": false
     },
     {
@@ -32083,6 +32058,22 @@
       "ticker": "AXON",
       "company": "Axon Enterprise",
       "client_name": "AXON ENTERPRISE, INC.",
+      "registrant_name": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-09-10T14:19:17-04:00",
+      "issues": [
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/03dabb47-107f-41cd-8e35-372dea923ea9/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
+      "client_name": "AXON ENTERPRISE, INC.",
       "registrant_name": "FEDERAL STREET STRATEGIES, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -32485,22 +32476,6 @@
         "Budget/Appropriations"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/c5617fb0-b2bb-4e9e-8db3-d0fdcbb10b38/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "AXON",
-      "company": "Axon Enterprise",
-      "client_name": "AXON ENTERPRISE, INC",
-      "registrant_name": "CAPITOL 6 ADVISORS",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T12:39:52-04:00",
-      "issues": [
-        "Law Enforcement/Crime/Criminal Justice"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/d4781205-fc53-435c-87ba-14036a004956/print/"
     },
     {
       "sector": "ITA",
