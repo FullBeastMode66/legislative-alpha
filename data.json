@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:13:15Z",
+  "generated_at": "2026-09-12T13:30:50Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -9,7 +9,7 @@
       "color": "#C98A3B",
       "bill_count": 16,
       "trade_count": 1,
-      "lobbying_count": 361,
+      "lobbying_count": 336,
       "avg_momentum": 33
     },
     "CIBR": {
@@ -78,7 +78,7 @@
       "etf": "URA",
       "color": "#7A6A00",
       "bill_count": 2,
-      "trade_count": 1,
+      "trade_count": 2,
       "lobbying_count": 233,
       "avg_momentum": 42
     },
@@ -98,7 +98,7 @@
       "etf": "ICLN",
       "color": "#5A8F4C",
       "bill_count": 2,
-      "trade_count": 0,
+      "trade_count": 1,
       "lobbying_count": 165,
       "avg_momentum": 37
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 144,
+      "trade_count": 151,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1586,6 +1586,105 @@
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "IVV",
+      "company": "iShares Core S&P 500 ETF",
+      "senator": "John Boozman",
+      "transaction_date": "08/27/2026",
+      "filed_date": "09/11/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "08/20/2026",
+      "filed_date": "09/11/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "WWSYX",
+      "company": "Westwood Quality SmallCap Fund - Westwood Quality SmallCap Fund Ultra Shares",
+      "senator": "John Boozman",
+      "transaction_date": "08/19/2026",
+      "filed_date": "09/11/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "CEG",
+      "company": "Constellation Energy",
+      "senator": "John Boozman",
+      "transaction_date": "08/13/2026",
+      "filed_date": "09/11/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "OTIS",
+      "company": "Otis Worldwide Corporation Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "08/27/2026",
+      "filed_date": "09/11/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SPYM",
+      "company": "Tradr 2X Long SPY Monthly ETF",
+      "senator": "John Boozman",
+      "transaction_date": "08/20/2026",
+      "filed_date": "09/11/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IJR",
+      "company": "iShares Core S&P Small-Cap ETF",
+      "senator": "John Boozman",
+      "transaction_date": "08/19/2026",
+      "filed_date": "09/11/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "AVUV",
+      "company": "Avantis U.S. Small Cap Value ETF",
+      "senator": "John Boozman",
+      "transaction_date": "08/19/2026",
+      "filed_date": "09/11/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "FSLR",
+      "company": "First Solar",
+      "senator": "John Boozman",
+      "transaction_date": "08/13/2026",
+      "filed_date": "09/11/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/"
+    },
     {
       "sector": "QTUM",
       "ticker": "NVDA",
@@ -4137,413 +4236,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/e5df27ba-3a78-436e-9385-3a6f777a7727/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-07-20T17:04:53-04:00",
-      "issues": [
-        "Clean Air and Water (quality)",
-        "Environment/Superfund",
-        "Natural Resources",
-        "Taxation/Internal Revenue Code",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ad23d7be-02d7-42a3-b7c5-4a9511bd0e64/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-15T23:17:24-04:00",
-      "issues": [
-        "Clean Air and Water (quality)",
-        "Environment/Superfund",
-        "Natural Resources",
-        "Taxation/Internal Revenue Code",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/73b26bd3-731f-4347-a887-350ff5bc8ba9/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2026-01-17T17:42:06-05:00",
-      "issues": [
-        "Environment/Superfund",
-        "Natural Resources",
-        "Taxation/Internal Revenue Code",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8d27c896-d92f-48f7-9132-c87a9a45ab59/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2025-10-13T16:26:24-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/619921cf-c532-4cd0-bb25-825b3fc9d219/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-07-20T15:23:44-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/b5eea4d2-9eaf-47a7-990a-5c180ded1210/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
-      "filing_type": "1st Quarter - Report (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-30T14:58:13-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/40a826d8-eff5-4efd-b7f9-1c93d6613356/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
-      "filing_type": "Registration - Amendment",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-30T11:28:35-04:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/cf8de565-405a-4fe4-88a0-80c31fba9d19/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
-      "filing_type": "Registration",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-29T12:36:54-04:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f3e32ace-46ef-4c91-9c69-781f4296425e/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA COMPOSITES",
-      "registrant_name": "FABIANI & COMPANY",
-      "filing_type": "Mid-Year Termination",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2007,
-      "income": null,
-      "posted_date": "2007-08-14T14:44:02-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/36302025-57a6-4a13-a181-4b580ff3a287/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA COMPOSITES",
-      "registrant_name": "FABIANI & COMPANY",
-      "filing_type": "Year-End Report",
-      "filing_period": "Year-End (July 1 - Dec 31)",
-      "filing_year": 2006,
-      "income": null,
-      "posted_date": "2007-05-29T16:57:20-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/19328d67-e022-467e-9cf4-d503ae20ace3/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA COMPOSITES",
-      "registrant_name": "FABIANI & COMPANY",
-      "filing_type": "Mid-Year Report",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2006,
-      "income": null,
-      "posted_date": "2007-05-29T16:53:17-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/16db5be5-7ba5-484c-a1f1-f16a94610e6f/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "THE LOEFFLER GROUP",
-      "filing_type": "Mid-Year Termination",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2006,
-      "income": "10000.00",
-      "posted_date": "2006-10-24T00:00:00-04:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/9b4afc5d-3e87-4c22-b51e-695f66debda0/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "THE LOEFFLER GROUP",
-      "filing_type": "Mid-Year Report",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2006,
-      "income": "100000.00",
-      "posted_date": "2006-08-10T00:00:00-04:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/04622758-fd4c-4af6-9c30-5801baa2d4a1/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA COMPOSITES",
-      "registrant_name": "FABIANI & COMPANY",
-      "filing_type": "Year-End Report",
-      "filing_period": "Year-End (July 1 - Dec 31)",
-      "filing_year": 2005,
-      "income": "20000.00",
-      "posted_date": "2006-02-10T00:00:00-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/2ba14059-6bdd-4fd3-ad41-ef979451fff8/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "THE LOEFFLER GROUP",
-      "filing_type": "Year-End Report",
-      "filing_period": "Year-End (July 1 - Dec 31)",
-      "filing_year": 2005,
-      "income": "100000.00",
-      "posted_date": "2006-02-09T00:00:00-05:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/0422285d-5afd-465b-b9b2-10c5a995b5a7/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA COMPOSITES",
-      "registrant_name": "FABIANI & COMPANY",
-      "filing_type": "Registration",
-      "filing_period": "Year-End (July 1 - Dec 31)",
-      "filing_year": 2005,
-      "income": null,
-      "posted_date": "2005-12-12T00:00:00-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/fd7d90a0-fdc7-4fbb-85b6-bfa3211f73e8/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "GHL INC",
-      "filing_type": "Year-End Termination",
-      "filing_period": "Year-End (July 1 - Dec 31)",
-      "filing_year": 2005,
-      "income": "0.00",
-      "posted_date": "2005-12-12T00:00:00-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/48508604-f8c2-4170-a7c6-fe326e747da0/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "GHL INC",
-      "filing_type": "Mid-Year Report",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2005,
-      "income": "40000.00",
-      "posted_date": "2005-08-12T00:00:00-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3fab4191-0026-4e87-984d-bcfd1b8120e5/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "THE LOEFFLER GROUP",
-      "filing_type": "Mid-Year Report",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2005,
-      "income": "160000.00",
-      "posted_date": "2005-08-03T00:00:00-04:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/05da7459-b961-4518-8245-dcf80ecf8541/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "GHL INC",
-      "filing_type": "Year-End Report",
-      "filing_period": "Year-End (July 1 - Dec 31)",
-      "filing_year": 2004,
-      "income": "40000.00",
-      "posted_date": "2005-02-23T00:00:00-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e1c8725e-5492-425a-8ace-9848ddb56e03/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "THE LOEFFLER GROUP",
-      "filing_type": "Year-End Report",
-      "filing_period": "Year-End (July 1 - Dec 31)",
-      "filing_year": 2004,
-      "income": "160000.00",
-      "posted_date": "2005-02-15T00:00:00-05:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/fb54cf34-7918-42da-b2dd-a05e4b4bd221/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA AGGREGATES",
-      "registrant_name": "SQUIRE PATTON BOGGS",
-      "filing_type": "Year-End Termination (No Activity)",
-      "filing_period": "Year-End (July 1 - Dec 31)",
-      "filing_year": 2004,
-      "income": "0.00",
-      "posted_date": "2005-02-14T00:00:00-05:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/0f0246a6-9ffa-4d86-bbb4-7b1b395aab23/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "THE LOEFFLER GROUP",
-      "filing_type": "Mid-Year Amendment",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2004,
-      "income": "80000.00",
-      "posted_date": "2005-02-14T00:00:00-05:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/02c55e21-d021-47d3-8b68-6e99f6f86acd/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA MATERIALS",
-      "registrant_name": "GHL INC",
-      "filing_type": "Mid-Year Report",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2004,
-      "income": "40000.00",
-      "posted_date": "2004-08-24T00:00:00-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/fcd2b37f-87b0-40cb-8c44-89468555389f/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "MLM",
-      "company": "Martin Marietta Materials",
-      "client_name": "MARTIN MARIETTA AGGREGATES",
-      "registrant_name": "SQUIRE PATTON BOGGS",
-      "filing_type": "Mid-Year Report (No Activity)",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2004,
-      "income": "0.00",
-      "posted_date": "2004-08-16T00:00:00-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/a04a2c03-f328-4256-9bde-934bc92c0f64/print/"
     },
     {
       "sector": "PAVE",
@@ -21388,6 +21080,23 @@
       "sector": "QTUM",
       "ticker": "HON",
       "company": "Honeywell",
+      "client_name": "HONEYWELL",
+      "registrant_name": "ETHERTON AND ASSOCIATES, INC.",
+      "filing_type": "2nd Quarter - Termination",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-09-11T15:40:31-04:00",
+      "issues": [
+        "Defense",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b6f9ca9b-d6b5-4ed1-bdcb-17c817e907e2/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "HON",
+      "company": "Honeywell",
       "client_name": "HONEYWELL AEROSPACE US LLC",
       "registrant_name": "GREENBERG TRAURIG, LLP",
       "filing_type": "Registration",
@@ -21797,23 +21506,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/017063fc-3ea7-4259-bac2-a79b3c0a718a/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "HONEYWELL INTERNATIONAL INC.",
-      "registrant_name": "INNOVATIVE FEDERAL STRATEGIES, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-04-20T14:43:25-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ae893963-925e-4538-bed2-9b71abf38970/print/"
     },
     {
       "sector": "QTUM",
