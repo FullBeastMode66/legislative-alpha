@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:19:02Z",
+  "generated_at": "2026-09-15T14:47:51Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -10,7 +10,7 @@
       "bill_count": 16,
       "trade_count": 1,
       "lobbying_count": 361,
-      "avg_momentum": 33
+      "avg_momentum": 32
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -30,7 +30,7 @@
       "bill_count": 3,
       "trade_count": 1,
       "lobbying_count": 265,
-      "avg_momentum": 30
+      "avg_momentum": 32
     },
     "QTUM": {
       "name": "Quantum Computing",
@@ -266,8 +266,8 @@
       "sector": "GRID",
       "introduced_date": "2025-12-11",
       "latest_action": {
-        "date": "2026-07-21",
-        "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 0."
+        "date": "2026-09-14",
+        "text": "Placed on the Union Calendar, Calendar No. 723."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6633",
       "amendments_count": 0,
@@ -281,7 +281,7 @@
       "committee_count": 1,
       "cosponsor_count": 4,
       "amendments": [],
-      "momentum": 17,
+      "momentum": 25,
       "sector_trade_flag": false
     },
     {
@@ -1291,13 +1291,13 @@
       "sector": "PAVE",
       "introduced_date": "2026-06-18",
       "latest_action": {
-        "date": "2026-08-06",
-        "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+        "date": "2026-09-14",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 590."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4830",
       "amendments_count": 0,
       "amendments_url": null,
-      "status": "Committee",
+      "status": "Introduced",
       "sponsor": {
         "name": "Sen. Schatz, Brian [D-HI]",
         "party": "D",
@@ -1306,7 +1306,7 @@
       "committee_count": 1,
       "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 35,
+      "momentum": 23,
       "sector_trade_flag": false
     },
     {
@@ -1554,7 +1554,7 @@
         "state": "NY"
       },
       "committee_count": 2,
-      "cosponsor_count": 14,
+      "cosponsor_count": 15,
       "amendments": [],
       "momentum": 41,
       "sector_trade_flag": false
@@ -21462,6 +21462,23 @@
       "sector": "QTUM",
       "ticker": "HON",
       "company": "Honeywell",
+      "client_name": "HONEYWELL AEROSPACE US LLC",
+      "registrant_name": "ETHERTON AND ASSOCIATES, INC.",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-09-11T15:55:08-04:00",
+      "issues": [
+        "Defense",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cd1f1bd6-443b-4e7b-ab32-9b35ad5a4e4b/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "HON",
+      "company": "Honeywell",
       "client_name": "HONEYWELL",
       "registrant_name": "ETHERTON AND ASSOCIATES, INC.",
       "filing_type": "2nd Quarter - Termination",
@@ -21862,32 +21879,6 @@
       "posted_date": "2026-04-20T16:03:45-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/d67a0d35-c374-4df0-8b54-69ab6835e58c/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "HONEYWELL INTERNATIONAL",
-      "registrant_name": "HONEYWELL INTERNATIONAL",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-04-20T15:12:34-04:00",
-      "issues": [
-        "Aerospace",
-        "Budget/Appropriations",
-        "Consumer Issues/Safety/Products",
-        "Defense",
-        "Energy/Nuclear",
-        "Environment/Superfund",
-        "Homeland Security",
-        "Science/Technology",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/017063fc-3ea7-4259-bac2-a79b3c0a718a/print/"
     },
     {
       "sector": "QTUM",
