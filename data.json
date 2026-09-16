@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:47:51Z",
+  "generated_at": "2026-09-16T14:45:13Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -27,10 +27,10 @@
       "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 1,
       "lobbying_count": 265,
-      "avg_momentum": 32
+      "avg_momentum": 36
     },
     "QTUM": {
       "name": "Quantum Computing",
@@ -258,31 +258,6 @@
       "amendments": [],
       "momentum": 43,
       "sector_trade_flag": true
-    },
-    {
-      "id": "119-HR-6633",
-      "number": "HR 6633",
-      "title": "High-Capacity Grid Act",
-      "sector": "GRID",
-      "introduced_date": "2025-12-11",
-      "latest_action": {
-        "date": "2026-09-14",
-        "text": "Placed on the Union Calendar, Calendar No. 723."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6633",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Fedorchak, Julie [R-ND-At Large]",
-        "party": "R",
-        "state": "ND"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 25,
-      "sector_trade_flag": false
     },
     {
       "id": "119-S-5008",
@@ -1554,7 +1529,7 @@
         "state": "NY"
       },
       "committee_count": 2,
-      "cosponsor_count": 15,
+      "cosponsor_count": 16,
       "amendments": [],
       "momentum": 41,
       "sector_trade_flag": false
