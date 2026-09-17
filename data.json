@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:45:13Z",
+  "generated_at": "2026-09-17T14:50:57Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 16,
+      "bill_count": 17,
       "trade_count": 1,
       "lobbying_count": 361,
-      "avg_momentum": 32
+      "avg_momentum": 33
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 151,
+      "trade_count": 153,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1435,6 +1435,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-S-1532",
+      "number": "S 1532",
+      "title": "A bill to amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
+      "sector": "PAVE",
+      "introduced_date": "2025-04-30",
+      "latest_action": {
+        "date": "2025-04-30",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1532",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Crapo, Mike [R-ID]",
+        "party": "R",
+        "state": "ID"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 48,
+      "amendments": [],
+      "momentum": 50,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-SRES-782",
       "number": "SRES 782",
       "title": "A resolution recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 22 through June 28, 2026, as \"National Pollinator Week\".",
@@ -1536,6 +1561,28 @@
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "WMB",
+      "company": "Williams Companies, Inc. (The) Common StockOption Type: CallStrike price:$75.00Expires:2026-08-21",
+      "senator": "Alan Armstrong",
+      "transaction_date": "08/20/2026",
+      "filed_date": "09/17/2026",
+      "type": "Purchase",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "WMB",
+      "company": "Williams Companies, Inc. (The) Common StockOption Type: CallStrike price:$75.00Expires:2026-08-21",
+      "senator": "Alan Armstrong",
+      "transaction_date": "08/19/2026",
+      "filed_date": "09/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/"
+    },
     {
       "sector": "OTHER",
       "ticker": "IVV",
@@ -55230,6 +55277,22 @@
       "sector": "FINX",
       "ticker": "SQ",
       "company": "Block, Inc.",
+      "client_name": "BLOCK, INC.",
+      "registrant_name": "BGR GOVERNMENT AFFAIRS",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-09-16T08:28:45-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/57a7eaf0-208a-46f8-98d6-f767b08cd324/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "SQ",
+      "company": "Block, Inc.",
       "client_name": "H&R BLOCK, INC.",
       "registrant_name": "HARBINGER STRATEGIES, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -55626,22 +55689,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/7d107147-fbf7-46e8-b138-09bccee12e65/print/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "SQ",
-      "company": "Block, Inc.",
-      "client_name": "BLOCK, INC.",
-      "registrant_name": "CAPITOL TAX PARTNERS, LLP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "80000.00",
-      "posted_date": "2026-01-20T15:45:15-05:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/47ca729d-72e2-4e82-9065-7bb154d36d0d/print/"
     },
     {
       "sector": "FINX",
