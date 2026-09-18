@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:50:57Z",
+  "generated_at": "2026-09-18T14:16:02Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 153,
+      "trade_count": 152,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1554,9 +1554,9 @@
         "state": "NY"
       },
       "committee_count": 2,
-      "cosponsor_count": 16,
+      "cosponsor_count": 17,
       "amendments": [],
-      "momentum": 41,
+      "momentum": 42,
       "sector_trade_flag": false
     }
   ],
@@ -3804,17 +3804,6 @@
       "type": "Sale (Partial)",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "LOW",
-      "company": "Lowe's Companies, Inc. Common Stock",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "07/20/2026",
-      "filed_date": "08/03/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/96db6e64-f7c3-4483-b0aa-af10ba2bdbbd/"
     }
   ],
   "lobbying": [
@@ -32145,6 +32134,22 @@
       "ticker": "AXON",
       "company": "Axon Enterprise",
       "client_name": "AXON ENTERPRISE, INC.",
+      "registrant_name": "HUELLMANTEL & AFFILIATES",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-09-16T17:25:12-04:00",
+      "issues": [
+        "Law Enforcement/Crime/Criminal Justice"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/23737a8c-0bca-497f-97c1-d65ac65f6e5e/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
+      "client_name": "AXON ENTERPRISE, INC.",
       "registrant_name": "VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)",
       "filing_type": "Registration",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -32546,23 +32551,6 @@
         "Homeland Security"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/9204e19e-e45c-46c9-8ec5-dbc8ba1460b8/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "AXON",
-      "company": "Axon Enterprise",
-      "client_name": "AXON ENTERPRISE, INC.",
-      "registrant_name": "MEHLMAN CONSULTING, INC.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T12:55:22-04:00",
-      "issues": [
-        "Aviation/Airlines/Airports",
-        "Budget/Appropriations"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c5617fb0-b2bb-4e9e-8db3-d0fdcbb10b38/print/"
     },
     {
       "sector": "ITA",
