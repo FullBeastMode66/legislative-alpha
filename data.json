@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:16:02Z",
+  "generated_at": "2026-09-19T13:51:00Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 3,
-      "trade_count": 15,
+      "trade_count": 14,
       "lobbying_count": 222,
       "avg_momentum": 38
     },
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 9,
-      "trade_count": 17,
+      "trade_count": 16,
       "lobbying_count": 300,
       "avg_momentum": 37
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 152,
+      "trade_count": 149,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -3749,61 +3749,6 @@
       "type": "Sale (Full)",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "senator": "Shelley M Capito",
-      "transaction_date": "07/21/2026",
-      "filed_date": "08/04/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "AAPL",
-      "company": "Apple Inc. - Common Stock",
-      "senator": "Shelley M Capito",
-      "transaction_date": "07/21/2026",
-      "filed_date": "08/04/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "INTC",
-      "company": "Intel",
-      "senator": "Shelley M Capito",
-      "transaction_date": "07/21/2026",
-      "filed_date": "08/04/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "KO",
-      "company": "Coca-Cola Company (The) Common Stock",
-      "senator": "Shelley M Capito",
-      "transaction_date": "07/21/2026",
-      "filed_date": "08/04/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "CSCO",
-      "company": "Cisco Systems, Inc. - Common Stock",
-      "senator": "Shelley M Capito",
-      "transaction_date": "07/21/2026",
-      "filed_date": "08/04/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/"
     }
   ],
   "lobbying": [
