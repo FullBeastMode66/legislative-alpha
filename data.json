@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:06:19Z",
+  "generated_at": "2026-09-21T16:21:51Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,7 +17,7 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 2,
+      "bill_count": 1,
       "trade_count": 0,
       "lobbying_count": 288,
       "avg_momentum": 35
@@ -87,7 +87,7 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 8,
+      "bill_count": 9,
       "trade_count": 5,
       "lobbying_count": 300,
       "avg_momentum": 37
@@ -1210,31 +1210,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-5000",
-      "number": "S 5000",
-      "title": "Cyber Letters of Marque and Reprisal Act",
-      "sector": "CIBR",
-      "introduced_date": "2026-07-15",
-      "latest_action": {
-        "date": "2026-07-15",
-        "text": "Read twice and referred to the Committee on Foreign Relations."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5000",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Lee, Mike [R-UT]",
-        "party": "R",
-        "state": "UT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-3022",
       "number": "S 3022",
       "title": "Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act",
@@ -1557,6 +1532,31 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9442",
+      "number": "HR 9442",
+      "title": "Artificial Intelligence Data Center Moratorium Act",
+      "sector": "SMH",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+        "party": "D",
+        "state": "NY"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 17,
+      "amendments": [],
+      "momentum": 42,
       "sector_trade_flag": false
     }
   ],
