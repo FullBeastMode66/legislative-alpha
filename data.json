@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:21:51Z",
+  "generated_at": "2026-09-22T14:29:57Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -1554,13 +1554,24 @@
         "state": "NY"
       },
       "committee_count": 2,
-      "cosponsor_count": 17,
+      "cosponsor_count": 18,
       "amendments": [],
       "momentum": 42,
       "sector_trade_flag": false
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "WFC",
+      "company": "Wells Fargo & Company Common Stock",
+      "senator": "A. Mitchell McConnell, Jr.",
+      "transaction_date": "09/01/2026",
+      "filed_date": "09/21/2026",
+      "type": "Purchase",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/"
+    },
     {
       "sector": "OTHER",
       "ticker": "WMB",
@@ -2198,17 +2209,6 @@
       "type": "Exchange",
       "amount_range": "$100,001 - $250,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/5ecc9b5c-07c1-4ec1-bd4a-2db759eff299/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "O",
-      "company": "Realty Income Corporation Common Stock",
-      "senator": "Gary C Peters",
-      "transaction_date": "07/23/2026",
-      "filed_date": "08/07/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/"
     }
   ],
   "lobbying": [
