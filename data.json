@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:29:57Z",
+  "generated_at": "2026-09-23T14:51:06Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -87,7 +87,7 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 9,
+      "bill_count": 8,
       "trade_count": 5,
       "lobbying_count": 300,
       "avg_momentum": 37
@@ -117,10 +117,10 @@
       "short": "Fintech",
       "etf": "FINX",
       "color": "#3C6E8F",
-      "bill_count": 1,
+      "bill_count": 3,
       "trade_count": 1,
       "lobbying_count": 192,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "OTHER": {
       "name": "Other / Unclassified",
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 43,
+      "trade_count": 42,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -580,6 +580,31 @@
       },
       "committee_count": 1,
       "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9173",
+      "number": "HR 9173",
+      "title": "Charitable Deductions for Digital Asset Donations Act",
+      "sector": "FINX",
+      "introduced_date": "2026-06-08",
+      "latest_action": {
+        "date": "2026-06-08",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9173",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Kelly, Mike [R-PA-16]",
+        "party": "R",
+        "state": "PA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
@@ -1160,6 +1185,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-9178",
+      "number": "HR 9178",
+      "title": "Less Tax Paperwork for Digital Asset Owners Act",
+      "sector": "FINX",
+      "introduced_date": "2026-06-08",
+      "latest_action": {
+        "date": "2026-06-08",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9178",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Yakym, Rudy [R-IN-2]",
+        "party": "R",
+        "state": "IN"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HR-8175",
       "number": "HR 8175",
       "title": "To amend title 10, United States Code, and the National Defense Authorization Act for Fiscal Year 1994, to codify and clarify gender neutral standards for members of certain Armed Forces, and for other purposes.",
@@ -1532,31 +1582,6 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9442",
-      "number": "HR 9442",
-      "title": "Artificial Intelligence Data Center Moratorium Act",
-      "sector": "SMH",
-      "introduced_date": "2026-06-24",
-      "latest_action": {
-        "date": "2026-06-24",
-        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
-        "party": "D",
-        "state": "NY"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 18,
-      "amendments": [],
-      "momentum": 42,
       "sector_trade_flag": false
     }
   ],
@@ -2198,17 +2223,6 @@
       "type": "Purchase",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "--AMCR",
-      "company": "BERY - Berry Global Group, Inc. (Exchanged)Amcor plc Ordinary Shares (Received)",
-      "senator": "Ron L Wyden",
-      "transaction_date": "04/30/2025",
-      "filed_date": "08/08/2026",
-      "type": "Exchange",
-      "amount_range": "$100,001 - $250,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/5ecc9b5c-07c1-4ec1-bd4a-2db759eff299/"
     }
   ],
   "lobbying": [
