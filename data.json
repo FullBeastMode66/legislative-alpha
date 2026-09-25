@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:47:26Z",
+  "generated_at": "2026-09-25T15:11:06Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 35
+      "avg_momentum": 36
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -47,47 +47,47 @@
       "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 2,
       "lobbying_count": 315,
-      "avg_momentum": 38
+      "avg_momentum": 37
     },
     "ITA": {
       "name": "Defense",
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 10,
+      "bill_count": 8,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 35
+      "avg_momentum": 34
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 6,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "URA": {
       "name": "Uranium & Nuclear",
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 1,
       "lobbying_count": 233,
-      "avg_momentum": 37
+      "avg_momentum": 41
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 8,
+      "bill_count": 10,
       "trade_count": 5,
       "lobbying_count": 300,
       "avg_momentum": 37
@@ -385,31 +385,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HRES-1339",
-      "number": "HRES 1339",
-      "title": "Expressing the sense of the House of Representatives in support of Prime Minister Benjamin Netanyahu's initiative to transition the United States-Israel relationship toward mutual defense cooperation and joint economic investment, recognizing the contributions of Israel to joint military operations against Iran, and condemning the global rise of antisemitism.",
-      "sector": "ITA",
-      "introduced_date": "2026-06-03",
-      "latest_action": {
-        "date": "2026-06-03",
-        "text": "Referred to the House Committee on Foreign Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1339",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Stutzman, Marlin A. [R-IN-3]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9612",
       "number": "HR 9612",
       "title": "American Enrichment Deployment Act",
@@ -457,31 +432,6 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5400",
-      "number": "HR 5400",
-      "title": "To amend title 10, United States Code, to require the Secretary of Defense to annually review the amount of financial assistance for child care and youth program services providers provided by the Secretary.",
-      "sector": "ITA",
-      "introduced_date": "2025-09-16",
-      "latest_action": {
-        "date": "2025-09-16",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5400",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Khanna, Ro [D-CA-17]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -760,6 +710,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-S-3163",
+      "number": "S 3163",
+      "title": "A bill to require the Secretary of Defense to seek to engage appropriate officials of Taiwan in a joint program with Taiwan to enable the fielding of uncrewed systems and counter-uncrewed systems capabilities.",
+      "sector": "ITA",
+      "introduced_date": "2025-11-07",
+      "latest_action": {
+        "date": "2025-11-07",
+        "text": "Read twice and referred to the Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3163",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Slotkin, Elissa [D-MI]",
+        "party": "D",
+        "state": "MI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-S-2381",
       "number": "S 2381",
       "title": "PROACTIV Artificial Intelligence Data Act of 2025",
@@ -785,53 +760,28 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-4734",
-      "number": "S 4734",
-      "title": "Critical Defense Ownership Review Act",
-      "sector": "ITA",
-      "introduced_date": "2026-06-10",
+      "id": "119-HR-6009",
+      "number": "HR 6009",
+      "title": "Defense Biotechnology Strategy Act",
+      "sector": "XBI",
+      "introduced_date": "2025-11-10",
       "latest_action": {
-        "date": "2026-06-10",
-        "text": "Read twice and referred to the Committee on the Judiciary."
+        "date": "2025-11-10",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4734",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6009",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Sen. Warren, Elizabeth [D-MA]",
+        "name": "Rep. Houlahan, Chrissy [D-PA-6]",
         "party": "D",
-        "state": "MA"
+        "state": "PA"
       },
-      "committee_count": 1,
-      "cosponsor_count": 1,
+      "committee_count": 2,
+      "cosponsor_count": 2,
       "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-SRES-641",
-      "number": "SRES 641",
-      "title": "A resolution recognizing Girl Scouts of the United States of America on its 114th birthday and celebrating its legacy of providing girls with a supportive and inclusive space where they can explore their world, build meaningful relationships, and have access to experiences that prepare them for a life of leadership.",
-      "sector": "UFO",
-      "introduced_date": "2026-03-12",
-      "latest_action": {
-        "date": "2026-03-12",
-        "text": "Referred to the Committee on the Judiciary. (text: CR S1050-1051)"
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/641",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Duckworth, Tammy [D-IL]",
-        "party": "D",
-        "state": "IL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 6,
-      "amendments": [],
-      "momentum": 37,
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -1485,6 +1435,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-9323",
+      "number": "HR 9323",
+      "title": "Department of Advanced Technology and Artificial Intelligence Act",
+      "sector": "SMH",
+      "introduced_date": "2026-06-15",
+      "latest_action": {
+        "date": "2026-06-15",
+        "text": "Referred to the House Committee on Oversight and Government Reform."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9323",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Rivas, Luz M. [D-CA-29]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-S-1532",
       "number": "S 1532",
       "title": "A bill to amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
@@ -1582,6 +1557,81 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9442",
+      "number": "HR 9442",
+      "title": "Artificial Intelligence Data Center Moratorium Act",
+      "sector": "SMH",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+        "party": "D",
+        "state": "NY"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 18,
+      "amendments": [],
+      "momentum": 42,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5549",
+      "number": "HR 5549",
+      "title": "Efficient Nuclear Licensing Hearings Act",
+      "sector": "URA",
+      "introduced_date": "2025-09-23",
+      "latest_action": {
+        "date": "2026-07-14",
+        "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "party": "R",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 25,
+      "amendments": [],
+      "momentum": 45,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9477",
+      "number": "HR 9477",
+      "title": "AI Incident Reporting Act",
+      "sector": "CIBR",
+      "introduced_date": "2026-06-25",
+      "latest_action": {
+        "date": "2026-06-25",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moran, Nathaniel [R-TX-1]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
       "sector_trade_flag": false
     }
   ],
