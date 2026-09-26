@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:11:06Z",
+  "generated_at": "2026-09-26T14:16:05Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 18,
+      "bill_count": 17,
       "trade_count": 0,
       "lobbying_count": 361,
-      "avg_momentum": 33
+      "avg_momentum": 34
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 8,
+      "bill_count": 9,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 34
+      "avg_momentum": 32
     },
     "UFO": {
       "name": "Space",
@@ -1310,31 +1310,6 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-HR-9372",
-      "number": "HR 9372",
-      "title": "Data Infrastructure Energy Measurement and Standards Act",
-      "sector": "PAVE",
-      "introduced_date": "2026-06-18",
-      "latest_action": {
-        "date": "2026-06-25",
-        "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 34 - 1."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9372",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Subramanyam, Suhas [D-VA-10]",
-        "party": "D",
-        "state": "VA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 6,
-      "amendments": [],
-      "momentum": 17,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-4264",
       "number": "S 4264",
       "title": "NASA UAS Detection Act",
@@ -1632,6 +1607,31 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-1398",
+      "number": "HRES 1398",
+      "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-06-30",
+      "latest_action": {
+        "date": "2026-07-13",
+        "text": "VACATING PROCEEDINGS - Mr. Steil asked unanimous consent that the ordering of a recorded vote on the question of reconsideration of the vote on adoption on H. Res. 1398 be vacated to the end that the motion to reconsider be laid on the table. Agreed to without objection."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1398",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Scott, Austin [R-GA-8]",
+        "party": "R",
+        "state": "GA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 15,
       "sector_trade_flag": false
     }
   ],
