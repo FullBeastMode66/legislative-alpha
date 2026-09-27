@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:16:05Z",
+  "generated_at": "2026-09-27T15:08:40Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 9,
+      "bill_count": 8,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 32
+      "avg_momentum": 30
     },
     "UFO": {
       "name": "Space",
@@ -77,10 +77,10 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 1,
       "lobbying_count": 233,
-      "avg_momentum": 41
+      "avg_momentum": 39
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -1160,31 +1160,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-8175",
-      "number": "HR 8175",
-      "title": "To amend title 10, United States Code, and the National Defense Authorization Act for Fiscal Year 1994, to codify and clarify gender neutral standards for members of certain Armed Forces, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-04-02",
-      "latest_action": {
-        "date": "2026-04-02",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8175",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Houlahan, Chrissy [D-PA-6]",
-        "party": "D",
-        "state": "PA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 37,
-      "amendments": [],
-      "momentum": 50,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-8118",
       "number": "HR 8118",
       "title": "Election Infrastructure Integrity Act",
@@ -1632,6 +1607,31 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5951",
+      "number": "HR 5951",
+      "title": "No Nuclear Testing Without Approval Act",
+      "sector": "URA",
+      "introduced_date": "2025-11-07",
+      "latest_action": {
+        "date": "2025-11-07",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5951",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Horsford, Steven [D-NV-4]",
+        "party": "D",
+        "state": "NV"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
       "sector_trade_flag": false
     }
   ],
