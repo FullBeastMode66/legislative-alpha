@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:08:40Z",
+  "generated_at": "2026-09-28T18:07:15Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 17,
+      "bill_count": 16,
       "trade_count": 0,
       "lobbying_count": 361,
       "avg_momentum": 34
@@ -97,10 +97,10 @@
       "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 1,
       "lobbying_count": 165,
-      "avg_momentum": 37
+      "avg_momentum": 30
     },
     "MOO": {
       "name": "Agriculture",
@@ -457,31 +457,6 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9093",
-      "number": "HR 9093",
-      "title": "BRIDGE Act",
-      "sector": "PAVE",
-      "introduced_date": "2026-06-02",
-      "latest_action": {
-        "date": "2026-06-02",
-        "text": "Referred to the House Committee on Foreign Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9093",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Fitzgerald, Scott [R-WI-5]",
-        "party": "R",
-        "state": "WI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1482,6 +1457,31 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5617",
+      "number": "HR 5617",
+      "title": "Geothermal Gold Book Development Act",
+      "sector": "ICLN",
+      "introduced_date": "2025-09-30",
+      "latest_action": {
+        "date": "2026-05-20",
+        "text": "Placed on the Union Calendar, Calendar No. 573."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5617",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
+        "party": "D",
+        "state": "AZ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 15,
       "sector_trade_flag": false
     },
     {
