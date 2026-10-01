@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:26:29Z",
+  "generated_at": "2026-10-01T17:03:32Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -19,7 +19,7 @@
       "color": "#3F7469",
       "bill_count": 1,
       "trade_count": 0,
-      "lobbying_count": 188,
+      "lobbying_count": 288,
       "avg_momentum": 35
     },
     "GRID": {
@@ -109,7 +109,7 @@
       "color": "#8A7A3C",
       "bill_count": 7,
       "trade_count": 0,
-      "lobbying_count": 158,
+      "lobbying_count": 183,
       "avg_momentum": 32
     },
     "FINX": {
@@ -1429,7 +1429,7 @@
         "state": "IN"
       },
       "committee_count": 1,
-      "cosponsor_count": 5,
+      "cosponsor_count": 6,
       "amendments": [],
       "momentum": 37,
       "sector_trade_flag": true
@@ -2383,7 +2383,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HO",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
@@ -2464,7 +2464,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HO",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -2545,7 +2545,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HO",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -2629,7 +2629,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HO",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -8286,6 +8286,1662 @@
     },
     {
       "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CROWDSTRIKE, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-20T14:49:58-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7a060b1c-a337-42bf-a28d-ad0c4f2066e8/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "VAN SCOYOC ASSOCIATES",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-20T13:02:19-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/87c8bdea-03f1-41f2-a4c9-9a2d38df0997/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-20T10:33:19-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Computer Industry",
+        "Defense",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8d08b259-12e8-4c3d-b2aa-88ef798e7398/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "DLA PIPER LLP (US)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-17T14:05:58-04:00",
+      "issues": [
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c9cb3a4c-03ad-4f6b-8e9e-5dca43c1fdc4/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE INC.",
+      "registrant_name": "FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "150000.00",
+      "posted_date": "2026-07-16T11:22:57-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/60c3b94a-c7ae-49db-aa73-7b854beff467/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-08T15:52:15-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/793bbe1e-1723-4baa-bd7f-7af53fe4e9b2/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CROWDSTRIKE, INC.",
+      "filing_type": "4th Quarter - Amendment",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-05-04T12:30:49-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5938245b-fc58-4e4a-bccf-30d0a7bb1234/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-04-20T17:32:33-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Computer Industry",
+        "Defense",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0f9d32b4-187e-4930-b2ab-8177fbcfb8e0/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CROWDSTRIKE, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-20T12:10:24-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/16b7ab49-f4b3-4644-85a9-b8dec3267624/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "DLA PIPER LLP (US)",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-20T09:57:18-04:00",
+      "issues": [
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7b7bb115-40f3-442d-b5ff-d7f15ebc6777/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "VAN SCOYOC ASSOCIATES",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-04-17T10:33:03-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7aee636c-47e7-4c03-a762-4d3187a33e1f/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-14T18:05:40-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/391b9d96-978f-48ce-a8e1-796c83878694/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE INC.",
+      "registrant_name": "FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "110000.00",
+      "posted_date": "2026-04-14T12:47:26-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/35c7c320-c0aa-4830-9070-5ea943267d65/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CROWDSTRIKE, INC.",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-01-20T16:17:09-05:00",
+      "issues": [
+        "Computer Industry",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e04540bd-8c40-4c4d-9a84-a6c5b9050707/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "DLA PIPER LLP (US)",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2026-01-20T15:49:13-05:00",
+      "issues": [
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8d04e2c6-1e3b-4418-b275-134f84677176/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2026-01-20T15:01:19-05:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Computer Industry",
+        "Defense",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a8d47663-de76-43ab-a000-8d3c8a4496df/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE INC.",
+      "registrant_name": "FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "110000.00",
+      "posted_date": "2026-01-20T10:17:13-05:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cd23fa9b-f48c-4b3d-a9b1-9835b46d5483/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "VAN SCOYOC ASSOCIATES",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2026-01-19T09:27:31-05:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5b96fe79-9b2a-497f-ad28-3f5e31db2283/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2026-01-06T12:53:41-05:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fbc8bdaf-e7dc-4c52-b592-7d9bbb37e27b/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE",
+      "registrant_name": "FRANKLIN SQUARE GROUP, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-10-20T20:05:41-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Computer Industry",
+        "Defense",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c0d0d30e-ac88-4c02-b7dd-4c781d91eb44/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CROWDSTRIKE, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-20T15:58:28-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d93366e7-3f5b-4fcf-8ee0-a82b2cd93012/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "DLA PIPER LLP (US)",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2025-10-20T14:56:02-04:00",
+      "issues": [
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2267d9ad-0ffe-456c-8edf-5b9e3b77e9dd/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "VAN SCOYOC ASSOCIATES",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "40000.00",
+      "posted_date": "2025-10-17T13:42:35-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f7e0dcc7-42f7-4e6a-8d26-a5cd3760b0b3/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE INC.",
+      "registrant_name": "FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC)",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "110000.00",
+      "posted_date": "2025-10-16T08:44:34-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7a141063-253f-42e0-92df-b612761200aa/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2025-10-09T09:47:49-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/76c55466-a7c1-444d-a574-987b26c083ed/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-07-20T15:03:45-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/935cbe25-2743-4829-84ef-ba2831bbb101/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "120000.00",
+      "posted_date": "2026-07-20T14:18:52-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d357bdd9-cf01-4a31-bc95-0b9c3aec1bed/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MEHLMAN CONSULTING, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-17T14:38:05-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Computer Industry",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7921c480-2ee9-4527-b1de-884d117d9c23/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MAYER BROWN LLP",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-17T13:35:02-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/cebff0c8-884c-4bc8-b9a0-983db40262bb/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "ROBERTI GLOBAL (FKA ROBERTI WHITE, LLC)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-16T16:13:55-04:00",
+      "issues": [
+        "Homeland Security",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f62b019d-7a91-4d35-b112-5d2ab6e9c3df/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "PALO ALTO NETWORKS, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-15T16:44:05-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6413aad7-deb4-4801-b953-b110504fa6f4/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "ROBERTI GLOBAL (FKA ROBERTI WHITE, LLC)",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-22T13:10:54-04:00",
+      "issues": [
+        "Homeland Security",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/91eaa6aa-9c3c-4fb9-a314-f620afcdd229/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "120000.00",
+      "posted_date": "2026-04-20T14:38:55-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/567d5cb6-9ca9-40e5-ab27-8466dd40437a/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MEHLMAN CONSULTING, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-17T14:34:57-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Computer Industry",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6dba6c6f-6a7c-4666-8261-15d982c18368/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MAYER BROWN LLP",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-17T11:34:52-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/6d8e6000-3166-49e4-99f7-9772ef6971cb/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "PALO ALTO NETWORKS, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-17T09:38:50-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/69943090-fe4a-4987-b263-3dd8d565a9ff/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-04-15T16:40:14-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/28fbf553-c20e-4147-a360-a9477f5f9e05/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "120000.00",
+      "posted_date": "2026-01-20T14:50:41-05:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e5274e92-2d2f-4749-a3ea-ec816bcd55d3/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "ROBERTI GLOBAL (FKA ROBERTI WHITE, LLC)",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2026-01-20T11:20:32-05:00",
+      "issues": [
+        "Homeland Security",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ea574729-f13f-471d-846e-7ac60b9ce5d8/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MAYER BROWN LLP",
+      "filing_type": "4th Quarter - Report (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-01-20T09:36:09-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/09d5067a-ad40-4abc-a8fc-3b22f36a62ca/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "40000.00",
+      "posted_date": "2026-01-19T14:37:29-05:00",
+      "issues": [
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7fbd11f5-5841-4267-890f-ecc04fcb9f0c/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "PALO ALTO NETWORKS, INC.",
+      "filing_type": "4th Quarter - Amendment",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-01-18T16:37:49-05:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Foreign Relations",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d291c1f5-5ba5-4ae8-9796-0aae5312c62b/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MEHLMAN CONSULTING, INC.",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2026-01-16T12:31:38-05:00",
+      "issues": [
+        "Computer Industry",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/aec147e5-8c9a-4cb6-a681-3a1583943380/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "PALO ALTO NETWORKS, INC.",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-01-15T16:41:04-05:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Foreign Relations",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/37f08fce-9b3c-4962-b880-1cedd75d24e7/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "40000.00",
+      "posted_date": "2025-10-20T15:35:10-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3ca1e55b-db92-4ed9-8aea-03f33a8aa3b2/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "120000.00",
+      "posted_date": "2025-10-20T15:28:38-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3a557b06-6a71-4ffe-b6cd-f581686ca384/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MEHLMAN CONSULTING, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2025-10-17T15:36:12-04:00",
+      "issues": [
+        "Computer Industry",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/35f4b87d-79f7-44ab-a6dd-a4065e7d97cc/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "PALO ALTO NETWORKS, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-17T10:01:26-04:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Foreign Relations",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6c241f89-42e0-4857-a58e-43f812a01bb6/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "MAYER BROWN LLP",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-16T16:41:46-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/10b3c961-ab3e-4e3b-8179-c247bb6ac5cc/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "client_name": "PALO ALTO NETWORKS, INC.",
+      "registrant_name": "ROBERTI GLOBAL (FKA ROBERTI WHITE, LLC)",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2025-10-16T12:42:09-04:00",
+      "issues": [
+        "Homeland Security",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d1e2dfa4-2696-48df-bd4f-b0007087b9f1/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-20T15:50:44-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8153f65e-a090-4d1e-a9b7-7d028d938782/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-04-20T20:18:35-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f5122181-8ccb-4500-aa36-e69607729e7f/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",
+      "filing_type": "Registration",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-02-26T15:47:06-05:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/78f97ba8-6e9f-4815-9b6d-854b05ae8d3a/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "3rd Quarter - Termination",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-20T13:48:07-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a9705b85-eeb0-465c-a4e8-82787a570e5b/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "3rd Quarter - Termination",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-10-20T11:23:32-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9bbab2d7-a4b0-4475-b5ea-935dcfeaa872/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-07-21T10:39:44-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a9b54233-50d1-41b0-81c5-c3e175002292/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-07-16T13:09:02-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/71765985-ab2d-43ba-b14f-ad2559dcff42/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-04-19T16:26:02-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/54b4d3f0-3533-4837-b434-805019c8b7cc/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-04-18T09:53:32-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5d7dd660-27f4-4a10-a714-04d1598bb742/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2025-01-21T16:11:53-05:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9606fb05-ffe8-4c8d-aa0f-faf6017200c1/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2024,
+      "income": "50000.00",
+      "posted_date": "2025-01-21T15:24:09-05:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cec0e624-c90b-4e8d-9151-333516c453b4/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2024-10-21T15:16:25-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/43603823-1bbb-4a30-bc68-914cc4d2ab20/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2024,
+      "income": "50000.00",
+      "posted_date": "2024-10-21T10:41:30-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4332d4b5-95ee-4183-8a26-521d29f6c333/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2024,
+      "income": "50000.00",
+      "posted_date": "2024-07-22T11:03:36-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/811350f5-cd47-4f40-8ee0-e8de31b39e6b/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2024-07-19T09:44:15-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9230dab4-846b-4283-86f9-886c3fab9b72/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2024,
+      "income": "50000.00",
+      "posted_date": "2024-04-22T09:50:01-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a2c9274e-4f8b-4096-b1b3-db6fc70bd535/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2024-04-19T09:51:06-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e5eeb57f-048d-4deb-864c-3dd7c098f6e2/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2023,
+      "income": "50000.00",
+      "posted_date": "2024-01-22T12:19:24-05:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f0a1d265-5e83-4a97-a317-b911bbb4f372/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2023,
+      "income": null,
+      "posted_date": "2024-01-19T16:58:23-05:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b3abfaff-ce5d-4be1-9261-67421d529a15/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2023,
+      "income": null,
+      "posted_date": "2023-10-20T15:51:44-04:00",
+      "issues": [
+        "Computer Industry",
+        "Health Issues",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/047c50d8-e1d3-431e-a915-557f856c5f8a/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2023,
+      "income": "50000.00",
+      "posted_date": "2023-10-20T10:02:06-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/74ab5ef0-0df2-46e4-8dc7-f710a65a298b/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2023,
+      "income": null,
+      "posted_date": "2023-07-20T11:43:43-04:00",
+      "issues": [
+        "Computer Industry",
+        "Health Issues",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/bcba42ff-f5a3-45d4-bfce-a88eb505e4cc/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2023,
+      "income": "50000.00",
+      "posted_date": "2023-07-20T11:18:48-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3ebca013-d675-42f8-a9c0-50afec45cee7/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "FORTINET, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2023,
+      "income": null,
+      "posted_date": "2023-04-20T15:48:47-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fd2aa018-c753-44a4-af55-898f89101e2f/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2023,
+      "income": "50000.00",
+      "posted_date": "2023-04-20T10:02:44-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/76c7f0ab-d1d2-4f9c-94a8-117ab2c02697/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
+      "registrant_name": "CROSSROADS STRATEGIES, LLC",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-08-12T16:10:12-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/20c2c1be-37bd-403c-83e7-6d4ed6beefa2/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-18T00:09:43-04:00",
+      "issues": [
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7435f360-b5f8-474f-9a0b-1eb43c5e8e1e/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-07-13T09:47:04-04:00",
+      "issues": [
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e305c564-50a9-480f-98d6-bc974c537197/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-04-20T15:09:42-04:00",
+      "issues": [
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6a728962-3d8c-443d-8f9b-ce76528e48f7/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-04-17T14:15:32-04:00",
+      "issues": [
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/05d8880f-3aac-4385-88ac-d7fb1e67a5d5/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "90000.00",
+      "posted_date": "2026-01-20T14:41:12-05:00",
+      "issues": [
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3320ee51-42fa-4c04-a1c6-34dae1f2e3b7/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "40000.00",
+      "posted_date": "2026-01-20T10:55:03-05:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6edf74b6-19c5-4b70-91e7-f72488d488df/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "90000.00",
+      "posted_date": "2025-10-20T12:09:23-04:00",
+      "issues": [
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/98d80244-dec4-40b2-9078-44ecfd9a6434/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "40000.00",
+      "posted_date": "2025-10-17T17:07:23-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1c7a2776-2c19-4586-b08a-e3db518c4663/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "90000.00",
+      "posted_date": "2025-07-18T15:32:59-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/34fe81e2-74cd-4d99-88ce-a8532cfd01ff/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "40000.00",
+      "posted_date": "2025-07-14T12:08:19-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a917ec45-481a-4d4d-8319-26ed67e0a10c/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": "40000.00",
+      "posted_date": "2025-04-18T10:14:50-04:00",
+      "issues": [
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e8b19cb8-92ba-4b82-9719-4556946e3e29/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-04-18T08:13:30-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/db74fda9-7b28-4a6b-8e8d-18e46a67e6dc/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC.",
+      "registrant_name": "BALLARD PARTNERS",
+      "filing_type": "Registration",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-02-06T18:32:02-05:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a220cc02-7373-483b-818e-694b330b77f8/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER, INC. AND AFFILIATES",
+      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+      "filing_type": "4th Quarter - Termination (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2024,
+      "income": "20000.00",
+      "posted_date": "2025-01-21T12:23:15-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/93f78a4e-0d53-49af-b06e-5ca8f023a7f9/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2024,
+      "income": "40000.00",
+      "posted_date": "2025-01-17T13:39:47-05:00",
+      "issues": [
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8832d1df-4bbf-430b-9c90-6a378a744957/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER, INC. AND AFFILIATES",
+      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2024,
+      "income": "30000.00",
+      "posted_date": "2024-10-21T14:05:13-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/fc038f85-a8c2-493d-8a99-ba46ffdde8c5/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2024,
+      "income": "40000.00",
+      "posted_date": "2024-10-15T09:53:41-04:00",
+      "issues": [
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/49ffa786-d143-4ab8-bb16-c25f2bf4f837/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER, INC. AND AFFILIATES",
+      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2024,
+      "income": "30000.00",
+      "posted_date": "2024-07-22T13:34:13-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/deb327c1-d042-4109-be68-a456ccee033c/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2024,
+      "income": "40000.00",
+      "posted_date": "2024-07-15T14:20:29-04:00",
+      "issues": [
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1c2552d9-74fa-4921-a28d-2ec35fa5b9b3/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER, INC. AND AFFILIATES",
+      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2024,
+      "income": "30000.00",
+      "posted_date": "2024-04-22T16:20:17-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f0a35491-ecc1-4c5c-8526-926e9bfaa577/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER, INC. AND AFFILIATES",
+      "registrant_name": "ZSCALER, INC. AND AFFILIATES",
+      "filing_type": "4th Quarter - Termination (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2023,
+      "income": null,
+      "posted_date": "2024-04-18T17:55:01-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f3265dd4-a4c3-482a-8028-b59b6a55f01c/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2024,
+      "income": "40000.00",
+      "posted_date": "2024-04-12T12:38:45-04:00",
+      "issues": [
+        "Government Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/883192c1-6b44-4af3-9916-6f955810029b/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER, INC. AND AFFILIATES",
+      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2023,
+      "income": "30000.00",
+      "posted_date": "2024-01-22T17:21:07-05:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/30e199f9-9a23-4460-8e36-cca7773477ea/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "client_name": "ZSCALER, INC. AND AFFILIATES",
+      "registrant_name": "ZSCALER, INC. AND AFFILIATES",
+      "filing_type": "4th Quarter - Report (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2023,
+      "income": null,
+      "posted_date": "2024-01-22T14:17:47-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/9dcdddd3-d2e0-452a-9d06-c83e97554303/print/"
+    },
+    {
+      "sector": "CIBR",
       "ticker": "OKTA",
       "company": "Okta",
       "client_name": "OKTA, INC.",
@@ -11531,6 +13187,22 @@
       "ticker": "ETN",
       "company": "Eaton Corporation",
       "client_name": "EATON CORPORATION",
+      "registrant_name": "CASSIDY & ASSOCIATES, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-09-30T14:59:19-04:00",
+      "issues": [
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/de33575b-9a63-4599-90a1-964b3c52e8fa/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "ETN",
+      "company": "Eaton Corporation",
+      "client_name": "EATON CORPORATION",
       "registrant_name": "RIDGELINE ADVOCACY GROUP LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -11983,29 +13655,6 @@
         "Budget/Appropriations"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/dc4de62a-fd0e-4662-8325-8e42c05bc685/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "ETN",
-      "company": "Eaton Corporation",
-      "client_name": "EATON CORPORATION",
-      "registrant_name": "EATON CORPORATION",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2024,
-      "income": null,
-      "posted_date": "2025-01-24T16:22:10-05:00",
-      "issues": [
-        "Automotive Industry",
-        "Budget/Appropriations",
-        "Defense",
-        "Energy/Nuclear",
-        "Environment/Superfund",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/38a63321-0d1d-44bf-9e42-1844382d0f58/print/"
     },
     {
       "sector": "GRID",
@@ -49487,6 +51136,445 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/f4b7af8d-d0b2-466d-8d3f-e880aa786f53/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-20T15:45:50-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/bf8730ac-54f4-484c-8fdb-8f0cb06b2325/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-20T15:43:45-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/323b3d5f-71ec-452d-82e6-96f359a937e8/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "140000.00",
+      "posted_date": "2026-07-20T12:03:22-04:00",
+      "issues": [
+        "Agriculture",
+        "Labor Issues/Antitrust/Workplace"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/39a1a635-4cdf-447d-abe0-92062c9102cd/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROSSROADS STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-18T15:28:51-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/adfe78d5-f33b-4edd-89a2-694a1a9d5aa6/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-18T07:31:36-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/446af14a-386b-40f5-9de0-688eef243301/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-21T14:08:42-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/436a535f-72ed-4e49-8933-e4d5b1b75c6d/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-20T16:36:28-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f42e3162-be4b-45b0-be2f-f3a7e2ca688a/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-04-20T11:58:13-04:00",
+      "issues": [
+        "Agriculture",
+        "Labor Issues/Antitrust/Workplace"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d405b384-b0fe-4488-b2e8-5f7936d7983a/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROSSROADS STRATEGIES, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-19T22:41:47-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c6e57f2f-9103-4d16-8ea6-ed81413deac2/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-04-17T17:28:14-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a8b7c4cd-cc2c-47e6-a141-0b592a71ba93/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "Registration",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-03-09T16:46:59-04:00",
+      "issues": [
+        "Agriculture",
+        "Labor Issues/Antitrust/Workplace"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d31b9d04-3bc5-40a7-b842-aca8f1cb2e96/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-03-04T12:30:07-05:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Defense",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ec60c13b-e4c8-48bf-b5de-f2aa7d7c6d5e/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROWELL & MORING LLP",
+      "filing_type": "4th Quarter - Termination (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-01-20T17:04:24-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/22ff66ba-b733-4c22-9acf-d0790b9bc4b0/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-01-20T11:47:12-05:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d0451810-26ea-4e2a-900d-7d669f44bcfc/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROSSROADS STRATEGIES, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2026-01-19T00:32:24-05:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6891ff1b-2045-4a64-a577-63b6382d5324/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2026-01-15T07:53:29-05:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5ecfdb4c-cdf9-4f2b-83b3-884d2df5d425/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROWELL & MORING LLP",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-20T18:39:50-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/6b40419a-6ae5-4d1b-97b4-c0d51ec16d18/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-20T18:02:56-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cc247c5e-bcca-4045-a569-9984c841ed97/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROSSROADS STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2025-10-19T01:14:39-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f55ae9d4-400b-438c-a3c0-39bdf6a8caf0/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2025-10-17T15:45:25-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d8ee10f8-b015-48fb-940b-58fed0e2cda5/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-09-17T15:35:15-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Defense",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/391ec893-dc7b-4fd0-b77a-99de96db79f1/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROWELL & MORING LLP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-07-21T17:40:37-04:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1041f5f9-6600-4f99-9053-11020bb6dffc/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROSSROADS STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2025-07-19T16:10:43-04:00",
+      "issues": [
+        "Agriculture"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/76e24542-138f-4203-9642-b91b100aa183/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC (FKA E I DU PONT DE NEMOURS AND COMPANY)",
+      "registrant_name": "CORTEVA AGRISCIENCE LLC (FKA E.I. DU PONT DE NEMOURS AND COMPANY)",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-07-17T14:16:07-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Defense",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/84c9f123-b483-40fa-b28b-2fefcf90a174/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "client_name": "CORTEVA AGRISCIENCE LLC",
+      "registrant_name": "CROWELL & MORING LLP",
+      "filing_type": "Registration",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-07-16T16:50:08-04:00",
+      "issues": [
+        "Agriculture",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9b1d449a-4a94-4bc3-b018-757bf8af0bf3/print/"
     },
     {
       "sector": "MOO",
