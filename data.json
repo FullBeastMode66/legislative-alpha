@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:03:32Z",
+  "generated_at": "2026-10-02T16:15:17Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 17,
+      "bill_count": 18,
       "trade_count": 0,
       "lobbying_count": 361,
       "avg_momentum": 33
@@ -67,10 +67,10 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 5,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 35
+      "avg_momentum": 36
     },
     "URA": {
       "name": "Uranium & Nuclear",
@@ -109,7 +109,7 @@
       "color": "#8A7A3C",
       "bill_count": 7,
       "trade_count": 0,
-      "lobbying_count": 183,
+      "lobbying_count": 208,
       "avg_momentum": 32
     },
     "FINX": {
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 42,
+      "trade_count": 35,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -682,6 +682,31 @@
       "cosponsor_count": 10,
       "amendments": [],
       "momentum": 39,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3140",
+      "number": "S 3140",
+      "title": "Flood Protection and Infrastructure Resilience Act of 2025",
+      "sector": "PAVE",
+      "introduced_date": "2025-11-06",
+      "latest_action": {
+        "date": "2025-11-06",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3140",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Ricketts, Pete [R-NE]",
+        "party": "R",
+        "state": "NE"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1608,34 +1633,42 @@
       "amendments": [],
       "momentum": 15,
       "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4905",
-      "number": "S 4905",
-      "title": "Space Ready 2.0 Act",
-      "sector": "UFO",
-      "introduced_date": "2026-06-24",
-      "latest_action": {
-        "date": "2026-06-24",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4905",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Moody, Ashley [R-FL]",
-        "party": "R",
-        "state": "FL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "JPM",
+      "company": "JP Morgan Chase & Co. Common Stock",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "09/04/2026",
+      "filed_date": "10/01/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "ADI",
+      "company": "Analog Devices, Inc. - Common Stock",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "09/04/2026",
+      "filed_date": "10/01/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "V",
+      "company": "Visa",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "09/04/2026",
+      "filed_date": "10/01/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
     {
       "sector": "OTHER",
       "ticker": "WFC",
@@ -2163,116 +2196,6 @@
       "type": "Purchase",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "CBOE",
-      "company": "Cboe Global Markets, Inc. Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "07/31/2026",
-      "filed_date": "08/17/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "JPM",
-      "company": "JP Morgan Chase & Co. Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "07/23/2026",
-      "filed_date": "08/17/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "HD",
-      "company": "Home Depot, Inc. (The) Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "07/09/2026",
-      "filed_date": "08/17/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "TRV",
-      "company": "The Travelers Companies, Inc. Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "07/02/2026",
-      "filed_date": "08/17/2026",
-      "type": "Sale (Full)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "APTV",
-      "company": "Aptiv PLC Ordinary Shares",
-      "senator": "John Boozman",
-      "transaction_date": "07/09/2026",
-      "filed_date": "08/17/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "PYPL",
-      "company": "PayPal Holdings",
-      "senator": "John Boozman",
-      "transaction_date": "07/30/2026",
-      "filed_date": "08/17/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "SPYM",
-      "company": "Tradr 2X Long SPY Monthly ETF",
-      "senator": "John Boozman",
-      "transaction_date": "07/23/2026",
-      "filed_date": "08/17/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "EL",
-      "company": "Estee Lauder Companies, Inc. (The) Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "07/02/2026",
-      "filed_date": "08/17/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "CVX",
-      "company": "Chevron Corporation Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "07/02/2026",
-      "filed_date": "08/17/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "SPYM",
-      "company": "Tradr 2X Long SPY Monthly ETF",
-      "senator": "John Boozman",
-      "transaction_date": "07/02/2026",
-      "filed_date": "08/17/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/"
     }
   ],
   "lobbying": [
@@ -50721,6 +50644,20 @@
       "ticker": "MOS",
       "company": "The Mosaic Company",
       "client_name": "THE MOSAIC COMPANY",
+      "registrant_name": "SQUIRE PATTON BOGGS",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-02T08:58:22-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/7af669aa-ef47-4f17-9aaf-0942cf49f173/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "MOS",
+      "company": "The Mosaic Company",
+      "client_name": "THE MOSAIC COMPANY",
       "registrant_name": "THE MOSAIC COMPANY",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -51120,22 +51057,6 @@
       "posted_date": "2025-10-08T14:58:21-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/3f5c5c8b-1b7e-45fa-ab1d-ef09282b8a6f/print/"
-    },
-    {
-      "sector": "MOO",
-      "ticker": "MOS",
-      "company": "The Mosaic Company",
-      "client_name": "THE MOSAIC COMPANY",
-      "registrant_name": "BLUE STAR STRATEGIES LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "20000.00",
-      "posted_date": "2025-10-08T12:01:24-04:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f4b7af8d-d0b2-466d-8d3f-e880aa786f53/print/"
     },
     {
       "sector": "MOO",
@@ -51575,6 +51496,417 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/9b1d449a-4a94-4bc3-b018-757bf8af0bf3/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC)",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-28T10:19:07-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/7f24a036-fbc7-4efe-a974-ff8cdfda5665/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "MICHAEL BEST STRATEGIES LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-20T11:36:49-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9ce59e3c-984d-489c-be6f-8db6cbba7a9e/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "FMC CORPORATION",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-20T11:29:51-04:00",
+      "issues": [
+        "Agriculture",
+        "Environment/Superfund",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3ca06982-6666-435c-b269-4ba3f0c4aa58/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORP",
+      "registrant_name": "DC LEGISLATIVE AND REGULATORY SERVICES, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-17T12:56:05-04:00",
+      "issues": [
+        "Chemicals/Chemical Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8ea33a2c-af30-465a-853d-20cf1a5c7e81/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "FMC CORPORATION",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-06-30T14:11:52-04:00",
+      "issues": [
+        "Agriculture",
+        "Environment/Superfund",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/98ef4e86-f1c6-4b17-8d03-6a61ea59eb3f/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "MICHAEL BEST STRATEGIES LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-04-20T13:36:25-04:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7474d650-0d74-49ee-a669-e78dc62cbe95/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORP",
+      "registrant_name": "DC LEGISLATIVE AND REGULATORY SERVICES, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-04-20T12:21:54-04:00",
+      "issues": [
+        "Chemicals/Chemical Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f5bce951-f3f5-4c27-a0ed-0ea3f5b8b56f/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "FMC CORPORATION",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-14T14:18:43-04:00",
+      "issues": [
+        "Agriculture",
+        "Environment/Superfund",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0b1eb95a-0236-488c-8084-0e3e93af7cfc/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC)",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-04-14T11:28:20-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/694d1f53-b5d8-4dcc-b722-49325d9ce2f0/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC)",
+      "filing_type": "4th Quarter - Report (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-02-05T12:56:40-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/ad583782-c39f-4ab9-9167-2b38314b3fb6/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "MICHAEL BEST STRATEGIES LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2026-01-20T15:04:12-05:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/465a0ff2-c13b-4f94-b656-82c998d5d4da/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "FMC CORPORATION",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-01-20T14:44:48-05:00",
+      "issues": [
+        "Agriculture",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2aef564c-3f51-4ba1-ab8b-5163ddd9bb61/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORP",
+      "registrant_name": "DC LEGISLATIVE AND REGULATORY SERVICES, INC.",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2026-01-16T12:36:23-05:00",
+      "issues": [
+        "Chemicals/Chemical Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b79e4799-3266-486f-a6ed-aaccf29f65bc/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "4th Quarter - Termination",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "20000.00",
+      "posted_date": "2026-01-13T05:38:18-05:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/49810b31-d0de-4ea5-b998-b8404561df22/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "MICHAEL BEST STRATEGIES LLC",
+      "filing_type": "Registration",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-12-26T16:59:02-05:00",
+      "issues": [
+        "Agriculture",
+        "Chemicals/Chemical Industry",
+        "Environment/Superfund",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/320a93ad-b68c-4904-87c9-3c7a36b167b0/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "10000.00",
+      "posted_date": "2025-10-20T18:04:49-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/802bdeeb-9966-4298-962d-5ab19c52bf21/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORP",
+      "registrant_name": "DC LEGISLATIVE AND REGULATORY SERVICES, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2025-10-17T10:28:27-04:00",
+      "issues": [
+        "Chemicals/Chemical Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1f772902-e926-4cca-8aba-4f9cbbe1c8bd/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "FMC CORPORATION",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-17T09:56:57-04:00",
+      "issues": [
+        "Agriculture",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ca834d92-eb41-4d79-b112-24e6fca7699c/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC)",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-15T11:20:29-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/6d661dbd-c3d4-46f9-97cf-08f32bd2fff0/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "Registration - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-10T18:26:31-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2d0ba181-c602-418f-9147-cdd554e73a86/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC)",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-07-21T12:33:56-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/9a50a60f-572d-4388-9c25-9b25bcbad7c7/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "FMC CORPORATION",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-07-18T15:16:38-04:00",
+      "issues": [
+        "Agriculture",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/dc6a8458-2eb6-4b8a-89f9-069b4075982f/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORP",
+      "registrant_name": "DC LEGISLATIVE AND REGULATORY SERVICES, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2025-07-18T10:41:44-04:00",
+      "issues": [
+        "Chemicals/Chemical Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b7445ebf-a109-4ae3-a0ac-16d77c802d07/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORPORATION",
+      "registrant_name": "RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC)",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-04-23T09:55:08-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/30262a0a-e142-4cc9-b251-cafc031b9528/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "FMC",
+      "company": "FMC Corporation",
+      "client_name": "FMC CORP",
+      "registrant_name": "DC LEGISLATIVE AND REGULATORY SERVICES, INC.",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2025-04-21T14:56:49-04:00",
+      "issues": [
+        "Chemicals/Chemical Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cf78dcaf-0050-47d4-97bb-826febd7d299/print/"
     },
     {
       "sector": "MOO",
