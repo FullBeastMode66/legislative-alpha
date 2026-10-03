@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:15:17Z",
+  "generated_at": "2026-10-03T14:43:09Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 7,
+      "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 300,
       "avg_momentum": 32
@@ -67,10 +67,10 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "URA": {
       "name": "Uranium & Nuclear",
@@ -1460,31 +1460,6 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-SRES-778",
-      "number": "SRES 778",
-      "title": "A resolution recognizing and honoring Cambodian veterans of the Khmer National Armed Forces for their sacrifices, their support of the Armed Forces of the United States, and their defense of freedom in Southeast Asia.",
-      "sector": "ITA",
-      "introduced_date": "2026-06-18",
-      "latest_action": {
-        "date": "2026-06-18",
-        "text": "Referred to the Committee on Foreign Relations. (text: CR S2937)"
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/778",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Schiff, Adam B. [D-CA]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9323",
       "number": "HR 9323",
       "title": "Department of Advanced Technology and Artificial Intelligence Act",
@@ -1632,6 +1607,31 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4905",
+      "number": "S 4905",
+      "title": "Space Ready 2.0 Act",
+      "sector": "UFO",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4905",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Moody, Ashley [R-FL]",
+        "party": "R",
+        "state": "FL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
       "sector_trade_flag": false
     }
   ],
@@ -2306,7 +2306,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP)",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
@@ -2387,7 +2387,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP)",
       "filing_type": "1st Quarter - Report",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -2468,7 +2468,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP)",
       "filing_type": "4th Quarter - Report",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -2552,7 +2552,7 @@
       "ticker": "VMC",
       "company": "Vulcan Materials",
       "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER, LLP)",
+      "registrant_name": "TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP)",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2025,
@@ -3897,6 +3897,20 @@
       "company": "United Rentals",
       "client_name": "UNITED RENTALS, INC.",
       "registrant_name": "SQUIRE PATTON BOGGS",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-02T14:17:47-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/8a0b7892-fccb-40af-bc9a-67dcbdd008a6/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "URI",
+      "company": "United Rentals",
+      "client_name": "UNITED RENTALS, INC.",
+      "registrant_name": "SQUIRE PATTON BOGGS",
       "filing_type": "2nd Quarter - Report (No Activity)",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
@@ -4228,22 +4242,6 @@
       "posted_date": "2021-01-18T15:43:46.373000-05:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/a393dbd0-1cd3-4bda-8d94-a3285d2907d1/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "URI",
-      "company": "United Rentals",
-      "client_name": "UNITED RENTALS, INC.",
-      "registrant_name": "SQUIRE PATTON BOGGS",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2020,
-      "income": "20000.00",
-      "posted_date": "2020-10-19T13:22:17.510000-04:00",
-      "issues": [
-        "Government Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/1087fa12-d5d9-4b6e-bc45-2428d853ba1a/print/"
     },
     {
       "sector": "PAVE",
