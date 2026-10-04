@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T14:43:09Z",
+  "generated_at": "2026-10-04T15:18:26Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 18,
+      "bill_count": 17,
       "trade_count": 0,
       "lobbying_count": 361,
       "avg_momentum": 33
@@ -87,7 +87,7 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 9,
+      "bill_count": 10,
       "trade_count": 5,
       "lobbying_count": 300,
       "avg_momentum": 37
@@ -605,31 +605,6 @@
       },
       "committee_count": 1,
       "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2363",
-      "number": "S 2363",
-      "title": "Build More Housing Near Transit Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-07-21",
-      "latest_action": {
-        "date": "2025-07-21",
-        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2363",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Schatz, Brian [D-HI]",
-        "party": "D",
-        "state": "HI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
@@ -1632,6 +1607,31 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9442",
+      "number": "HR 9442",
+      "title": "Artificial Intelligence Data Center Moratorium Act",
+      "sector": "SMH",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+        "party": "D",
+        "state": "NY"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 18,
+      "amendments": [],
+      "momentum": 42,
       "sector_trade_flag": false
     }
   ],
@@ -30517,6 +30517,24 @@
       "ticker": "AXON",
       "company": "Axon Enterprise",
       "client_name": "AXON ENTERPRISE, INC.",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-04T10:12:31-04:00",
+      "issues": [
+        "Firearms/Guns/Ammunition",
+        "Law Enforcement/Crime/Criminal Justice",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cd856177-adc1-4c6b-8bcd-44c1cfce94ec/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
+      "client_name": "AXON ENTERPRISE, INC.",
       "registrant_name": "HUELLMANTEL & AFFILIATES",
       "filing_type": "Registration",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -30917,23 +30935,6 @@
         "Law Enforcement/Crime/Criminal Justice"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1e01cf4d-7063-4e05-b53e-3337c9d6344c/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "AXON",
-      "company": "Axon Enterprise",
-      "client_name": "AXON ENTERPRISE, INC.",
-      "registrant_name": "HOWE STREET GROUP LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-20T16:22:07-04:00",
-      "issues": [
-        "Aviation/Airlines/Airports",
-        "Homeland Security"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/9204e19e-e45c-46c9-8ec5-dbc8ba1460b8/print/"
     },
     {
       "sector": "ITA",
@@ -45386,6 +45387,23 @@
       "sector": "SMH",
       "ticker": "MRVL",
       "company": "Marvell Technology",
+      "client_name": "CLARK STREET ASSOCIATES ON BEHALF OF MARVELL TECHNOLOGY, INC.",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-04T10:58:56-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3afa0c35-42e2-4e9d-a6e0-23ba50c1fe52/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
       "client_name": "MARVELL TECHNOLOGY, INC.",
       "registrant_name": "CLARK STREET ASSOCIATES",
       "filing_type": "2nd Quarter - Report",
@@ -45773,22 +45791,6 @@
         "Science/Technology"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/36fee33d-2482-4dab-b699-08b3b1c7b024/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "client_name": "MARVELL TECHNOLOGY, INC.",
-      "registrant_name": "MARVELL TECHNOLOGY, INC.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2024,
-      "income": null,
-      "posted_date": "2024-04-21T18:08:51-04:00",
-      "issues": [
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/badb16c4-8a23-42ed-a84e-a18bed6a06d7/print/"
     },
     {
       "sector": "ICLN",
