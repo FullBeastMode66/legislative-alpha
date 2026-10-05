@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:18:26Z",
+  "generated_at": "2026-10-05T19:15:05Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 3,
-      "trade_count": 6,
+      "trade_count": 4,
       "lobbying_count": 222,
       "avg_momentum": 38
     },
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 10,
-      "trade_count": 5,
+      "trade_count": 4,
       "lobbying_count": 300,
       "avg_momentum": 37
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 35,
+      "trade_count": 29,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1307,7 +1307,7 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9372",
@@ -1432,7 +1432,7 @@
       "cosponsor_count": 6,
       "amendments": [],
       "momentum": 37,
-      "sector_trade_flag": true
+      "sector_trade_flag": false
     },
     {
       "id": "119-HR-9323",
@@ -2097,105 +2097,6 @@
       "type": "Sale (Partial)",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "UNH",
-      "company": "Unitedhealth Group Inc",
-      "senator": "John Boozman",
-      "transaction_date": "04/16/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "ORCL",
-      "company": "Oracle Corp",
-      "senator": "John Boozman",
-      "transaction_date": "04/16/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "senator": "John Boozman",
-      "transaction_date": "04/22/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "senator": "John Boozman",
-      "transaction_date": "04/16/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "META",
-      "company": "Meta Platforms Inc",
-      "senator": "John Boozman",
-      "transaction_date": "04/15/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "HYG",
-      "company": "iShares iBoxx $ High Yield Corporate Bond ETF",
-      "senator": "John Boozman",
-      "transaction_date": "04/09/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "COLPAL",
-      "company": "COLGATE PALMOLIVE LTD.",
-      "senator": "John Boozman",
-      "transaction_date": "04/08/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "OTHER",
-      "ticker": "CBOE",
-      "company": "Cboe Global Markets, Inc. Common Stock",
-      "senator": "John Boozman",
-      "transaction_date": "04/08/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "senator": "John Boozman",
-      "transaction_date": "04/08/2025",
-      "filed_date": "08/20/2026",
-      "type": "Purchase",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/"
     }
   ],
   "lobbying": [
@@ -12706,6 +12607,22 @@
       "sector": "CIBR",
       "ticker": "CACI",
       "company": "CACI International",
+      "client_name": "CACI INTERNATIONAL, INC",
+      "registrant_name": "A1.9 STRATEGIES LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-05T12:51:42-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/810e1bf3-002e-42b9-b90e-ab4f144076b1/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CACI",
+      "company": "CACI International",
       "client_name": "CACI INTERNATIONAL INC.",
       "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
       "filing_type": "2nd Quarter - Report",
@@ -13086,22 +13003,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/636e2190-26cc-47e6-aa1d-9ff1d1eb940e/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CACI",
-      "company": "CACI International",
-      "client_name": "CACI INTERNATIONAL INC.",
-      "registrant_name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2024,
-      "income": "60000.00",
-      "posted_date": "2024-07-22T10:35:56-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/abde666e-d647-4b50-8f45-ed8ad462ffd7/print/"
     },
     {
       "sector": "GRID",
@@ -19384,6 +19285,27 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "client_name": "MICROSOFT CORPORATION",
+      "registrant_name": "THE GIBSON GROUP, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-10-05T10:35:16-04:00",
+      "issues": [
+        "Computer Industry",
+        "Copyright/Patent/Trademark",
+        "Immigration",
+        "Postal",
+        "Telecommunications",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/353cb880-7e1c-4ac5-84ea-4c98534c0be5/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "client_name": "MICROSOFT CORPORATION",
       "registrant_name": "HARBINGER STRATEGIES, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -19835,22 +19757,6 @@
         "Labor Issues/Antitrust/Workplace"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1887f9ba-ce03-4264-8b81-8d9c2b1a8eb6/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "client_name": "MICROSOFT CORP.",
-      "registrant_name": "PLATINUM ADVISORS DC, LLC",
-      "filing_type": "1st Quarter - Termination",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "20000.00",
-      "posted_date": "2026-04-20T15:22:59-04:00",
-      "issues": [
-        "Computer Industry"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/88b6813e-cd7f-4942-b2db-5329561091a3/print/"
     },
     {
       "sector": "QTUM",
