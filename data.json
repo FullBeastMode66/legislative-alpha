@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T19:15:05Z",
+  "generated_at": "2026-10-06T16:39:45Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 1,
+      "bill_count": 0,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 35
+      "avg_momentum": 0
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -37,10 +37,10 @@
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 4,
       "lobbying_count": 222,
-      "avg_momentum": 38
+      "avg_momentum": 40
     },
     "XBI": {
       "name": "Biotech",
@@ -67,20 +67,20 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 5,
+      "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 35
+      "avg_momentum": 36
     },
     "URA": {
       "name": "Uranium & Nuclear",
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 1,
       "lobbying_count": 233,
-      "avg_momentum": 37
+      "avg_momentum": 41
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -1060,6 +1060,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-9651",
+      "number": "HR 9651",
+      "title": "Space Ready 2.0 Act",
+      "sector": "UFO",
+      "introduced_date": "2026-07-13",
+      "latest_action": {
+        "date": "2026-07-13",
+        "text": "Referred to the House Committee on Science, Space, and Technology."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9651",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Haridopolos, Mike [R-FL-8]",
+        "party": "R",
+        "state": "FL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-S-3278",
       "number": "S 3278",
       "title": "SMART Infrastructure Act of 2025",
@@ -1129,34 +1154,9 @@
         "state": "VA"
       },
       "committee_count": 2,
-      "cosponsor_count": 21,
+      "cosponsor_count": 22,
       "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4794",
-      "number": "S 4794",
-      "title": "Precision Agriculture Cybersecurity Act",
-      "sector": "CIBR",
-      "introduced_date": "2026-06-16",
-      "latest_action": {
-        "date": "2026-06-16",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4794",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Sheehy, Tim [R-MT]",
-        "party": "R",
-        "state": "MT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
+      "momentum": 44,
       "sector_trade_flag": false
     },
     {
@@ -1235,31 +1235,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-4823",
-      "number": "S 4823",
-      "title": "Advancing American Quantum Leadership Act of 2026",
-      "sector": "QTUM",
-      "introduced_date": "2026-06-18",
-      "latest_action": {
-        "date": "2026-06-18",
-        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4823",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Kim, Andy [D-NJ]",
-        "party": "D",
-        "state": "NJ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-4830",
       "number": "S 4830",
       "title": "A bill to designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
@@ -1329,9 +1304,9 @@
         "state": "VA"
       },
       "committee_count": 1,
-      "cosponsor_count": 6,
+      "cosponsor_count": 8,
       "amendments": [],
-      "momentum": 17,
+      "momentum": 18,
       "sector_trade_flag": false
     },
     {
@@ -1629,9 +1604,34 @@
         "state": "NY"
       },
       "committee_count": 2,
-      "cosponsor_count": 18,
+      "cosponsor_count": 19,
       "amendments": [],
-      "momentum": 42,
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5549",
+      "number": "HR 5549",
+      "title": "Efficient Nuclear Licensing Hearings Act",
+      "sector": "URA",
+      "introduced_date": "2025-09-23",
+      "latest_action": {
+        "date": "2026-07-14",
+        "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "party": "R",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 25,
+      "amendments": [],
+      "momentum": 45,
       "sector_trade_flag": false
     }
   ],
@@ -6448,6 +6448,23 @@
       "sector": "PAVE",
       "ticker": "ACM",
       "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "45000.00",
+      "posted_date": "2026-10-06T11:13:09-04:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/63342a0b-53bf-4a19-b801-ebff63ccab4f/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
       "client_name": "AECOM",
       "registrant_name": "AECOM",
       "filing_type": "2nd Quarter - Report",
@@ -6881,22 +6898,6 @@
         "Real Estate/Land Use/Conservation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/19230869-29a1-4658-9bf9-51339daa581c/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM CONSULT, INC.",
-      "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2026-01-20T17:57:32-05:00",
-      "issues": [
-        "Environment/Superfund"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/473c519a-12cd-4c61-b587-8c78d4472e66/print/"
     },
     {
       "sector": "PAVE",
@@ -20629,6 +20630,23 @@
       "ticker": "GOOGL",
       "company": "Alphabet",
       "client_name": "GOOGLE CLIENT SERVICES LLC",
+      "registrant_name": "FOCUS DC LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-10-06T08:37:24-04:00",
+      "issues": [
+        "Copyright/Patent/Trademark",
+        "Labor Issues/Antitrust/Workplace"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1d85a8ff-d088-402a-8787-ed8f4a8e5f19/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "client_name": "GOOGLE CLIENT SERVICES LLC",
       "registrant_name": "JEFFRIES STRATEGIES LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -21087,22 +21105,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/5ca35724-9d58-4cb7-9808-e8055e7ad56e/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "client_name": "GOOGLE CLIENT SERVICES LLC",
-      "registrant_name": "AKIN GUMP STRAUSS HAUER & FELD",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T12:59:51-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/73a0f070-de33-4761-8606-90babd8f9e4a/print/"
     },
     {
       "sector": "QTUM",
@@ -31253,6 +31255,22 @@
       "ticker": "LDOS",
       "company": "Leidos Holdings",
       "client_name": "LEIDOS",
+      "registrant_name": "PARK GOVERNMENT RELATIONS, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-10-05T16:16:51-04:00",
+      "issues": [
+        "Veterans"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/374414f3-961c-458e-a227-1384e6416265/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LDOS",
+      "company": "Leidos Holdings",
+      "client_name": "LEIDOS",
       "registrant_name": "THE OB-C GROUP, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -31688,22 +31706,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/9f6fa85a-4e23-46f8-8e14-d4c24a0486ca/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LDOS",
-      "company": "Leidos Holdings",
-      "client_name": "LEIDOS",
-      "registrant_name": "PARK GOVERNMENT RELATIONS, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "20000.00",
-      "posted_date": "2026-04-09T08:42:41-04:00",
-      "issues": [
-        "Veterans"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/0868e89e-8534-4327-8da0-ab98fc92f212/print/"
     },
     {
       "sector": "ITA",
