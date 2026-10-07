@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:39:45Z",
+  "generated_at": "2026-10-07T17:25:42Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -19286,6 +19286,26 @@
       "ticker": "MSFT",
       "company": "Microsoft",
       "client_name": "MICROSOFT CORPORATION",
+      "registrant_name": "D&P CREATIVE STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-07T13:07:34-04:00",
+      "issues": [
+        "Homeland Security",
+        "Immigration",
+        "Intelligence",
+        "Taxation/Internal Revenue Code",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7271bccb-fc83-4579-81ca-4c5d11933910/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "client_name": "MICROSOFT CORPORATION",
       "registrant_name": "THE GIBSON GROUP, LLC",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -19741,23 +19761,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1281e273-1138-4c3c-8621-ecb6a5cb181e/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "client_name": "MICROSOFT CORPORATION",
-      "registrant_name": "PENN HILL GROUP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "70000.00",
-      "posted_date": "2026-04-20T15:41:27-04:00",
-      "issues": [
-        "Education",
-        "Labor Issues/Antitrust/Workplace"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/1887f9ba-ce03-4264-8b81-8d9c2b1a8eb6/print/"
     },
     {
       "sector": "QTUM",
@@ -23292,6 +23295,22 @@
       "sector": "XBI",
       "ticker": "MRNA",
       "company": "Moderna",
+      "client_name": "MODERNA, INC.",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-10-07T13:13:18-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/69bcc7e0-0ac1-4071-9a6f-917493a75fb4/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "MRNA",
+      "company": "Moderna",
       "client_name": "MODERNATX, INC.",
       "registrant_name": "STANTON PARK GROUP",
       "filing_type": "2nd Quarter - Report",
@@ -23671,22 +23690,6 @@
         "Medicare/Medicaid"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1a9ccc03-12f5-4b6a-9e66-d3c0c4b2e2e0/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "client_name": "MODERNA, INC.",
-      "registrant_name": "HOLLAND & KNIGHT LLP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "20000.00",
-      "posted_date": "2026-01-13T05:43:25-05:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/7896eac0-dad9-4496-b059-10740a939da0/print/"
     },
     {
       "sector": "XBI",
@@ -32989,6 +32992,23 @@
       "ticker": "VSAT",
       "company": "Viasat",
       "client_name": "VIASAT, INC.",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-10-07T12:29:29-04:00",
+      "issues": [
+        "Communications/Broadcasting/Radio/TV",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/03245926-ab6e-435c-99a6-15f22229085e/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "VSAT",
+      "company": "Viasat",
+      "client_name": "VIASAT, INC.",
       "registrant_name": "NELSON MULLINS RILEY & SCARBOROUGH",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -33372,22 +33392,6 @@
         "Telecommunications"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/fa82d1ce-b1f3-4536-93d6-5c14ee49c646/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "VSAT",
-      "company": "Viasat",
-      "client_name": "VIASAT, INC.",
-      "registrant_name": "DLA PIPER LLP (US)",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "90000.00",
-      "posted_date": "2026-01-20T11:54:35-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c4437ec2-3542-47f8-9916-998b1516a735/print/"
     },
     {
       "sector": "UFO",
@@ -42648,6 +42652,22 @@
       "company": "Qualcomm",
       "client_name": "QUALCOMM INCORPORATED",
       "registrant_name": "O'KEEFFE SHAHMORADI STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-06T13:44:15-04:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7448aede-c2a4-4bf7-ac98-9a3436771f5f/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "client_name": "QUALCOMM INCORPORATED",
+      "registrant_name": "O'KEEFFE SHAHMORADI STRATEGIES, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
@@ -43057,22 +43077,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1964cd85-792c-4ac4-9b28-d4c6855bfc75/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "client_name": "QUALCOMM INCORPORATED",
-      "registrant_name": "CAPITOL TAX PARTNERS, LLP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2026-01-20T16:24:51-05:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a16281cd-6ab7-4c02-bff1-4ed31de1e706/print/"
     },
     {
       "sector": "SMH",
