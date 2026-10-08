@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:25:42Z",
+  "generated_at": "2026-10-08T17:24:02Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -13010,6 +13010,29 @@
       "ticker": "ETN",
       "company": "Eaton Corporation",
       "client_name": "EATON CORPORATION",
+      "registrant_name": "EATON CORPORATION",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-07T16:04:34-04:00",
+      "issues": [
+        "Automotive Industry",
+        "Budget/Appropriations",
+        "Defense",
+        "Energy/Nuclear",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/edd59c06-52ef-4e8b-b63f-1869591f71c5/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "ETN",
+      "company": "Eaton Corporation",
+      "client_name": "EATON CORPORATION",
       "registrant_name": "CASSIDY & ASSOCIATES, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -13462,22 +13485,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/c40d7d3a-df8f-415c-88c6-eaeabc9eca9c/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "ETN",
-      "company": "Eaton Corporation",
-      "client_name": "EATON CORPORATION",
-      "registrant_name": "CASSIDY & ASSOCIATES, INC.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2025-04-20T15:13:30-04:00",
-      "issues": [
-        "Budget/Appropriations"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/dc4de62a-fd0e-4662-8325-8e42c05bc685/print/"
     },
     {
       "sector": "GRID",
@@ -14276,6 +14283,23 @@
       "sector": "GRID",
       "ticker": "SO",
       "company": "Southern Company",
+      "client_name": "SOUTHERN COMPANY",
+      "registrant_name": "LJ CONSULTING, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-07T20:26:16-04:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/17d037ce-697c-4ae5-9b44-cb815ef51440/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "SO",
+      "company": "Southern Company",
       "client_name": "SOUTHERN COMPANY SERVICES, INC.",
       "registrant_name": "HARBINGER STRATEGIES, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -14700,22 +14724,21 @@
     },
     {
       "sector": "GRID",
-      "ticker": "SO",
-      "company": "Southern Company",
-      "client_name": "SOUTHERN COMPANY SERVICES INC",
-      "registrant_name": "HUNTON ANDREWS KURTH LLP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "ticker": "DUK",
+      "company": "Duke Energy",
+      "client_name": "DUKE ENERGY",
+      "registrant_name": "HOLLAND & HART LLP",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-04-20T11:20:42-04:00",
+      "income": null,
+      "posted_date": "2026-10-06T14:04:57-04:00",
       "issues": [
-        "Clean Air and Water (quality)",
         "Energy/Nuclear",
         "Environment/Superfund",
         "Utilities"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/01dd0df9-2a1f-4e07-8898-17ecf185858a/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/123a25a6-9842-4e3a-bf91-4ed37c08d6f9/print/"
     },
     {
       "sector": "GRID",
@@ -15168,25 +15191,20 @@
     },
     {
       "sector": "GRID",
-      "ticker": "DUK",
-      "company": "Duke Energy",
-      "client_name": "DUKE ENERGY CORPORATION",
-      "registrant_name": "DUKE ENERGY CORPORATION",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2026-01-20T20:18:54-05:00",
+      "ticker": "AEP",
+      "company": "American Electric Power",
+      "client_name": "AMERICAN ELECTRIC POWER COMPANY, INC.",
+      "registrant_name": "CASSIDY & ASSOCIATES, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-07T15:25:35-04:00",
       "issues": [
-        "Budget/Appropriations",
         "Energy/Nuclear",
-        "Environment/Superfund",
-        "Homeland Security",
-        "Taxation/Internal Revenue Code",
-        "Telecommunications",
-        "Transportation"
+        "Environment/Superfund"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/1ab94057-e66f-4e1d-b168-87c42c7f1508/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/99f2adee-1536-40da-8ca6-1b58f0c4afdf/print/"
     },
     {
       "sector": "GRID",
@@ -15605,24 +15623,6 @@
       "posted_date": "2026-01-14T10:34:10-05:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/31dd0f0a-563a-43e9-a074-7d74ddb32d75/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "AEP",
-      "company": "American Electric Power",
-      "client_name": "AMERICAN ELECTRIC POWER COMPANY, INC.",
-      "registrant_name": "CASSIDY & ASSOCIATES, INC.",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2026-01-13T10:15:03-05:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Environment/Superfund",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/4b085b97-e25b-4a81-8b10-a3280a9dc6b8/print/"
     },
     {
       "sector": "GRID",
@@ -21601,6 +21601,38 @@
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals",
       "client_name": "VERTEX PHARMACEUTICALS INCORPORATED",
+      "registrant_name": "MCLARTY INBOUND LLC",
+      "filing_type": "Registration - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-10-07T17:00:27-04:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/94806229-6fc3-4707-a399-abb8ddbfeac0/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "client_name": "VERTEX PHARMACEUTICALS INCORPORATED",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-10-07T13:42:38-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/49472f6f-7288-47fc-8f6e-b7f05a370d3d/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "client_name": "VERTEX PHARMACEUTICALS INCORPORATED",
       "registrant_name": "TARPLIN, DOWNS & YOUNG, LLC",
       "filing_type": "4th Quarter - Amendment",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
@@ -21990,40 +22022,6 @@
         "Medicare/Medicaid"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/17275de6-5055-4d20-a9c9-e3173c8b8da4/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "VRTX",
-      "company": "Vertex Pharmaceuticals",
-      "client_name": "VERTEX PHARMACEUTICALS INCORPORATED",
-      "registrant_name": "STANTON PARK GROUP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T16:00:36-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/7fc483a0-a80b-49b1-acc6-96ddc1324f6d/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "VRTX",
-      "company": "Vertex Pharmaceuticals",
-      "client_name": "VERTEX PHARMACEUTICALS INCORPORATED",
-      "registrant_name": "CROSSROADS STRATEGIES, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-20T11:45:14-04:00",
-      "issues": [
-        "Health Issues",
-        "Medical/Disease Research/Clinical Labs",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5e5df26d-1d09-4301-91ff-dd0f6652bba1/print/"
     },
     {
       "sector": "XBI",
@@ -26973,6 +26971,40 @@
       "sector": "ITA",
       "ticker": "LMT",
       "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN CORPORATION",
+      "registrant_name": "VENABLE LLP",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-08T11:00:36-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/b456b2b5-ae38-4881-a86e-7e52dbbcb530/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN AERONAUTIC SECTOR",
+      "registrant_name": "MARSHALL BRACHMAN",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "33215.00",
+      "posted_date": "2026-10-07T16:18:46-04:00",
+      "issues": [
+        "Banking",
+        "Budget/Appropriations",
+        "Defense",
+        "Foreign Relations",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8137dad1-a05e-41ef-864e-4fef1c01637b/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
       "client_name": "LOCKHEED MARTIN",
       "registrant_name": "PUBLIC STRATEGIES WASHINGTON, INC.",
       "filing_type": "3rd Quarter - Amendment",
@@ -27366,44 +27398,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/561b8b77-bd8f-4e21-af95-c969f1d535e3/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "BALLARD SPAHR LLP",
-      "filing_type": "1st Quarter - Amendment",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-20T17:24:58-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/af1c4c3d-50dc-4d57-8234-511eb0fd65f2/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "LOCKHEED MARTIN CORPORATION",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-04-20T16:50:52-04:00",
-      "issues": [
-        "Aerospace",
-        "Budget/Appropriations",
-        "Defense",
-        "Health Issues",
-        "Intelligence",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/1f0bf119-29d1-4fcc-9b80-e5b484f0e092/print/"
     },
     {
       "sector": "ITA",
@@ -34226,6 +34220,40 @@
       "sector": "UFO",
       "ticker": "LMT",
       "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN CORPORATION",
+      "registrant_name": "VENABLE LLP",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-08T11:00:36-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/b456b2b5-ae38-4881-a86e-7e52dbbcb530/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "client_name": "LOCKHEED MARTIN AERONAUTIC SECTOR",
+      "registrant_name": "MARSHALL BRACHMAN",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "33215.00",
+      "posted_date": "2026-10-07T16:18:46-04:00",
+      "issues": [
+        "Banking",
+        "Budget/Appropriations",
+        "Defense",
+        "Foreign Relations",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8137dad1-a05e-41ef-864e-4fef1c01637b/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
       "client_name": "LOCKHEED MARTIN",
       "registrant_name": "PUBLIC STRATEGIES WASHINGTON, INC.",
       "filing_type": "3rd Quarter - Amendment",
@@ -34619,44 +34647,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/561b8b77-bd8f-4e21-af95-c969f1d535e3/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "BALLARD SPAHR LLP",
-      "filing_type": "1st Quarter - Amendment",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-20T17:24:58-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/af1c4c3d-50dc-4d57-8234-511eb0fd65f2/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "client_name": "LOCKHEED MARTIN CORPORATION",
-      "registrant_name": "LOCKHEED MARTIN CORPORATION",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-04-20T16:50:52-04:00",
-      "issues": [
-        "Aerospace",
-        "Budget/Appropriations",
-        "Defense",
-        "Health Issues",
-        "Intelligence",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/1f0bf119-29d1-4fcc-9b80-e5b484f0e092/print/"
     },
     {
       "sector": "UFO",
@@ -41771,6 +41761,26 @@
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
       "client_name": "ADVANCED MICRO DEVICES, INC.",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-08T11:00:40-04:00",
+      "issues": [
+        "Computer Industry",
+        "Manufacturing",
+        "Science/Technology",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/20f1fa97-f379-4041-aa1d-8783a008068d/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "client_name": "ADVANCED MICRO DEVICES, INC.",
       "registrant_name": "MICHAEL BEST STRATEGIES LLC",
       "filing_type": "Registration",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -42190,24 +42200,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/8ec87367-559e-4404-8ef5-c1cb57a16ac5/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "client_name": "ADVANCED MICRO DEVICES, INC.",
-      "registrant_name": "MEHLMAN CONSULTING, INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "80000.00",
-      "posted_date": "2025-10-20T11:33:19-04:00",
-      "issues": [
-        "Computer Industry",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/6cc627f7-7979-44ec-9f3c-b3534727447e/print/"
     },
     {
       "sector": "SMH",
