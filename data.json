@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:20:59Z",
+  "generated_at": "2026-10-12T19:47:03Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -6294,6 +6294,24 @@
       "sector": "PAVE",
       "ticker": "ACM",
       "company": "AECOM",
+      "client_name": "AECOM",
+      "registrant_name": "H.A. CUMBER & COMPANY, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-12T12:59:23-04:00",
+      "issues": [
+        "Railroads",
+        "Real Estate/Land Use/Conservation",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/69fa83bc-34d9-4824-bbff-103b0d0ef4d8/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
       "client_name": "AECOM CONSULT, INC",
       "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
       "filing_type": "3rd Quarter - Report",
@@ -6723,27 +6741,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/84df56d3-5214-4054-854d-944d8af49389/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM TECHNICAL SERVICES, INC.",
-      "registrant_name": "ELEVATE GOVERNMENT AFFAIRS, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "40000.00",
-      "posted_date": "2026-01-20T21:03:10-05:00",
-      "issues": [
-        "Aviation/Airlines/Airports",
-        "Budget/Appropriations",
-        "Clean Air and Water (quality)",
-        "Defense",
-        "Energy/Nuclear",
-        "Real Estate/Land Use/Conservation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/19230869-29a1-4658-9bf9-51339daa581c/print/"
     },
     {
       "sector": "PAVE",
@@ -7958,6 +7955,22 @@
       "ticker": "CRWD",
       "company": "CrowdStrike",
       "client_name": "CROWDSTRIKE, INC.",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "3rd Quarter - Termination",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-10-11T23:42:11-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/da9cb26f-751d-41ff-88c3-1cf169f38ff0/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "client_name": "CROWDSTRIKE, INC.",
       "registrant_name": "CROWDSTRIKE, INC.",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -8359,22 +8372,6 @@
         "Computer Industry"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/7a141063-253f-42e0-92df-b612761200aa/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "client_name": "CROWDSTRIKE, INC.",
-      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2025-10-09T09:47:49-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/76c55466-a7c1-444d-a574-987b26c083ed/print/"
     },
     {
       "sector": "CIBR",
@@ -9222,6 +9219,22 @@
       "sector": "CIBR",
       "ticker": "ZS",
       "company": "Zscaler",
+      "client_name": "ZSCALER INC. AND AFFILIATES (FKA ZSCALER, INC.)",
+      "registrant_name": "HETTINGER STRATEGY GROUP LLC",
+      "filing_type": "3rd Quarter - Termination",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-10-12T13:32:04-04:00",
+      "issues": [
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b118295b-2ed1-4a06-a6e2-cb3fe066ef9f/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "ZS",
+      "company": "Zscaler",
       "client_name": "ZSCALER INC.",
       "registrant_name": "CROSSROADS STRATEGIES, LLC",
       "filing_type": "Registration",
@@ -9594,20 +9607,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/30e199f9-9a23-4460-8e36-cca7773477ea/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "ZS",
-      "company": "Zscaler",
-      "client_name": "ZSCALER, INC. AND AFFILIATES",
-      "registrant_name": "ZSCALER, INC. AND AFFILIATES",
-      "filing_type": "4th Quarter - Report (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2023,
-      "income": null,
-      "posted_date": "2024-01-22T14:17:47-05:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/9dcdddd3-d2e0-452a-9d06-c83e97554303/print/"
     },
     {
       "sector": "CIBR",
@@ -20484,6 +20483,38 @@
       "sector": "QTUM",
       "ticker": "GOOGL",
       "company": "Alphabet",
+      "client_name": "GOOGLE, INC.",
+      "registrant_name": "RUBIN, TURNBULL & ASSOCIATES",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-10-12T14:24:33-04:00",
+      "issues": [
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a62ee8bb-3dfc-4271-9dac-37af00c0619c/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "client_name": "GOOGLE CLIENT SERVICES, LLC",
+      "registrant_name": "RYAN COSTELLO STRATEGIES",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-12T12:35:59-04:00",
+      "issues": [
+        "Consumer Issues/Safety/Products"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/dbe5b9f7-5200-4ea8-b2bc-7411f6645d37/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
       "client_name": "GOOGLE CLIENT SERVICES LLC",
       "registrant_name": "FOCUS DC LLC",
       "filing_type": "3rd Quarter - Report",
@@ -20909,57 +20940,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/87091492-cd9c-458b-9e8e-99919f737998/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "client_name": "GOOGLE CLIENT SERVICES LLC",
-      "registrant_name": "GOOGLE CLIENT SERVICES LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-04-20T15:31:13-04:00",
-      "issues": [
-        "Advertising",
-        "Budget/Appropriations",
-        "Consumer Issues/Safety/Products",
-        "Copyright/Patent/Trademark",
-        "Defense",
-        "Education",
-        "Energy/Nuclear",
-        "Foreign Relations",
-        "Health Issues",
-        "Homeland Security",
-        "Immigration",
-        "Intelligence",
-        "Labor Issues/Antitrust/Workplace",
-        "Law Enforcement/Crime/Criminal Justice",
-        "Science/Technology",
-        "Small Business",
-        "Taxation/Internal Revenue Code",
-        "Telecommunications",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/534610dc-d423-47a6-819e-26409b01ea6c/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "client_name": "GOOGLE CLIENT SERVICES LLC",
-      "registrant_name": "THE SIMMONS & RUSSELL GROUP, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "40000.00",
-      "posted_date": "2026-04-20T13:22:59-04:00",
-      "issues": [
-        "Consumer Issues/Safety/Products",
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5ca35724-9d58-4cb7-9808-e8055e7ad56e/print/"
     },
     {
       "sector": "QTUM",
@@ -28073,6 +28053,23 @@
       "ticker": "GD",
       "company": "General Dynamics",
       "client_name": "GENERAL DYNAMICS",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-12T00:48:14-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cac25c05-2966-40ec-b8a5-f5222399c1f3/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "GD",
+      "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS",
       "registrant_name": "ALIGNMENT GOVERNMENT STRATEGIES",
       "filing_type": "Registration - Amendment",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -28485,22 +28482,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/ddf0c4c2-64fa-41d7-889d-84eadebf4502/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS CORPORATION",
-      "registrant_name": "C. BAKER CONSULTING, INC.",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-07-08T13:21:32-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/704bfb78-9774-4bd5-9e9c-78b30e871734/print/"
     },
     {
       "sector": "ITA",
@@ -30269,6 +30250,22 @@
       "sector": "ITA",
       "ticker": "AXON",
       "company": "Axon Enterprise",
+      "client_name": "AXON ENTERPRISE",
+      "registrant_name": "METANOIC STRATEGIES",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-10-12T12:28:16-04:00",
+      "issues": [
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1e4b81bd-8b01-4ea6-a2b3-fe5c42a7e7ae/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
       "client_name": "AXON ENTERPRISE, INC.",
       "registrant_name": "HOLLAND & KNIGHT LLP",
       "filing_type": "3rd Quarter - Report",
@@ -30674,20 +30671,20 @@
     },
     {
       "sector": "ITA",
-      "ticker": "AXON",
-      "company": "Axon Enterprise",
-      "client_name": "AXON ENTERPRISE, INC.",
-      "registrant_name": "NELSON MULLINS RILEY & SCARBOROUGH",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "ticker": "KTOS",
+      "company": "Kratos Defense & Security",
+      "client_name": "KRATOS DEFENSE AND SECURITY SOLUTIONS, INC.",
+      "registrant_name": "HOLLAND & KNIGHT LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2026,
       "income": "40000.00",
-      "posted_date": "2026-04-20T17:18:38-04:00",
+      "posted_date": "2026-10-12T08:15:49-04:00",
       "issues": [
-        "Aviation/Airlines/Airports",
-        "Law Enforcement/Crime/Criminal Justice"
+        "Budget/Appropriations",
+        "Defense"
       ],
-      "filing_url": "https://lda.gov/filings/public/filing/1e01cf4d-7063-4e05-b53e-3337c9d6344c/print/"
+      "filing_url": "https://lda.gov/filings/public/filing/422f944a-e854-403c-800c-efef30ca3029/print/"
     },
     {
       "sector": "ITA",
@@ -31078,22 +31075,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/7073895a-635d-417d-a3a6-bd3b313ad6b9/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "KTOS",
-      "company": "Kratos Defense & Security",
-      "client_name": "KRATOS DEFENSE & SECURITY SOLUTION, INC.",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2024,
-      "income": "50000.00",
-      "posted_date": "2025-01-20T09:48:49-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e84ebb91-6ce5-40ab-9e8a-2c42f85bdbbc/print/"
     },
     {
       "sector": "ITA",
@@ -32835,6 +32816,22 @@
       "ticker": "VSAT",
       "company": "Viasat",
       "client_name": "VIASAT, INC.",
+      "registrant_name": "MERCURY PUBLIC AFFAIRS, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "150000.00",
+      "posted_date": "2026-10-12T12:55:06-04:00",
+      "issues": [
+        "Communications/Broadcasting/Radio/TV"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/05c79af2-0fda-4f98-88eb-884cdbe00bb8/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "VSAT",
+      "company": "Viasat",
+      "client_name": "VIASAT, INC.",
       "registrant_name": "HOLLAND & KNIGHT LLP",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -33218,23 +33215,6 @@
         "Aviation/Airlines/Airports"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/655afd75-3e49-48f3-9622-65e898e67de2/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "VSAT",
-      "company": "Viasat",
-      "client_name": "VIASAT, INC.",
-      "registrant_name": "THE ARTEMIS GROUP, LLC (OKLAHOMA)",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "80000.00",
-      "posted_date": "2026-01-20T15:42:40-05:00",
-      "issues": [
-        "Defense",
-        "Telecommunications"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/fa82d1ce-b1f3-4536-93d6-5c14ee49c646/print/"
     },
     {
       "sector": "UFO",
@@ -42510,6 +42490,22 @@
       "sector": "SMH",
       "ticker": "QCOM",
       "company": "Qualcomm",
+      "client_name": "QUALCOMM INC.",
+      "registrant_name": "MERCURY PUBLIC AFFAIRS, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-10-12T14:20:56-04:00",
+      "issues": [
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/99a61a7e-3e31-4a7f-b752-c8e5c0e47dc0/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "QCOM",
+      "company": "Qualcomm",
       "client_name": "QUALCOMM INCORPORATED",
       "registrant_name": "O'KEEFFE SHAHMORADI STRATEGIES, LLC",
       "filing_type": "3rd Quarter - Report",
@@ -42919,24 +42915,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/36fa6dd4-edcb-42b4-a31b-497a0329e7a4/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "client_name": "QUALCOMM INCORPORATED",
-      "registrant_name": "COVINGTON & BURLING LLP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "500000.00",
-      "posted_date": "2026-01-20T17:28:38-05:00",
-      "issues": [
-        "Copyright/Patent/Trademark",
-        "Science/Technology",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/1964cd85-792c-4ac4-9b28-d4c6855bfc75/print/"
     },
     {
       "sector": "SMH",
@@ -44296,6 +44274,22 @@
       "sector": "SMH",
       "ticker": "LRCX",
       "company": "Lam Research",
+      "client_name": "LAM RESEARCH CORPORATION",
+      "registrant_name": "MERCURY PUBLIC AFFAIRS, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-12T14:30:04-04:00",
+      "issues": [
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5e6ed04a-2383-4553-88a5-c8f3611fcb04/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "LRCX",
+      "company": "Lam Research",
       "client_name": "LAM RESEARCH CORP.",
       "registrant_name": "THE GALLAGHER GROUP, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -44699,24 +44693,6 @@
       "posted_date": "2025-04-21T10:23:40-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/ef7f8839-d09e-4b8c-9372-4baf28a7870d/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "LRCX",
-      "company": "Lam Research",
-      "client_name": "LAM RESEARCH CORP.",
-      "registrant_name": "THE GALLAGHER GROUP, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2024,
-      "income": "30000.00",
-      "posted_date": "2025-01-23T13:46:21-05:00",
-      "issues": [
-        "Defense",
-        "Science/Technology",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/95842f12-60f9-487f-a7ae-a12d323eae15/print/"
     },
     {
       "sector": "SMH",
