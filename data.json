@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T19:47:03Z",
+  "generated_at": "2026-10-13T17:30:31Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -15474,6 +15474,22 @@
       "ticker": "XEL",
       "company": "Xcel Energy",
       "client_name": "XCEL ENERGY INC",
+      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-10-13T11:09:25-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/909b8e64-941d-4b28-8596-c2ea85153efa/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "XEL",
+      "company": "Xcel Energy",
+      "client_name": "XCEL ENERGY INC",
       "registrant_name": "XCEL ENERGY, INC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -15909,20 +15925,6 @@
         "Utilities"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/8b94ba91-5f3d-4366-8483-608141b35aed/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "XEL",
-      "company": "Xcel Energy",
-      "client_name": "XCEL ENERGY INC",
-      "registrant_name": "HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP)",
-      "filing_type": "1st Quarter - Report (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-17T16:56:23-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/064d4e78-512f-497e-8967-7639012b771a/print/"
     },
     {
       "sector": "GRID",
@@ -19611,6 +19613,22 @@
       "sector": "QTUM",
       "ticker": "HON",
       "company": "Honeywell",
+      "client_name": "HONEYWELL AEROSPACE US LLC",
+      "registrant_name": "GUIDEPOSTSTRATEGIES, LLC",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-12T22:17:06-04:00",
+      "issues": [
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c38609d1-a73b-4e7e-ac76-43f97088f427/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "HON",
+      "company": "Honeywell",
       "client_name": "HONEYWELL INTERNATIONAL, INC.",
       "registrant_name": "HOLLAND & KNIGHT LLP",
       "filing_type": "2nd Quarter - Termination",
@@ -19640,6 +19658,23 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/fc089189-2e31-4a64-b6c5-8f7b4024f7a3/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "HON",
+      "company": "Honeywell",
+      "client_name": "HONEYWELL AEROSPACE US LLC",
+      "registrant_name": "INNOVATIVE FEDERAL STRATEGIES, LLC",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-09T17:12:32-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1807d038-a144-4d04-a1e5-0406b024af80/print/"
     },
     {
       "sector": "QTUM",
@@ -20001,39 +20036,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/f1c804d8-fa07-4806-aaa6-5ad4eacbdd94/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "HONEYWELL INTERNATIONAL INC.",
-      "registrant_name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "90000.00",
-      "posted_date": "2026-04-20T16:57:45-04:00",
-      "issues": [
-        "Aerospace",
-        "Defense",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/556951fb-e6ac-432c-ae11-4e2ed71d2299/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "INTELLIGRATED SYSTEMS, INC. DBA HONEYWELL INTELLIGRATED",
-      "registrant_name": "K&L GATES, LLP",
-      "filing_type": "1st Quarter - Report (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-04-20T16:56:25-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/c4590703-02da-41fd-ae5a-e82c78f7d7fe/print/"
     },
     {
       "sector": "QTUM",
@@ -20515,6 +20517,23 @@
       "sector": "QTUM",
       "ticker": "GOOGL",
       "company": "Alphabet",
+      "client_name": "GOOGLE CLIENT SERVICES FKA GOOGLE CLOUD",
+      "registrant_name": "CONTINENTAL STRATEGY, LLC",
+      "filing_type": "Registration - Amendment",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2026-10-09T09:29:10-04:00",
+      "issues": [
+        "Government Issues",
+        "Intelligence"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e6a0acff-d16e-45ad-8119-33eb459e2409/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
       "client_name": "GOOGLE CLIENT SERVICES LLC",
       "registrant_name": "FOCUS DC LLC",
       "filing_type": "3rd Quarter - Report",
@@ -20716,7 +20735,7 @@
       "sector": "QTUM",
       "ticker": "GOOGL",
       "company": "Alphabet",
-      "client_name": "GOOGLE CLOUD",
+      "client_name": "GOOGLE CLIENT SERVICES FKA GOOGLE CLOUD",
       "registrant_name": "CONTINENTAL STRATEGY, LLC",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -20922,24 +20941,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/36ed2759-815a-4d44-8834-a5e2c48a80c7/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "client_name": "GOOGLE CLIENT SERVICES L.L.C.",
-      "registrant_name": "LINCOLN PARK GROUP L.L.C.",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "70000.00",
-      "posted_date": "2026-04-20T15:31:37-04:00",
-      "issues": [
-        "Computer Industry",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/87091492-cd9c-458b-9e8e-99919f737998/print/"
     },
     {
       "sector": "QTUM",
@@ -22700,6 +22701,22 @@
       "sector": "XBI",
       "ticker": "AMGN",
       "company": "Amgen",
+      "client_name": "AMGEN INC.",
+      "registrant_name": "HILLNORTH LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "37500.00",
+      "posted_date": "2026-10-13T09:00:00-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7ffb218e-5e73-4aff-b52c-686cfabaf16d/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "AMGN",
+      "company": "Amgen",
       "client_name": "AMGEN",
       "registrant_name": "BRAVO STRATEGY GROUP",
       "filing_type": "3rd Quarter - Report",
@@ -23098,24 +23115,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/d200146c-62a6-4757-880b-9884eff6ec89/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "client_name": "AMGEN INC",
-      "registrant_name": "TARPLIN, DOWNS & YOUNG, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-07-16T17:24:34-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/14a4dbfb-7841-4785-8e11-cd9878dcd789/print/"
     },
     {
       "sector": "XBI",
@@ -30250,6 +30249,23 @@
       "sector": "ITA",
       "ticker": "AXON",
       "company": "Axon Enterprise",
+      "client_name": "AXON ENTERPRISE, INC.",
+      "registrant_name": "MEHLMAN CONSULTING, INC.",
+      "filing_type": "2nd Quarter - Termination",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-13T13:17:42-04:00",
+      "issues": [
+        "Aviation/Airlines/Airports",
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/df30c2ec-9fa4-4aaa-9100-54741814b355/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
       "client_name": "AXON ENTERPRISE",
       "registrant_name": "METANOIC STRATEGIES",
       "filing_type": "3rd Quarter - Report",
@@ -30652,22 +30668,6 @@
         "Veterans"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/dad964a1-68d8-4ecf-9af2-2e1563182ebf/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "AXON",
-      "company": "Axon Enterprise",
-      "client_name": "AXON ENTERPRISE, INC.",
-      "registrant_name": "FEDERAL STREET STRATEGIES, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-04-20T20:58:55-04:00",
-      "issues": [
-        "Law Enforcement/Crime/Criminal Justice"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f4f651c2-b863-4135-acf8-bea7169eb87e/print/"
     },
     {
       "sector": "ITA",
@@ -31992,6 +31992,22 @@
       "sector": "UFO",
       "ticker": "RKLB",
       "company": "Rocket Lab",
+      "client_name": "ROCKET LAB CORPORATION",
+      "registrant_name": "GUIDEPOSTSTRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Termination",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-12T22:21:40-04:00",
+      "issues": [
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f13c2a1e-4946-4110-a58b-8a54806b5299/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "RKLB",
+      "company": "Rocket Lab",
       "client_name": "ROCKET LAB USA, INC.",
       "registrant_name": "ROCKET LAB USA, INC.",
       "filing_type": "2nd Quarter - Report",
@@ -32378,22 +32394,6 @@
         "Budget/Appropriations"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/436bfd92-91db-474c-88ed-483f9e99a3e5/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "RKLB",
-      "company": "Rocket Lab",
-      "client_name": "ROCKET LAB USA",
-      "registrant_name": "J.SULLIVAN ADVOCACY",
-      "filing_type": "Registration",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-07-07T09:22:34-04:00",
-      "issues": [
-        "Budget/Appropriations"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f9927b45-f06c-4344-9d4c-5b4603f72d02/print/"
     },
     {
       "sector": "UFO",
@@ -37882,6 +37882,22 @@
       "sector": "URA",
       "ticker": "CEG",
       "company": "Constellation Energy",
+      "client_name": "CONSTELLATION ENERGY GENERATION, LLC, FORMERLY REPORTING AS EXELON CORPORATION",
+      "registrant_name": "KOUNTOUPES DENHAM CARR & REID, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-10-13T11:19:07-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/161dba6e-c344-4fe1-af3e-af4e06419578/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "CEG",
+      "company": "Constellation Energy",
       "client_name": "CONSTELLATION ENERGY GENERATION, LLC",
       "registrant_name": "CONSTELLATION ENERGY GENERATION, LLC",
       "filing_type": "2nd Quarter - Report",
@@ -38288,22 +38304,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/ce0d4d08-37c9-4224-a092-ebe664a59355/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "CEG",
-      "company": "Constellation Energy",
-      "client_name": "CONSTELLATION ENERGY GENERATION, LLC",
-      "registrant_name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "70000.00",
-      "posted_date": "2026-01-19T14:10:12-05:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/371726ae-1abb-4292-93fa-8332d8c54276/print/"
     },
     {
       "sector": "URA",
@@ -42053,6 +42053,20 @@
       "sector": "SMH",
       "ticker": "INTC",
       "company": "Intel",
+      "client_name": "INTELSAT GENERAL CORPORATION",
+      "registrant_name": "VELOS",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-13T12:53:29-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/2730b3c5-ad92-4f07-b11f-c6e5608bb7e7/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "INTC",
+      "company": "Intel",
       "client_name": "INTEL CORP",
       "registrant_name": "H&M STRATEGIES LLP",
       "filing_type": "2nd Quarter - Report",
@@ -42469,22 +42483,6 @@
         "Telecommunications"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/26925062-6d8c-4ba5-961f-b81ab7c96574/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "INTC",
-      "company": "Intel",
-      "client_name": "INTEL CORPORATION",
-      "registrant_name": "BOSE PUBLIC AFFAIRS GROUP",
-      "filing_type": "3rd Quarter - Termination",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "45000.00",
-      "posted_date": "2025-10-20T17:45:02-04:00",
-      "issues": [
-        "Copyright/Patent/Trademark"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/9dc678aa-7f3b-4b43-bed1-a9a4e201cb73/print/"
     },
     {
       "sector": "SMH",
