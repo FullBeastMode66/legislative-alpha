@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:30:31Z",
+  "generated_at": "2026-10-14T15:02:43Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 18,
+      "bill_count": 17,
       "trade_count": 0,
       "lobbying_count": 361,
       "avg_momentum": 33
@@ -67,7 +67,7 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 6,
+      "bill_count": 7,
       "trade_count": 0,
       "lobbying_count": 250,
       "avg_momentum": 36
@@ -754,6 +754,31 @@
         "state": "PA"
       },
       "committee_count": 2,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5175",
+      "number": "HR 5175",
+      "title": "Quad Space Act",
+      "sector": "UFO",
+      "introduced_date": "2025-09-08",
+      "latest_action": {
+        "date": "2025-09-08",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5175",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Crow, Jason [D-CO-6]",
+        "party": "D",
+        "state": "CO"
+      },
+      "committee_count": 1,
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
@@ -1607,31 +1632,6 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9521",
-      "number": "HR 9521",
-      "title": "Broadband Infrastructure Extension Act",
-      "sector": "PAVE",
-      "introduced_date": "2026-06-29",
-      "latest_action": {
-        "date": "2026-06-29",
-        "text": "Referred to the House Committee on Oversight and Government Reform."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9521",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. McDowell, Addison P. [R-NC-6]",
-        "party": "R",
-        "state": "NC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 5,
-      "amendments": [],
-      "momentum": 37,
       "sector_trade_flag": false
     }
   ],
@@ -30250,6 +30250,22 @@
       "ticker": "AXON",
       "company": "Axon Enterprise",
       "client_name": "AXON ENTERPRISE, INC.",
+      "registrant_name": "RED DOOR CONSULTING, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-10-13T15:16:51-04:00",
+      "issues": [
+        "Law Enforcement/Crime/Criminal Justice"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/401046a5-ccda-4d61-9560-7ade96a039bc/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
+      "client_name": "AXON ENTERPRISE, INC.",
       "registrant_name": "MEHLMAN CONSULTING, INC.",
       "filing_type": "2nd Quarter - Termination",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
@@ -30646,28 +30662,6 @@
       "posted_date": "2026-06-01T13:29:49-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/aa6d9c81-f127-415e-a129-d446d7b77df6/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "AXON",
-      "company": "Axon Enterprise",
-      "client_name": "AXON ENTERPRISE, INC.",
-      "registrant_name": "RED DOOR CONSULTING, LLC",
-      "filing_type": "Registration",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-04-30T15:58:23-04:00",
-      "issues": [
-        "Defense",
-        "Firearms/Guns/Ammunition",
-        "Homeland Security",
-        "Immigration",
-        "Law Enforcement/Crime/Criminal Justice",
-        "Science/Technology",
-        "Veterans"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/dad964a1-68d8-4ecf-9af2-2e1563182ebf/print/"
     },
     {
       "sector": "ITA",
@@ -38731,6 +38725,22 @@
       "sector": "URA",
       "ticker": "LEU",
       "company": "Centrus Energy",
+      "client_name": "CENTRUS ENERGY CORP.",
+      "registrant_name": "BRIDGE PUBLIC AFFAIRS, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "40000.00",
+      "posted_date": "2026-10-13T15:05:51-04:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/60cca26e-4baa-4132-b54a-0817c4621719/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "LEU",
+      "company": "Centrus Energy",
       "client_name": "CENTRUS ENERGY",
       "registrant_name": "KOUNTOUPES DENHAM CARR & REID, LLC",
       "filing_type": "3rd Quarter - Report",
@@ -39114,23 +39124,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/e9647016-4b62-49a8-abf0-ab247f09e340/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "LEU",
-      "company": "Centrus Energy",
-      "client_name": "CENTRUS ENERGY",
-      "registrant_name": "COMPASS CONSULTING GROUP, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-07-17T16:07:19-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c57a060f-30f0-4ddb-abad-aea18bcd7044/print/"
     },
     {
       "sector": "URA",
