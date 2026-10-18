@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:33:26Z",
+  "generated_at": "2026-10-18T13:50:20Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 0,
+      "bill_count": 1,
       "trade_count": 0,
       "lobbying_count": 0,
-      "avg_momentum": 0
+      "avg_momentum": 36
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 1,
-      "trade_count": 4,
+      "trade_count": 2,
       "lobbying_count": 0,
       "avg_momentum": 43
     },
@@ -48,7 +48,7 @@
       "etf": "XBI",
       "color": "#2C6E8C",
       "bill_count": 2,
-      "trade_count": 2,
+      "trade_count": 1,
       "lobbying_count": 0,
       "avg_momentum": 37
     },
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 5,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 0,
-      "avg_momentum": 31
+      "avg_momentum": 28
     },
     "UFO": {
       "name": "Space",
@@ -77,10 +77,10 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 1,
       "lobbying_count": 0,
-      "avg_momentum": 40
+      "avg_momentum": 42
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 11,
-      "trade_count": 4,
+      "trade_count": 1,
       "lobbying_count": 0,
       "avg_momentum": 38
     },
@@ -682,56 +682,6 @@
       "cosponsor_count": 4,
       "amendments": [],
       "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-6759",
-      "number": "HR 6759",
-      "title": "To require the Secretary of Defense to establish a pilot program for emerging technologies for moisture control and mitigation in covered housing, to standardize certain mold remediation guidelines, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2025-12-16",
-      "latest_action": {
-        "date": "2025-12-16",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6759",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Neguse, Joe [D-CO-2]",
-        "party": "D",
-        "state": "CO"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3541",
-      "number": "S 3541",
-      "title": "A bill to increase competition in Defense contracting, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2025-12-17",
-      "latest_action": {
-        "date": "2025-12-17",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3541",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Peters, Gary C. [D-MI]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1633,6 +1583,56 @@
       "amendments": [],
       "momentum": 43,
       "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5549",
+      "number": "HR 5549",
+      "title": "Efficient Nuclear Licensing Hearings Act",
+      "sector": "URA",
+      "introduced_date": "2025-09-23",
+      "latest_action": {
+        "date": "2026-07-14",
+        "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "party": "R",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 25,
+      "amendments": [],
+      "momentum": 45,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9477",
+      "number": "HR 9477",
+      "title": "AI Incident Reporting Act",
+      "sector": "CIBR",
+      "introduced_date": "2026-06-25",
+      "latest_action": {
+        "date": "2026-06-25",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moran, Nathaniel [R-TX-1]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
     }
   ],
   "trades": [
@@ -1877,72 +1877,6 @@
       "type": "Sale (Full)",
       "amount_range": "$1,001 - $15,000",
       "report_url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "08/13/2026",
-      "filed_date": "09/02/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "08/13/2026",
-      "filed_date": "09/02/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$15,001 - $50,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "08/13/2026",
-      "filed_date": "09/02/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "08/13/2026",
-      "filed_date": "09/02/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "LRCX",
-      "company": "Lam Research",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "08/13/2026",
-      "filed_date": "09/02/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "senator": "Sheldon Whitehouse",
-      "transaction_date": "08/12/2026",
-      "filed_date": "09/02/2026",
-      "type": "Sale (Partial)",
-      "amount_range": "$1,001 - $15,000",
-      "report_url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/"
     }
   ],
   "lobbying": []
