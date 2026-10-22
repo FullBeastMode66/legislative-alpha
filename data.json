@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:01:50Z",
+  "generated_at": "2026-10-22T15:01:51Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 0,
+      "bill_count": 1,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 0
+      "avg_momentum": 36
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -57,17 +57,17 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 32
+      "avg_momentum": 34
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 7,
+      "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 250,
       "avg_momentum": 36
@@ -87,8 +87,8 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 11,
-      "trade_count": 1,
+      "bill_count": 10,
+      "trade_count": 3,
       "lobbying_count": 300,
       "avg_momentum": 38
     },
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 15,
+      "trade_count": 30,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -157,7 +157,7 @@
       "cosponsor_count": 4,
       "amendments": [],
       "momentum": 45,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-S-4000",
@@ -317,7 +317,7 @@
       "introduced_date": "2025-02-27",
       "latest_action": {
         "date": "2026-10-20",
-        "text": "Signed by President."
+        "text": "Became Public Law No: 119-127."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1721",
       "amendments_count": 0,
@@ -332,6 +332,31 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 100,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10796",
+      "number": "HR 10796",
+      "title": "United States-Israel Defense Technology Cooperation Act",
+      "sector": "ITA",
+      "introduced_date": "2026-10-13",
+      "latest_action": {
+        "date": "2026-10-13",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10796",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Bacon, Don [R-NE-2]",
+        "party": "R",
+        "state": "NE"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
       "sector_trade_flag": false
     },
     {
@@ -880,6 +905,31 @@
       },
       "committee_count": 1,
       "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2866",
+      "number": "S 2866",
+      "title": "Cybersecurity in Agriculture Act of 2025",
+      "sector": "CIBR",
+      "introduced_date": "2025-09-18",
+      "latest_action": {
+        "date": "2025-09-18",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2866",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Budd, Ted [R-NC]",
+        "party": "R",
+        "state": "NC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
       "sector_trade_flag": false
@@ -1583,59 +1633,196 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4905",
-      "number": "S 4905",
-      "title": "Space Ready 2.0 Act",
-      "sector": "UFO",
-      "introduced_date": "2026-06-24",
-      "latest_action": {
-        "date": "2026-06-24",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4905",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Moody, Ashley [R-FL]",
-        "party": "R",
-        "state": "FL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9442",
-      "number": "HR 9442",
-      "title": "Artificial Intelligence Data Center Moratorium Act",
-      "sector": "SMH",
-      "introduced_date": "2026-06-24",
-      "latest_action": {
-        "date": "2026-06-24",
-        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
-        "party": "D",
-        "state": "NY"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 20,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "APTV",
+      "company": "Aptiv PLC Ordinary Shares",
+      "senator": "John Boozman",
+      "transaction_date": "09/25/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TLH",
+      "company": "iShares 10-20 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/21/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "VEA",
+      "company": "Vanguard Developed Markets Index Fund - ETF Shares",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SPYM",
+      "company": "Tradr 2X Long SPY Monthly ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "EFA",
+      "company": "iShares MSCI EAFE ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CSCO",
+      "company": "Cisco Systems, Inc. - Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "O",
+      "company": "Realty Income Corporation Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XTWO",
+      "company": "BondBloxx Bloomberg Two Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/21/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GIGB",
+      "company": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JMBS",
+      "company": "Janus Henderson Mortgage-Backed Securities ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XFIV",
+      "company": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "MBB",
+      "company": "iShares MBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IEF",
+      "company": "iShares 7-10 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TLH",
+      "company": "iShares 10-20 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CMBS",
+      "company": "iShares CMBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
     {
       "sector": "OTHER",
       "ticker": "JPM",
@@ -8761,6 +8948,23 @@
       "company": "Fortinet",
       "client_name": "FORTINET, INC.",
       "registrant_name": "NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-21T23:28:12-04:00",
+      "issues": [
+        "Computer Industry",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/84f30a92-f5c4-4f63-a976-a8d586422fc2/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "client_name": "FORTINET, INC.",
+      "registrant_name": "NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",
       "filing_type": "2nd Quarter - Report",
       "filing_period": "2nd Quarter (Apr 1 - June 30)",
       "filing_year": 2026,
@@ -9160,23 +9364,6 @@
         "Telecommunications"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/fd2aa018-c753-44a4-af55-898f89101e2f/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "FTNT",
-      "company": "Fortinet",
-      "client_name": "FORTINET, INC.",
-      "registrant_name": "SALT POINT STRATEGIES",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2023,
-      "income": "50000.00",
-      "posted_date": "2023-04-20T10:02:44-04:00",
-      "issues": [
-        "Computer Industry",
-        "Telecommunications"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/76c7f0ab-d1d2-4f9c-94a8-117ab2c02697/print/"
     },
     {
       "sector": "CIBR",
@@ -15006,6 +15193,20 @@
       "sector": "GRID",
       "ticker": "AEP",
       "company": "American Electric Power",
+      "client_name": "AMERICAN ELECTRIC POWER COMPANY, INC.",
+      "registrant_name": "ARENTFOX SCHIFF LLP",
+      "filing_type": "3rd Quarter - Termination (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-21T16:47:43-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/10d80e09-1ca9-4bfc-86b4-dac6687dfe8f/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "AEP",
+      "company": "American Electric Power",
       "client_name": "AMERICAN ELECTRIC POWER SERVICE CORPORATION",
       "registrant_name": "VENN STRATEGIES",
       "filing_type": "3rd Quarter - Report",
@@ -15426,25 +15627,6 @@
       "posted_date": "2026-04-03T11:23:03-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/72c1e4fa-c0bc-4137-92e2-8c9b29df7ff7/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "AEP",
-      "company": "American Electric Power",
-      "client_name": "AMERICAN ELECTRIC POWER D/B/A TRANSOURCE PENNSYLVANIA LLC",
-      "registrant_name": "BUCHANAN INGERSOLL & ROONEY PC",
-      "filing_type": "Registration",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-02-17T09:18:16-05:00",
-      "issues": [
-        "Agriculture",
-        "Energy/Nuclear",
-        "Real Estate/Land Use/Conservation",
-        "Utilities"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c6924aca-6b80-4e15-a948-d5e3d2c3b5dd/print/"
     },
     {
       "sector": "GRID",
@@ -19626,6 +19808,23 @@
       "ticker": "HON",
       "company": "Honeywell",
       "client_name": "HONEYWELL AEROSPACE US LLC",
+      "registrant_name": "INNOVATIVE FEDERAL STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-20T16:37:34-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a8ec46eb-73dd-4e0d-8339-5548d6f5bd8c/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "HON",
+      "company": "Honeywell",
+      "client_name": "HONEYWELL AEROSPACE US LLC",
       "registrant_name": "BGR GOVERNMENT AFFAIRS",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -19988,23 +20187,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1807d038-a144-4d04-a1e5-0406b024af80/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "HON",
-      "company": "Honeywell",
-      "client_name": "HONEYWELL AEROSPACE US LLC",
-      "registrant_name": "ETHERTON AND ASSOCIATES, INC.",
-      "filing_type": "Registration",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-09-11T15:55:08-04:00",
-      "issues": [
-        "Defense",
-        "Government Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/cd1f1bd6-443b-4e7b-ab32-9b35ad5a4e4b/print/"
     },
     {
       "sector": "QTUM",
@@ -22273,6 +22455,27 @@
       "company": "Gilead Sciences",
       "client_name": "GILEAD SCIENCES INC",
       "registrant_name": "GILEAD SCIENCES, INC.",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-21T13:36:24-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Copyright/Patent/Trademark",
+        "Health Issues",
+        "Medicare/Medicaid",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c23069d8-8f86-49d3-ab90-6a3ad29e2935/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES INC",
+      "registrant_name": "GILEAD SCIENCES, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2026,
@@ -22675,22 +22878,6 @@
         "Health Issues"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/6c6703ab-cd45-4521-8d38-259fda53d616/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF GILEAD SCIENCES, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-07-19T10:56:10-04:00",
-      "issues": [
-        "Pharmacy"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/cff5aa08-6866-44fa-930c-c68b25db8899/print/"
     },
     {
       "sector": "XBI",
@@ -33668,6 +33855,24 @@
       "ticker": "GSAT",
       "company": "Globalstar",
       "client_name": "GLOBALSTAR",
+      "registrant_name": "JONES WALKER, LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-10-22T10:28:51-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security",
+        "Telecommunications"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/260a20d3-6419-49df-97fb-7e900fbd5612/print/"
+    },
+    {
+      "sector": "UFO",
+      "ticker": "GSAT",
+      "company": "Globalstar",
+      "client_name": "GLOBALSTAR",
       "registrant_name": "BGR GOVERNMENT AFFAIRS",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -34056,20 +34261,6 @@
         "Telecommunications"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/318323b9-3bd8-463c-8f68-0fbce4bb615e/print/"
-    },
-    {
-      "sector": "UFO",
-      "ticker": "GSAT",
-      "company": "Globalstar",
-      "client_name": "GLOBALSTAR",
-      "registrant_name": "BGR GOVERNMENT AFFAIRS",
-      "filing_type": "4th Quarter - Termination (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2019,
-      "income": null,
-      "posted_date": "2020-02-13T15:04:48.653000-05:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/9334b3d7-f2bf-4667-9680-1cc496f1ebfa/print/"
     },
     {
       "sector": "UFO",
@@ -37922,6 +38113,20 @@
       "sector": "URA",
       "ticker": "CEG",
       "company": "Constellation Energy",
+      "client_name": "BROWNSTEIN (BHFS, LLP) OBO CONSTELLATION ENERGY GENERATION, LLC FKA EXELON",
+      "registrant_name": "RUTLEDGE POLICY GROUP, LLC",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-21T12:32:50-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/92d6ab9f-5080-45e9-b3ef-ab25e1ce4940/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "CEG",
+      "company": "Constellation Energy",
       "client_name": "CONSTELLATION ENERGY GENERATION, LLC",
       "registrant_name": "CONSTELLATION ENERGY GENERATION, LLC",
       "filing_type": "3rd Quarter - Report",
@@ -38329,23 +38534,6 @@
       "posted_date": "2026-04-19T20:20:00-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/c97c06bd-9590-47a6-9b4f-372842606f88/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "CEG",
-      "company": "Constellation Energy",
-      "client_name": "CONSTELLATION ENERGY GENERATION, LLC",
-      "registrant_name": "OGR",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "70000.00",
-      "posted_date": "2026-04-19T13:07:17-04:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/d21441b8-8d27-462d-83a9-81e7d49d741c/print/"
     },
     {
       "sector": "URA",
@@ -42337,7 +42525,7 @@
       "ticker": "INTC",
       "company": "Intel",
       "client_name": "INTEL CORP",
-      "registrant_name": "FS VECTOR",
+      "registrant_name": "FS VECTOR LLC",
       "filing_type": "1st Quarter - Termination (No Activity)",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
       "filing_year": 2026,
@@ -42430,7 +42618,7 @@
       "ticker": "INTC",
       "company": "Intel",
       "client_name": "INTEL CORP",
-      "registrant_name": "FS VECTOR",
+      "registrant_name": "FS VECTOR LLC",
       "filing_type": "4th Quarter - Report (No Activity)",
       "filing_period": "4th Quarter (Oct 1 - Dec 31)",
       "filing_year": 2025,
@@ -53906,6 +54094,22 @@
       "ticker": "COIN",
       "company": "Coinbase Global",
       "client_name": "COINBASE, INC.",
+      "registrant_name": "STERNHELL GROUP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-10-21T12:51:47-04:00",
+      "issues": [
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a88bf0c2-117d-4e10-93a9-d9c385f7bd99/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "client_name": "COINBASE, INC.",
       "registrant_name": "COINBASE, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -54312,25 +54516,6 @@
     },
     {
       "sector": "FINX",
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "client_name": "COINBASE, INC.",
-      "registrant_name": "RICH FEUER ANDERSON",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-04-16T14:47:16-04:00",
-      "issues": [
-        "Banking",
-        "Commodities (big ticket)",
-        "Financial Institutions/Investments/Securities",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f856e72d-70ef-4641-8673-621704c6321b/print/"
-    },
-    {
-      "sector": "FINX",
       "ticker": "SOFI",
       "company": "SoFi Technologies",
       "client_name": "SOFI TECHNOLOGIES, INC.",
@@ -54645,6 +54830,23 @@
         "Science/Technology"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/40c5ad5a-77f0-4242-b3c2-359a8a10913d/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "FI",
+      "company": "Fiserv",
+      "client_name": "FISERV",
+      "registrant_name": "STERNHELL GROUP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-22T10:51:07-04:00",
+      "issues": [
+        "Banking",
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/169d32d6-41be-4a9b-b6a1-b795fc55f487/print/"
     },
     {
       "sector": "FINX",
@@ -55051,23 +55253,6 @@
         "Banking"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/cbae9fb8-d8a6-4ab6-8c06-6905befa3a1a/print/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "FI",
-      "company": "Fiserv",
-      "client_name": "FISERV",
-      "registrant_name": "STERNHELL GROUP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2024,
-      "income": "50000.00",
-      "posted_date": "2025-01-21T12:42:53-05:00",
-      "issues": [
-        "Banking",
-        "Financial Institutions/Investments/Securities"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/4e992962-3926-4e7c-9683-5fd3ec3d53a9/print/"
     },
     {
       "sector": "FINX",
