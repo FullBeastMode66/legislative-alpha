@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T14:49:33Z",
+  "generated_at": "2026-10-24T13:59:03Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,67 +7,67 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 18,
+      "bill_count": 9,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 37
+      "avg_momentum": 41
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 2,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 40
+      "avg_momentum": 33
     },
     "GRID": {
       "name": "Grid & Electrification",
       "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
-      "bill_count": 1,
+      "bill_count": 0,
       "trade_count": 0,
       "lobbying_count": 265,
-      "avg_momentum": 35
+      "avg_momentum": 0
     },
     "QTUM": {
       "name": "Quantum Computing",
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 1,
+      "bill_count": 0,
       "trade_count": 0,
       "lobbying_count": 223,
-      "avg_momentum": 43
+      "avg_momentum": 0
     },
     "XBI": {
       "name": "Biotech",
       "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 316,
-      "avg_momentum": 39
+      "avg_momentum": 38
     },
     "ITA": {
       "name": "Defense",
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 6,
+      "bill_count": 7,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 36
+      "avg_momentum": 37
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 6,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 250,
       "avg_momentum": 36
@@ -77,20 +77,20 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 235,
-      "avg_momentum": 40
+      "avg_momentum": 42
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 10,
+      "bill_count": 9,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 38
+      "avg_momentum": 37
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -100,7 +100,7 @@
       "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 40
+      "avg_momentum": 36
     },
     "MOO": {
       "name": "Agriculture",
@@ -147,56 +147,6 @@
       "cosponsor_count": 4,
       "amendments": [],
       "momentum": 45,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4000",
-      "number": "S 4000",
-      "title": "Securing Infrastructure from Adversaries Act of 2026",
-      "sector": "PAVE",
-      "introduced_date": "2026-03-05",
-      "latest_action": {
-        "date": "2026-03-05",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4000",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Budd, Ted [R-NC]",
-        "party": "R",
-        "state": "NC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4014",
-      "number": "S 4014",
-      "title": "A bill to direct the Secretary of the Interior to convey to the Nisqually Indian Tribe the Clear Creek Hatchery infrastructure, and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-03-05",
-      "latest_action": {
-        "date": "2026-03-05",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4014",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Cantwell, Maria [D-WA]",
-        "party": "D",
-        "state": "WA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -425,81 +375,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-4098",
-      "number": "S 4098",
-      "title": "Artificial Intelligence-Ready Data Act",
-      "sector": "SMH",
-      "introduced_date": "2026-03-16",
-      "latest_action": {
-        "date": "2026-03-16",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4098",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Budd, Ted [R-NC]",
-        "party": "R",
-        "state": "NC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3597",
-      "number": "S 3597",
-      "title": "National Quantum Initiative Reauthorization Act of 2026",
-      "sector": "QTUM",
-      "introduced_date": "2026-01-08",
-      "latest_action": {
-        "date": "2026-04-14",
-        "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3597",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Young, Todd [R-IN]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 19,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-5008",
-      "number": "S 5008",
-      "title": "Grid Connection and Congestion Management Act",
-      "sector": "GRID",
-      "introduced_date": "2026-07-16",
-      "latest_action": {
-        "date": "2026-07-16",
-        "text": "Read twice and referred to the Committee on Energy and Natural Resources."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5008",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Heinrich, Martin [D-NM]",
-        "party": "D",
-        "state": "NM"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-8881",
       "number": "HR 8881",
       "title": "SBA Artificial Intelligence Utilization Act of 2026",
@@ -519,81 +394,6 @@
         "state": "MN"
       },
       "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3029",
-      "number": "S 3029",
-      "title": "DOE and NASA Interagency Research Coordination Act",
-      "sector": "UFO",
-      "introduced_date": "2025-10-22",
-      "latest_action": {
-        "date": "2025-10-22",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3029",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Sullivan, Dan [R-AK]",
-        "party": "R",
-        "state": "AK"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3198",
-      "number": "S 3198",
-      "title": "Space RACE Act",
-      "sector": "UFO",
-      "introduced_date": "2025-11-19",
-      "latest_action": {
-        "date": "2025-11-19",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3198",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Cornyn, John [R-TX]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3495",
-      "number": "S 3495",
-      "title": "Artificial Intelligence Scam Prevention Act",
-      "sector": "SMH",
-      "introduced_date": "2025-12-16",
-      "latest_action": {
-        "date": "2025-12-16",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3495",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Klobuchar, Amy [D-MN]",
-        "party": "D",
-        "state": "MN"
-      },
-      "committee_count": 1,
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
@@ -725,31 +525,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-SJRES-92",
-      "number": "SJRES 92",
-      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to \"Rescinding Regulations Regarding Management Systems Pertaining to the Fish and Wildlife Service and the Refuge Roads Program\"\".",
-      "sector": "PAVE",
-      "introduced_date": "2025-10-28",
-      "latest_action": {
-        "date": "2025-10-28",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/92",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Whitehouse, Sheldon [D-RI]",
-        "party": "D",
-        "state": "RI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9173",
       "number": "HR 9173",
       "title": "Charitable Deductions for Digital Asset Donations Act",
@@ -772,56 +547,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4727",
-      "number": "S 4727",
-      "title": "Artificial Intelligence Environmental Impacts Act of 2026",
-      "sector": "SMH",
-      "introduced_date": "2026-06-09",
-      "latest_action": {
-        "date": "2026-06-09",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Markey, Edward J. [D-MA]",
-        "party": "D",
-        "state": "MA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-SRES-564",
-      "number": "SRES 564",
-      "title": "A resolution recognizing the ability of solar, storage, and wind to quickly and cheaply meet United States power demand growth.",
-      "sector": "ICLN",
-      "introduced_date": "2025-12-17",
-      "latest_action": {
-        "date": "2025-12-17",
-        "text": "Referred to the Committee on Energy and Natural Resources."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/564",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Whitehouse, Sheldon [D-RI]",
-        "party": "D",
-        "state": "RI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 10,
-      "amendments": [],
-      "momentum": 39,
       "sector_trade_flag": false
     },
     {
@@ -900,31 +625,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-2381",
-      "number": "S 2381",
-      "title": "PROACTIV Artificial Intelligence Data Act of 2025",
-      "sector": "SMH",
-      "introduced_date": "2025-07-22",
-      "latest_action": {
-        "date": "2025-07-22",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2381",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Cornyn, John [R-TX]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-6009",
       "number": "HR 6009",
       "title": "Defense Biotechnology Strategy Act",
@@ -1000,56 +700,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-2895",
-      "number": "S 2895",
-      "title": "Surface Transportation Weather Safety Gap Analysis Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-09-18",
-      "latest_action": {
-        "date": "2025-09-18",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2895",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Sheehy, Tim [R-MT]",
-        "party": "R",
-        "state": "MT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2909",
-      "number": "S 2909",
-      "title": "Seasonal Agriculture CDL Modernization Act",
-      "sector": "MOO",
-      "introduced_date": "2025-09-18",
-      "latest_action": {
-        "date": "2025-09-18",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2909",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Moran, Jerry [R-KS]",
-        "party": "R",
-        "state": "KS"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 4,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-2860",
       "number": "S 2860",
       "title": "Revitalizing America\u2019s Offshore Critical Minerals Dominance Act",
@@ -1072,31 +722,6 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2911",
-      "number": "S 2911",
-      "title": "Streamlining State Highway Safety Submissions Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-09-18",
-      "latest_action": {
-        "date": "2025-09-18",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2911",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Sheehy, Tim [R-MT]",
-        "party": "R",
-        "state": "MT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1125,156 +750,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-7388",
-      "number": "HR 7388",
-      "title": "Smart Space Act of 2026",
-      "sector": "UFO",
-      "introduced_date": "2026-02-05",
-      "latest_action": {
-        "date": "2026-03-25",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7388",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Burlison, Eric [R-MO-7]",
-        "party": "R",
-        "state": "MO"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-SJRES-67",
-      "number": "SJRES 67",
-      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Integrated Iron and Steel Manufacturing Facilities Technology Review: Interim Final Rule\".",
-      "sector": "PAVE",
-      "introduced_date": "2025-07-22",
-      "latest_action": {
-        "date": "2025-07-22",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/67",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Whitehouse, Sheldon [D-RI]",
-        "party": "D",
-        "state": "RI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2226",
-      "number": "S 2226",
-      "title": "Necessary Environmental Exemptions for Defense Act",
-      "sector": "ITA",
-      "introduced_date": "2025-07-09",
-      "latest_action": {
-        "date": "2025-07-09",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2226",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Cotton, Tom [R-AR]",
-        "party": "R",
-        "state": "AR"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2388",
-      "number": "S 2388",
-      "title": "Water Infrastructure Modernization Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-07-23",
-      "latest_action": {
-        "date": "2025-07-23",
-        "text": "Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2388",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Gallego, Ruben [D-AZ]",
-        "party": "D",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4772",
-      "number": "S 4772",
-      "title": "Renewable Energy Choice Act",
-      "sector": "ICLN",
-      "introduced_date": "2026-06-11",
-      "latest_action": {
-        "date": "2026-06-11",
-        "text": "Read twice and referred to the Committee on Energy and Natural Resources."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4772",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Merkley, Jeff [D-OR]",
-        "party": "D",
-        "state": "OR"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4971",
-      "number": "S 4971",
-      "title": "Western Water Infrastructure Fairness Act",
-      "sector": "PAVE",
-      "introduced_date": "2026-07-14",
-      "latest_action": {
-        "date": "2026-07-14",
-        "text": "Read twice and referred to the Committee on Energy and Natural Resources."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4971",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Kelly, Mark [D-AZ]",
-        "party": "D",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9651",
       "number": "HR 9651",
       "title": "Space Ready 2.0 Act",
@@ -1297,31 +772,6 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3278",
-      "number": "S 3278",
-      "title": "SMART Infrastructure Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-11-20",
-      "latest_action": {
-        "date": "2025-11-20",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3278",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Lummis, Cynthia M. [R-WY]",
-        "party": "R",
-        "state": "WY"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1375,31 +825,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-3022",
-      "number": "S 3022",
-      "title": "Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-10-21",
-      "latest_action": {
-        "date": "2025-11-20",
-        "text": "Held at the desk."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3022",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Sullivan, Dan [R-AK]",
-        "party": "R",
-        "state": "AK"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-4830",
       "number": "S 4830",
       "title": "A bill to designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
@@ -1425,31 +850,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-1638",
-      "number": "S 1638",
-      "title": "Protection Against Foreign Adversarial Artificial Intelligence Act of 2025",
-      "sector": "SMH",
-      "introduced_date": "2025-05-07",
-      "latest_action": {
-        "date": "2025-05-07",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1638",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Cassidy, Bill [R-LA]",
-        "party": "R",
-        "state": "LA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9372",
       "number": "HR 9372",
       "title": "Data Infrastructure Energy Measurement and Standards Act",
@@ -1472,31 +872,6 @@
       "cosponsor_count": 8,
       "amendments": [],
       "momentum": 18,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-4264",
-      "number": "S 4264",
-      "title": "NASA UAS Detection Act",
-      "sector": "UFO",
-      "introduced_date": "2026-03-26",
-      "latest_action": {
-        "date": "2026-03-26",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4264",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Peters, Gary C. [D-MI]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1600,28 +975,378 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-SRES-782",
-      "number": "SRES 782",
-      "title": "A resolution recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 22 through June 28, 2026, as \"National Pollinator Week\".",
+      "id": "119-S-4862",
+      "number": "S 4862",
+      "title": "A bill to direct the Secretary of Agriculture to consider certain acreage not planted due to a lack of irrigation water to be eligible for prevented planting payments, and for other purposes.",
       "sector": "MOO",
-      "introduced_date": "2026-06-22",
+      "introduced_date": "2026-06-23",
       "latest_action": {
-        "date": "2026-06-22",
-        "text": "Referred to the Committee on Environment and Public Works. (text: CR S2987)"
+        "date": "2026-06-23",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/782",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4862",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Sen. Merkley, Jeff [D-OR]",
+        "name": "Sen. Bennet, Michael F. [D-CO]",
         "party": "D",
-        "state": "OR"
+        "state": "CO"
       },
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5617",
+      "number": "HR 5617",
+      "title": "Geothermal Gold Book Development Act",
+      "sector": "ICLN",
+      "introduced_date": "2025-09-30",
+      "latest_action": {
+        "date": "2026-05-20",
+        "text": "Placed on the Union Calendar, Calendar No. 573."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5617",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
+        "party": "D",
+        "state": "AZ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2692",
+      "number": "S 2692",
+      "title": "Agricultural Biotechnology Coordination Act",
+      "sector": "XBI",
+      "introduced_date": "2025-09-03",
+      "latest_action": {
+        "date": "2025-09-03",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2692",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Padilla, Alex [D-CA]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9442",
+      "number": "HR 9442",
+      "title": "Artificial Intelligence Data Center Moratorium Act",
+      "sector": "SMH",
+      "introduced_date": "2026-06-24",
+      "latest_action": {
+        "date": "2026-06-24",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+        "party": "D",
+        "state": "NY"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 20,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5549",
+      "number": "HR 5549",
+      "title": "Efficient Nuclear Licensing Hearings Act",
+      "sector": "URA",
+      "introduced_date": "2025-09-23",
+      "latest_action": {
+        "date": "2026-07-14",
+        "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "party": "R",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 25,
+      "amendments": [],
+      "momentum": 45,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9477",
+      "number": "HR 9477",
+      "title": "AI Incident Reporting Act",
+      "sector": "CIBR",
+      "introduced_date": "2026-06-25",
+      "latest_action": {
+        "date": "2026-06-25",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moran, Nathaniel [R-TX-1]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3336",
+      "number": "S 3336",
+      "title": "Reliable Artificial Intelligence Research Act of 2025",
+      "sector": "SMH",
+      "introduced_date": "2025-12-03",
+      "latest_action": {
+        "date": "2025-12-03",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3336",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Hassan, Margaret Wood [D-NH]",
+        "party": "D",
+        "state": "NH"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9521",
+      "number": "HR 9521",
+      "title": "Broadband Infrastructure Extension Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-29",
+      "latest_action": {
+        "date": "2026-06-29",
+        "text": "Referred to the House Committee on Oversight and Government Reform."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9521",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. McDowell, Addison P. [R-NC-6]",
+        "party": "R",
+        "state": "NC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 7,
+      "amendments": [],
+      "momentum": 38,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HJRES-200",
+      "number": "HJRES 200",
+      "title": "Providing for congressional disapproval of the proposed foreign military sale to Turkey of certain defense articles and services.",
+      "sector": "ITA",
+      "introduced_date": "2026-07-02",
+      "latest_action": {
+        "date": "2026-07-02",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/200",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Titus, Dina [D-NV-1]",
+        "party": "D",
+        "state": "NV"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 16,
+      "amendments": [],
+      "momentum": 41,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-1177",
+      "number": "HRES 1177",
+      "title": "Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.",
+      "sector": "ITA",
+      "introduced_date": "2026-04-15",
+      "latest_action": {
+        "date": "2026-04-15",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1177",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
+        "party": "D",
+        "state": "AZ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 16,
+      "amendments": [],
+      "momentum": 41,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-716",
+      "number": "HRES 716",
+      "title": "Supporting the designation of the week of September 15 through September 19, 2025, as \"National Clean Energy Week\".",
+      "sector": "ICLN",
+      "introduced_date": "2025-09-15",
+      "latest_action": {
+        "date": "2025-09-15",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/716",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+        "party": "R",
+        "state": "IA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 25,
+      "amendments": [],
+      "momentum": 45,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5877",
+      "number": "HR 5877",
+      "title": "Combatting Money Laundering in Cyber Crime Act of 2025",
+      "sector": "CIBR",
+      "introduced_date": "2025-10-31",
+      "latest_action": {
+        "date": "2026-04-15",
+        "text": "Placed on the Union Calendar, Calendar No. 530."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5877",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Fitzgerald, Scott [R-WI-5]",
+        "party": "R",
+        "state": "WI"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 16,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-963",
+      "number": "HRES 963",
+      "title": "Condemning antisemitism in all its forms, including the proliferation and amplification of antisemitic content on artificial intelligence (AI) platforms, urging robust, transparent safeguards for AI, and recognizing stakeholders working to counter this threat.",
+      "sector": "SMH",
+      "introduced_date": "2025-12-18",
+      "latest_action": {
+        "date": "2025-12-18",
+        "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/963",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Jacobs, Sara [D-CA-51]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 30,
+      "amendments": [],
+      "momentum": 47,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-8507",
+      "number": "HR 8507",
+      "title": "Precision Agriculture Workforce Training and Development Act",
+      "sector": "MOO",
+      "introduced_date": "2026-04-27",
+      "latest_action": {
+        "date": "2026-04-27",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8507",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Flood, Mike [R-NE-1]",
+        "party": "R",
+        "state": "NE"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-8382",
+      "number": "HR 8382",
+      "title": "To prohibit the manufacture and conveyance of certain products for children that incorporate an artificial intelligence chatbot, and for other purposes.",
+      "sector": "SMH",
+      "introduced_date": "2026-04-20",
+      "latest_action": {
+        "date": "2026-04-21",
+        "text": "Sponsor introductory remarks on measure. (CR H3000-3001)"
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8382",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Moore, Blake D. [R-UT-1]",
+        "party": "R",
+        "state": "UT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 15,
       "sector_trade_flag": false
     }
   ],
