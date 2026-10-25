@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:59:03Z",
+  "generated_at": "2026-10-25T14:15:30Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -97,10 +97,10 @@
       "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 36
+      "avg_momentum": 38
     },
     "MOO": {
       "name": "Agriculture",
@@ -1347,6 +1347,31 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-8517",
+      "number": "HR 8517",
+      "title": "Clean Energy Workforce Act",
+      "sector": "ICLN",
+      "introduced_date": "2026-04-27",
+      "latest_action": {
+        "date": "2026-04-27",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8517",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Magaziner, Seth [D-RI-2]",
+        "party": "D",
+        "state": "RI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 23,
+      "amendments": [],
+      "momentum": 44,
       "sector_trade_flag": false
     }
   ],
