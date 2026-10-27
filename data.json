@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T16:39:18Z",
+  "generated_at": "2026-10-27T15:52:51Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 9,
+      "bill_count": 11,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 41
+      "avg_momentum": 42
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 7,
+      "bill_count": 9,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 37
+      "avg_momentum": 39
     },
     "UFO": {
       "name": "Space",
@@ -77,40 +77,40 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 235,
-      "avg_momentum": 42
+      "avg_momentum": 44
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 9,
+      "bill_count": 8,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 37
+      "avg_momentum": 40
     },
     "ICLN": {
       "name": "Clean Energy",
       "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 38
+      "avg_momentum": 36
     },
     "MOO": {
       "name": "Agriculture",
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 5,
+      "bill_count": 9,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 31
+      "avg_momentum": 37
     },
     "FINX": {
       "name": "Financial Technology",
@@ -375,6 +375,206 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-10902",
+      "number": "HR 10902",
+      "title": "Safe Transit Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-10-22",
+      "latest_action": {
+        "date": "2026-10-22",
+        "text": "Referred to the House Committee on Transportation and Infrastructure."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10902",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+        "party": "R",
+        "state": "NJ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10904",
+      "number": "HR 10904",
+      "title": "American Cost of Living Defense Act",
+      "sector": "ITA",
+      "introduced_date": "2026-10-22",
+      "latest_action": {
+        "date": "2026-10-22",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10904",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10915",
+      "number": "HR 10915",
+      "title": "To require the Director of the National Institute of Standards and Technology to develop new standards, methodologies, and recommendations with respect to the cybersecurity of cloud-based infrastructure, and for other purposes.",
+      "sector": "PAVE",
+      "introduced_date": "2026-10-26",
+      "latest_action": {
+        "date": "2026-10-26",
+        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10915",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. McCormick, Richard [R-GA-7]",
+        "party": "R",
+        "state": "GA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10911",
+      "number": "HR 10911",
+      "title": "To amend the Animal Health Protection Act to establish a U.S. Swine health improvement plan as a voluntary program to be administered by the Secretary of Agriculture in cooperation with the States and the swine industry to prevent the introduction into the United States of, and to monitor for, diseases that threaten swine health, and for other purposes.",
+      "sector": "MOO",
+      "introduced_date": "2026-10-26",
+      "latest_action": {
+        "date": "2026-10-26",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10911",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Kaptur, Marcy [D-OH-9]",
+        "party": "D",
+        "state": "OH"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 44,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10912",
+      "number": "HR 10912",
+      "title": "To amend the Arms Export Control Act to address third party transfers of certain defense articles for Ukraine, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-10-26",
+      "latest_action": {
+        "date": "2026-10-26",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10912",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Keating, William R. [D-MA-9]",
+        "party": "D",
+        "state": "MA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 5,
+      "amendments": [],
+      "momentum": 45,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10916",
+      "number": "HR 10916",
+      "title": "To require the Secretary of Agriculture and the Secretary of the Interior to jointly develop a strategy to increase the use of aquatic restoration and conservation activities in wildfire risk mitigation and post-fire recovery efforts, and for other purposes.",
+      "sector": "MOO",
+      "introduced_date": "2026-10-26",
+      "latest_action": {
+        "date": "2026-10-26",
+        "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10916",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Neguse, Joe [D-CO-2]",
+        "party": "D",
+        "state": "CO"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10917",
+      "number": "HR 10917",
+      "title": "To direct the Secretary of Agriculture to select and implement landscape-scale forest restoration projects, to assist communities in increasing their resilience to wildfire, and for other purposes.",
+      "sector": "MOO",
+      "introduced_date": "2026-10-26",
+      "latest_action": {
+        "date": "2026-10-26",
+        "text": "Referred to the Committee on Agriculture, and in addition to the Committees on Natural Resources, Energy and Commerce, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10917",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Panetta, Jimmy [D-CA-19]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 4,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10914",
+      "number": "HR 10914",
+      "title": "To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to improve assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers, and for other purposes.",
+      "sector": "MOO",
+      "introduced_date": "2026-10-26",
+      "latest_action": {
+        "date": "2026-10-26",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10914",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. McClellan, Jennifer L. [D-VA-4]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 44,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HR-8881",
       "number": "HR 8881",
       "title": "SBA Artificial Intelligence Utilization Act of 2026",
@@ -422,31 +622,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 15,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9612",
-      "number": "HR 9612",
-      "title": "American Enrichment Deployment Act",
-      "sector": "URA",
-      "introduced_date": "2026-07-09",
-      "latest_action": {
-        "date": "2026-07-14",
-        "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9612",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Fry, Russell [R-SC-7]",
-        "party": "R",
-        "state": "SC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 6,
-      "amendments": [],
-      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -1322,56 +1497,6 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-8382",
-      "number": "HR 8382",
-      "title": "To prohibit the manufacture and conveyance of certain products for children that incorporate an artificial intelligence chatbot, and for other purposes.",
-      "sector": "SMH",
-      "introduced_date": "2026-04-20",
-      "latest_action": {
-        "date": "2026-04-21",
-        "text": "Sponsor introductory remarks on measure. (CR H3000-3001)"
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8382",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Moore, Blake D. [R-UT-1]",
-        "party": "R",
-        "state": "UT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-8517",
-      "number": "HR 8517",
-      "title": "Clean Energy Workforce Act",
-      "sector": "ICLN",
-      "introduced_date": "2026-04-27",
-      "latest_action": {
-        "date": "2026-04-27",
-        "text": "Referred to the House Committee on Education and Workforce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8517",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Magaziner, Seth [D-RI-2]",
-        "party": "D",
-        "state": "RI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 23,
-      "amendments": [],
-      "momentum": 44,
       "sector_trade_flag": false
     }
   ],
