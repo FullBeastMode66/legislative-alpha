@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:52:51Z",
+  "generated_at": "2026-10-28T16:35:11Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 11,
+      "bill_count": 10,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 42
+      "avg_momentum": 41
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -60,7 +60,7 @@
       "bill_count": 9,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 39
+      "avg_momentum": 38
     },
     "UFO": {
       "name": "Space",
@@ -107,10 +107,10 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 9,
+      "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 37
+      "avg_momentum": 33
     },
     "FINX": {
       "name": "Financial Technology",
@@ -296,7 +296,7 @@
       "committee_count": 2,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -425,59 +425,9 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-10915",
-      "number": "HR 10915",
-      "title": "To require the Director of the National Institute of Standards and Technology to develop new standards, methodologies, and recommendations with respect to the cybersecurity of cloud-based infrastructure, and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-10-26",
-      "latest_action": {
-        "date": "2026-10-26",
-        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10915",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. McCormick, Richard [R-GA-7]",
-        "party": "R",
-        "state": "GA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-10911",
-      "number": "HR 10911",
-      "title": "To amend the Animal Health Protection Act to establish a U.S. Swine health improvement plan as a voluntary program to be administered by the Secretary of Agriculture in cooperation with the States and the swine industry to prevent the introduction into the United States of, and to monitor for, diseases that threaten swine health, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2026-10-26",
-      "latest_action": {
-        "date": "2026-10-26",
-        "text": "Referred to the House Committee on Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10911",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Kaptur, Marcy [D-OH-9]",
-        "party": "D",
-        "state": "OH"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 44,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-10912",
       "number": "HR 10912",
-      "title": "To amend the Arms Export Control Act to address third party transfers of certain defense articles for Ukraine, and for other purposes.",
+      "title": "Fast Tracking European Investment in Ukraine\u2019s Defense Act",
       "sector": "ITA",
       "introduced_date": "2026-10-26",
       "latest_action": {
@@ -497,31 +447,6 @@
       "cosponsor_count": 5,
       "amendments": [],
       "momentum": 45,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-10916",
-      "number": "HR 10916",
-      "title": "To require the Secretary of Agriculture and the Secretary of the Interior to jointly develop a strategy to increase the use of aquatic restoration and conservation activities in wildfire risk mitigation and post-fire recovery efforts, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2026-10-26",
-      "latest_action": {
-        "date": "2026-10-26",
-        "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10916",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Neguse, Joe [D-CO-2]",
-        "party": "D",
-        "state": "CO"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
       "sector_trade_flag": false
     },
     {
@@ -547,31 +472,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-10914",
-      "number": "HR 10914",
-      "title": "To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to improve assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2026-10-26",
-      "latest_action": {
-        "date": "2026-10-26",
-        "text": "Referred to the House Committee on Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10914",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. McClellan, Jennifer L. [D-VA-4]",
-        "party": "D",
-        "state": "VA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 44,
       "sector_trade_flag": false
     },
     {
