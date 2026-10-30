@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:44:46Z",
+  "generated_at": "2026-10-30T16:41:11Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 9,
+      "bill_count": 11,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 38
+      "avg_momentum": 39
     },
     "UFO": {
       "name": "Space",
@@ -80,17 +80,17 @@
       "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 235,
-      "avg_momentum": 44
+      "avg_momentum": 40
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 7,
+      "bill_count": 9,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 39
+      "avg_momentum": 41
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -100,17 +100,17 @@
       "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 36
+      "avg_momentum": 33
     },
     "MOO": {
       "name": "Agriculture",
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 5,
+      "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 31
+      "avg_momentum": 33
     },
     "FINX": {
       "name": "Financial Technology",
@@ -146,7 +146,7 @@
       "committee_count": 1,
       "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -171,7 +171,7 @@
       "committee_count": 1,
       "cosponsor_count": 9,
       "amendments": [],
-      "momentum": 47,
+      "momentum": 39,
       "sector_trade_flag": false
     },
     {
@@ -472,6 +472,106 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-1642",
+      "number": "HRES 1642",
+      "title": "Expressing the sense of the House of Representatives that Congress must refuse to provide any additional funds or exceptional regulatory support to companies or financial institutions facing insolvency or financial collapse due to exposures to acute stress within the artificial intelligence market and must provide support to all harmed Americans instead.",
+      "sector": "SMH",
+      "introduced_date": "2026-10-29",
+      "latest_action": {
+        "date": "2026-10-29",
+        "text": "Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1642",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Casar, Greg [D-TX-35]",
+        "party": "D",
+        "state": "TX"
+      },
+      "committee_count": 3,
+      "cosponsor_count": 12,
+      "amendments": [],
+      "momentum": 48,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10949",
+      "number": "HR 10949",
+      "title": "To direct the Secretary of Defense to expand the priority list for the Public Schools on Military Installations Program of the Department of Defense.",
+      "sector": "ITA",
+      "introduced_date": "2026-10-29",
+      "latest_action": {
+        "date": "2026-10-29",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10949",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Vasquez, Gabe [D-NM-2]",
+        "party": "D",
+        "state": "NM"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10925",
+      "number": "HR 10925",
+      "title": "To require an assessment with respect to the technical capacity of the Department of State to address the use of artificial intelligence and other emerging technologies to facilitate trafficking in persons.",
+      "sector": "SMH",
+      "introduced_date": "2026-10-29",
+      "latest_action": {
+        "date": "2026-10-29",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10925",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Gallagher, James [R-CA-1]",
+        "party": "R",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10928",
+      "number": "HR 10928",
+      "title": "To authorize the Secretary of Agriculture to provide block grants to States for certain crop losses as a consequence of freezes or cold weather conditions that occurred in the month of April, 2026.",
+      "sector": "MOO",
+      "introduced_date": "2026-10-29",
+      "latest_action": {
+        "date": "2026-10-29",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10928",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Gottheimer, Josh [D-NJ-5]",
+        "party": "D",
+        "state": "NJ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 44,
       "sector_trade_flag": false
     },
     {
@@ -872,6 +972,31 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-8175",
+      "number": "HR 8175",
+      "title": "To amend title 10, United States Code, and the National Defense Authorization Act for Fiscal Year 1994, to codify and clarify gender neutral standards for members of certain Armed Forces, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-04-02",
+      "latest_action": {
+        "date": "2026-04-02",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8175",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Houlahan, Chrissy [D-PA-6]",
+        "party": "D",
+        "state": "PA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 38,
+      "amendments": [],
+      "momentum": 50,
       "sector_trade_flag": false
     },
     {
@@ -49471,6 +49596,27 @@
       "company": "CF Industries Holdings",
       "client_name": "CF INDUSTRIES INC",
       "registrant_name": "CF INDUSTRIES, INC.",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2024,
+      "income": null,
+      "posted_date": "2026-10-29T14:43:11-04:00",
+      "issues": [
+        "Agriculture",
+        "Budget/Appropriations",
+        "Environment/Superfund",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/23f14eb3-8e27-4f75-8005-b71776a052d9/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "CF",
+      "company": "CF Industries Holdings",
+      "client_name": "CF INDUSTRIES INC",
+      "registrant_name": "CF INDUSTRIES, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
       "filing_year": 2026,
@@ -49953,20 +50099,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/1d0482bd-d994-4eb6-a144-453ddc88209f/print/"
-    },
-    {
-      "sector": "MOO",
-      "ticker": "CF",
-      "company": "CF Industries Holdings",
-      "client_name": "CF INDUSTRIES, INC. AND CF INDUSTRIES HOLDINGS, INC.",
-      "registrant_name": "AKIN GUMP STRAUSS HAUER & FELD",
-      "filing_type": "4th Quarter - Report (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2020,
-      "income": null,
-      "posted_date": "2021-01-20T14:19:06.503000-05:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/fb6f7159-66a0-4aa4-a56c-8ea64e5750f3/print/"
     },
     {
       "sector": "MOO",
