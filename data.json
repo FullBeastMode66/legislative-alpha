@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T15:45:45Z",
+  "generated_at": "2026-11-01T16:43:52Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 33
+      "avg_momentum": 32
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -1247,31 +1247,6 @@
       "cosponsor_count": 25,
       "amendments": [],
       "momentum": 45,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9477",
-      "number": "HR 9477",
-      "title": "AI Incident Reporting Act",
-      "sector": "CIBR",
-      "introduced_date": "2026-06-25",
-      "latest_action": {
-        "date": "2026-06-25",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Moran, Nathaniel [R-TX-1]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
       "sector_trade_flag": false
     },
     {
