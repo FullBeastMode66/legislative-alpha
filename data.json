@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:42:05Z",
+  "generated_at": "2026-11-04T17:55:02Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,19 +7,19 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 9,
+      "bill_count": 10,
       "trade_count": 0,
-      "lobbying_count": 337,
-      "avg_momentum": 40
+      "lobbying_count": 362,
+      "avg_momentum": 39
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 0,
-      "lobbying_count": 288,
+      "lobbying_count": 281,
       "avg_momentum": 33
     },
     "GRID": {
@@ -29,7 +29,7 @@
       "color": "#9B4638",
       "bill_count": 0,
       "trade_count": 0,
-      "lobbying_count": 265,
+      "lobbying_count": 240,
       "avg_momentum": 0
     },
     "QTUM": {
@@ -49,7 +49,7 @@
       "color": "#2C6E8C",
       "bill_count": 5,
       "trade_count": 0,
-      "lobbying_count": 316,
+      "lobbying_count": 291,
       "avg_momentum": 40
     },
     "ITA": {
@@ -60,14 +60,14 @@
       "bill_count": 11,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 39
+      "avg_momentum": 36
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 2,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 250,
       "avg_momentum": 36
@@ -87,7 +87,7 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 8,
+      "bill_count": 7,
       "trade_count": 0,
       "lobbying_count": 300,
       "avg_momentum": 40
@@ -107,20 +107,20 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 5,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 31
+      "avg_momentum": 30
     },
     "FINX": {
       "name": "Financial Technology",
       "short": "Fintech",
       "etf": "FINX",
       "color": "#3C6E8F",
-      "bill_count": 4,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 194,
-      "avg_momentum": 31
+      "avg_momentum": 29
     }
   },
   "bills": [
@@ -246,7 +246,7 @@
       "committee_count": 2,
       "cosponsor_count": 2,
       "amendments": [],
-      "momentum": 100,
+      "momentum": 93,
       "sector_trade_flag": false
     },
     {
@@ -372,31 +372,6 @@
       "cosponsor_count": 5,
       "amendments": [],
       "momentum": 45,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-8881",
-      "number": "HR 8881",
-      "title": "SBA Artificial Intelligence Utilization Act of 2026",
-      "sector": "SMH",
-      "introduced_date": "2026-05-19",
-      "latest_action": {
-        "date": "2026-06-24",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Finstad, Brad [R-MN-1]",
-        "party": "R",
-        "state": "MN"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -572,56 +547,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-7298",
-      "number": "HR 7298",
-      "title": "Connecting Communities Through Transit Planning Act of 2026",
-      "sector": "PAVE",
-      "introduced_date": "2026-01-30",
-      "latest_action": {
-        "date": "2026-01-31",
-        "text": "Referred to the Subcommittee on Highways and Transit."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7298",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Simon, Lateefah [D-CA-12]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-8899",
-      "number": "HR 8899",
-      "title": "Digital Asset PARITY Act",
-      "sector": "FINX",
-      "introduced_date": "2026-05-19",
-      "latest_action": {
-        "date": "2026-05-19",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8899",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Miller, Max L. [R-OH-7]",
-        "party": "R",
-        "state": "OH"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -975,6 +900,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-S-2296",
+      "number": "S 2296",
+      "title": "National Defense Authorization Act for Fiscal Year 2026",
+      "sector": "ITA",
+      "introduced_date": "2025-07-15",
+      "latest_action": {
+        "date": "2025-11-12",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2296",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Wicker, Roger F. [R-MS]",
+        "party": "R",
+        "state": "MS"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-S-4830",
       "number": "S 4830",
       "title": "A bill to designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
@@ -1325,31 +1275,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HRES-1177",
-      "number": "HRES 1177",
-      "title": "Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.",
-      "sector": "ITA",
-      "introduced_date": "2026-04-15",
-      "latest_action": {
-        "date": "2026-04-15",
-        "text": "Referred to the House Committee on the Judiciary."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1177",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
-        "party": "D",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 16,
-      "amendments": [],
-      "momentum": 41,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HRES-716",
       "number": "HRES 716",
       "title": "Supporting the designation of the week of September 15 through September 19, 2025, as \"National Clean Energy Week\".",
@@ -1375,78 +1300,178 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-5877",
-      "number": "HR 5877",
-      "title": "Combatting Money Laundering in Cyber Crime Act of 2025",
-      "sector": "CIBR",
-      "introduced_date": "2025-10-31",
+      "id": "119-HRES-785",
+      "number": "HRES 785",
+      "title": "Expressing support for designation of the week of October 4, 2025, through October 10, 2025, as \"World Space Week\".",
+      "sector": "UFO",
+      "introduced_date": "2025-10-03",
       "latest_action": {
-        "date": "2026-04-15",
-        "text": "Placed on the Union Calendar, Calendar No. 530."
+        "date": "2025-10-03",
+        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5877",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/785",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Dingell, Debbie [D-MI-6]",
+        "party": "D",
+        "state": "MI"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 6,
+      "amendments": [],
+      "momentum": 37,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2970",
+      "number": "S 2970",
+      "title": "A bill to authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
+      "sector": "PAVE",
+      "introduced_date": "2025-10-03",
+      "latest_action": {
+        "date": "2026-09-30",
+        "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2970",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Lee, Mike [R-UT]",
+        "party": "R",
+        "state": "UT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-6638",
+      "number": "HR 6638",
+      "title": "To require a report on merits and options for establishing an institute relating to space resources, and for other purposes.",
+      "sector": "UFO",
+      "introduced_date": "2025-12-11",
+      "latest_action": {
+        "date": "2025-12-11",
+        "text": "Referred to the House Committee on Science, Space, and Technology."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6638",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Foushee, Valerie P. [D-NC-4]",
+        "party": "D",
+        "state": "NC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2938",
+      "number": "S 2938",
+      "title": "Artificial Intelligence Risk Evaluation Act of 2025",
+      "sector": "SMH",
+      "introduced_date": "2025-09-29",
+      "latest_action": {
+        "date": "2026-09-30",
+        "text": "Committee on Homeland Security and Governmental Affairs. Hearings held."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2938",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Hawley, Josh [R-MO]",
+        "party": "R",
+        "state": "MO"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-6631",
+      "number": "HR 6631",
+      "title": "Establishing Cyber Security Educational Programs at Academic Institutions Act",
+      "sector": "CIBR",
+      "introduced_date": "2025-12-11",
+      "latest_action": {
+        "date": "2025-12-11",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6631",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Elfreth, Sarah [D-MD-3]",
+        "party": "D",
+        "state": "MD"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3404",
+      "number": "S 3404",
+      "title": "Satellite Cybersecurity Act of 2025",
+      "sector": "CIBR",
+      "introduced_date": "2025-12-09",
+      "latest_action": {
+        "date": "2026-09-24",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Introduced",
       "sponsor": {
-        "name": "Rep. Fitzgerald, Scott [R-WI-5]",
-        "party": "R",
-        "state": "WI"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 16,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HRES-963",
-      "number": "HRES 963",
-      "title": "Condemning antisemitism in all its forms, including the proliferation and amplification of antisemitic content on artificial intelligence (AI) platforms, urging robust, transparent safeguards for AI, and recognizing stakeholders working to counter this threat.",
-      "sector": "SMH",
-      "introduced_date": "2025-12-18",
-      "latest_action": {
-        "date": "2025-12-18",
-        "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/963",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Jacobs, Sara [D-CA-51]",
+        "name": "Sen. Peters, Gary C. [D-MI]",
         "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 30,
-      "amendments": [],
-      "momentum": 47,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-8507",
-      "number": "HR 8507",
-      "title": "Precision Agriculture Workforce Training and Development Act",
-      "sector": "MOO",
-      "introduced_date": "2026-04-27",
-      "latest_action": {
-        "date": "2026-04-27",
-        "text": "Referred to the House Committee on Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/8507",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Flood, Mike [R-NE-1]",
-        "party": "R",
-        "state": "NE"
+        "state": "MI"
       },
       "committee_count": 1,
-      "cosponsor_count": 2,
+      "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 36,
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-6799",
+      "number": "HR 6799",
+      "title": "BRIDGE for Young-Onset Alzheimer\u2019s Disease Act of 2025",
+      "sector": "PAVE",
+      "introduced_date": "2025-12-17",
+      "latest_action": {
+        "date": "2025-12-17",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6799",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Kim, Young [R-CA-40]",
+        "party": "R",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 19,
+      "amendments": [],
+      "momentum": 43,
       "sector_trade_flag": false
     }
   ],
@@ -1866,6 +1891,420 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/66af1a50-2586-411d-b2f2-41e1918d7dcd/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-16T10:07:42-04:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Energy/Nuclear",
+        "Environment/Superfund",
+        "Natural Resources",
+        "Taxation/Internal Revenue Code",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/645daebb-9f8d-4b42-ad70-a4c2e113f334/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-07-20T17:04:53-04:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund",
+        "Natural Resources",
+        "Taxation/Internal Revenue Code",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ad23d7be-02d7-42a3-b7c5-4a9511bd0e64/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-04-15T23:17:24-04:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund",
+        "Natural Resources",
+        "Taxation/Internal Revenue Code",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/73b26bd3-731f-4347-a887-350ff5bc8ba9/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2026-01-17T17:42:06-05:00",
+      "issues": [
+        "Environment/Superfund",
+        "Natural Resources",
+        "Taxation/Internal Revenue Code",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8d27c896-d92f-48f7-9132-c87a9a45ab59/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "50000.00",
+      "posted_date": "2025-10-13T16:26:24-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/619921cf-c532-4cd0-bb25-825b3fc9d219/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2025-07-20T15:23:44-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b5eea4d2-9eaf-47a7-990a-5c180ded1210/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-04-30T14:58:13-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/40a826d8-eff5-4efd-b7f9-1c93d6613356/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "Registration - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-04-30T11:28:35-04:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cf8de565-405a-4fe4-88a0-80c31fba9d19/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "SMITH DAVIS ADVISORY & RESEARCH LLC",
+      "filing_type": "Registration",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-04-29T12:36:54-04:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f3e32ace-46ef-4c91-9c69-781f4296425e/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA COMPOSITES",
+      "registrant_name": "FABIANI & COMPANY",
+      "filing_type": "Mid-Year Termination",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2007,
+      "income": null,
+      "posted_date": "2007-08-14T14:44:02-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/36302025-57a6-4a13-a181-4b580ff3a287/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA COMPOSITES",
+      "registrant_name": "FABIANI & COMPANY",
+      "filing_type": "Year-End Report",
+      "filing_period": "Year-End (July 1 - Dec 31)",
+      "filing_year": 2006,
+      "income": null,
+      "posted_date": "2007-05-29T16:57:20-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/19328d67-e022-467e-9cf4-d503ae20ace3/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA COMPOSITES",
+      "registrant_name": "FABIANI & COMPANY",
+      "filing_type": "Mid-Year Report",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2006,
+      "income": null,
+      "posted_date": "2007-05-29T16:53:17-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/16db5be5-7ba5-484c-a1f1-f16a94610e6f/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "THE LOEFFLER GROUP",
+      "filing_type": "Mid-Year Termination",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2006,
+      "income": "10000.00",
+      "posted_date": "2006-10-24T00:00:00-04:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/9b4afc5d-3e87-4c22-b51e-695f66debda0/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "THE LOEFFLER GROUP",
+      "filing_type": "Mid-Year Report",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2006,
+      "income": "100000.00",
+      "posted_date": "2006-08-10T00:00:00-04:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/04622758-fd4c-4af6-9c30-5801baa2d4a1/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA COMPOSITES",
+      "registrant_name": "FABIANI & COMPANY",
+      "filing_type": "Year-End Report",
+      "filing_period": "Year-End (July 1 - Dec 31)",
+      "filing_year": 2005,
+      "income": "20000.00",
+      "posted_date": "2006-02-10T00:00:00-05:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2ba14059-6bdd-4fd3-ad41-ef979451fff8/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "THE LOEFFLER GROUP",
+      "filing_type": "Year-End Report",
+      "filing_period": "Year-End (July 1 - Dec 31)",
+      "filing_year": 2005,
+      "income": "100000.00",
+      "posted_date": "2006-02-09T00:00:00-05:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0422285d-5afd-465b-b9b2-10c5a995b5a7/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA COMPOSITES",
+      "registrant_name": "FABIANI & COMPANY",
+      "filing_type": "Registration",
+      "filing_period": "Year-End (July 1 - Dec 31)",
+      "filing_year": 2005,
+      "income": null,
+      "posted_date": "2005-12-12T00:00:00-05:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fd7d90a0-fdc7-4fbb-85b6-bfa3211f73e8/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "GHL INC",
+      "filing_type": "Year-End Termination",
+      "filing_period": "Year-End (July 1 - Dec 31)",
+      "filing_year": 2005,
+      "income": "0.00",
+      "posted_date": "2005-12-12T00:00:00-05:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/48508604-f8c2-4170-a7c6-fe326e747da0/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "GHL INC",
+      "filing_type": "Mid-Year Report",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2005,
+      "income": "40000.00",
+      "posted_date": "2005-08-12T00:00:00-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3fab4191-0026-4e87-984d-bcfd1b8120e5/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "THE LOEFFLER GROUP",
+      "filing_type": "Mid-Year Report",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2005,
+      "income": "160000.00",
+      "posted_date": "2005-08-03T00:00:00-04:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/05da7459-b961-4518-8245-dcf80ecf8541/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "GHL INC",
+      "filing_type": "Year-End Report",
+      "filing_period": "Year-End (July 1 - Dec 31)",
+      "filing_year": 2004,
+      "income": "40000.00",
+      "posted_date": "2005-02-23T00:00:00-05:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e1c8725e-5492-425a-8ace-9848ddb56e03/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "THE LOEFFLER GROUP",
+      "filing_type": "Year-End Report",
+      "filing_period": "Year-End (July 1 - Dec 31)",
+      "filing_year": 2004,
+      "income": "160000.00",
+      "posted_date": "2005-02-15T00:00:00-05:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fb54cf34-7918-42da-b2dd-a05e4b4bd221/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA AGGREGATES",
+      "registrant_name": "SQUIRE PATTON BOGGS",
+      "filing_type": "Year-End Termination (No Activity)",
+      "filing_period": "Year-End (July 1 - Dec 31)",
+      "filing_year": 2004,
+      "income": "0.00",
+      "posted_date": "2005-02-14T00:00:00-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/0f0246a6-9ffa-4d86-bbb4-7b1b395aab23/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "THE LOEFFLER GROUP",
+      "filing_type": "Mid-Year Amendment",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2004,
+      "income": "80000.00",
+      "posted_date": "2005-02-14T00:00:00-05:00",
+      "issues": [
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/02c55e21-d021-47d3-8b68-6e99f6f86acd/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "MLM",
+      "company": "Martin Marietta Materials",
+      "client_name": "MARTIN MARIETTA MATERIALS",
+      "registrant_name": "GHL INC",
+      "filing_type": "Mid-Year Report",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2004,
+      "income": "40000.00",
+      "posted_date": "2004-08-24T00:00:00-04:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fcd2b37f-87b0-40cb-8c44-89468555389f/print/"
     },
     {
       "sector": "PAVE",
@@ -5406,6 +5845,122 @@
       "sector": "PAVE",
       "ticker": "ACM",
       "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "1st Quarter - Amendment (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-11-04T12:27:19-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/cfe8b7c6-6760-40dc-8b38-4373484cabf8/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "15000.00",
+      "posted_date": "2026-11-04T12:26:25-05:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fd14dcfd-009e-476b-b690-f67b867bf0ec/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "45000.00",
+      "posted_date": "2026-11-04T12:25:32-05:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3dd5fef8-e32c-40aa-84a3-7e078abb1e93/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "4th Quarter - Amendment",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "45000.00",
+      "posted_date": "2026-11-04T12:24:36-05:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/87e6c67d-1c49-4b04-921b-36ccfa6bb343/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "45000.00",
+      "posted_date": "2026-11-04T12:23:04-05:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6cea5a86-f1d0-4313-84fc-e3387fee9441/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "37500.00",
+      "posted_date": "2026-11-04T12:21:47-05:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/240b2106-01cf-440d-8ee0-8ebe504d4a60/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "37500.00",
+      "posted_date": "2026-11-04T12:00:28-05:00",
+      "issues": [
+        "Clean Air and Water (quality)",
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e16b15d0-e77f-4f74-95d5-04e218fc02b2/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
       "client_name": "AECOM",
       "registrant_name": "AECOM",
       "filing_type": "3rd Quarter - Report",
@@ -5727,135 +6282,6 @@
         "Transportation"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/d088a241-754b-4f93-9a17-aa0071b27609/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "THE MCKEON GROUP, INC.",
-      "filing_type": "Registration",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-07-17T03:25:05-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5e73e9d8-26ea-4afb-9e00-01191748c771/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "BALLARD PARTNERS",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-07-14T11:37:30-04:00",
-      "issues": [
-        "Roads/Highway",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/38d172d9-da22-4f97-9c9a-8d5b22944b62/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM CONSULT, INC",
-      "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "45000.00",
-      "posted_date": "2026-07-13T10:09:02-04:00",
-      "issues": [
-        "Clean Air and Water (quality)",
-        "Environment/Superfund"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/d2d11d9e-8d3a-4df6-afc4-d8dde27dad54/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "AMERICAN DEFENSE INTERNATIONAL",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "20000.00",
-      "posted_date": "2026-07-09T15:04:10-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ce8d9b13-e8f5-4ad3-b644-b648f860f456/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "COVENANT GOVERNMENT AFFAIRS, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "38000.00",
-      "posted_date": "2026-07-09T11:29:53-04:00",
-      "issues": [
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/028cbe35-9012-4a9d-8e8d-590aaa935831/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "AECOM",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-04-20T23:41:56-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Clean Air and Water (quality)",
-        "Defense",
-        "Disaster Planning/Emergencies",
-        "Foreign Relations",
-        "Government Issues",
-        "Natural Resources",
-        "Trade (domestic/foreign)",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/13097669-3b34-44e8-ad7f-a05f63b81236/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM TECHNICAL SERVICES, INC.",
-      "registrant_name": "ELEVATE GOVERNMENT AFFAIRS, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "40000.00",
-      "posted_date": "2026-04-20T22:32:49-04:00",
-      "issues": [
-        "Aviation/Airlines/Airports",
-        "Budget/Appropriations",
-        "Clean Air and Water (quality)",
-        "Defense",
-        "Disaster Planning/Emergencies",
-        "Energy/Nuclear",
-        "Real Estate/Land Use/Conservation",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a8b385ad-2ab6-4ba1-9c4d-b9ac99846795/print/"
     },
     {
       "sector": "PAVE",
@@ -10042,118 +10468,6 @@
     },
     {
       "sector": "CIBR",
-      "ticker": "CHKP",
-      "company": "Check Point Software",
-      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
-      "registrant_name": "THE MADISON GROUP",
-      "filing_type": "4th Quarter - Termination (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2008,
-      "income": "30000.00",
-      "posted_date": "2009-01-14T13:15:09-05:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/1ea97976-5d3a-43f7-a2e1-0b3003a8a666/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CHKP",
-      "company": "Check Point Software",
-      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
-      "registrant_name": "THE MADISON GROUP",
-      "filing_type": "3rd Quarter - Report (No Activity)",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2008,
-      "income": "30000.00",
-      "posted_date": "2008-10-20T11:17:19-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/d7d55d71-89ca-480b-ad2a-f77b68cb59d4/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CHKP",
-      "company": "Check Point Software",
-      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
-      "registrant_name": "THE MADISON GROUP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2008,
-      "income": "30000.00",
-      "posted_date": "2008-07-14T11:48:43-04:00",
-      "issues": [
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/d485cbf7-0e4a-4653-b34a-357d2a603fdd/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CHKP",
-      "company": "Check Point Software",
-      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
-      "registrant_name": "THE MADISON GROUP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2008,
-      "income": "30000.00",
-      "posted_date": "2008-04-09T11:05:19-04:00",
-      "issues": [
-        "Computer Industry"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a1bd5f1c-7690-4b94-a149-85541cfcb645/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CHKP",
-      "company": "Check Point Software",
-      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
-      "registrant_name": "THE MADISON GROUP",
-      "filing_type": "Registration",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2008,
-      "income": null,
-      "posted_date": "2008-02-13T18:11:06-05:00",
-      "issues": [
-        "Computer Industry",
-        "Government Issues",
-        "Homeland Security"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8434dee6-98da-4028-b98d-aba612cea24d/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CHKP",
-      "company": "Check Point Software",
-      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES",
-      "registrant_name": "THE NORMANDY GROUP, LLC",
-      "filing_type": "Mid-Year Termination",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2006,
-      "income": "20000.00",
-      "posted_date": "2006-08-23T00:00:00-04:00",
-      "issues": [
-        "Computer Industry",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/7bb83995-c24d-49e0-87f6-4dd5a61a496d/print/"
-    },
-    {
-      "sector": "CIBR",
-      "ticker": "CHKP",
-      "company": "Check Point Software",
-      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES",
-      "registrant_name": "THE NORMANDY GROUP, LLC",
-      "filing_type": "Registration",
-      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
-      "filing_year": 2006,
-      "income": null,
-      "posted_date": "2006-03-30T00:00:00-05:00",
-      "issues": [
-        "Computer Industry",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e619d556-d022-4d21-972f-7a0b14e0c718/print/"
-    },
-    {
-      "sector": "CIBR",
       "ticker": "GEN",
       "company": "Gen Digital",
       "client_name": "GEN DIGITAL INC (FORMERLY NORTONLIFELOCK INC.)",
@@ -14164,6 +14478,22 @@
       "sector": "GRID",
       "ticker": "AEP",
       "company": "American Electric Power",
+      "client_name": "AMERICAN ELECTRIC POWER",
+      "registrant_name": "MR. BRIAN KELLY",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "15000.00",
+      "posted_date": "2026-11-03T13:22:25-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/791bee61-766e-4867-acb0-193f8ad80622/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "AEP",
+      "company": "American Electric Power",
       "client_name": "AMERICAN ELECTRIC POWER COMPANY, INC.",
       "registrant_name": "ARENTFOX SCHIFF LLP",
       "filing_type": "3rd Quarter - Termination (No Activity)",
@@ -14584,20 +14914,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/83ca77d6-194e-4b4b-95d1-17ae4914c9aa/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "AEP",
-      "company": "American Electric Power",
-      "client_name": "AMERICAN ELECTRIC POWER",
-      "registrant_name": "VAN NESS FELDMAN, LLP",
-      "filing_type": "1st Quarter - Termination (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-04-03T11:23:03-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/72c1e4fa-c0bc-4137-92e2-8c9b29df7ff7/print/"
     },
     {
       "sector": "GRID",
@@ -15052,370 +15368,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/4845148f-f753-49ea-b350-6048eab9bfea/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-10-20T05:39:00-04:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/80f37753-df71-45ab-b734-2a56786676b8/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-07-19T10:57:12-04:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ea05fbcd-d6e8-4180-b2ca-f327c00f6b17/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-04-09T11:41:14-04:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/adee8e3f-ae96-46cf-9189-b0d10504020b/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2026-01-19T09:24:11-05:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f0fba0e7-85cc-499b-9acc-82aed9116857/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-10-20T20:02:33-04:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3af909d0-0f15-4700-a52a-d815240a746d/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-07-21T21:22:01-04:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/06ed3a6d-86d5-4c1a-9617-667039aec600/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "Registration",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-07-15T13:34:19-04:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/2dde9cb0-2ec4-4999-8d6d-ca53b9838b69/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "2nd Quarter - Termination (No Activity)",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2018,
-      "income": null,
-      "posted_date": "2018-08-02T12:41:50.543000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/a7108131-c977-4bab-a187-8149e50f417c/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "1st Quarter - Report (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2018,
-      "income": null,
-      "posted_date": "2018-08-02T12:40:49.650000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/e69c25d0-bcdb-4d51-a84a-347642b9d99d/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "4th Quarter - Report (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2017,
-      "income": null,
-      "posted_date": "2018-08-01T16:33:48.697000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/4647a40f-e161-4539-97b1-63b6de763f73/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "3rd Quarter - Report (No Activity)",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2017,
-      "income": null,
-      "posted_date": "2018-08-01T16:32:47.867000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/389d3914-41ee-498c-9faf-aeafbcc01def/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "2nd Quarter - Report (No Activity)",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2017,
-      "income": null,
-      "posted_date": "2018-08-01T16:32:47.103000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/a94f2171-6100-4010-819f-7e260507e945/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "1st Quarter - Report (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2017,
-      "income": null,
-      "posted_date": "2018-08-01T16:31:46.340000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/70b6dccb-638c-48f4-b182-3ab6b1251e48/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "4th Quarter - Report (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2016,
-      "income": null,
-      "posted_date": "2018-08-01T16:30:45.560000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/bcb400c1-551a-4364-84c2-5535eebfeae2/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "3rd Quarter - Report (No Activity)",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2016,
-      "income": null,
-      "posted_date": "2018-08-01T16:30:44.810000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/b1116a9b-7c17-4fed-bd55-d8aa82ef06c3/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "2nd Quarter - Report (No Activity)",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2016,
-      "income": null,
-      "posted_date": "2018-08-01T16:29:43.030000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/d57bcac5-de47-4da1-8e42-cb3487d1dadf/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "1st Quarter - Report (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2016,
-      "income": null,
-      "posted_date": "2018-08-01T16:28:42.247000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/f5b6ba23-5f3a-416b-81c0-8324ea9727f2/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "4th Quarter - Report (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2015,
-      "income": null,
-      "posted_date": "2018-08-01T16:28:41.560000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/01596a8f-c6cc-431d-8dc7-25530909a07e/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "3rd Quarter - Report (No Activity)",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2015,
-      "income": null,
-      "posted_date": "2018-08-01T16:27:40.837000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/acb6ab3b-b5c0-48d8-9647-915084e11268/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "2nd Quarter - Report (No Activity)",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2015,
-      "income": null,
-      "posted_date": "2018-08-01T16:26:39.960000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/f82f02b6-cfbd-40b2-a248-f5d869018c24/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "1st Quarter - Report (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2015,
-      "income": null,
-      "posted_date": "2015-06-30T17:53:40.347000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/58fbf741-654d-4ee1-aa4c-057052a1d697/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "4th Quarter - Report (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2014,
-      "income": null,
-      "posted_date": "2015-06-30T17:51:38.877000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/09facc0a-93d1-47ec-8c9e-7b8ad6f91bb0/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "3rd Quarter - Report (No Activity)",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2014,
-      "income": null,
-      "posted_date": "2015-06-30T17:43:36.547000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/4a08cef2-0799-433d-9bf2-b5826b0886e2/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "2nd Quarter - Report (No Activity)",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2014,
-      "income": null,
-      "posted_date": "2015-06-29T17:24:36.690000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/12afda85-7de7-46f3-b17d-807b810b687f/print/"
-    },
-    {
-      "sector": "GRID",
-      "ticker": "MYRG",
-      "company": "MYR Group",
-      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
-      "registrant_name": "ANCHOR CONSULTING, LLC",
-      "filing_type": "1st Quarter - Report (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2014,
-      "income": null,
-      "posted_date": "2014-05-19T17:06:21.767000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/242ccf0f-5bda-4aa3-8a4b-37ea6069c847/print/"
     },
     {
       "sector": "GRID",
@@ -21005,6 +20957,22 @@
       "sector": "XBI",
       "ticker": "REGN",
       "company": "Regeneron",
+      "client_name": "REGENERON PHARMACEUTICALS, INC.",
+      "registrant_name": "CRANE STRATEGIES",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-11-03T12:49:00-05:00",
+      "issues": [
+        "Budget/Appropriations"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/40255d53-07c3-4fcd-b4d1-b9dc8f10c2be/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "REGN",
+      "company": "Regeneron",
       "client_name": "REGENERON PHARMACEUTICALS, INC",
       "registrant_name": "REGENERON PHARMACEUTICALS, INC",
       "filing_type": "3rd Quarter - Report",
@@ -21403,452 +21371,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/63f47ddf-43b4-4741-a92a-5edc748abbe6/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "REGN",
-      "company": "Regeneron",
-      "client_name": "REGENERON PHARMACEUTICALS, INC.",
-      "registrant_name": "BGR GOVERNMENT AFFAIRS",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "90000.00",
-      "posted_date": "2025-10-20T11:46:59-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f7743000-720d-4ded-8ef4-b479f56d475e/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES INC",
-      "registrant_name": "GILEAD SCIENCES, INC.",
-      "filing_type": "3rd Quarter - Amendment",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-10-21T13:36:24-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Copyright/Patent/Trademark",
-        "Health Issues",
-        "Medicare/Medicaid",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c23069d8-8f86-49d3-ab90-6a3ad29e2935/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES INC",
-      "registrant_name": "GILEAD SCIENCES, INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-10-20T17:56:36-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Copyright/Patent/Trademark",
-        "Health Issues",
-        "Medicare/Medicaid",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/085c391d-3e64-4129-8cfb-99b03e601249/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "TARPLIN, DOWNS & YOUNG, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-10-20T14:41:59-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a77f2313-b012-4877-8690-6b2cbc972e58/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES INC.",
-      "registrant_name": "FARRAGUT PARTNERS LLP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-10-20T12:49:04-04:00",
-      "issues": [
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/6d6443c5-0ce7-4e12-84f9-f3fe915fbfa5/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "MILLER STRATEGIES, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "150000.00",
-      "posted_date": "2026-10-20T12:33:21-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/bcd103f2-1e9a-427f-adca-7d25eff52c72/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "THE MCMANUS GROUP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-10-20T10:35:29-04:00",
-      "issues": [
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a8fb013a-008f-4568-98ec-e5e600635741/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "TIBER CREEK GROUP ON BEHALF OF GILEAD SCIENCES, INC.",
-      "registrant_name": "B HALL STRATEGIES, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-10-20T05:41:25-04:00",
-      "issues": [
-        "Pharmacy"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/60a9d61c-a083-4bd7-99fd-74b3afc74043/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "W STRATEGIES, LLC",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-10-19T23:49:07-04:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5e7255b2-bec9-4b96-aa29-002f2f65e880/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "THE DUBERSTEIN GROUP INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "90000.00",
-      "posted_date": "2026-10-19T18:11:58-04:00",
-      "issues": [
-        "Health Issues",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/b1661b2a-325f-4a36-a1a7-c357c6307d9e/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES INC.",
-      "registrant_name": "EMPIRE CONSULTING GROUP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-10-19T17:20:23-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/cee944ea-b8db-4e34-96fc-050262943fab/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "TODD STRATEGY GROUP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-10-19T11:41:00-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5ba31335-799c-4842-a2ce-9b8500468efb/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "TIBER CREEK GROUP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-10-18T18:50:58-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a67ec8c4-e25f-4c99-96a5-51d9f011939c/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "JEFFREY J. KIMBELL & ASSOCIATES, INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "75000.00",
-      "posted_date": "2026-10-18T16:58:00-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/87c1e508-d715-4f2b-8319-89289ac73b13/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "FORBES-TATE",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-10-18T13:43:27-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/164d2634-1cc8-41e2-b6d6-fa454b01f2bb/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "CAPITOL TAX PARTNERS, LLP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-10-16T13:12:55-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5ef7f0e1-a9fa-46f2-a04c-9740c66e8c53/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "TARPLIN, DOWNS & YOUNG, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-07-20T21:57:16-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3d9a67c9-f86c-410d-a7f0-5d66c51883a5/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "TODD STRATEGY GROUP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-07-20T20:12:26-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/24f02579-2987-4079-9be8-1bd2a7d76fc3/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "FORBES-TATE",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "90000.00",
-      "posted_date": "2026-07-20T17:56:06-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/28ee5aef-77cb-44e3-b0d2-ae07ba9043b6/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES INC",
-      "registrant_name": "GILEAD SCIENCES, INC.",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-07-20T17:19:37-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Copyright/Patent/Trademark",
-        "Health Issues",
-        "Medicare/Medicaid",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c4563d15-16ce-4e93-97ee-783fd860070a/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "W STRATEGIES, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-07-20T14:38:02-04:00",
-      "issues": [
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/90f3a3ed-190b-45db-8df8-4f2ed98d2d17/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "JEFFREY J. KIMBELL & ASSOCIATES, INC.",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "75000.00",
-      "posted_date": "2026-07-20T13:10:12-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/bce56a46-9070-4d0d-b21a-ebc41e2325ff/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "MILLER STRATEGIES, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "150000.00",
-      "posted_date": "2026-07-20T12:45:33-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/90d7ec2e-85c8-4e32-984a-1edea46d959e/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "THE MCMANUS GROUP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-07-20T12:20:09-04:00",
-      "issues": [
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/88b381aa-4f3f-46de-9999-0be5acd8efc2/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES INC.",
-      "registrant_name": "FARRAGUT PARTNERS LLP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-07-20T10:47:51-04:00",
-      "issues": [
-        "Health Issues",
-        "Medicare/Medicaid"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/0542f57c-a4cb-487a-9f69-68437d05e307/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "client_name": "GILEAD SCIENCES, INC.",
-      "registrant_name": "THE DUBERSTEIN GROUP INC.",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "90000.00",
-      "posted_date": "2026-07-20T10:07:03-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/6c6703ab-cd45-4521-8d38-259fda53d616/print/"
     },
     {
       "sector": "XBI",
@@ -28581,6 +28103,40 @@
       "sector": "ITA",
       "ticker": "HII",
       "company": "Huntington Ingalls Industries",
+      "client_name": "HUNTINGTON INGALLS INDUSTRIES INCORPORATED",
+      "registrant_name": "DAHLBERG STRATEGIC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "21000.00",
+      "posted_date": "2026-11-03T17:24:07-05:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/85800ad1-7a36-4584-ae51-27b81c6cb206/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "HII",
+      "company": "Huntington Ingalls Industries",
+      "client_name": "DAHLBERG STRATEGIC ON BEHALF OF HUNTINGTON INGALLS",
+      "registrant_name": "SPLYSS LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "5000.00",
+      "posted_date": "2026-11-03T14:35:00-05:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/89106400-e1f5-46be-8fe1-a5e2fafc26e2/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "HII",
+      "company": "Huntington Ingalls Industries",
       "client_name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
       "registrant_name": "KED STRATEGIES, LLC",
       "filing_type": "3rd Quarter - Report",
@@ -28970,39 +28526,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/36f86f67-8aa2-40bc-9be5-916269eccc3b/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "HII",
-      "company": "Huntington Ingalls Industries",
-      "client_name": "HUNTINGTON INGALLS INDUSTRIES INCORPORATED",
-      "registrant_name": "DAHLBERG STRATEGIC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "21000.00",
-      "posted_date": "2026-04-09T17:49:02-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/69fd26e3-4aeb-42f8-9b67-c1d1920ad1e3/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "HII",
-      "company": "Huntington Ingalls Industries",
-      "client_name": "HUNTINGTON INGALLS INDUSTRIES",
-      "registrant_name": "GEPHARDT GROUP GOVERNMENT AFFAIRS",
-      "filing_type": "4th Quarter - Amendment",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2026-02-12T14:48:37-05:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/7a7ae582-66a9-4e57-bf0e-3f89edfccd67/print/"
     },
     {
       "sector": "ITA",
@@ -40802,6 +40325,22 @@
       "sector": "SMH",
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
+      "client_name": "ADVANCED MICRO DEVICES, INC. (AMD)",
+      "registrant_name": "SALT POINT STRATEGIES",
+      "filing_type": "Registration",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-03T12:03:45-05:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a97d6f3d-20c7-4fae-9f3a-4d53f7e30b05/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
       "client_name": "ADVANCED MICRO DEVICES, INC.",
       "registrant_name": "ADVANCED MICRO DEVICES, INC.",
       "filing_type": "3rd Quarter - Report",
@@ -41222,26 +40761,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/ff6b113a-20dc-462d-970f-d08aa596788a/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "client_name": "ADVANCED MICRO DEVICES (AMD)",
-      "registrant_name": "FORBES-TATE",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2026-01-17T23:25:17-05:00",
-      "issues": [
-        "Computer Industry",
-        "Manufacturing",
-        "Taxation/Internal Revenue Code",
-        "Telecommunications",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e7825f1f-b0e4-4acd-9a0a-aaf95cb506ed/print/"
     },
     {
       "sector": "SMH",
