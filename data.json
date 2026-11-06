@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T18:00:03Z",
+  "generated_at": "2026-11-06T17:19:35Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 5,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 33
+      "avg_momentum": 36
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -50,7 +50,7 @@
       "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 316,
-      "avg_momentum": 40
+      "avg_momentum": 38
     },
     "ITA": {
       "name": "Defense",
@@ -60,7 +60,7 @@
       "bill_count": 11,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "UFO": {
       "name": "Space",
@@ -77,10 +77,10 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 3,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 235,
-      "avg_momentum": 39
+      "avg_momentum": 30
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -296,7 +296,7 @@
       "committee_count": 1,
       "cosponsor_count": 2,
       "amendments": [],
-      "momentum": 44,
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -321,7 +321,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -346,7 +346,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -421,7 +421,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -446,7 +446,7 @@
       "committee_count": 2,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -556,13 +556,13 @@
       "sector": "URA",
       "introduced_date": "2026-07-09",
       "latest_action": {
-        "date": "2026-07-14",
-        "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+        "date": "2026-11-05",
+        "text": "Placed on the Union Calendar, Calendar No. 772."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9612",
       "amendments_count": 0,
       "amendments_url": null,
-      "status": "Committee",
+      "status": "Introduced",
       "sponsor": {
         "name": "Rep. Fry, Russell [R-SC-7]",
         "party": "R",
@@ -571,7 +571,32 @@
       "committee_count": 1,
       "cosponsor_count": 6,
       "amendments": [],
-      "momentum": 37,
+      "momentum": 25,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9084",
+      "number": "HR 9084",
+      "title": "Department of Energy Nuclear Transparency Act",
+      "sector": "URA",
+      "introduced_date": "2026-06-02",
+      "latest_action": {
+        "date": "2026-11-05",
+        "text": "Placed on the Union Calendar, Calendar No. 771."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Castor, Kathy [D-FL-14]",
+        "party": "D",
+        "state": "FL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 23,
       "sector_trade_flag": false
     },
     {
@@ -747,6 +772,31 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9658",
+      "number": "HR 9658",
+      "title": "Nuclear Regulatory Modernization Act of 2026",
+      "sector": "URA",
+      "introduced_date": "2026-07-13",
+      "latest_action": {
+        "date": "2026-07-13",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9658",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Spartz, Victoria [R-IN-5]",
+        "party": "R",
+        "state": "IN"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1231,13 +1281,13 @@
       "sector": "URA",
       "introduced_date": "2025-09-23",
       "latest_action": {
-        "date": "2026-07-14",
-        "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+        "date": "2026-11-05",
+        "text": "Placed on the Union Calendar, Calendar No. 769."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
       "amendments_count": 0,
       "amendments_url": null,
-      "status": "Committee",
+      "status": "Introduced",
       "sponsor": {
         "name": "Rep. Griffith, H. Morgan [R-VA-9]",
         "party": "R",
@@ -1246,7 +1296,7 @@
       "committee_count": 1,
       "cosponsor_count": 25,
       "amendments": [],
-      "momentum": 45,
+      "momentum": 33,
       "sector_trade_flag": false
     },
     {
@@ -1447,56 +1497,6 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-6631",
-      "number": "HR 6631",
-      "title": "Establishing Cyber Security Educational Programs at Academic Institutions Act",
-      "sector": "CIBR",
-      "introduced_date": "2025-12-11",
-      "latest_action": {
-        "date": "2025-12-11",
-        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6631",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Elfreth, Sarah [D-MD-3]",
-        "party": "D",
-        "state": "MD"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3404",
-      "number": "S 3404",
-      "title": "Satellite Cybersecurity Act of 2025",
-      "sector": "CIBR",
-      "introduced_date": "2025-12-09",
-      "latest_action": {
-        "date": "2026-09-24",
-        "text": "Held at the desk."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Peters, Gary C. [D-MI]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
       "sector_trade_flag": false
     }
   ],
