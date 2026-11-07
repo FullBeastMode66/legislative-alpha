@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:19:35Z",
+  "generated_at": "2026-11-07T16:15:15Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -97,10 +97,10 @@
       "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 33
+      "avg_momentum": 27
     },
     "MOO": {
       "name": "Agriculture",
@@ -1372,31 +1372,6 @@
       "cosponsor_count": 16,
       "amendments": [],
       "momentum": 41,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HRES-716",
-      "number": "HRES 716",
-      "title": "Supporting the designation of the week of September 15 through September 19, 2025, as \"National Clean Energy Week\".",
-      "sector": "ICLN",
-      "introduced_date": "2025-09-15",
-      "latest_action": {
-        "date": "2025-09-15",
-        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/716",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
-        "party": "R",
-        "state": "IA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 25,
-      "amendments": [],
-      "momentum": 45,
       "sector_trade_flag": false
     },
     {
@@ -45222,6 +45197,24 @@
       "ticker": "FSLR",
       "company": "First Solar",
       "client_name": "FIRST SOLAR, INC.",
+      "registrant_name": "CAPITOL67 STRATEGIES",
+      "filing_type": "Registration",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-06T12:55:50-05:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Manufacturing",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0247d4c2-34a6-4454-921c-81a38c99fd27/print/"
+    },
+    {
+      "sector": "ICLN",
+      "ticker": "FSLR",
+      "company": "First Solar",
+      "client_name": "FIRST SOLAR, INC.",
       "registrant_name": "MISSION STRATEGIES LLC (ENERGY)",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -45610,23 +45603,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/c7484e2c-e5ce-4df4-bd40-e8f45fa96c83/print/"
-    },
-    {
-      "sector": "ICLN",
-      "ticker": "FSLR",
-      "company": "First Solar",
-      "client_name": "FIRST SOLAR, INC.",
-      "registrant_name": "BOUNDARY STONE PARTNERS",
-      "filing_type": "Registration",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-04-28T10:57:48-04:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/2f0bce2b-f4b8-4145-943e-3d67c5061b15/print/"
     },
     {
       "sector": "ICLN",
