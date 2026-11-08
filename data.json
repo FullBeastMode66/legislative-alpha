@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:15:15Z",
+  "generated_at": "2026-11-08T16:39:52Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,10 +17,10 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 3,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 36
+      "avg_momentum": 31
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -117,10 +117,10 @@
       "short": "Fintech",
       "etf": "FINX",
       "color": "#3C6E8F",
-      "bill_count": 3,
+      "bill_count": 1,
       "trade_count": 0,
       "lobbying_count": 194,
-      "avg_momentum": 29
+      "avg_momentum": 18
     }
   },
   "bills": [
@@ -625,31 +625,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9173",
-      "number": "HR 9173",
-      "title": "Charitable Deductions for Digital Asset Donations Act",
-      "sector": "FINX",
-      "introduced_date": "2026-06-08",
-      "latest_action": {
-        "date": "2026-06-08",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9173",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Kelly, Mike [R-PA-16]",
-        "party": "R",
-        "state": "PA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-3140",
       "number": "S 3140",
       "title": "Flood Protection and Infrastructure Resilience Act of 2025",
@@ -922,31 +897,6 @@
       "cosponsor_count": 22,
       "amendments": [],
       "momentum": 44,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9178",
-      "number": "HR 9178",
-      "title": "Less Tax Paperwork for Digital Asset Owners Act",
-      "sector": "FINX",
-      "introduced_date": "2026-06-08",
-      "latest_action": {
-        "date": "2026-06-08",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9178",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Yakym, Rudy [R-IN-2]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1472,6 +1422,56 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-6631",
+      "number": "HR 6631",
+      "title": "Establishing Cyber Security Educational Programs at Academic Institutions Act",
+      "sector": "CIBR",
+      "introduced_date": "2025-12-11",
+      "latest_action": {
+        "date": "2025-12-11",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6631",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Elfreth, Sarah [D-MD-3]",
+        "party": "D",
+        "state": "MD"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3404",
+      "number": "S 3404",
+      "title": "Satellite Cybersecurity Act of 2025",
+      "sector": "CIBR",
+      "introduced_date": "2025-12-09",
+      "latest_action": {
+        "date": "2026-09-24",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Peters, Gary C. [D-MI]",
+        "party": "D",
+        "state": "MI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 15,
       "sector_trade_flag": false
     }
   ],
