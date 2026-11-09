@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:39:52Z",
+  "generated_at": "2026-11-09T20:33:39Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 10,
+      "bill_count": 13,
       "trade_count": 0,
       "lobbying_count": 362,
       "avg_momentum": 38
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 0,
-      "trade_count": 0,
+      "trade_count": 2,
       "lobbying_count": 223,
       "avg_momentum": 0
     },
@@ -47,10 +47,10 @@
       "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
-      "bill_count": 5,
-      "trade_count": 0,
+      "bill_count": 4,
+      "trade_count": 1,
       "lobbying_count": 316,
-      "avg_momentum": 38
+      "avg_momentum": 39
     },
     "ITA": {
       "name": "Defense",
@@ -67,10 +67,10 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 36
+      "avg_momentum": 37
     },
     "URA": {
       "name": "Uranium & Nuclear",
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 7,
-      "trade_count": 0,
+      "trade_count": 2,
       "lobbying_count": 300,
       "avg_momentum": 40
     },
@@ -118,9 +118,19 @@
       "etf": "FINX",
       "color": "#3C6E8F",
       "bill_count": 1,
-      "trade_count": 0,
+      "trade_count": 1,
       "lobbying_count": 194,
       "avg_momentum": 18
+    },
+    "OTHER": {
+      "name": "Other / Unclassified",
+      "short": "Other",
+      "etf": null,
+      "color": "#565F73",
+      "bill_count": 0,
+      "trade_count": 26,
+      "lobbying_count": 0,
+      "avg_momentum": 0
     }
   },
   "bills": [
@@ -397,7 +407,7 @@
       "cosponsor_count": 8,
       "amendments": [],
       "momentum": 18,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-HR-10861",
@@ -447,7 +457,7 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-HRES-1642",
@@ -472,7 +482,7 @@
       "cosponsor_count": 12,
       "amendments": [],
       "momentum": 48,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-S-4784",
@@ -522,7 +532,7 @@
       "cosponsor_count": 13,
       "amendments": [],
       "momentum": 48,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-HR-10949",
@@ -672,56 +682,6 @@
       "cosponsor_count": 8,
       "amendments": [],
       "momentum": 38,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3163",
-      "number": "S 3163",
-      "title": "A bill to require the Secretary of Defense to seek to engage appropriate officials of Taiwan in a joint program with Taiwan to enable the fielding of uncrewed systems and counter-uncrewed systems capabilities.",
-      "sector": "ITA",
-      "introduced_date": "2025-11-07",
-      "latest_action": {
-        "date": "2025-11-07",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3163",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Slotkin, Elissa [D-MI]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-6009",
-      "number": "HR 6009",
-      "title": "Defense Biotechnology Strategy Act",
-      "sector": "XBI",
-      "introduced_date": "2025-11-10",
-      "latest_action": {
-        "date": "2025-11-10",
-        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6009",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Houlahan, Chrissy [D-PA-6]",
-        "party": "D",
-        "state": "PA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -1325,6 +1285,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-4833",
+      "number": "HR 4833",
+      "title": "Dyess Air Base Access Infrastructure Design Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-08-01",
+      "latest_action": {
+        "date": "2025-08-01",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4833",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Arrington, Jodey C. [R-TX-19]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HRES-785",
       "number": "HRES 785",
       "title": "Expressing support for designation of the week of October 4, 2025, through October 10, 2025, as \"World Space Week\".",
@@ -1473,9 +1458,462 @@
       "amendments": [],
       "momentum": 15,
       "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-6799",
+      "number": "HR 6799",
+      "title": "BRIDGE for Young-Onset Alzheimer\u2019s Disease Act of 2025",
+      "sector": "PAVE",
+      "introduced_date": "2025-12-17",
+      "latest_action": {
+        "date": "2025-12-17",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6799",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Kim, Young [R-CA-40]",
+        "party": "R",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 19,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-798",
+      "number": "HRES 798",
+      "title": "Expressing support for the designation of the week of September 15 through September 21, 2025, as \"Rail Safety Week\" in the United States, and supporting the goals and ideals of reducing highway-rail grade crossing-related incidents, fatalities, and injuries.",
+      "sector": "PAVE",
+      "introduced_date": "2025-10-08",
+      "latest_action": {
+        "date": "2025-12-01",
+        "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/798",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Wilson, Frederica S. [D-FL-24]",
+        "party": "D",
+        "state": "FL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5626",
+      "number": "HR 5626",
+      "title": "Taiwan and American Space Assistance Act of 2025",
+      "sector": "UFO",
+      "introduced_date": "2025-09-30",
+      "latest_action": {
+        "date": "2025-09-30",
+        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5626",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Hill, J. French [R-AR-2]",
+        "party": "R",
+        "state": "AR"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 19,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-6612",
+      "number": "HR 6612",
+      "title": "Defense Civilian Faculty Copyright Act of 2025",
+      "sector": "ITA",
+      "introduced_date": "2025-12-11",
+      "latest_action": {
+        "date": "2025-12-11",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6612",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Bacon, Don [R-NE-2]",
+        "party": "R",
+        "state": "NE"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
     }
   ],
-  "trades": [],
+  "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "ZTS",
+      "company": "Zoetis Inc. Class A Common Stock",
+      "senator": "Shelley M Capito",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/04/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "senator": "Shelley M Capito",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/04/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "META",
+      "company": "Meta Platforms, Inc. - Class A Common Stock",
+      "senator": "Shelley M Capito",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/04/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "AAPL",
+      "company": "Apple Inc. - Common Stock",
+      "senator": "Shelley M Capito",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/04/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "10/15/2026",
+      "filed_date": "11/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "10/15/2026",
+      "filed_date": "11/02/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/22/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/18/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/22/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/18/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/23/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "WMB",
+      "company": "Williams Companies, Inc. (The) Common StockOption Type: CallStrike price:$80.00Expires:2026-12-18",
+      "senator": "Alan Armstrong",
+      "transaction_date": "09/08/2026",
+      "filed_date": "10/22/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$250,001 - $500,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "APTV",
+      "company": "Aptiv PLC Ordinary Shares",
+      "senator": "John Boozman",
+      "transaction_date": "09/25/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TLH",
+      "company": "iShares 10-20 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/21/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "VEA",
+      "company": "Vanguard Developed Markets Index Fund - ETF Shares",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SPYM",
+      "company": "Tradr 2X Long SPY Monthly ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "EFA",
+      "company": "iShares MSCI EAFE ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CSCO",
+      "company": "Cisco Systems, Inc. - Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "O",
+      "company": "Realty Income Corporation Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XTWO",
+      "company": "BondBloxx Bloomberg Two Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/21/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GIGB",
+      "company": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JMBS",
+      "company": "Janus Henderson Mortgage-Backed Securities ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XFIV",
+      "company": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "MBB",
+      "company": "iShares MBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IEF",
+      "company": "iShares 7-10 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TLH",
+      "company": "iShares 10-20 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CMBS",
+      "company": "iShares CMBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JPM",
+      "company": "JP Morgan Chase & Co. Common Stock",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "09/04/2026",
+      "filed_date": "10/01/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "ADI",
+      "company": "Analog Devices, Inc. - Common Stock",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "09/04/2026",
+      "filed_date": "10/01/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "V",
+      "company": "Visa",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "09/04/2026",
+      "filed_date": "10/01/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/"
+    }
+  ],
   "lobbying": [
     {
       "sector": "PAVE",
