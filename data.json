@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:33:39Z",
+  "generated_at": "2026-11-11T17:52:01Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,30 +7,30 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 13,
+      "bill_count": 11,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 38
+      "avg_momentum": 39
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 5,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 31
+      "avg_momentum": 36
     },
     "GRID": {
       "name": "Grid & Electrification",
       "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
-      "bill_count": 0,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 265,
-      "avg_momentum": 0
+      "avg_momentum": 43
     },
     "QTUM": {
       "name": "Quantum Computing",
@@ -47,17 +47,17 @@
       "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 1,
-      "lobbying_count": 316,
-      "avg_momentum": 39
+      "lobbying_count": 300,
+      "avg_momentum": 41
     },
     "ITA": {
       "name": "Defense",
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 11,
+      "bill_count": 14,
       "trade_count": 0,
       "lobbying_count": 300,
       "avg_momentum": 35
@@ -67,20 +67,20 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 5,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 37
+      "avg_momentum": 36
     },
     "URA": {
       "name": "Uranium & Nuclear",
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 5,
+      "bill_count": 7,
       "trade_count": 0,
       "lobbying_count": 235,
-      "avg_momentum": 30
+      "avg_momentum": 38
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -90,7 +90,7 @@
       "bill_count": 7,
       "trade_count": 2,
       "lobbying_count": 300,
-      "avg_momentum": 40
+      "avg_momentum": 41
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -100,17 +100,17 @@
       "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 27
+      "avg_momentum": 21
     },
     "MOO": {
       "name": "Agriculture",
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 30
+      "avg_momentum": 32
     },
     "FINX": {
       "name": "Financial Technology",
@@ -166,13 +166,13 @@
       "sector": "ICLN",
       "introduced_date": "2026-10-15",
       "latest_action": {
-        "date": "2026-10-15",
-        "text": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026."
+        "date": "2026-11-10",
+        "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/950",
       "amendments_count": 0,
       "amendments_url": null,
-      "status": "Committee",
+      "status": "Introduced",
       "sponsor": {
         "name": "Sen. Collins, Susan M. [R-ME]",
         "party": "R",
@@ -181,7 +181,7 @@
       "committee_count": 1,
       "cosponsor_count": 9,
       "amendments": [],
-      "momentum": 39,
+      "momentum": 27,
       "sector_trade_flag": false
     },
     {
@@ -304,7 +304,7 @@
         "state": "NC"
       },
       "committee_count": 1,
-      "cosponsor_count": 2,
+      "cosponsor_count": 3,
       "amendments": [],
       "momentum": 36,
       "sector_trade_flag": false
@@ -379,9 +379,9 @@
         "state": "MA"
       },
       "committee_count": 1,
-      "cosponsor_count": 5,
+      "cosponsor_count": 6,
       "amendments": [],
-      "momentum": 45,
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -479,7 +479,7 @@
         "state": "TX"
       },
       "committee_count": 3,
-      "cosponsor_count": 12,
+      "cosponsor_count": 13,
       "amendments": [],
       "momentum": 48,
       "sector_trade_flag": true
@@ -560,28 +560,28 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9612",
-      "number": "HR 9612",
-      "title": "American Enrichment Deployment Act",
+      "id": "119-HR-5549",
+      "number": "HR 5549",
+      "title": "Efficient Nuclear Licensing Hearings Act",
       "sector": "URA",
-      "introduced_date": "2026-07-09",
+      "introduced_date": "2025-09-23",
       "latest_action": {
-        "date": "2026-11-05",
-        "text": "Placed on the Union Calendar, Calendar No. 772."
+        "date": "2026-11-09",
+        "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9612",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Introduced",
       "sponsor": {
-        "name": "Rep. Fry, Russell [R-SC-7]",
+        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
         "party": "R",
-        "state": "SC"
+        "state": "VA"
       },
       "committee_count": 1,
-      "cosponsor_count": 6,
+      "cosponsor_count": 25,
       "amendments": [],
-      "momentum": 25,
+      "momentum": 33,
       "sector_trade_flag": false
     },
     {
@@ -591,8 +591,8 @@
       "sector": "URA",
       "introduced_date": "2026-06-02",
       "latest_action": {
-        "date": "2026-11-05",
-        "text": "Placed on the Union Calendar, Calendar No. 771."
+        "date": "2026-11-09",
+        "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
       "amendments_count": 0,
@@ -607,6 +607,256 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 23,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9613",
+      "number": "HR 9613",
+      "title": "Nuclear Advisory Committee Reform Act",
+      "sector": "URA",
+      "introduced_date": "2026-07-09",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9613",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Harshbarger, Diana [R-TN-1]",
+        "party": "R",
+        "state": "TN"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-3978",
+      "number": "HR 3978",
+      "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
+      "sector": "URA",
+      "introduced_date": "2025-06-12",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Latta, Robert E. [R-OH-5]",
+        "party": "R",
+        "state": "OH"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 28,
+      "amendments": [],
+      "momentum": 54,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10981",
+      "number": "HR 10981",
+      "title": "To direct the Secretary of Commerce to promulgate regulations related to certain artificial intelligence models, and for other purposes.",
+      "sector": "SMH",
+      "introduced_date": "2026-11-10",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10981",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Gottheimer, Josh [D-NJ-5]",
+        "party": "D",
+        "state": "NJ"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HRES-1655",
+      "number": "HRES 1655",
+      "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-10",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Motion to reconsider laid on the table Agreed to without objection."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1655",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Massie, Thomas [R-KY-4]",
+        "party": "R",
+        "state": "KY"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 23,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10985",
+      "number": "HR 10985",
+      "title": "To require reporting by the Department of Defense on the use of open-air burn pits, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-10",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10985",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ruiz, Raul [D-CA-25]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 44,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10989",
+      "number": "HR 10989",
+      "title": "To amend the Federal Power Act to provide that activities to maintain or increase the capacity of the electric grid within certain areas are a category of actions designated as being categorically excluded from the preparation of an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969, and for other purposes.",
+      "sector": "GRID",
+      "introduced_date": "2026-11-10",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10989",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10988",
+      "number": "HR 10988",
+      "title": "To amend the Federal Power Act to direct the Federal Energy Regulatory Commission to require that public utilities use advanced transmission technologies when carrying out certain projects, and for other purposes.",
+      "sector": "GRID",
+      "introduced_date": "2026-11-10",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10988",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-3521",
+      "number": "HR 3521",
+      "title": "Clinical Trial Modernization Act",
+      "sector": "XBI",
+      "introduced_date": "2025-05-20",
+      "latest_action": {
+        "date": "2025-05-20",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3521",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ruiz, Raul [D-CA-25]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 36,
+      "amendments": [],
+      "momentum": 49,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-5712",
+      "number": "S 5712",
+      "title": "A bill to require reporting by the Department of Defense on the use of open-air burn pits, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-10",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Read twice and referred to the Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5712",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Welch, Peter [D-VT]",
+        "party": "D",
+        "state": "VT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9612",
+      "number": "HR 9612",
+      "title": "American Enrichment Deployment Act",
+      "sector": "URA",
+      "introduced_date": "2026-07-09",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9612",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Fry, Russell [R-SC-7]",
+        "party": "R",
+        "state": "SC"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 6,
+      "amendments": [],
+      "momentum": 45,
       "sector_trade_flag": false
     },
     {
@@ -954,9 +1204,9 @@
         "state": "VA"
       },
       "committee_count": 1,
-      "cosponsor_count": 8,
+      "cosponsor_count": 9,
       "amendments": [],
-      "momentum": 18,
+      "momentum": 19,
       "sector_trade_flag": false
     },
     {
@@ -1010,28 +1260,53 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9323",
-      "number": "HR 9323",
-      "title": "Department of Advanced Technology and Artificial Intelligence Act",
-      "sector": "SMH",
-      "introduced_date": "2026-06-15",
+      "id": "119-S-1507",
+      "number": "S 1507",
+      "title": "Agriculture Resilience Act of 2025",
+      "sector": "MOO",
+      "introduced_date": "2025-04-29",
       "latest_action": {
-        "date": "2026-06-15",
-        "text": "Referred to the House Committee on Oversight and Government Reform."
+        "date": "2025-04-29",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9323",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1507",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Rivas, Luz M. [D-CA-29]",
+        "name": "Sen. Heinrich, Martin [D-NM]",
         "party": "D",
-        "state": "CA"
+        "state": "NM"
       },
       "committee_count": 1,
-      "cosponsor_count": 1,
+      "cosponsor_count": 12,
       "amendments": [],
-      "momentum": 35,
+      "momentum": 40,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-1532",
+      "number": "S 1532",
+      "title": "A bill to amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
+      "sector": "PAVE",
+      "introduced_date": "2025-04-30",
+      "latest_action": {
+        "date": "2025-04-30",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1532",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Crapo, Mike [R-ID]",
+        "party": "R",
+        "state": "ID"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 49,
+      "amendments": [],
+      "momentum": 50,
       "sector_trade_flag": false
     },
     {
@@ -1185,31 +1460,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-5549",
-      "number": "HR 5549",
-      "title": "Efficient Nuclear Licensing Hearings Act",
-      "sector": "URA",
-      "introduced_date": "2025-09-23",
-      "latest_action": {
-        "date": "2026-11-05",
-        "text": "Placed on the Union Calendar, Calendar No. 769."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
-        "party": "R",
-        "state": "VA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 25,
-      "amendments": [],
-      "momentum": 33,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-3336",
       "number": "S 3336",
       "title": "Reliable Artificial Intelligence Research Act of 2025",
@@ -1285,6 +1535,56 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HRES-1177",
+      "number": "HRES 1177",
+      "title": "Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.",
+      "sector": "ITA",
+      "introduced_date": "2026-04-15",
+      "latest_action": {
+        "date": "2026-04-15",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1177",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
+        "party": "D",
+        "state": "AZ"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 18,
+      "amendments": [],
+      "momentum": 42,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2615",
+      "number": "S 2615",
+      "title": "VET Artificial Intelligence Act",
+      "sector": "SMH",
+      "introduced_date": "2025-07-31",
+      "latest_action": {
+        "date": "2025-07-31",
+        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Hickenlooper, John W. [D-CO]",
+        "party": "D",
+        "state": "CO"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HR-4833",
       "number": "HR 4833",
       "title": "Dyess Air Base Access Infrastructure Design Act",
@@ -1302,256 +1602,6 @@
         "name": "Rep. Arrington, Jodey C. [R-TX-19]",
         "party": "R",
         "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HRES-785",
-      "number": "HRES 785",
-      "title": "Expressing support for designation of the week of October 4, 2025, through October 10, 2025, as \"World Space Week\".",
-      "sector": "UFO",
-      "introduced_date": "2025-10-03",
-      "latest_action": {
-        "date": "2025-10-03",
-        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/785",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Dingell, Debbie [D-MI-6]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 6,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2970",
-      "number": "S 2970",
-      "title": "A bill to authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
-      "sector": "PAVE",
-      "introduced_date": "2025-10-03",
-      "latest_action": {
-        "date": "2026-09-30",
-        "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2970",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Lee, Mike [R-UT]",
-        "party": "R",
-        "state": "UT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-6638",
-      "number": "HR 6638",
-      "title": "To require a report on merits and options for establishing an institute relating to space resources, and for other purposes.",
-      "sector": "UFO",
-      "introduced_date": "2025-12-11",
-      "latest_action": {
-        "date": "2025-12-11",
-        "text": "Referred to the House Committee on Science, Space, and Technology."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6638",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Foushee, Valerie P. [D-NC-4]",
-        "party": "D",
-        "state": "NC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2938",
-      "number": "S 2938",
-      "title": "Artificial Intelligence Risk Evaluation Act of 2025",
-      "sector": "SMH",
-      "introduced_date": "2025-09-29",
-      "latest_action": {
-        "date": "2026-09-30",
-        "text": "Committee on Homeland Security and Governmental Affairs. Hearings held."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2938",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Hawley, Josh [R-MO]",
-        "party": "R",
-        "state": "MO"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-6631",
-      "number": "HR 6631",
-      "title": "Establishing Cyber Security Educational Programs at Academic Institutions Act",
-      "sector": "CIBR",
-      "introduced_date": "2025-12-11",
-      "latest_action": {
-        "date": "2025-12-11",
-        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6631",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Elfreth, Sarah [D-MD-3]",
-        "party": "D",
-        "state": "MD"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3404",
-      "number": "S 3404",
-      "title": "Satellite Cybersecurity Act of 2025",
-      "sector": "CIBR",
-      "introduced_date": "2025-12-09",
-      "latest_action": {
-        "date": "2026-09-24",
-        "text": "Held at the desk."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Peters, Gary C. [D-MI]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-6799",
-      "number": "HR 6799",
-      "title": "BRIDGE for Young-Onset Alzheimer\u2019s Disease Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-12-17",
-      "latest_action": {
-        "date": "2025-12-17",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6799",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Kim, Young [R-CA-40]",
-        "party": "R",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 19,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HRES-798",
-      "number": "HRES 798",
-      "title": "Expressing support for the designation of the week of September 15 through September 21, 2025, as \"Rail Safety Week\" in the United States, and supporting the goals and ideals of reducing highway-rail grade crossing-related incidents, fatalities, and injuries.",
-      "sector": "PAVE",
-      "introduced_date": "2025-10-08",
-      "latest_action": {
-        "date": "2025-12-01",
-        "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/798",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Wilson, Frederica S. [D-FL-24]",
-        "party": "D",
-        "state": "FL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5626",
-      "number": "HR 5626",
-      "title": "Taiwan and American Space Assistance Act of 2025",
-      "sector": "UFO",
-      "introduced_date": "2025-09-30",
-      "latest_action": {
-        "date": "2025-09-30",
-        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5626",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Hill, J. French [R-AR-2]",
-        "party": "R",
-        "state": "AR"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 19,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-6612",
-      "number": "HR 6612",
-      "title": "Defense Civilian Faculty Copyright Act of 2025",
-      "sector": "ITA",
-      "introduced_date": "2025-12-11",
-      "latest_action": {
-        "date": "2025-12-11",
-        "text": "Referred to the House Committee on the Judiciary."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6612",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE"
       },
       "committee_count": 1,
       "cosponsor_count": 0,
@@ -4829,6 +4879,43 @@
       "ticker": "PWR",
       "company": "Quanta Services",
       "client_name": "QUANTA SERVICES, INC.",
+      "registrant_name": "BIGHORN PUBLIC AFFAIRS GROUP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-11-10T20:00:21-05:00",
+      "issues": [
+        "Agriculture",
+        "Aviation/Airlines/Airports",
+        "Energy/Nuclear",
+        "Natural Resources",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/fdf38a82-cc55-480d-a73c-20e5f3b3afe2/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "PWR",
+      "company": "Quanta Services",
+      "client_name": "QUANTA SERVICES, INC.",
+      "registrant_name": "DMM STRATEGIES",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-11-10T19:57:10-05:00",
+      "issues": [
+        "Energy/Nuclear",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4d36c910-e972-4bb6-8c9c-96b642fa0f27/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "PWR",
+      "company": "Quanta Services",
+      "client_name": "QUANTA SERVICES, INC.",
       "registrant_name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -5210,42 +5297,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/56ec1cb6-72ea-404a-bea2-f5d1ebbfb287/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "PWR",
-      "company": "Quanta Services",
-      "client_name": "QUANTA SERVICES, INC.",
-      "registrant_name": "BIGHORN PUBLIC AFFAIRS GROUP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-05-09T15:12:50-04:00",
-      "issues": [
-        "Agriculture",
-        "Aviation/Airlines/Airports",
-        "Energy/Nuclear",
-        "Natural Resources"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/a5ee5384-d34a-42a8-afbc-91db8f278803/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "PWR",
-      "company": "Quanta Services",
-      "client_name": "QUANTA SERVICES, INC.",
-      "registrant_name": "SC PARTNERS LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-04-21T11:33:58-04:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/39b3529d-6149-4d84-9807-512ec7c751ad/print/"
     },
     {
       "sector": "PAVE",
@@ -26576,273 +26627,6 @@
         "Medicare/Medicaid"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/aa0f76d7-1b8f-4d2e-bea4-dfce78c21552/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS CORPORATION",
-      "registrant_name": "TIBER CREEK GROUP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-10-20T01:31:42-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/04729ca7-a61c-4662-bdb0-674f5241d93a/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS CORPORATION",
-      "registrant_name": "TIBER CREEK GROUP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-07-19T17:22:29-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/56d9e720-fccd-4f85-aed8-b2be515acdb2/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS CORPORATION",
-      "registrant_name": "TIBER CREEK GROUP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "80000.00",
-      "posted_date": "2026-04-19T17:11:03-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/4cb2424a-6d30-43ee-988f-b0ec81896276/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS CORPORATION",
-      "registrant_name": "TIBER CREEK GROUP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2026-01-17T22:40:04-05:00",
-      "issues": [
-        "Postal"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/ccd3174c-3ab4-4e12-85f1-4749c8cf9d06/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS CORPORATION",
-      "registrant_name": "TIBER CREEK GROUP",
-      "filing_type": "3rd Quarter - Report (No Activity)",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "20000.00",
-      "posted_date": "2025-10-19T15:12:18-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/6c5b380a-679b-4b49-9f8d-27201fcde242/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS CORPORATION",
-      "registrant_name": "TIBER CREEK GROUP",
-      "filing_type": "Registration",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-10-16T17:28:31-04:00",
-      "issues": [
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/dea9d3ff-a59f-412a-8579-f6faf3edd955/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "4th Quarter - Termination Amendment (No Activity)",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2017,
-      "income": null,
-      "posted_date": "2018-01-22T11:17:08.567000-05:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/4251c83d-6f3b-49e5-aef4-b10b996a51b9/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "4th Quarter - Amendment",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2009,
-      "income": null,
-      "posted_date": "2010-04-19T18:17:16.577000-04:00",
-      "issues": [
-        "Defense",
-        "Homeland Security",
-        "Pharmacy",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/86d3fe0d-2073-48f0-8300-a9d40cf02c05/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "1st Quarter - Termination (No Activity)",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2010,
-      "income": null,
-      "posted_date": "2010-04-19T18:16:10.390000-04:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/c6f91e80-e84d-47d1-aa7f-084083077a37/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2009,
-      "income": "40000.00",
-      "posted_date": "2010-01-19T19:43:13.190000-05:00",
-      "issues": [
-        "Defense",
-        "Homeland Security",
-        "Pharmacy",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/1862ac32-4e4f-498a-a203-d918fac1f4a4/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2009,
-      "income": "50000.00",
-      "posted_date": "2009-10-19T14:58:16-04:00",
-      "issues": [
-        "Defense",
-        "Homeland Security",
-        "Pharmacy",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/b891b0ae-77e2-4e78-9129-642f7e7618ab/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2009,
-      "income": "40000.00",
-      "posted_date": "2009-07-20T13:10:31-04:00",
-      "issues": [
-        "Defense",
-        "Homeland Security",
-        "Pharmacy",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/f698fb2c-209e-4b6f-b1ab-248fae7846a9/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2009,
-      "income": "40000.00",
-      "posted_date": "2009-04-15T15:44:06-04:00",
-      "issues": [
-        "Defense",
-        "Homeland Security",
-        "Pharmacy",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/4bbd70b2-80d5-45b0-809c-16ed766f6b5a/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "4th Quarter - Report",
-      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
-      "filing_year": 2008,
-      "income": "40000.00",
-      "posted_date": "2009-01-16T19:20:03-05:00",
-      "issues": [
-        "Defense",
-        "Homeland Security",
-        "Pharmacy",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c4499940-9838-47e1-a25b-050faeb3fa34/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "3rd Quarter - Report (No Activity)",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2008,
-      "income": null,
-      "posted_date": "2008-11-13T15:00:05-05:00",
-      "issues": [],
-      "filing_url": "https://lda.gov/filings/public/filing/134dee04-61ca-4ceb-b992-2cb6ebcbf72d/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "UTHR",
-      "company": "United Therapeutics",
-      "client_name": "UNITED THERAPEUTICS",
-      "registrant_name": "FOLEY & LARDNER LLP",
-      "filing_type": "Registration",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2008,
-      "income": null,
-      "posted_date": "2008-11-10T15:22:08-05:00",
-      "issues": [
-        "Pharmacy",
-        "Science/Technology"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/394f03d1-110c-426b-8099-fe9f4b65012e/print/"
     },
     {
       "sector": "ITA",
