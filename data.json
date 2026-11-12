@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:52:01Z",
+  "generated_at": "2026-11-12T18:04:23Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 11,
+      "bill_count": 13,
       "trade_count": 0,
       "lobbying_count": 362,
       "avg_momentum": 39
@@ -49,7 +49,7 @@
       "color": "#2C6E8C",
       "bill_count": 5,
       "trade_count": 1,
-      "lobbying_count": 300,
+      "lobbying_count": 316,
       "avg_momentum": 41
     },
     "ITA": {
@@ -87,10 +87,10 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 7,
+      "bill_count": 6,
       "trade_count": 2,
       "lobbying_count": 300,
-      "avg_momentum": 41
+      "avg_momentum": 40
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -566,8 +566,8 @@
       "sector": "URA",
       "introduced_date": "2025-09-23",
       "latest_action": {
-        "date": "2026-11-09",
-        "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn."
+        "date": "2026-11-11",
+        "text": "Motion to reconsider laid on the table Agreed to without objection."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
       "amendments_count": 0,
@@ -582,31 +582,6 @@
       "cosponsor_count": 25,
       "amendments": [],
       "momentum": 33,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9084",
-      "number": "HR 9084",
-      "title": "Department of Energy Nuclear Transparency Act",
-      "sector": "URA",
-      "introduced_date": "2026-06-02",
-      "latest_action": {
-        "date": "2026-11-09",
-        "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Castor, Kathy [D-FL-14]",
-        "party": "D",
-        "state": "FL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 23,
       "sector_trade_flag": false
     },
     {
@@ -660,31 +635,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-10981",
-      "number": "HR 10981",
-      "title": "To direct the Secretary of Commerce to promulgate regulations related to certain artificial intelligence models, and for other purposes.",
-      "sector": "SMH",
-      "introduced_date": "2026-11-10",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10981",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Gottheimer, Josh [D-NJ-5]",
-        "party": "D",
-        "state": "NJ"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HRES-1655",
       "number": "HRES 1655",
       "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors.",
@@ -732,56 +682,6 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 44,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-10989",
-      "number": "HR 10989",
-      "title": "To amend the Federal Power Act to provide that activities to maintain or increase the capacity of the electric grid within certain areas are a category of actions designated as being categorically excluded from the preparation of an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969, and for other purposes.",
-      "sector": "GRID",
-      "introduced_date": "2026-11-10",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10989",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
-        "party": "D",
-        "state": "VA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-10988",
-      "number": "HR 10988",
-      "title": "To amend the Federal Power Act to direct the Federal Energy Regulatory Commission to require that public utilities use advanced transmission technologies when carrying out certain projects, and for other purposes.",
-      "sector": "GRID",
-      "introduced_date": "2026-11-10",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10988",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
-        "party": "D",
-        "state": "VA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
       "sector_trade_flag": false
     },
     {
@@ -860,6 +760,106 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-10989",
+      "number": "HR 10989",
+      "title": "Smart Transmission Line Placement Act",
+      "sector": "GRID",
+      "introduced_date": "2026-11-10",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10989",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10987",
+      "number": "HR 10987",
+      "title": "Local Transmission Accountability Act",
+      "sector": "GRID",
+      "introduced_date": "2026-11-10",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10987",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11004",
+      "number": "HR 11004",
+      "title": "To authorize the use of off-highway vehicles in certain areas of the Capitol Reef National Park, Utah.",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-11",
+      "latest_action": {
+        "date": "2026-11-11",
+        "text": "Referred to the House Committee on Natural Resources."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11004",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Maloy, Celeste [R-UT-2]",
+        "party": "R",
+        "state": "UT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10998",
+      "number": "HR 10998",
+      "title": "To reauthorize USDA guarantees for Bonds and Notes issued for utility infrastructure purposes.",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-11",
+      "latest_action": {
+        "date": "2026-11-11",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10998",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Bacon, Don [R-NE-2]",
+        "party": "R",
+        "state": "NE"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HR-5854",
       "number": "HR 5854",
       "title": "Sustainable Agriculture Research Act",
@@ -882,6 +882,31 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9084",
+      "number": "HR 9084",
+      "title": "Department of Energy Nuclear Transparency Act",
+      "sector": "URA",
+      "introduced_date": "2026-06-02",
+      "latest_action": {
+        "date": "2026-11-11",
+        "text": "Motion to reconsider laid on the table Agreed to without objection."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Castor, Kathy [D-FL-14]",
+        "party": "D",
+        "state": "FL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 23,
       "sector_trade_flag": false
     },
     {
@@ -1554,9 +1579,9 @@
         "state": "AZ"
       },
       "committee_count": 1,
-      "cosponsor_count": 18,
+      "cosponsor_count": 20,
       "amendments": [],
-      "momentum": 42,
+      "momentum": 43,
       "sector_trade_flag": false
     },
     {
@@ -26627,6 +26652,273 @@
         "Medicare/Medicaid"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/aa0f76d7-1b8f-4d2e-bea4-dfce78c21552/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-20T01:31:42-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/04729ca7-a61c-4662-bdb0-674f5241d93a/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-19T17:22:29-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/56d9e720-fccd-4f85-aed8-b2be515acdb2/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-04-19T17:11:03-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4cb2424a-6d30-43ee-988f-b0ec81896276/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "60000.00",
+      "posted_date": "2026-01-17T22:40:04-05:00",
+      "issues": [
+        "Postal"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ccd3174c-3ab4-4e12-85f1-4749c8cf9d06/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "20000.00",
+      "posted_date": "2025-10-19T15:12:18-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/6c5b380a-679b-4b49-9f8d-27201fcde242/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS CORPORATION",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-10-16T17:28:31-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/dea9d3ff-a59f-412a-8579-f6faf3edd955/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "4th Quarter - Termination Amendment (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2017,
+      "income": null,
+      "posted_date": "2018-01-22T11:17:08.567000-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/4251c83d-6f3b-49e5-aef4-b10b996a51b9/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "4th Quarter - Amendment",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2009,
+      "income": null,
+      "posted_date": "2010-04-19T18:17:16.577000-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security",
+        "Pharmacy",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/86d3fe0d-2073-48f0-8300-a9d40cf02c05/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "1st Quarter - Termination (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2010,
+      "income": null,
+      "posted_date": "2010-04-19T18:16:10.390000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/c6f91e80-e84d-47d1-aa7f-084083077a37/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2009,
+      "income": "40000.00",
+      "posted_date": "2010-01-19T19:43:13.190000-05:00",
+      "issues": [
+        "Defense",
+        "Homeland Security",
+        "Pharmacy",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1862ac32-4e4f-498a-a203-d918fac1f4a4/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2009,
+      "income": "50000.00",
+      "posted_date": "2009-10-19T14:58:16-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security",
+        "Pharmacy",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b891b0ae-77e2-4e78-9129-642f7e7618ab/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2009,
+      "income": "40000.00",
+      "posted_date": "2009-07-20T13:10:31-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security",
+        "Pharmacy",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f698fb2c-209e-4b6f-b1ab-248fae7846a9/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2009,
+      "income": "40000.00",
+      "posted_date": "2009-04-15T15:44:06-04:00",
+      "issues": [
+        "Defense",
+        "Homeland Security",
+        "Pharmacy",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/4bbd70b2-80d5-45b0-809c-16ed766f6b5a/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2008,
+      "income": "40000.00",
+      "posted_date": "2009-01-16T19:20:03-05:00",
+      "issues": [
+        "Defense",
+        "Homeland Security",
+        "Pharmacy",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c4499940-9838-47e1-a25b-050faeb3fa34/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2008,
+      "income": null,
+      "posted_date": "2008-11-13T15:00:05-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/134dee04-61ca-4ceb-b992-2cb6ebcbf72d/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "client_name": "UNITED THERAPEUTICS",
+      "registrant_name": "FOLEY & LARDNER LLP",
+      "filing_type": "Registration",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2008,
+      "income": null,
+      "posted_date": "2008-11-10T15:22:08-05:00",
+      "issues": [
+        "Pharmacy",
+        "Science/Technology"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/394f03d1-110c-426b-8099-fe9f4b65012e/print/"
     },
     {
       "sector": "ITA",
