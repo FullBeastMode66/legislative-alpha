@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:04:23Z",
+  "generated_at": "2026-11-13T17:39:08Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,20 +7,20 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 13,
+      "bill_count": 12,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 39
+      "avg_momentum": 40
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 36
+      "avg_momentum": 38
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -50,7 +50,7 @@
       "bill_count": 5,
       "trade_count": 1,
       "lobbying_count": 316,
-      "avg_momentum": 41
+      "avg_momentum": 39
     },
     "ITA": {
       "name": "Defense",
@@ -80,14 +80,14 @@
       "bill_count": 7,
       "trade_count": 0,
       "lobbying_count": 235,
-      "avg_momentum": 38
+      "avg_momentum": 44
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 6,
+      "bill_count": 5,
       "trade_count": 2,
       "lobbying_count": 300,
       "avg_momentum": 40
@@ -97,10 +97,10 @@
       "short": "Clean Energy",
       "etf": "ICLN",
       "color": "#5A8F4C",
-      "bill_count": 2,
+      "bill_count": 1,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 21
+      "avg_momentum": 27
     },
     "MOO": {
       "name": "Agriculture",
@@ -110,7 +110,7 @@
       "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 32
+      "avg_momentum": 38
     },
     "FINX": {
       "name": "Financial Technology",
@@ -167,7 +167,7 @@
       "introduced_date": "2026-10-15",
       "latest_action": {
         "date": "2026-11-10",
-        "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+        "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)"
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/950",
       "amendments_count": 0,
@@ -182,31 +182,6 @@
       "cosponsor_count": 9,
       "amendments": [],
       "momentum": 27,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-10848",
-      "number": "HR 10848",
-      "title": "To require the Comptroller General of the United States to review of Shipyard Infrastructure Optimization Program, and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-10-19",
-      "latest_action": {
-        "date": "2026-10-19",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10848",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Goodlander, Maggie [D-NH-2]",
-        "party": "D",
-        "state": "NH"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -481,7 +456,7 @@
       "committee_count": 3,
       "cosponsor_count": 13,
       "amendments": [],
-      "momentum": 48,
+      "momentum": 40,
       "sector_trade_flag": true
     },
     {
@@ -531,7 +506,7 @@
       "committee_count": 1,
       "cosponsor_count": 13,
       "amendments": [],
-      "momentum": 48,
+      "momentum": 40,
       "sector_trade_flag": true
     },
     {
@@ -556,82 +531,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5549",
-      "number": "HR 5549",
-      "title": "Efficient Nuclear Licensing Hearings Act",
-      "sector": "URA",
-      "introduced_date": "2025-09-23",
-      "latest_action": {
-        "date": "2026-11-11",
-        "text": "Motion to reconsider laid on the table Agreed to without objection."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
-        "party": "R",
-        "state": "VA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 25,
-      "amendments": [],
-      "momentum": 33,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9613",
-      "number": "HR 9613",
-      "title": "Nuclear Advisory Committee Reform Act",
-      "sector": "URA",
-      "introduced_date": "2026-07-09",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9613",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Harshbarger, Diana [R-TN-1]",
-        "party": "R",
-        "state": "TN"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-3978",
-      "number": "HR 3978",
-      "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
-      "sector": "URA",
-      "introduced_date": "2025-06-12",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Latta, Robert E. [R-OH-5]",
-        "party": "R",
-        "state": "OH"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 28,
-      "amendments": [],
-      "momentum": 54,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -707,31 +607,6 @@
       "cosponsor_count": 36,
       "amendments": [],
       "momentum": 49,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-5712",
-      "number": "S 5712",
-      "title": "A bill to require reporting by the Department of Defense on the use of open-air burn pits, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-10",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5712",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Welch, Peter [D-VT]",
-        "party": "D",
-        "state": "VT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
       "sector_trade_flag": false
     },
     {
@@ -835,31 +710,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-10998",
-      "number": "HR 10998",
-      "title": "To reauthorize USDA guarantees for Bonds and Notes issued for utility infrastructure purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-11-11",
-      "latest_action": {
-        "date": "2026-11-11",
-        "text": "Referred to the House Committee on Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10998",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Bacon, Don [R-NE-2]",
-        "party": "R",
-        "state": "NE"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-5854",
       "number": "HR 5854",
       "title": "Sustainable Agriculture Research Act",
@@ -885,28 +735,228 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-3978",
+      "number": "HR 3978",
+      "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
+      "sector": "URA",
+      "introduced_date": "2025-06-12",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Latta, Robert E. [R-OH-5]",
+        "party": "R",
+        "state": "OH"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 28,
+      "amendments": [],
+      "momentum": 54,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9613",
+      "number": "HR 9613",
+      "title": "Nuclear Advisory Committee Reform Act",
+      "sector": "URA",
+      "introduced_date": "2026-07-09",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9613",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Harshbarger, Diana [R-TN-1]",
+        "party": "R",
+        "state": "TN"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10998",
+      "number": "HR 10998",
+      "title": "Building Out Utility Infrastructure in Rural America Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-11",
+      "latest_action": {
+        "date": "2026-11-11",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10998",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Bacon, Don [R-NE-2]",
+        "party": "R",
+        "state": "NE"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HR-9084",
       "number": "HR 9084",
       "title": "Department of Energy Nuclear Transparency Act",
       "sector": "URA",
       "introduced_date": "2026-06-02",
       "latest_action": {
-        "date": "2026-11-11",
-        "text": "Motion to reconsider laid on the table Agreed to without objection."
+        "date": "2026-11-12",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
       },
       "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
       "amendments_count": 0,
       "amendments_url": null,
-      "status": "Introduced",
+      "status": "Committee",
       "sponsor": {
         "name": "Rep. Castor, Kathy [D-FL-14]",
         "party": "D",
         "state": "FL"
       },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-10848",
+      "number": "HR 10848",
+      "title": "To require the Comptroller General of the United States to review the Shipyard Infrastructure Optimization Program, and for other purposes.",
+      "sector": "PAVE",
+      "introduced_date": "2026-10-19",
+      "latest_action": {
+        "date": "2026-10-19",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10848",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Goodlander, Maggie [D-NH-2]",
+        "party": "D",
+        "state": "NH"
+      },
       "committee_count": 1,
       "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 23,
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11032",
+      "number": "HR 11032",
+      "title": "To establish a grant program carried out by the Department of Homeland Security to fund university-based cybersecurity clinics at junior or community colleges, historically Black colleges and universities (HBCUs), Hispanic-serving institutions (HSIs), and other minority-serving institutions, and for other purposes.",
+      "sector": "CIBR",
+      "introduced_date": "2026-11-12",
+      "latest_action": {
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11032",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Veasey, Marc A. [D-TX-33]",
+        "party": "D",
+        "state": "TX"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 44,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11026",
+      "number": "HR 11026",
+      "title": "To amend title 37, United States Code, to authorize the Secretary of Defense to make contributions to Trump Accounts as a bonus for a member of the Armed Forces who commits to continued service in the Armed Forces and to amend the Internal Revenue Code of 1986 to treat any such contribution in the same manner as a contribution made pursuant to an employer Trump account contribution program.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-12",
+      "latest_action": {
+        "date": "2026-11-12",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11026",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Pfluger, August [R-TX-11]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11030",
+      "number": "HR 11030",
+      "title": "To amend the Federal Crop Insurance Act to require the Federal Crop Insurance Corporation to carry out research on adjusting Federal crop insurance premiums and policies based on loss ratios.",
+      "sector": "MOO",
+      "introduced_date": "2026-11-12",
+      "latest_action": {
+        "date": "2026-11-12",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11030",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Sorensen, Eric [D-IL-17]",
+        "party": "D",
+        "state": "IL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5549",
+      "number": "HR 5549",
+      "title": "Efficient Nuclear Licensing Hearings Act",
+      "sector": "URA",
+      "introduced_date": "2025-09-23",
+      "latest_action": {
+        "date": "2026-11-12",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "party": "R",
+        "state": "VA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 25,
+      "amendments": [],
+      "momentum": 53,
       "sector_trade_flag": false
     },
     {
@@ -1235,31 +1285,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-2440",
-      "number": "S 2440",
-      "title": "A bill to direct the Secretary of Agriculture to convey certain National Forest System land located in Franklin County, Mississippi, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2025-07-24",
-      "latest_action": {
-        "date": "2025-10-27",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 216."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2440",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Hyde-Smith, Cindy [R-MS]",
-        "party": "R",
-        "state": "MS"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 15,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-1699",
       "number": "S 1699",
       "title": "Artificial Intelligence Public Awareness and Education Campaign Act",
@@ -1329,7 +1354,7 @@
         "state": "ID"
       },
       "committee_count": 1,
-      "cosponsor_count": 49,
+      "cosponsor_count": 50,
       "amendments": [],
       "momentum": 50,
       "sector_trade_flag": false
@@ -1357,31 +1382,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5617",
-      "number": "HR 5617",
-      "title": "Geothermal Gold Book Development Act",
-      "sector": "ICLN",
-      "introduced_date": "2025-09-30",
-      "latest_action": {
-        "date": "2026-05-20",
-        "text": "Placed on the Union Calendar, Calendar No. 573."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5617",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
-        "party": "D",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 15,
       "sector_trade_flag": false
     },
     {
@@ -1579,59 +1579,9 @@
         "state": "AZ"
       },
       "committee_count": 1,
-      "cosponsor_count": 20,
+      "cosponsor_count": 21,
       "amendments": [],
       "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2615",
-      "number": "S 2615",
-      "title": "VET Artificial Intelligence Act",
-      "sector": "SMH",
-      "introduced_date": "2025-07-31",
-      "latest_action": {
-        "date": "2025-07-31",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Hickenlooper, John W. [D-CO]",
-        "party": "D",
-        "state": "CO"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-4833",
-      "number": "HR 4833",
-      "title": "Dyess Air Base Access Infrastructure Design Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-08-01",
-      "latest_action": {
-        "date": "2025-08-01",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4833",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Arrington, Jodey C. [R-TX-19]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
       "sector_trade_flag": false
     }
   ],
@@ -1990,6 +1940,22 @@
     }
   ],
   "lobbying": [
+    {
+      "sector": "PAVE",
+      "ticker": "VMC",
+      "company": "Vulcan Materials",
+      "client_name": "VULCAN MATERIALS COMPANY",
+      "registrant_name": "AQUIA GROUP, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-11-12T13:56:35-05:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2e648bdc-bba7-4ddd-9cb3-9bfa84297725/print/"
+    },
     {
       "sector": "PAVE",
       "ticker": "VMC",
@@ -2387,23 +2353,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/446eb98c-c0c5-4a51-8b11-48ff93e7ccfa/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "VMC",
-      "company": "Vulcan Materials",
-      "client_name": "VULCAN MATERIALS COMPANY",
-      "registrant_name": "BRADLEY ARANT BOULT CUMMINGS LLP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-10-20T18:58:32-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/66af1a50-2586-411d-b2f2-41e1918d7dcd/print/"
     },
     {
       "sector": "PAVE",
@@ -28186,6 +28135,22 @@
       "sector": "ITA",
       "ticker": "GD",
       "company": "General Dynamics",
+      "client_name": "GENERAL DYNAMICS CORP",
+      "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-11-12T15:06:12-05:00",
+      "issues": [
+        "Defense"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/1415cec3-fc5c-4385-96c3-b197d945d711/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "GD",
+      "company": "General Dynamics",
       "client_name": "GENERAL DYNAMICS",
       "registrant_name": "HARBINGER STRATEGIES, LLC",
       "filing_type": "3rd Quarter - Report",
@@ -28598,22 +28563,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/582fc470-0464-478b-9a81-c2d3adf7597c/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "GD",
-      "company": "General Dynamics",
-      "client_name": "GENERAL DYNAMICS CORPORATION",
-      "registrant_name": "MELTSNER STRATEGIES, LLC",
-      "filing_type": "3rd Quarter - Termination",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "12500.00",
-      "posted_date": "2026-09-02T16:40:04-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/db132ccc-f755-42ea-8e4b-d016e1ae78d7/print/"
     },
     {
       "sector": "ITA",
@@ -30377,6 +30326,20 @@
       "ticker": "AXON",
       "company": "Axon Enterprise",
       "client_name": "AXON ENTERPRISE, INC.",
+      "registrant_name": "RED DOOR CONSULTING, LLC",
+      "filing_type": "4th Quarter - Termination (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-13T05:21:52-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/13e88923-6b2e-4ad0-9689-4cfdef7789b2/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
+      "client_name": "AXON ENTERPRISE, INC.",
       "registrant_name": "FEDERAL STREET STRATEGIES, LLC",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -30771,26 +30734,6 @@
       "posted_date": "2026-07-20T17:33:13-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/13cc1d15-2840-43e9-beca-4c56589af079/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "AXON",
-      "company": "Axon Enterprise",
-      "client_name": "AXON ENTERPRISE, INC.",
-      "registrant_name": "ALPINE GROUP PARTNERS, LLC.",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "40000.00",
-      "posted_date": "2026-07-20T17:23:32-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Homeland Security",
-        "Immigration",
-        "Law Enforcement/Crime/Criminal Justice",
-        "Veterans"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/70b084d3-8313-429a-be63-219e8930275a/print/"
     },
     {
       "sector": "ITA",
@@ -31197,6 +31140,25 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/8beb37ea-d6e5-4931-b555-717e8a35bf6b/print/"
+    },
+    {
+      "sector": "ITA",
+      "ticker": "LDOS",
+      "company": "Leidos Holdings",
+      "client_name": "LEIDOS",
+      "registrant_name": "THE OB-C GROUP, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "70000.00",
+      "posted_date": "2026-11-12T13:32:42-05:00",
+      "issues": [
+        "Aerospace",
+        "Budget/Appropriations",
+        "Defense",
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c2ea7ca2-1bb6-458f-ae4b-89ac0afa77a2/print/"
     },
     {
       "sector": "ITA",
@@ -31637,30 +31599,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/194e005e-15e3-49eb-b79a-cfa8a9181a34/print/"
-    },
-    {
-      "sector": "ITA",
-      "ticker": "LDOS",
-      "company": "Leidos Holdings",
-      "client_name": "LEIDOS, INC.",
-      "registrant_name": "CGCN GROUP, LLC",
-      "filing_type": "1st Quarter - Report",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2026,
-      "income": "90000.00",
-      "posted_date": "2026-04-20T20:44:30-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Defense",
-        "Energy/Nuclear",
-        "Health Issues",
-        "Homeland Security",
-        "Intelligence",
-        "Science/Technology",
-        "Transportation",
-        "Veterans"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/b2d0fad8-669b-41d0-a834-653216f8b35c/print/"
     },
     {
       "sector": "ITA",
@@ -38864,6 +38802,22 @@
       "sector": "URA",
       "ticker": "LEU",
       "company": "Centrus Energy",
+      "client_name": "CENTRUS ENERGY CORP. (FORMERLY KNOWN AS USEC INC.)",
+      "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-11-12T14:52:50-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/bf0105e3-ab88-45b3-b60b-75b10577b514/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "LEU",
+      "company": "Centrus Energy",
       "client_name": "CENTRUS ENERGY",
       "registrant_name": "COMPASS CONSULTING GROUP, LLC",
       "filing_type": "3rd Quarter - Report",
@@ -39248,22 +39202,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/3175ab31-6e10-4ce1-97e3-d9a972c96a89/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "LEU",
-      "company": "Centrus Energy",
-      "client_name": "CENTRUS ENERGY CORP",
-      "registrant_name": "CENTRUS ENERGY CORP.",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-07-21T11:38:21-04:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/fd72a7a1-3a25-4c24-b3cd-759014663239/print/"
     },
     {
       "sector": "URA",
@@ -50573,6 +50511,22 @@
       "ticker": "MOS",
       "company": "The Mosaic Company",
       "client_name": "THE MOSAIC COMPANY",
+      "registrant_name": "BLUE STAR STRATEGIES LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "20000.00",
+      "posted_date": "2026-11-13T11:40:09-05:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cfeb5998-b732-4d9a-bfc0-2d2535cd76d1/print/"
+    },
+    {
+      "sector": "MOO",
+      "ticker": "MOS",
+      "company": "The Mosaic Company",
+      "client_name": "THE MOSAIC COMPANY",
       "registrant_name": "THE MOSAIC COMPANY",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -50969,24 +50923,6 @@
       "posted_date": "2026-01-15T11:58:16-05:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/3504c828-6ddf-489f-b797-8bec112b87d6/print/"
-    },
-    {
-      "sector": "MOO",
-      "ticker": "MOS",
-      "company": "The Mosaic Company",
-      "client_name": "THE MOSAIC COMPANY",
-      "registrant_name": "THE MOSAIC COMPANY",
-      "filing_type": "1st Quarter - Amendment",
-      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
-      "filing_year": 2025,
-      "income": null,
-      "posted_date": "2025-12-01T14:26:40-05:00",
-      "issues": [
-        "Environment/Superfund",
-        "Natural Resources",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8ac19205-abe9-49d2-b119-2908de7da9b2/print/"
     },
     {
       "sector": "MOO",
