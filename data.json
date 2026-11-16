@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:58:01Z",
+  "generated_at": "2026-11-16T20:09:00Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -19,7 +19,7 @@
       "color": "#3F7469",
       "bill_count": 4,
       "trade_count": 0,
-      "lobbying_count": 281,
+      "lobbying_count": 288,
       "avg_momentum": 38
     },
     "GRID": {
@@ -29,7 +29,7 @@
       "color": "#9B4638",
       "bill_count": 2,
       "trade_count": 0,
-      "lobbying_count": 240,
+      "lobbying_count": 265,
       "avg_momentum": 43
     },
     "QTUM": {
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 0,
-      "trade_count": 0,
+      "trade_count": 2,
       "lobbying_count": 223,
       "avg_momentum": 0
     },
@@ -48,8 +48,8 @@
       "etf": "XBI",
       "color": "#2C6E8C",
       "bill_count": 5,
-      "trade_count": 0,
-      "lobbying_count": 291,
+      "trade_count": 1,
+      "lobbying_count": 316,
       "avg_momentum": 39
     },
     "ITA": {
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 6,
-      "trade_count": 0,
+      "trade_count": 2,
       "lobbying_count": 300,
       "avg_momentum": 39
     },
@@ -121,6 +121,16 @@
       "trade_count": 0,
       "lobbying_count": 194,
       "avg_momentum": 18
+    },
+    "OTHER": {
+      "name": "Other / Unclassified",
+      "short": "Other",
+      "etf": null,
+      "color": "#565F73",
+      "bill_count": 0,
+      "trade_count": 24,
+      "lobbying_count": 0,
+      "avg_momentum": 0
     }
   },
   "bills": [
@@ -422,7 +432,7 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-HRES-1642",
@@ -447,7 +457,7 @@
       "cosponsor_count": 13,
       "amendments": [],
       "momentum": 40,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-S-4784",
@@ -497,7 +507,7 @@
       "cosponsor_count": 13,
       "amendments": [],
       "momentum": 40,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-HR-10949",
@@ -1550,7 +1560,327 @@
       "sector_trade_flag": false
     }
   ],
-  "trades": [],
+  "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "ZTS",
+      "company": "Zoetis Inc. Class A Common Stock",
+      "senator": "Shelley M Capito",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/04/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "senator": "Shelley M Capito",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/04/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "META",
+      "company": "Meta Platforms, Inc. - Class A Common Stock",
+      "senator": "Shelley M Capito",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/04/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "AAPL",
+      "company": "Apple Inc. - Common Stock",
+      "senator": "Shelley M Capito",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/04/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "10/15/2026",
+      "filed_date": "11/02/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "senator": "Sheldon Whitehouse",
+      "transaction_date": "10/15/2026",
+      "filed_date": "11/02/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/22/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/18/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/22/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/18/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$15,001 - $50,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "09/23/2026",
+      "filed_date": "10/26/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "WMB",
+      "company": "Williams Companies, Inc. (The) Common StockOption Type: CallStrike price:$80.00Expires:2026-12-18",
+      "senator": "Alan Armstrong",
+      "transaction_date": "09/08/2026",
+      "filed_date": "10/22/2026",
+      "type": "Sale (Full)",
+      "amount_range": "$250,001 - $500,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "APTV",
+      "company": "Aptiv PLC Ordinary Shares",
+      "senator": "John Boozman",
+      "transaction_date": "09/25/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TLH",
+      "company": "iShares 10-20 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/21/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "VEA",
+      "company": "Vanguard Developed Markets Index Fund - ETF Shares",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "SPYM",
+      "company": "Tradr 2X Long SPY Monthly ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "EFA",
+      "company": "iShares MSCI EAFE ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CSCO",
+      "company": "Cisco Systems, Inc. - Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "O",
+      "company": "Realty Income Corporation Common Stock",
+      "senator": "John Boozman",
+      "transaction_date": "09/24/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XTWO",
+      "company": "BondBloxx Bloomberg Two Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/21/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "GIGB",
+      "company": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "JMBS",
+      "company": "Janus Henderson Mortgage-Backed Securities ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "XFIV",
+      "company": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "MBB",
+      "company": "iShares MBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "IEF",
+      "company": "iShares 7-10 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TLH",
+      "company": "iShares 10-20 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "CMBS",
+      "company": "iShares CMBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "09/09/2026",
+      "filed_date": "10/21/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/"
+    }
+  ],
   "lobbying": [
     {
       "sector": "PAVE",
@@ -5921,6 +6251,23 @@
       "ticker": "ACM",
       "company": "AECOM",
       "client_name": "AECOM CONSULT, INC",
+      "registrant_name": "SQUIRE PATTON BOGGS",
+      "filing_type": "Registration",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-13T10:17:56-05:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Transportation"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/933f0cf3-6dd2-4bd7-83dd-877bd9c238a1/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "AECOM CONSULT, INC",
       "registrant_name": "ACRI ENVIRONMENTAL GROUP LLC",
       "filing_type": "1st Quarter - Amendment (No Activity)",
       "filing_period": "1st Quarter (Jan 1 - Mar 31)",
@@ -6339,24 +6686,6 @@
         "Defense"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/e7de7a09-f1f2-46c0-9f4f-b6c07b76d54e/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "H.A. CUMBER & COMPANY, INC.",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "50000.00",
-      "posted_date": "2026-07-17T10:53:40-04:00",
-      "issues": [
-        "Railroads",
-        "Real Estate/Land Use/Conservation",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/d088a241-754b-4f93-9a17-aa0071b27609/print/"
     },
     {
       "sector": "PAVE",
@@ -10540,6 +10869,118 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/64bb5c6d-385b-4cda-b469-4d78782be929/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CHKP",
+      "company": "Check Point Software",
+      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
+      "registrant_name": "THE MADISON GROUP",
+      "filing_type": "4th Quarter - Termination (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2008,
+      "income": "30000.00",
+      "posted_date": "2009-01-14T13:15:09-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/1ea97976-5d3a-43f7-a2e1-0b3003a8a666/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CHKP",
+      "company": "Check Point Software",
+      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
+      "registrant_name": "THE MADISON GROUP",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2008,
+      "income": "30000.00",
+      "posted_date": "2008-10-20T11:17:19-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/d7d55d71-89ca-480b-ad2a-f77b68cb59d4/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CHKP",
+      "company": "Check Point Software",
+      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
+      "registrant_name": "THE MADISON GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2008,
+      "income": "30000.00",
+      "posted_date": "2008-07-14T11:48:43-04:00",
+      "issues": [
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/d485cbf7-0e4a-4653-b34a-357d2a603fdd/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CHKP",
+      "company": "Check Point Software",
+      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
+      "registrant_name": "THE MADISON GROUP",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2008,
+      "income": "30000.00",
+      "posted_date": "2008-04-09T11:05:19-04:00",
+      "issues": [
+        "Computer Industry"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a1bd5f1c-7690-4b94-a149-85541cfcb645/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CHKP",
+      "company": "Check Point Software",
+      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES INC",
+      "registrant_name": "THE MADISON GROUP",
+      "filing_type": "Registration",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2008,
+      "income": null,
+      "posted_date": "2008-02-13T18:11:06-05:00",
+      "issues": [
+        "Computer Industry",
+        "Government Issues",
+        "Homeland Security"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/8434dee6-98da-4028-b98d-aba612cea24d/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CHKP",
+      "company": "Check Point Software",
+      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES",
+      "registrant_name": "THE NORMANDY GROUP, LLC",
+      "filing_type": "Mid-Year Termination",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2006,
+      "income": "20000.00",
+      "posted_date": "2006-08-23T00:00:00-04:00",
+      "issues": [
+        "Computer Industry",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/7bb83995-c24d-49e0-87f6-4dd5a61a496d/print/"
+    },
+    {
+      "sector": "CIBR",
+      "ticker": "CHKP",
+      "company": "Check Point Software",
+      "client_name": "CHECK POINT SOFTWARE TECHNOLOGIES",
+      "registrant_name": "THE NORMANDY GROUP, LLC",
+      "filing_type": "Registration",
+      "filing_period": "Mid-Year (Jan 1 - Jun 30)",
+      "filing_year": 2006,
+      "income": null,
+      "posted_date": "2006-03-30T00:00:00-05:00",
+      "issues": [
+        "Computer Industry",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/e619d556-d022-4d21-972f-7a0b14e0c718/print/"
     },
     {
       "sector": "CIBR",
@@ -15443,6 +15884,370 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/4845148f-f753-49ea-b350-6048eab9bfea/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-10-20T05:39:00-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/80f37753-df71-45ab-b734-2a56786676b8/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-07-19T10:57:12-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/ea05fbcd-d6e8-4180-b2ca-f327c00f6b17/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "1st Quarter - Report",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-04-09T11:41:14-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/adee8e3f-ae96-46cf-9189-b0d10504020b/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "4th Quarter - Report",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2026-01-19T09:24:11-05:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f0fba0e7-85cc-499b-9acc-82aed9116857/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2025-10-20T20:02:33-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3af909d0-0f15-4700-a52a-d815240a746d/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2025-07-21T21:22:01-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/06ed3a6d-86d5-4c1a-9617-667039aec600/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF MYRIAD GENETICS, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "Registration",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2025-07-15T13:34:19-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2dde9cb0-2ec4-4999-8d6d-ca53b9838b69/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "2nd Quarter - Termination (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2018,
+      "income": null,
+      "posted_date": "2018-08-02T12:41:50.543000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/a7108131-c977-4bab-a187-8149e50f417c/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2018,
+      "income": null,
+      "posted_date": "2018-08-02T12:40:49.650000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/e69c25d0-bcdb-4d51-a84a-347642b9d99d/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "4th Quarter - Report (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2017,
+      "income": null,
+      "posted_date": "2018-08-01T16:33:48.697000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/4647a40f-e161-4539-97b1-63b6de763f73/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2017,
+      "income": null,
+      "posted_date": "2018-08-01T16:32:47.867000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/389d3914-41ee-498c-9faf-aeafbcc01def/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2017,
+      "income": null,
+      "posted_date": "2018-08-01T16:32:47.103000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/a94f2171-6100-4010-819f-7e260507e945/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2017,
+      "income": null,
+      "posted_date": "2018-08-01T16:31:46.340000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/70b6dccb-638c-48f4-b182-3ab6b1251e48/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "4th Quarter - Report (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2016,
+      "income": null,
+      "posted_date": "2018-08-01T16:30:45.560000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/bcb400c1-551a-4364-84c2-5535eebfeae2/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2016,
+      "income": null,
+      "posted_date": "2018-08-01T16:30:44.810000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/b1116a9b-7c17-4fed-bd55-d8aa82ef06c3/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2016,
+      "income": null,
+      "posted_date": "2018-08-01T16:29:43.030000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/d57bcac5-de47-4da1-8e42-cb3487d1dadf/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2016,
+      "income": null,
+      "posted_date": "2018-08-01T16:28:42.247000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f5b6ba23-5f3a-416b-81c0-8324ea9727f2/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "4th Quarter - Report (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2015,
+      "income": null,
+      "posted_date": "2018-08-01T16:28:41.560000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/01596a8f-c6cc-431d-8dc7-25530909a07e/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2015,
+      "income": null,
+      "posted_date": "2018-08-01T16:27:40.837000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/acb6ab3b-b5c0-48d8-9647-915084e11268/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2015,
+      "income": null,
+      "posted_date": "2018-08-01T16:26:39.960000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f82f02b6-cfbd-40b2-a248-f5d869018c24/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2015,
+      "income": null,
+      "posted_date": "2015-06-30T17:53:40.347000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/58fbf741-654d-4ee1-aa4c-057052a1d697/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "4th Quarter - Report (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2014,
+      "income": null,
+      "posted_date": "2015-06-30T17:51:38.877000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/09facc0a-93d1-47ec-8c9e-7b8ad6f91bb0/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2014,
+      "income": null,
+      "posted_date": "2015-06-30T17:43:36.547000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/4a08cef2-0799-433d-9bf2-b5826b0886e2/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "2nd Quarter - Report (No Activity)",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2014,
+      "income": null,
+      "posted_date": "2015-06-29T17:24:36.690000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/12afda85-7de7-46f3-b17d-807b810b687f/print/"
+    },
+    {
+      "sector": "GRID",
+      "ticker": "MYRG",
+      "company": "MYR Group",
+      "client_name": "MYRTLE BEACH PERFORMING ARTS CENTER (FKA RIVOLI THEATER GROUP)",
+      "registrant_name": "ANCHOR CONSULTING, LLC",
+      "filing_type": "1st Quarter - Report (No Activity)",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2014,
+      "income": null,
+      "posted_date": "2014-05-19T17:06:21.767000-04:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/242ccf0f-5bda-4aa3-8a4b-37ea6069c847/print/"
     },
     {
       "sector": "GRID",
@@ -21446,6 +22251,436 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/63f47ddf-43b4-4741-a92a-5edc748abbe6/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES INC",
+      "registrant_name": "GILEAD SCIENCES, INC.",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-21T13:36:24-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Copyright/Patent/Trademark",
+        "Health Issues",
+        "Medicare/Medicaid",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c23069d8-8f86-49d3-ab90-6a3ad29e2935/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES INC",
+      "registrant_name": "GILEAD SCIENCES, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-10-20T17:56:36-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Copyright/Patent/Trademark",
+        "Health Issues",
+        "Medicare/Medicaid",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/085c391d-3e64-4129-8cfb-99b03e601249/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "TARPLIN, DOWNS & YOUNG, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-20T14:41:59-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a77f2313-b012-4877-8690-6b2cbc972e58/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES INC.",
+      "registrant_name": "FARRAGUT PARTNERS LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-20T12:49:04-04:00",
+      "issues": [
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6d6443c5-0ce7-4e12-84f9-f3fe915fbfa5/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "150000.00",
+      "posted_date": "2026-10-20T12:33:21-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/bcd103f2-1e9a-427f-adca-7d25eff52c72/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "THE MCMANUS GROUP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-10-20T10:35:29-04:00",
+      "issues": [
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a8fb013a-008f-4568-98ec-e5e600635741/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "TIBER CREEK GROUP ON BEHALF OF GILEAD SCIENCES, INC.",
+      "registrant_name": "B HALL STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-10-20T05:41:25-04:00",
+      "issues": [
+        "Pharmacy"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/60a9d61c-a083-4bd7-99fd-74b3afc74043/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "W STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-10-19T23:49:07-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5e7255b2-bec9-4b96-aa29-002f2f65e880/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "THE DUBERSTEIN GROUP INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-10-19T18:11:58-04:00",
+      "issues": [
+        "Health Issues",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b1661b2a-325f-4a36-a1a7-c357c6307d9e/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES INC.",
+      "registrant_name": "EMPIRE CONSULTING GROUP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "50000.00",
+      "posted_date": "2026-10-19T17:20:23-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/cee944ea-b8db-4e34-96fc-050262943fab/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "TODD STRATEGY GROUP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-19T11:41:00-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5ba31335-799c-4842-a2ce-9b8500468efb/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "TIBER CREEK GROUP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-10-18T18:50:58-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a67ec8c4-e25f-4c99-96a5-51d9f011939c/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "JEFFREY J. KIMBELL & ASSOCIATES, INC.",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "75000.00",
+      "posted_date": "2026-10-18T16:58:00-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/87c1e508-d715-4f2b-8319-89289ac73b13/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "FORBES-TATE",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-10-18T13:43:27-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/164d2634-1cc8-41e2-b6d6-fa454b01f2bb/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "CAPITOL TAX PARTNERS, LLP",
+      "filing_type": "3rd Quarter - Report",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-10-16T13:12:55-04:00",
+      "issues": [
+        "Taxation/Internal Revenue Code"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/5ef7f0e1-a9fa-46f2-a04c-9740c66e8c53/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "TARPLIN, DOWNS & YOUNG, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-20T21:57:16-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/3d9a67c9-f86c-410d-a7f0-5d66c51883a5/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "TODD STRATEGY GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-20T20:12:26-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/24f02579-2987-4079-9be8-1bd2a7d76fc3/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "FORBES-TATE",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-20T17:56:06-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/28ee5aef-77cb-44e3-b0d2-ae07ba9043b6/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES INC",
+      "registrant_name": "GILEAD SCIENCES, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-07-20T17:19:37-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Copyright/Patent/Trademark",
+        "Health Issues",
+        "Medicare/Medicaid",
+        "Taxation/Internal Revenue Code",
+        "Trade (domestic/foreign)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c4563d15-16ce-4e93-97ee-783fd860070a/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "W STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-20T14:38:02-04:00",
+      "issues": [
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/90f3a3ed-190b-45db-8df8-4f2ed98d2d17/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "JEFFREY J. KIMBELL & ASSOCIATES, INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "75000.00",
+      "posted_date": "2026-07-20T13:10:12-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/bce56a46-9070-4d0d-b21a-ebc41e2325ff/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "MILLER STRATEGIES, LLC",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "150000.00",
+      "posted_date": "2026-07-20T12:45:33-04:00",
+      "issues": [
+        "Budget/Appropriations",
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/90d7ec2e-85c8-4e32-984a-1edea46d959e/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "THE MCMANUS GROUP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "60000.00",
+      "posted_date": "2026-07-20T12:20:09-04:00",
+      "issues": [
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/88b381aa-4f3f-46de-9999-0be5acd8efc2/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES INC.",
+      "registrant_name": "FARRAGUT PARTNERS LLP",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "80000.00",
+      "posted_date": "2026-07-20T10:47:51-04:00",
+      "issues": [
+        "Health Issues",
+        "Medicare/Medicaid"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/0542f57c-a4cb-487a-9f69-68437d05e307/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "client_name": "GILEAD SCIENCES, INC.",
+      "registrant_name": "THE DUBERSTEIN GROUP INC.",
+      "filing_type": "2nd Quarter - Report",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "90000.00",
+      "posted_date": "2026-07-20T10:07:03-04:00",
+      "issues": [
+        "Health Issues"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/6c6703ab-cd45-4521-8d38-259fda53d616/print/"
     },
     {
       "sector": "XBI",
