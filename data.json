@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:09:00Z",
+  "generated_at": "2026-11-17T19:05:38Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,20 +7,20 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 14,
+      "bill_count": 13,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 40
+      "avg_momentum": 41
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 38
+      "avg_momentum": 39
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -37,10 +37,10 @@
       "short": "Quantum",
       "etf": "QTUM",
       "color": "#6B5CA5",
-      "bill_count": 0,
+      "bill_count": 1,
       "trade_count": 2,
       "lobbying_count": 223,
-      "avg_momentum": 0
+      "avg_momentum": 31
     },
     "XBI": {
       "name": "Biotech",
@@ -87,10 +87,10 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 6,
+      "bill_count": 7,
       "trade_count": 2,
       "lobbying_count": 300,
-      "avg_momentum": 39
+      "avg_momentum": 36
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -357,6 +357,31 @@
       "cosponsor_count": 6,
       "amendments": [],
       "momentum": 37,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-3597",
+      "number": "S 3597",
+      "title": "National Quantum Initiative Reauthorization Act of 2026",
+      "sector": "QTUM",
+      "introduced_date": "2026-01-08",
+      "latest_action": {
+        "date": "2026-11-16",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 718."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3597",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Young, Todd [R-IN]",
+        "party": "R",
+        "state": "IN"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 19,
+      "amendments": [],
+      "momentum": 31,
       "sector_trade_flag": false
     },
     {
@@ -735,31 +760,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9613",
-      "number": "HR 9613",
-      "title": "Nuclear Advisory Committee Reform Act",
-      "sector": "URA",
-      "introduced_date": "2026-07-09",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9613",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Harshbarger, Diana [R-TN-1]",
-        "party": "R",
-        "state": "TN"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-10998",
       "number": "HR 10998",
       "title": "Building Out Utility Infrastructure in Rural America Act",
@@ -807,6 +807,31 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 44,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4727",
+      "number": "S 4727",
+      "title": "Artificial Intelligence Environmental Impacts Act of 2026",
+      "sector": "SMH",
+      "introduced_date": "2026-06-09",
+      "latest_action": {
+        "date": "2026-06-09",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Markey, Edward J. [D-MA]",
+        "party": "D",
+        "state": "MA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 4,
+      "amendments": [],
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -935,28 +960,53 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-3140",
-      "number": "S 3140",
-      "title": "Flood Protection and Infrastructure Resilience Act of 2025",
-      "sector": "PAVE",
-      "introduced_date": "2025-11-06",
+      "id": "119-HR-9613",
+      "number": "HR 9613",
+      "title": "Nuclear Advisory Committee Reform Act",
+      "sector": "URA",
+      "introduced_date": "2026-07-09",
       "latest_action": {
-        "date": "2025-11-06",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+        "date": "2026-11-10",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3140",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9613",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Sen. Ricketts, Pete [R-NE]",
+        "name": "Rep. Harshbarger, Diana [R-TN-1]",
         "party": "R",
-        "state": "NE"
+        "state": "TN"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-5723",
+      "number": "S 5723",
+      "title": "A bill to amend title 9, United States Code, with respect to arbitration of disputes involving child cyber injuries and child sexual exploitation.",
+      "sector": "CIBR",
+      "introduced_date": "2026-11-16",
+      "latest_action": {
+        "date": "2026-11-16",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5723",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Hawley, Josh [R-MO]",
+        "party": "R",
+        "state": "MO"
       },
       "committee_count": 1,
       "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 35,
+      "momentum": 43,
       "sector_trade_flag": false
     },
     {
@@ -1235,31 +1285,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-1699",
-      "number": "S 1699",
-      "title": "Artificial Intelligence Public Awareness and Education Campaign Act",
-      "sector": "SMH",
-      "introduced_date": "2025-05-08",
-      "latest_action": {
-        "date": "2025-05-08",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1699",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Young, Todd [R-IN]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 6,
-      "amendments": [],
-      "momentum": 37,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-1507",
       "number": "S 1507",
       "title": "Agriculture Resilience Act of 2025",
@@ -1507,6 +1532,31 @@
       "cosponsor_count": 21,
       "amendments": [],
       "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-97",
+      "number": "S 97",
+      "title": "Securing Semiconductor Supply Chains Act",
+      "sector": "SMH",
+      "introduced_date": "2025-01-15",
+      "latest_action": {
+        "date": "2025-05-26",
+        "text": "Held at the desk."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/97",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Peters, Gary C. [D-MI]",
+        "party": "D",
+        "state": "MI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 16,
       "sector_trade_flag": false
     },
     {
@@ -6250,6 +6300,100 @@
       "sector": "PAVE",
       "ticker": "ACM",
       "company": "AECOM",
+      "client_name": "ACRI ENVIRONMENTAL GROUP LLC (ON BEHALF OF AECOM CONSULT, INC.)",
+      "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
+      "filing_type": "3rd Quarter - Amendment",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-11-17T13:38:05-05:00",
+      "issues": [
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/b9c8147f-ef41-4fb6-9947-bc69f76c9726/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "ACRI ENVIRONMENTAL GROUP LLC (ON BEHALF OF AECOM CONSULT, INC.)",
+      "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
+      "filing_type": "2nd Quarter - Amendment",
+      "filing_period": "2nd Quarter (Apr 1 - June 30)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-11-17T13:36:06-05:00",
+      "issues": [
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/143787bb-8cc7-480b-997e-80000b62bdaa/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "ACRI ENVIRONMENTAL GROUP LLC (ON BEHALF OF AECOM CONSULT, INC.)",
+      "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
+      "filing_type": "1st Quarter - Amendment",
+      "filing_period": "1st Quarter (Jan 1 - Mar 31)",
+      "filing_year": 2026,
+      "income": "30000.00",
+      "posted_date": "2026-11-17T13:34:14-05:00",
+      "issues": [
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/40dbbf6d-5e77-4d59-a28b-3246085660f8/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "ACRI ENVIRONMENTAL GROUP LLC (ON BEHALF OF AECOM CONSULT, INC.)",
+      "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
+      "filing_type": "4th Quarter - Amendment",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2026-11-17T13:31:28-05:00",
+      "issues": [
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/2cae61bc-83e6-415b-982c-d94fc59b4fe0/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "ACRI ENVIRONMENTAL GROUP LLC (ON BEHALF OF AECOM CONSULT, INC.)",
+      "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
+      "filing_type": "4th Quarter - Amendment",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": "30000.00",
+      "posted_date": "2026-11-17T13:23:26-05:00",
+      "issues": [
+        "Environment/Superfund"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/a8b608a8-ad15-476a-a4fc-3b7a07a001f2/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "client_name": "ACRI ENVIRONMENTAL GROUP LLC (ON BEHALF OF AECOM CONSULT, INC.)",
+      "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
+      "filing_type": "Registration - Amendment",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2025,
+      "income": null,
+      "posted_date": "2026-11-16T15:17:46-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/ec0ada66-f987-4c89-8733-f88e77101e85/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "ACM",
+      "company": "AECOM",
       "client_name": "AECOM CONSULT, INC",
       "registrant_name": "SQUIRE PATTON BOGGS",
       "filing_type": "Registration",
@@ -6463,7 +6607,7 @@
       "sector": "PAVE",
       "ticker": "ACM",
       "company": "AECOM",
-      "client_name": "AECOM CONSULT, INC.",
+      "client_name": "ACRI ENVIRONMENTAL GROUP LLC (ON BEHALF OF AECOM CONSULT, INC.)",
       "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -6574,118 +6718,6 @@
         "Environment/Superfund"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/63342a0b-53bf-4a19-b801-ebff63ccab4f/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "AECOM",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-07-20T22:37:29-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Clean Air and Water (quality)",
-        "Defense",
-        "Disaster Planning/Emergencies",
-        "Foreign Relations",
-        "Government Issues",
-        "Natural Resources",
-        "Trade (domestic/foreign)",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/efbe8248-3089-41f4-9157-ebd6fff7cc02/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM TECHNICAL SERVICES, INC.",
-      "registrant_name": "ELEVATE GOVERNMENT AFFAIRS, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "40000.00",
-      "posted_date": "2026-07-20T17:19:58-04:00",
-      "issues": [
-        "Aviation/Airlines/Airports",
-        "Budget/Appropriations",
-        "Clean Air and Water (quality)",
-        "Defense",
-        "Disaster Planning/Emergencies",
-        "Energy/Nuclear",
-        "Real Estate/Land Use/Conservation",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/5f18ac34-0d68-4af1-b8da-7e8ce9d42c21/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM CONSULT, INC.",
-      "registrant_name": "AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "30000.00",
-      "posted_date": "2026-07-20T15:32:17-04:00",
-      "issues": [
-        "Environment/Superfund"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3ebe2045-9cb0-4499-937e-df1a53f763bd/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM CONSULT, INC.",
-      "registrant_name": "TSG ADVOCATES DC, LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "67500.00",
-      "posted_date": "2026-07-20T14:52:20-04:00",
-      "issues": [
-        "Foreign Relations"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/c234afbf-5c10-4244-946d-2a3e7dc4921e/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "FIERCE GOVERNMENT RELATIONS",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "40000.00",
-      "posted_date": "2026-07-20T13:13:12-04:00",
-      "issues": [
-        "Energy/Nuclear",
-        "Transportation"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/356c6163-899a-4ab0-a6d6-5ca11555a854/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "ACM",
-      "company": "AECOM",
-      "client_name": "AECOM",
-      "registrant_name": "THE MCKEON GROUP, INC.",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": null,
-      "posted_date": "2026-07-20T02:42:00-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e7de7a09-f1f2-46c0-9f4f-b6c07b76d54e/print/"
     },
     {
       "sector": "PAVE",
@@ -22686,6 +22718,20 @@
       "sector": "XBI",
       "ticker": "AMGN",
       "company": "Amgen",
+      "client_name": "AMGEN",
+      "registrant_name": "DAN CRIPPEN",
+      "filing_type": "3rd Quarter - Report (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": "15000.00",
+      "posted_date": "2026-11-17T12:11:06-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/7e2056f3-b16c-48ec-b70d-c8dd3941600f/print/"
+    },
+    {
+      "sector": "XBI",
+      "ticker": "AMGN",
+      "company": "Amgen",
       "client_name": "AMGEN INC.",
       "registrant_name": "MICHAEL J. LAMOUREUX",
       "filing_type": "3rd Quarter - Report",
@@ -23092,23 +23138,6 @@
         "Taxation/Internal Revenue Code"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/44fa26a8-cebb-480d-a7d6-909e3beab8ed/print/"
-    },
-    {
-      "sector": "XBI",
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "client_name": "AMGEN, INC. FKA HORIZON THERAPEUTICS USA, INC.",
-      "registrant_name": "S-3 GROUP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-10-16T12:49:17-04:00",
-      "issues": [
-        "Budget/Appropriations",
-        "Health Issues"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e4eb5945-aed5-4577-8518-489130d908e9/print/"
     },
     {
       "sector": "XBI",
@@ -38743,6 +38772,22 @@
       "sector": "URA",
       "ticker": "LEU",
       "company": "Centrus Energy",
+      "client_name": "CENTRUS ENERGY",
+      "registrant_name": "THE NICKLES GROUP, LLC",
+      "filing_type": "Registration",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-16T15:33:57-05:00",
+      "issues": [
+        "Energy/Nuclear"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/f345a7b9-826d-477f-9390-6d2f63eb9a10/print/"
+    },
+    {
+      "sector": "URA",
+      "ticker": "LEU",
+      "company": "Centrus Energy",
       "client_name": "CENTRUS ENERGY CORP. (FORMERLY KNOWN AS USEC INC.)",
       "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
       "filing_type": "3rd Quarter - Report",
@@ -39127,22 +39172,6 @@
         "Energy/Nuclear"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/15f3ed9b-56a9-473b-aaff-5a7131cafd3a/print/"
-    },
-    {
-      "sector": "URA",
-      "ticker": "LEU",
-      "company": "Centrus Energy",
-      "client_name": "CENTRUS ENERGY CORP. (FORMERLY KNOWN AS USEC INC.)",
-      "registrant_name": "CT GROUP FKA CTF GLOBAL LLC",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2025,
-      "income": "30000.00",
-      "posted_date": "2025-08-04T13:03:10-04:00",
-      "issues": [
-        "Energy/Nuclear"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/3175ab31-6e10-4ce1-97e3-d9a972c96a89/print/"
     },
     {
       "sector": "URA",
