@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:05:38Z",
+  "generated_at": "2026-11-18T18:47:54Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 13,
+      "bill_count": 10,
       "trade_count": 0,
       "lobbying_count": 362,
       "avg_momentum": 41
@@ -17,20 +17,20 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 5,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 39
+      "avg_momentum": 40
     },
     "GRID": {
       "name": "Grid & Electrification",
       "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
-      "bill_count": 2,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 265,
-      "avg_momentum": 43
+      "avg_momentum": 41
     },
     "QTUM": {
       "name": "Quantum Computing",
@@ -47,30 +47,30 @@
       "short": "Biotech",
       "etf": "XBI",
       "color": "#2C6E8C",
-      "bill_count": 5,
+      "bill_count": 4,
       "trade_count": 1,
       "lobbying_count": 316,
-      "avg_momentum": 39
+      "avg_momentum": 41
     },
     "ITA": {
       "name": "Defense",
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 14,
+      "bill_count": 17,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 35
+      "avg_momentum": 36
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 36
+      "avg_momentum": 38
     },
     "URA": {
       "name": "Uranium & Nuclear",
@@ -87,10 +87,10 @@
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 7,
+      "bill_count": 3,
       "trade_count": 2,
       "lobbying_count": 300,
-      "avg_momentum": 36
+      "avg_momentum": 40
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -107,10 +107,10 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 1,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 40
+      "avg_momentum": 29
     },
     "FINX": {
       "name": "Financial Technology",
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 24,
+      "trade_count": 28,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -460,6 +460,31 @@
       "sector_trade_flag": true
     },
     {
+      "id": "119-HR-5468",
+      "number": "HR 5468",
+      "title": "Community College Agriculture Advancement Act of 2025",
+      "sector": "MOO",
+      "introduced_date": "2025-09-18",
+      "latest_action": {
+        "date": "2025-12-02",
+        "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5468",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Kelly, Trent [R-MS-1]",
+        "party": "R",
+        "state": "MS"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HRES-1642",
       "number": "HRES 1642",
       "title": "Expressing the sense of the House of Representatives that Congress must refuse to provide any additional funds or exceptional regulatory support to companies or financial institutions facing insolvency or financial collapse due to exposures to acute stress within the artificial intelligence market and must provide support to all harmed Americans instead.",
@@ -557,6 +582,31 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2808",
+      "number": "S 2808",
+      "title": "Fertilizer Research Act of 2025",
+      "sector": "MOO",
+      "introduced_date": "2025-09-16",
+      "latest_action": {
+        "date": "2025-09-16",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2808",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Grassley, Chuck [R-IA]",
+        "party": "R",
+        "state": "IA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 8,
+      "amendments": [],
+      "momentum": 38,
       "sector_trade_flag": false
     },
     {
@@ -954,9 +1004,9 @@
         "state": "MD"
       },
       "committee_count": 1,
-      "cosponsor_count": 1,
+      "cosponsor_count": 2,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 44,
       "sector_trade_flag": false
     },
     {
@@ -1010,6 +1060,206 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-11042",
+      "number": "HR 11042",
+      "title": "To prohibit the use of funds authorized to be appropriated for the Department of Defense to carry out a hiring freeze, reduction in force, or hiring delay without cause at a public shipyard.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-17",
+      "latest_action": {
+        "date": "2026-11-17",
+        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11042",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Goodlander, Maggie [D-NH-2]",
+        "party": "D",
+        "state": "NH"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 6,
+      "amendments": [],
+      "momentum": 45,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11046",
+      "number": "HR 11046",
+      "title": "To amend the Homeland Security Act of 2002 to establish within the Cybersecurity and Infrastructure Security Agency the National Cyber and AI Investigations Board to investigate significant cyber incidents, cyber incidents involving terrorism, and cyber incidents involving artificial intelligence, to determine root causes and develop recommendations to prevent similar incidents and address terrorism threats to the United States, including threats relating to the malicious use of information systems or artificial intelligence by covered foreign adversaries, including terrorist organizations, and for other purposes.",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-17",
+      "latest_action": {
+        "date": "2026-11-17",
+        "text": "Referred to the House Committee on Homeland Security."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11046",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Luttrell, Morgan [R-TX-8]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-5726",
+      "number": "S 5726",
+      "title": "A bill to modify the organization of the Department of Defense with respect to special-operations peculiar matters, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-17",
+      "latest_action": {
+        "date": "2026-11-17",
+        "text": "Read twice and referred to the Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5726",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Budd, Ted [R-NC]",
+        "party": "R",
+        "state": "NC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-5733",
+      "number": "S 5733",
+      "title": "A bill to establish a best-available transmission conductor standard for certain transmission projects under the Federal Power Act and to provide for presumptions regarding cost recovery for such conductors.",
+      "sector": "GRID",
+      "introduced_date": "2026-11-17",
+      "latest_action": {
+        "date": "2026-11-17",
+        "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5733",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Cortez Masto, Catherine [D-NV]",
+        "party": "D",
+        "state": "NV"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11044",
+      "number": "HR 11044",
+      "title": "To amend chapter 88 of title 10, United States Code, to direct the Secretary of Defense to establish an internship program for military child and youth programs, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-17",
+      "latest_action": {
+        "date": "2026-11-17",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11044",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Goodlander, Maggie [D-NH-2]",
+        "party": "D",
+        "state": "NH"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11047",
+      "number": "HR 11047",
+      "title": "To require certain persons to disclose to the Secretary of Defense covered relationships for covered contracts relating to covered aerospace technology, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-17",
+      "latest_action": {
+        "date": "2026-11-17",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11047",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moolenaar, John R. [R-MI-2]",
+        "party": "R",
+        "state": "MI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11048",
+      "number": "HR 11048",
+      "title": "To direct the Director of the National Geospatial-Intelligence Agency to conduct a comprehensive assessment of commercially available artificial intelligence tools capable of automated analysis of satellite and geospatial imagery, and for other purposes.",
+      "sector": "UFO",
+      "introduced_date": "2026-11-17",
+      "latest_action": {
+        "date": "2026-11-17",
+        "text": "Referred to the House Permanent Select Committee on Intelligence."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11048",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moolenaar, John R. [R-MI-2]",
+        "party": "R",
+        "state": "MI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11043",
+      "number": "HR 11043",
+      "title": "To direct the Secretary of Defense to establish military housing policies to protect victims of domestic violence, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-17",
+      "latest_action": {
+        "date": "2026-11-17",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11043",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Goodlander, Maggie [D-NH-2]",
+        "party": "D",
+        "state": "NH"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HR-8268",
       "number": "HR 8268",
       "title": "Biotechnology for All High School Students Act",
@@ -1029,9 +1279,34 @@
         "state": "DE"
       },
       "committee_count": 1,
-      "cosponsor_count": 8,
+      "cosponsor_count": 9,
       "amendments": [],
-      "momentum": 38,
+      "momentum": 39,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-4730",
+      "number": "S 4730",
+      "title": "Community College Agriculture Advancement Act of 2026",
+      "sector": "MOO",
+      "introduced_date": "2026-06-10",
+      "latest_action": {
+        "date": "2026-06-10",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4730",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Hickenlooper, John W. [D-CO]",
+        "party": "D",
+        "state": "CO"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 9,
+      "amendments": [],
+      "momentum": 39,
       "sector_trade_flag": false
     },
     {
@@ -1135,6 +1410,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-HR-4990",
+      "number": "HR 4990",
+      "title": "Wildfire Grid Resiliency Act",
+      "sector": "GRID",
+      "introduced_date": "2025-08-15",
+      "latest_action": {
+        "date": "2025-08-15",
+        "text": "Referred to the House Committee on Science, Space, and Technology."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4990",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Torres, Norma J. [D-CA-35]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-HR-9651",
       "number": "HR 9651",
       "title": "Space Ready 2.0 Act",
@@ -1235,6 +1535,31 @@
       "sector_trade_flag": false
     },
     {
+      "id": "119-S-3095",
+      "number": "S 3095",
+      "title": "An original bill to require the Secretary of Agriculture to convey a parcel of property of the Forest Service to Perry County, Arkansas, and for other purposes.",
+      "sector": "MOO",
+      "introduced_date": "2025-11-03",
+      "latest_action": {
+        "date": "2025-11-03",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 259."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3095",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Sen. Boozman, John [R-AR]",
+        "party": "R",
+        "state": "AR"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 15,
+      "sector_trade_flag": false
+    },
+    {
       "id": "119-S-4830",
       "number": "S 4830",
       "title": "A bill to designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
@@ -1285,332 +1610,76 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-S-1507",
-      "number": "S 1507",
-      "title": "Agriculture Resilience Act of 2025",
+      "id": "119-S-2440",
+      "number": "S 2440",
+      "title": "A bill to direct the Secretary of Agriculture to convey certain National Forest System land located in Franklin County, Mississippi, and for other purposes.",
       "sector": "MOO",
-      "introduced_date": "2025-04-29",
+      "introduced_date": "2025-07-24",
       "latest_action": {
-        "date": "2025-04-29",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+        "date": "2025-10-27",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 216."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1507",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Heinrich, Martin [D-NM]",
-        "party": "D",
-        "state": "NM"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 12,
-      "amendments": [],
-      "momentum": 40,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-1532",
-      "number": "S 1532",
-      "title": "A bill to amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
-      "sector": "PAVE",
-      "introduced_date": "2025-04-30",
-      "latest_action": {
-        "date": "2025-04-30",
-        "text": "Read twice and referred to the Committee on Finance."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1532",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Crapo, Mike [R-ID]",
-        "party": "R",
-        "state": "ID"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 50,
-      "amendments": [],
-      "momentum": 50,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2692",
-      "number": "S 2692",
-      "title": "Agricultural Biotechnology Coordination Act",
-      "sector": "XBI",
-      "introduced_date": "2025-09-03",
-      "latest_action": {
-        "date": "2025-09-03",
-        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2692",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Padilla, Alex [D-CA]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9442",
-      "number": "HR 9442",
-      "title": "Artificial Intelligence Data Center Moratorium Act",
-      "sector": "SMH",
-      "introduced_date": "2026-06-24",
-      "latest_action": {
-        "date": "2026-06-24",
-        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
-        "party": "D",
-        "state": "NY"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 20,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-5192",
-      "number": "HR 5192",
-      "title": "To modify the annual report on the Navy Shipyard Infrastructure Optimization Program.",
-      "sector": "PAVE",
-      "introduced_date": "2025-09-08",
-      "latest_action": {
-        "date": "2025-09-08",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5192",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Khanna, Ro [D-CA-17]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-6630",
-      "number": "HR 6630",
-      "title": "Expanding Mental Health Access for Cyber Command Personnel Act",
-      "sector": "CIBR",
-      "introduced_date": "2025-12-11",
-      "latest_action": {
-        "date": "2025-12-11",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6630",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Elfreth, Sarah [D-MD-3]",
-        "party": "D",
-        "state": "MD"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-3336",
-      "number": "S 3336",
-      "title": "Reliable Artificial Intelligence Research Act of 2025",
-      "sector": "SMH",
-      "introduced_date": "2025-12-03",
-      "latest_action": {
-        "date": "2025-12-03",
-        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3336",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Hassan, Margaret Wood [D-NH]",
-        "party": "D",
-        "state": "NH"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 35,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9521",
-      "number": "HR 9521",
-      "title": "Broadband Infrastructure Extension Act",
-      "sector": "PAVE",
-      "introduced_date": "2026-06-29",
-      "latest_action": {
-        "date": "2026-06-29",
-        "text": "Referred to the House Committee on Oversight and Government Reform."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9521",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. McDowell, Addison P. [R-NC-6]",
-        "party": "R",
-        "state": "NC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 7,
-      "amendments": [],
-      "momentum": 38,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HJRES-200",
-      "number": "HJRES 200",
-      "title": "Providing for congressional disapproval of the proposed foreign military sale to Turkey of certain defense articles and services.",
-      "sector": "ITA",
-      "introduced_date": "2026-07-02",
-      "latest_action": {
-        "date": "2026-07-02",
-        "text": "Referred to the House Committee on Foreign Affairs."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/200",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Titus, Dina [D-NV-1]",
-        "party": "D",
-        "state": "NV"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 16,
-      "amendments": [],
-      "momentum": 41,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HRES-1177",
-      "number": "HRES 1177",
-      "title": "Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.",
-      "sector": "ITA",
-      "introduced_date": "2026-04-15",
-      "latest_action": {
-        "date": "2026-04-15",
-        "text": "Referred to the House Committee on the Judiciary."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1177",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Ansari, Yassamin [D-AZ-3]",
-        "party": "D",
-        "state": "AZ"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 21,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-97",
-      "number": "S 97",
-      "title": "Securing Semiconductor Supply Chains Act",
-      "sector": "SMH",
-      "introduced_date": "2025-01-15",
-      "latest_action": {
-        "date": "2025-05-26",
-        "text": "Held at the desk."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/97",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2440",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Introduced",
       "sponsor": {
-        "name": "Sen. Peters, Gary C. [D-MI]",
-        "party": "D",
-        "state": "MI"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 16,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2615",
-      "number": "S 2615",
-      "title": "VET Artificial Intelligence Act",
-      "sector": "SMH",
-      "introduced_date": "2025-07-31",
-      "latest_action": {
-        "date": "2025-07-31",
-        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Hickenlooper, John W. [D-CO]",
-        "party": "D",
-        "state": "CO"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 3,
-      "amendments": [],
-      "momentum": 36,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-4833",
-      "number": "HR 4833",
-      "title": "Dyess Air Base Access Infrastructure Design Act",
-      "sector": "PAVE",
-      "introduced_date": "2025-08-01",
-      "latest_action": {
-        "date": "2025-08-01",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4833",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Arrington, Jodey C. [R-TX-19]",
+        "name": "Sen. Hyde-Smith, Cindy [R-MS]",
         "party": "R",
-        "state": "TX"
+        "state": "MS"
       },
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 35,
+      "momentum": 15,
       "sector_trade_flag": false
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "CMBS",
+      "company": "iShares CMBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/17/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "TLH",
+      "company": "iShares 10-20 Year Treasury Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/17/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "HYBB",
+      "company": "iShares BB Rated Corporate Bond ETF",
+      "senator": "John Boozman",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/"
+    },
+    {
+      "sector": "OTHER",
+      "ticker": "MBB",
+      "company": "iShares MBS ETF",
+      "senator": "John Boozman",
+      "transaction_date": "10/21/2026",
+      "filed_date": "11/17/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/"
+    },
     {
       "sector": "OTHER",
       "ticker": "ZTS",
@@ -20470,6 +20539,20 @@
       "sector": "QTUM",
       "ticker": "GOOGL",
       "company": "Alphabet",
+      "client_name": "GOOGLE, INC.",
+      "registrant_name": "RUBIN, TURNBULL & ASSOCIATES",
+      "filing_type": "4th Quarter - Termination (No Activity)",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-18T12:23:21-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/f9d5c049-c794-4fdd-a848-cc9c419ebef9/print/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
       "client_name": "CORNERSTONE GOVERNMENT AFFAIRS OBO GOOGLE CLIENT SERVICES LLC",
       "registrant_name": "JGB & ASSOCIATES, LLC",
       "filing_type": "3rd Quarter - Report",
@@ -20929,22 +21012,6 @@
         "Trade (domestic/foreign)"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/0676fd59-1d30-4323-aad2-83e03d2ff407/print/"
-    },
-    {
-      "sector": "QTUM",
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "client_name": "GOOGLE PUBLIC SECTOR (FKA GOOGLE CLOUD)",
-      "registrant_name": "THE ROOSEVELT GROUP",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "125000.00",
-      "posted_date": "2026-07-20T12:54:44-04:00",
-      "issues": [
-        "Defense"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/8d939d9e-2663-4290-9d66-1018dbbedf70/print/"
     },
     {
       "sector": "QTUM",
@@ -43900,6 +43967,27 @@
       "ticker": "AMAT",
       "company": "Applied Materials",
       "client_name": "APPLIED MATERIALS, INC.",
+      "registrant_name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "filing_type": "Registration",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-17T16:28:01-05:00",
+      "issues": [
+        "Computer Industry",
+        "Defense",
+        "Immigration",
+        "Labor Issues/Antitrust/Workplace",
+        "Manufacturing",
+        "Tariff (miscellaneous tariff bills)"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/dce9ca61-6e84-4a4a-a808-0bb47a25b3b5/print/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "client_name": "APPLIED MATERIALS, INC.",
       "registrant_name": "MEHLMAN CONSULTING, INC.",
       "filing_type": "3rd Quarter - Report",
       "filing_period": "3rd Quarter (July 1 - Sep 30)",
@@ -44323,25 +44411,6 @@
         "Science/Technology"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/5070ead8-d547-44ae-a892-c8dbcb905c6d/print/"
-    },
-    {
-      "sector": "SMH",
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "client_name": "APPLIED MATERIALS, INC.",
-      "registrant_name": "MEHLMAN CONSULTING, INC.",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "60000.00",
-      "posted_date": "2025-10-20T11:44:10-04:00",
-      "issues": [
-        "Manufacturing",
-        "Science/Technology",
-        "Taxation/Internal Revenue Code",
-        "Trade (domestic/foreign)"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/e80222f0-5085-4988-a153-4f9ea037727c/print/"
     },
     {
       "sector": "SMH",
