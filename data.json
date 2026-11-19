@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:47:54Z",
+  "generated_at": "2026-11-19T19:01:35Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,10 +7,10 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 10,
+      "bill_count": 13,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 41
+      "avg_momentum": 42
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -57,27 +57,27 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 17,
+      "bill_count": 14,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 36
+      "avg_momentum": 35
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 3,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 38
+      "avg_momentum": 36
     },
     "URA": {
       "name": "Uranium & Nuclear",
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 7,
+      "bill_count": 8,
       "trade_count": 0,
       "lobbying_count": 235,
       "avg_momentum": 44
@@ -110,7 +110,7 @@
       "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 29
+      "avg_momentum": 34
     },
     "FINX": {
       "name": "Financial Technology",
@@ -635,31 +635,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-10985",
-      "number": "HR 10985",
-      "title": "To require reporting by the Department of Defense on the use of open-air burn pits, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-10",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/10985",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Ruiz, Raul [D-CA-25]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 44,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-3521",
       "number": "HR 3521",
       "title": "Clinical Trial Modernization Act",
@@ -682,31 +657,6 @@
       "cosponsor_count": 36,
       "amendments": [],
       "momentum": 49,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-9612",
-      "number": "HR 9612",
-      "title": "American Enrichment Deployment Act",
-      "sector": "URA",
-      "introduced_date": "2026-07-09",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9612",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Fry, Russell [R-SC-7]",
-        "party": "R",
-        "state": "SC"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 6,
-      "amendments": [],
-      "momentum": 45,
       "sector_trade_flag": false
     },
     {
@@ -960,31 +910,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9084",
-      "number": "HR 9084",
-      "title": "Department of Energy Nuclear Transparency Act",
-      "sector": "URA",
-      "introduced_date": "2026-06-02",
-      "latest_action": {
-        "date": "2026-11-12",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Castor, Kathy [D-FL-14]",
-        "party": "D",
-        "state": "FL"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-11022",
       "number": "HR 11022",
       "title": "AGRI\u2013FLOOD Resilience and Infrastructure Act",
@@ -1010,34 +935,9 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-9613",
-      "number": "HR 9613",
-      "title": "Nuclear Advisory Committee Reform Act",
-      "sector": "URA",
-      "introduced_date": "2026-07-09",
-      "latest_action": {
-        "date": "2026-11-10",
-        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9613",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Harshbarger, Diana [R-TN-1]",
-        "party": "R",
-        "state": "TN"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-5723",
       "number": "S 5723",
-      "title": "A bill to amend title 9, United States Code, with respect to arbitration of disputes involving child cyber injuries and child sexual exploitation.",
+      "title": "No Forced Arbitration for Child Sexual Exploitation and Cyber Injuries Act",
       "sector": "CIBR",
       "introduced_date": "2026-11-16",
       "latest_action": {
@@ -1057,31 +957,6 @@
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11042",
-      "number": "HR 11042",
-      "title": "To prohibit the use of funds authorized to be appropriated for the Department of Defense to carry out a hiring freeze, reduction in force, or hiring delay without cause at a public shipyard.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-17",
-      "latest_action": {
-        "date": "2026-11-17",
-        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11042",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Goodlander, Maggie [D-NH-2]",
-        "party": "D",
-        "state": "NH"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 6,
-      "amendments": [],
-      "momentum": 45,
       "sector_trade_flag": false
     },
     {
@@ -1160,48 +1035,48 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-11044",
-      "number": "HR 11044",
-      "title": "To amend chapter 88 of title 10, United States Code, to direct the Secretary of Defense to establish an internship program for military child and youth programs, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-17",
+      "id": "119-HR-9084",
+      "number": "HR 9084",
+      "title": "Department of Energy Nuclear Transparency Act",
+      "sector": "URA",
+      "introduced_date": "2026-06-02",
       "latest_action": {
-        "date": "2026-11-17",
-        "text": "Referred to the House Committee on Armed Services."
+        "date": "2026-11-12",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11044",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9084",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Goodlander, Maggie [D-NH-2]",
+        "name": "Rep. Castor, Kathy [D-FL-14]",
         "party": "D",
-        "state": "NH"
+        "state": "FL"
       },
-      "committee_count": 1,
+      "committee_count": 2,
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 43,
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-11047",
-      "number": "HR 11047",
-      "title": "To require certain persons to disclose to the Secretary of Defense covered relationships for covered contracts relating to covered aerospace technology, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-17",
+      "id": "119-HR-11063",
+      "number": "HR 11063",
+      "title": "To direct the Nuclear Regulatory Commission to promulgate regulations prohibiting the issuance of certain certificates and licenses without a finding that a certain system or facility can safely operate with spent nuclear fuel for a period of at least 100 years, and for other purposes.",
+      "sector": "URA",
+      "introduced_date": "2026-11-18",
       "latest_action": {
-        "date": "2026-11-17",
-        "text": "Referred to the House Committee on Armed Services."
+        "date": "2026-11-18",
+        "text": "Referred to the House Committee on Energy and Commerce."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11047",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11063",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Moolenaar, John R. [R-MI-2]",
-        "party": "R",
-        "state": "MI"
+        "name": "Rep. Levin, Mike [D-CA-49]",
+        "party": "D",
+        "state": "CA"
       },
       "committee_count": 1,
       "cosponsor_count": 0,
@@ -1210,23 +1085,73 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-11048",
-      "number": "HR 11048",
-      "title": "To direct the Director of the National Geospatial-Intelligence Agency to conduct a comprehensive assessment of commercially available artificial intelligence tools capable of automated analysis of satellite and geospatial imagery, and for other purposes.",
-      "sector": "UFO",
-      "introduced_date": "2026-11-17",
+      "id": "119-HR-9613",
+      "number": "HR 9613",
+      "title": "Nuclear Advisory Committee Reform Act",
+      "sector": "URA",
+      "introduced_date": "2026-07-09",
       "latest_action": {
-        "date": "2026-11-17",
-        "text": "Referred to the House Permanent Select Committee on Intelligence."
+        "date": "2026-11-10",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11048",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9613",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Moolenaar, John R. [R-MI-2]",
+        "name": "Rep. Harshbarger, Diana [R-TN-1]",
         "party": "R",
-        "state": "MI"
+        "state": "TN"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11055",
+      "number": "HR 11055",
+      "title": "To amend the Homeland Security Act of 2002 to establish within the Cybersecurity and Infrastructure Security Agency a pilot program to be known as the \"BRIDGE AI Mission Program\" to recruit and manage artificial intelligence and emerging technology professionals on a temporary basis to support the core mission of the Agency, and for other purposes.",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-18",
+      "latest_action": {
+        "date": "2026-11-18",
+        "text": "Referred to the House Committee on Homeland Security."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11055",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Fong, Vince [R-CA-20]",
+        "party": "R",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11067",
+      "number": "HR 11067",
+      "title": "To improve and promote commercial exports of defense articles and defense services by small businesses.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-18",
+      "latest_action": {
+        "date": "2026-11-18",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11067",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moore, Tim [R-NC-14]",
+        "party": "R",
+        "state": "NC"
       },
       "committee_count": 1,
       "cosponsor_count": 0,
@@ -1235,28 +1160,128 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-11043",
-      "number": "HR 11043",
-      "title": "To direct the Secretary of Defense to establish military housing policies to protect victims of domestic violence, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-17",
+      "id": "119-HR-11076",
+      "number": "HR 11076",
+      "title": "To amend the Homeland Security Act of 2002 to require the Director of the Cybersecurity and Infrastructure Security Agency to lead cybersecurity efforts relating to the secure adoption, discovery, identification, authorization, monitoring, accountability, and risk management of artificial intelligence agents operating on executive agency information systems, and for other purposes.",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-18",
       "latest_action": {
-        "date": "2026-11-17",
-        "text": "Referred to the House Committee on Armed Services."
+        "date": "2026-11-18",
+        "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11043",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11076",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Goodlander, Maggie [D-NH-2]",
-        "party": "D",
-        "state": "NH"
+        "name": "Rep. Van Epps, Matt [R-TN-7]",
+        "party": "R",
+        "state": "TN"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9612",
+      "number": "HR 9612",
+      "title": "American Enrichment Deployment Act",
+      "sector": "URA",
+      "introduced_date": "2026-07-09",
+      "latest_action": {
+        "date": "2026-11-10",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9612",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Fry, Russell [R-SC-7]",
+        "party": "R",
+        "state": "SC"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 6,
+      "amendments": [],
+      "momentum": 45,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11069",
+      "number": "HR 11069",
+      "title": "To amend the Homeland Security Act of 2002 to designate the Department of Homeland Security as the Sector Risk Management Agency for the information technology sector, require the Cybersecurity and Infrastructure Security Agency to carry out the responsibilities of the Department for such sector, strengthen public and private sector engagement to reduce cybersecurity risks to such sector and secure its systems, assets, and key resources against cybersecurity threats, supply chain compromise, and physical threats, including terrorism threats to the United States, and for other purposes.",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-18",
+      "latest_action": {
+        "date": "2026-11-18",
+        "text": "Referred to the House Committee on Homeland Security."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11069",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Ogles, Andrew [R-TN-5]",
+        "party": "R",
+        "state": "TN"
       },
       "committee_count": 1,
       "cosponsor_count": 1,
       "amendments": [],
       "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-5739",
+      "number": "S 5739",
+      "title": "A bill to require the Secretary of Defense to conduct a risk assessment and develop a modernization plan relating to air traffic control systems of the Department of Defense, and for other purposes.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-18",
+      "latest_action": {
+        "date": "2026-11-18",
+        "text": "Read twice and referred to the Committee on Armed Services."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5739",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Duckworth, Tammy [D-IL]",
+        "party": "D",
+        "state": "IL"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11077",
+      "number": "HR 11077",
+      "title": "To direct the Secretary of Agriculture to improve safety standards for wildland firefighters.",
+      "sector": "MOO",
+      "introduced_date": "2026-11-18",
+      "latest_action": {
+        "date": "2026-11-18",
+        "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11077",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Whitesides, George [D-CA-27]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 44,
       "sector_trade_flag": false
     },
     {
@@ -1504,7 +1529,7 @@
         "state": "PA"
       },
       "committee_count": 1,
-      "cosponsor_count": 38,
+      "cosponsor_count": 39,
       "amendments": [],
       "momentum": 50,
       "sector_trade_flag": false
@@ -1607,31 +1632,6 @@
       "cosponsor_count": 9,
       "amendments": [],
       "momentum": 19,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-2440",
-      "number": "S 2440",
-      "title": "A bill to direct the Secretary of Agriculture to convey certain National Forest System land located in Franklin County, Mississippi, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2025-07-24",
-      "latest_action": {
-        "date": "2025-10-27",
-        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 216."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2440",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Introduced",
-      "sponsor": {
-        "name": "Sen. Hyde-Smith, Cindy [R-MS]",
-        "party": "R",
-        "state": "MS"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 15,
       "sector_trade_flag": false
     }
   ],
@@ -52257,6 +52257,23 @@
       "sector": "FINX",
       "ticker": "V",
       "company": "Visa",
+      "client_name": "VISA U.S.A. INC.",
+      "registrant_name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+      "filing_type": "Registration",
+      "filing_period": "4th Quarter (Oct 1 - Dec 31)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-18T11:16:09-05:00",
+      "issues": [
+        "Banking",
+        "Financial Institutions/Investments/Securities"
+      ],
+      "filing_url": "https://lda.gov/filings/public/filing/c654a642-8da9-47f5-8d60-cd05724ba498/print/"
+    },
+    {
+      "sector": "FINX",
+      "ticker": "V",
+      "company": "Visa",
       "client_name": "VISA INC.",
       "registrant_name": "PHRONESISDC, LLC",
       "filing_type": "3rd Quarter - Report",
@@ -52671,23 +52688,6 @@
         "Financial Institutions/Investments/Securities"
       ],
       "filing_url": "https://lda.gov/filings/public/filing/def69f70-66da-4cba-8431-5b5ef39e7ccd/print/"
-    },
-    {
-      "sector": "FINX",
-      "ticker": "V",
-      "company": "Visa",
-      "client_name": "VISA, U.S.A., INC.",
-      "registrant_name": "AKIN GUMP STRAUSS HAUER & FELD",
-      "filing_type": "2nd Quarter - Report",
-      "filing_period": "2nd Quarter (Apr 1 - June 30)",
-      "filing_year": 2026,
-      "income": "60000.00",
-      "posted_date": "2026-07-20T11:36:41-04:00",
-      "issues": [
-        "Banking",
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/28c8a256-00bc-4409-94c6-95ad1662660a/print/"
     },
     {
       "sector": "FINX",
