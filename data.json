@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:14:54Z",
+  "generated_at": "2026-11-22T17:46:36Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 15,
+      "bill_count": 14,
       "trade_count": 0,
       "lobbying_count": 362,
       "avg_momentum": 46
@@ -117,10 +117,10 @@
       "short": "Fintech",
       "etf": "FINX",
       "color": "#3C6E8F",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 194,
-      "avg_momentum": 18
+      "avg_momentum": 26
     },
     "OTHER": {
       "name": "Other / Unclassified",
@@ -832,6 +832,31 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 44,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9173",
+      "number": "HR 9173",
+      "title": "Charitable Deductions for Digital Asset Donations Act",
+      "sector": "FINX",
+      "introduced_date": "2026-06-08",
+      "latest_action": {
+        "date": "2026-06-08",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9173",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Kelly, Mike [R-PA-16]",
+        "party": "R",
+        "state": "PA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1605,31 +1630,6 @@
       },
       "committee_count": 2,
       "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11127",
-      "number": "HR 11127",
-      "title": "To direct the Director of the National Institute of Standards and Technology to establish benchmarks for the timely remediation of software vulnerabilities by owners and operators of critical infrastructure, to establish a grant program for patch modernization and the reduction of the exposure of operational technology, and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11127",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Whitesides, George [D-CA-27]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 1,
       "amendments": [],
       "momentum": 43,
       "sector_trade_flag": false
