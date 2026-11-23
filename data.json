@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:46:36Z",
+  "generated_at": "2026-11-23T22:02:45Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -3282,6 +3282,20 @@
       "sector": "PAVE",
       "ticker": "CAT",
       "company": "Caterpillar",
+      "client_name": "BOYD CATERPILLAR",
+      "registrant_name": "NORTH STAR STRATEGIES, LLC",
+      "filing_type": "3rd Quarter - Amendment (No Activity)",
+      "filing_period": "3rd Quarter (July 1 - Sep 30)",
+      "filing_year": 2026,
+      "income": null,
+      "posted_date": "2026-11-23T10:29:43-05:00",
+      "issues": [],
+      "filing_url": "https://lda.gov/filings/public/filing/9009719a-e81b-4b48-b19b-e6118bcb9cdb/print/"
+    },
+    {
+      "sector": "PAVE",
+      "ticker": "CAT",
+      "company": "Caterpillar",
       "client_name": "CATERPILLAR INC",
       "registrant_name": "CATERPILLAR INC.",
       "filing_type": "3rd Quarter - Report",
@@ -3695,22 +3709,6 @@
       "posted_date": "2025-10-20T13:25:36-04:00",
       "issues": [],
       "filing_url": "https://lda.gov/filings/public/filing/2fb5a6ce-0bd4-4e4f-b8fb-9619345cc9d0/print/"
-    },
-    {
-      "sector": "PAVE",
-      "ticker": "CAT",
-      "company": "Caterpillar",
-      "client_name": "CATERPILLAR INC",
-      "registrant_name": "THE WASHINGTON TAX & PUBLIC POLICY GROUP",
-      "filing_type": "3rd Quarter - Report",
-      "filing_period": "3rd Quarter (July 1 - Sep 30)",
-      "filing_year": 2025,
-      "income": "50000.00",
-      "posted_date": "2025-10-20T12:33:28-04:00",
-      "issues": [
-        "Taxation/Internal Revenue Code"
-      ],
-      "filing_url": "https://lda.gov/filings/public/filing/7d83ac30-d371-459e-9c46-8fb6ca81f596/print/"
     },
     {
       "sector": "PAVE",
