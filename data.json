@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:02:45Z",
+  "generated_at": "2026-11-24T20:38:32Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,7 +7,7 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 14,
+      "bill_count": 13,
       "trade_count": 0,
       "lobbying_count": 362,
       "avg_momentum": 46
@@ -57,7 +57,7 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 16,
+      "bill_count": 15,
       "trade_count": 0,
       "lobbying_count": 300,
       "avg_momentum": 37
@@ -67,10 +67,10 @@
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 0,
+      "bill_count": 1,
       "trade_count": 0,
       "lobbying_count": 250,
-      "avg_momentum": 0
+      "avg_momentum": 36
     },
     "URA": {
       "name": "Uranium & Nuclear",
@@ -107,7 +107,7 @@
       "short": "Agriculture",
       "etf": "MOO",
       "color": "#8A7A3C",
-      "bill_count": 5,
+      "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 209,
       "avg_momentum": 39
@@ -128,7 +128,7 @@
       "etf": null,
       "color": "#565F73",
       "bill_count": 0,
-      "trade_count": 29,
+      "trade_count": 30,
       "lobbying_count": 0,
       "avg_momentum": 0
     }
@@ -1135,31 +1135,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-11076",
-      "number": "HR 11076",
-      "title": "To amend the Homeland Security Act of 2002 to require the Director of the Cybersecurity and Infrastructure Security Agency to lead cybersecurity efforts relating to the secure adoption, discovery, identification, authorization, monitoring, accountability, and risk management of artificial intelligence agents operating on executive agency information systems, and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-11-18",
-      "latest_action": {
-        "date": "2026-11-18",
-        "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11076",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Van Epps, Matt [R-TN-7]",
-        "party": "R",
-        "state": "TN"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-9612",
       "number": "HR 9612",
       "title": "American Enrichment Deployment Act",
@@ -1182,31 +1157,6 @@
       "cosponsor_count": 6,
       "amendments": [],
       "momentum": 45,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11077",
-      "number": "HR 11077",
-      "title": "To direct the Secretary of Agriculture to improve safety standards for wildland firefighters.",
-      "sector": "MOO",
-      "introduced_date": "2026-11-18",
-      "latest_action": {
-        "date": "2026-11-18",
-        "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11077",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Whitesides, George [D-CA-27]",
-        "party": "D",
-        "state": "CA"
-      },
-      "committee_count": 2,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 44,
       "sector_trade_flag": false
     },
     {
@@ -1307,31 +1257,6 @@
       "cosponsor_count": 0,
       "amendments": [],
       "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11096",
-      "number": "HR 11096",
-      "title": "To amend the Public Health Service to require the Secretary to award grants, contracts, or cooperative agreements to eligible entities to establish, maintain, or improve activities related to the detection and monitoring of infectious diseases through wastewater for public health emergency preparedness and response purposes, and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11096",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Fry, Russell [R-SC-7]",
-        "party": "R",
-        "state": "SC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 2,
-      "amendments": [],
-      "momentum": 44,
       "sector_trade_flag": false
     },
     {
@@ -1585,23 +1510,73 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-11083",
-      "number": "HR 11083",
-      "title": "To direct the Secretary of Defense to establish a pilot program to provide educational continuity services to eligible dependents of members of the Armed Forces enrolled in elementary schools or secondary schools, and for other purposes.",
+      "id": "119-HR-11127",
+      "number": "HR 11127",
+      "title": "To direct the Director of the National Institute of Standards and Technology to establish benchmarks for the timely remediation of software vulnerabilities by owners and operators of critical infrastructure, to establish a grant program for patch modernization and the reduction of the exposure of operational technology, and for other purposes.",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-19",
+      "latest_action": {
+        "date": "2026-11-19",
+        "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11127",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Whitesides, George [D-CA-27]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11115",
+      "number": "HR 11115",
+      "title": "To amend the Clean Air Act to provide for the phase-out and termination of the Renewable Fuel Standard, and for other purposes.",
+      "sector": "MOO",
+      "introduced_date": "2026-11-19",
+      "latest_action": {
+        "date": "2026-11-19",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11115",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Roy, Chip [R-TX-21]",
+        "party": "R",
+        "state": "TX"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11110",
+      "number": "HR 11110",
+      "title": "To direct the Secretary of Defense to submit a report to Congress regarding the civilian equivalents of military training, education, and occupational specialties.",
       "sector": "ITA",
       "introduced_date": "2026-11-19",
       "latest_action": {
         "date": "2026-11-19",
         "text": "Referred to the House Committee on Armed Services."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11083",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11110",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Alford, Mark [R-MO-4]",
+        "name": "Rep. Owens, Burgess [R-UT-4]",
         "party": "R",
-        "state": "MO"
+        "state": "UT"
       },
       "committee_count": 1,
       "cosponsor_count": 0,
@@ -1610,32 +1585,68 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-11078",
-      "number": "HR 11078",
-      "title": "To amend title 10, United States Code, to require the Secretary of Homeland Security to maintain an annual limit on the amount of tuition assistance available for a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy at an amount equal to the annual limit established by the Secretary of Defense with respect to tuition reimbursement for members of the Armed Forces, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-19",
+      "id": "119-S-4730",
+      "number": "S 4730",
+      "title": "Community College Agriculture Advancement Act of 2026",
+      "sector": "MOO",
+      "introduced_date": "2026-06-10",
       "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        "date": "2026-06-10",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
       },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11078",
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4730",
       "amendments_count": 0,
       "amendments_url": null,
       "status": "Committee",
       "sponsor": {
-        "name": "Rep. Underwood, Lauren [D-IL-14]",
+        "name": "Sen. Hickenlooper, John W. [D-CO]",
         "party": "D",
-        "state": "IL"
+        "state": "CO"
       },
-      "committee_count": 2,
-      "cosponsor_count": 0,
+      "committee_count": 1,
+      "cosponsor_count": 9,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 39,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-5175",
+      "number": "HR 5175",
+      "title": "Quad Space Act",
+      "sector": "UFO",
+      "introduced_date": "2025-09-08",
+      "latest_action": {
+        "date": "2025-09-08",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5175",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Crow, Jason [D-CO-6]",
+        "party": "D",
+        "state": "CO"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 2,
+      "amendments": [],
+      "momentum": 36,
       "sector_trade_flag": false
     }
   ],
   "trades": [
+    {
+      "sector": "OTHER",
+      "ticker": "STLN",
+      "company": "Starling Oncology, Inc. - Common Stock",
+      "senator": "Richard Blumenthal",
+      "transaction_date": "11/04/2026",
+      "filed_date": "11/24/2026",
+      "type": "Sale (Partial)",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/9d3510cc-b11b-4777-a8a8-f0a58e886290/"
+    },
     {
       "sector": "OTHER",
       "ticker": "GS",
