@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:38:32Z",
+  "generated_at": "2026-11-25T19:55:06Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -17,20 +17,20 @@
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 4,
+      "bill_count": 5,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 42
+      "avg_momentum": 40
     },
     "GRID": {
       "name": "Grid & Electrification",
       "short": "Grid",
       "etf": "GRID",
       "color": "#9B4638",
-      "bill_count": 3,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 265,
-      "avg_momentum": 43
+      "avg_momentum": 37
     },
     "QTUM": {
       "name": "Quantum Computing",
@@ -57,10 +57,10 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 15,
+      "bill_count": 11,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 37
+      "avg_momentum": 34
     },
     "UFO": {
       "name": "Space",
@@ -77,20 +77,20 @@
       "short": "Nuclear",
       "etf": "URA",
       "color": "#7A6A00",
-      "bill_count": 6,
+      "bill_count": 7,
       "trade_count": 0,
       "lobbying_count": 235,
-      "avg_momentum": 46
+      "avg_momentum": 41
     },
     "SMH": {
       "name": "Semiconductors & AI",
       "short": "Semis & AI",
       "etf": "SMH",
       "color": "#B5533C",
-      "bill_count": 2,
+      "bill_count": 3,
       "trade_count": 2,
       "lobbying_count": 300,
-      "avg_momentum": 38
+      "avg_momentum": 40
     },
     "ICLN": {
       "name": "Clean Energy",
@@ -100,7 +100,7 @@
       "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 165,
-      "avg_momentum": 36
+      "avg_momentum": 32
     },
     "MOO": {
       "name": "Agriculture",
@@ -181,7 +181,7 @@
       "committee_count": 1,
       "cosponsor_count": 9,
       "amendments": [],
-      "momentum": 27,
+      "momentum": 19,
       "sector_trade_flag": false
     },
     {
@@ -656,7 +656,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 23,
+      "momentum": 15,
       "sector_trade_flag": false
     },
     {
@@ -706,7 +706,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -731,7 +731,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -781,7 +781,7 @@
       "committee_count": 1,
       "cosponsor_count": 28,
       "amendments": [],
-      "momentum": 54,
+      "momentum": 46,
       "sector_trade_flag": false
     },
     {
@@ -1106,32 +1106,7 @@
       "committee_count": 2,
       "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11055",
-      "number": "HR 11055",
-      "title": "To amend the Homeland Security Act of 2002 to establish within the Cybersecurity and Infrastructure Security Agency a pilot program to be known as the \"BRIDGE AI Mission Program\" to recruit and manage artificial intelligence and emerging technology professionals on a temporary basis to support the core mission of the Agency, and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-11-18",
-      "latest_action": {
-        "date": "2026-11-18",
-        "text": "Referred to the House Committee on Homeland Security."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11055",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Fong, Vince [R-CA-20]",
-        "party": "R",
-        "state": "CA"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1156,7 +1131,7 @@
       "committee_count": 2,
       "cosponsor_count": 6,
       "amendments": [],
-      "momentum": 45,
+      "momentum": 37,
       "sector_trade_flag": false
     },
     {
@@ -1277,106 +1252,6 @@
         "name": "Rep. Mace, Nancy [R-SC-1]",
         "party": "R",
         "state": "SC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-5779",
-      "number": "S 5779",
-      "title": "A bill to require the Secretary of Defense to establish a pilot program on blood pressure monitoring for at-risk pregnant and postpartum beneficiaries under the TRICARE program to increase the rate of early detection of hypertensive disorder related to pregnancy and postpartum, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5779",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Duckworth, Tammy [D-IL]",
-        "party": "D",
-        "state": "IL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-5771",
-      "number": "S 5771",
-      "title": "A bill to require the Secretary of Defense to carry out a pilot program for the development and use of an online real estate inventory tool, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5771",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Duckworth, Tammy [D-IL]",
-        "party": "D",
-        "state": "IL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-5778",
-      "number": "S 5778",
-      "title": "A bill to direct the Secretary of Defense to establish a pilot program for partnerships between covered basic needs banks and military installations to provide diapers and diapering supplies to military families.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5778",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Duckworth, Tammy [D-IL]",
-        "party": "D",
-        "state": "IL"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-S-5772",
-      "number": "S 5772",
-      "title": "A bill to require the Secretary of Defense to establish a program to augment holistic rehabilitative care for beneficiaries with limb loss or limb dysfunction through peer mentoring, education, and community outreach, and for other purposes.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Read twice and referred to the Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5772",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Sen. Duckworth, Tammy [D-IL]",
-        "party": "D",
-        "state": "IL"
       },
       "committee_count": 1,
       "cosponsor_count": 0,
@@ -1632,6 +1507,131 @@
       "cosponsor_count": 2,
       "amendments": [],
       "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9658",
+      "number": "HR 9658",
+      "title": "Nuclear Regulatory Modernization Act of 2026",
+      "sector": "URA",
+      "introduced_date": "2026-07-13",
+      "latest_action": {
+        "date": "2026-07-13",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9658",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Spartz, Victoria [R-IN-5]",
+        "party": "R",
+        "state": "IN"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-5785",
+      "number": "S 5785",
+      "title": "A bill to require the Securities and Exchange Commission to issue rules relating to the use of artificial intelligence by public companies, and for other purposes.",
+      "sector": "SMH",
+      "introduced_date": "2026-11-19",
+      "latest_action": {
+        "date": "2026-11-19",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5785",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Warner, Mark R. [D-VA]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 44,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2866",
+      "number": "S 2866",
+      "title": "Cybersecurity in Agriculture Act of 2025",
+      "sector": "CIBR",
+      "introduced_date": "2025-09-18",
+      "latest_action": {
+        "date": "2025-09-18",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2866",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Budd, Ted [R-NC]",
+        "party": "R",
+        "state": "NC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-2860",
+      "number": "S 2860",
+      "title": "Revitalizing America\u2019s Offshore Critical Minerals Dominance Act",
+      "sector": "PAVE",
+      "introduced_date": "2025-09-18",
+      "latest_action": {
+        "date": "2026-02-12",
+        "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2860",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Sheehy, Tim [R-MT]",
+        "party": "R",
+        "state": "MT"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 3,
+      "amendments": [],
+      "momentum": 36,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-4990",
+      "number": "HR 4990",
+      "title": "Wildfire Grid Resiliency Act",
+      "sector": "GRID",
+      "introduced_date": "2025-08-15",
+      "latest_action": {
+        "date": "2025-08-15",
+        "text": "Referred to the House Committee on Science, Space, and Technology."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4990",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Torres, Norma J. [D-CA-35]",
+        "party": "D",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 35,
       "sector_trade_flag": false
     }
   ],
