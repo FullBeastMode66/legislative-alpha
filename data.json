@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:55:06Z",
+  "generated_at": "2026-11-26T19:34:14Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -7,17 +7,17 @@
       "short": "Infrastructure",
       "etf": "PAVE",
       "color": "#C98A3B",
-      "bill_count": 13,
+      "bill_count": 14,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 46
+      "avg_momentum": 43
     },
     "CIBR": {
       "name": "Cybersecurity",
       "short": "Cybersecurity",
       "etf": "CIBR",
       "color": "#3F7469",
-      "bill_count": 5,
+      "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 288,
       "avg_momentum": 40
@@ -38,7 +38,7 @@
       "etf": "QTUM",
       "color": "#6B5CA5",
       "bill_count": 1,
-      "trade_count": 2,
+      "trade_count": 5,
       "lobbying_count": 223,
       "avg_momentum": 31
     },
@@ -57,17 +57,17 @@
       "short": "Defense",
       "etf": "ITA",
       "color": "#5B4636",
-      "bill_count": 11,
+      "bill_count": 10,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 34
+      "avg_momentum": 33
     },
     "UFO": {
       "name": "Space",
       "short": "Space",
       "etf": "UFO",
       "color": "#4A5A6B",
-      "bill_count": 1,
+      "bill_count": 2,
       "trade_count": 0,
       "lobbying_count": 250,
       "avg_momentum": 36
@@ -88,7 +88,7 @@
       "etf": "SMH",
       "color": "#B5533C",
       "bill_count": 3,
-      "trade_count": 2,
+      "trade_count": 5,
       "lobbying_count": 300,
       "avg_momentum": 40
     },
@@ -110,7 +110,7 @@
       "bill_count": 6,
       "trade_count": 0,
       "lobbying_count": 209,
-      "avg_momentum": 39
+      "avg_momentum": 38
     },
     "FINX": {
       "name": "Financial Technology",
@@ -756,7 +756,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -806,7 +806,7 @@
       "committee_count": 1,
       "cosponsor_count": 0,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -1185,81 +1185,6 @@
       "sector_trade_flag": false
     },
     {
-      "id": "119-HR-11084",
-      "number": "HR 11084",
-      "title": "To provide for the establishment of a U.S.-Ethiopia Agricultural and Critical Minerals Trade Partnership.",
-      "sector": "PAVE",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11084",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Baird, James R. [R-IN-4]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11119",
-      "number": "HR 11119",
-      "title": "To direct the Administrator of the Transportation Security Administration to establish a grant program for eligible railroads to assist in financing the cost of improving the cybersecurity of freight rail transportation systems, and for other purposes.",
-      "sector": "CIBR",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Homeland Security."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11119",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Shreve, Jefferson [R-IN-6]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11105",
-      "number": "HR 11105",
-      "title": "To amend the Food and Nutrition Act of 2008 to prohibit the Secretary of Agriculture from approving retail food stores to accept benefits from recipients of supplemental nutrition assistance through on-line transactions for delivery orders, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Agriculture."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11105",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Mace, Nancy [R-SC-1]",
-        "party": "R",
-        "state": "SC"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-S-5782",
       "number": "S 5782",
       "title": "A bill to provide for certain maps relating to the availability of broadband service and funding for broadband infrastructure deployment to be consolidated into a single online mapping tool, to provide for certain improvements with respect to broadband mapping data, and for other purposes.",
@@ -1310,81 +1235,6 @@
       "sector_trade_flag": true
     },
     {
-      "id": "119-HR-11085",
-      "number": "HR 11085",
-      "title": "To provide for the establishment of a U.S.-Eritrea Agricultural and Critical Minerals Trade Partnership.",
-      "sector": "PAVE",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Ways and Means."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11085",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Baird, James R. [R-IN-4]",
-        "party": "R",
-        "state": "IN"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11111",
-      "number": "HR 11111",
-      "title": "To direct the Secretary of Defense to submit a report to the congressional defense committees regarding the establishment of separation battalions.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11111",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Owens, Burgess [R-UT-4]",
-        "party": "R",
-        "state": "UT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11112",
-      "number": "HR 11112",
-      "title": "To provide for certain maps relating to the availability of broadband service and funding for broadband infrastructure deployment to be consolidated into a single online mapping tool, to provide for certain improvements with respect to broadband mapping data, and for other purposes.",
-      "sector": "PAVE",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11112",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Pfluger, August [R-TX-11]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
       "id": "119-HR-11127",
       "number": "HR 11127",
       "title": "To direct the Director of the National Institute of Standards and Technology to establish benchmarks for the timely remediation of software vulnerabilities by owners and operators of critical infrastructure, to establish a grant program for patch modernization and the reduction of the exposure of operational technology, and for other purposes.",
@@ -1405,56 +1255,6 @@
       },
       "committee_count": 2,
       "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11115",
-      "number": "HR 11115",
-      "title": "To amend the Clean Air Act to provide for the phase-out and termination of the Renewable Fuel Standard, and for other purposes.",
-      "sector": "MOO",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Energy and Commerce."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11115",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Roy, Chip [R-TX-21]",
-        "party": "R",
-        "state": "TX"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 1,
-      "amendments": [],
-      "momentum": 43,
-      "sector_trade_flag": false
-    },
-    {
-      "id": "119-HR-11110",
-      "number": "HR 11110",
-      "title": "To direct the Secretary of Defense to submit a report to Congress regarding the civilian equivalents of military training, education, and occupational specialties.",
-      "sector": "ITA",
-      "introduced_date": "2026-11-19",
-      "latest_action": {
-        "date": "2026-11-19",
-        "text": "Referred to the House Committee on Armed Services."
-      },
-      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11110",
-      "amendments_count": 0,
-      "amendments_url": null,
-      "status": "Committee",
-      "sponsor": {
-        "name": "Rep. Owens, Burgess [R-UT-4]",
-        "party": "R",
-        "state": "UT"
-      },
-      "committee_count": 1,
-      "cosponsor_count": 0,
       "amendments": [],
       "momentum": 43,
       "sector_trade_flag": false
@@ -1557,7 +1357,7 @@
       "cosponsor_count": 3,
       "amendments": [],
       "momentum": 44,
-      "sector_trade_flag": false
+      "sector_trade_flag": true
     },
     {
       "id": "119-S-2866",
@@ -1633,9 +1433,275 @@
       "amendments": [],
       "momentum": 35,
       "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9372",
+      "number": "HR 9372",
+      "title": "Data Infrastructure Energy Measurement and Standards Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-06-18",
+      "latest_action": {
+        "date": "2026-06-25",
+        "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 34 - 1."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9372",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Introduced",
+      "sponsor": {
+        "name": "Rep. Subramanyam, Suhas [D-VA-10]",
+        "party": "D",
+        "state": "VA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 10,
+      "amendments": [],
+      "momentum": 19,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-2458",
+      "number": "HR 2458",
+      "title": "Secure Space Act of 2025",
+      "sector": "UFO",
+      "introduced_date": "2025-03-27",
+      "latest_action": {
+        "date": "2025-04-29",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2458",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Pallone, Frank [D-NJ-6]",
+        "party": "D",
+        "state": "NJ"
+      },
+      "committee_count": 2,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-9464",
+      "number": "HR 9464",
+      "title": "To prohibit the Secretary of Agriculture from closing any research and development facility of the Forest Service.",
+      "sector": "MOO",
+      "introduced_date": "2026-06-25",
+      "latest_action": {
+        "date": "2026-06-25",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/9464",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Goodlander, Maggie [D-NH-2]",
+        "party": "D",
+        "state": "NH"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 35,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11067",
+      "number": "HR 11067",
+      "title": "To improve and promote commercial exports of defense articles and defense services by small businesses.",
+      "sector": "ITA",
+      "introduced_date": "2026-11-18",
+      "latest_action": {
+        "date": "2026-11-18",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11067",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Moore, Tim [R-NC-14]",
+        "party": "R",
+        "state": "NC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-S-5816",
+      "number": "S 5816",
+      "title": "A bill to amend the Agriculture Improvement Act of 2018 with respect to micro-grants for food security, and for other purposes.",
+      "sector": "MOO",
+      "introduced_date": "2026-11-20",
+      "latest_action": {
+        "date": "2026-11-20",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5816",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Sen. Schatz, Brian [D-HI]",
+        "party": "D",
+        "state": "HI"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11100",
+      "number": "HR 11100",
+      "title": "Digital Infrastructure Security Act of 2026",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-19",
+      "latest_action": {
+        "date": "2026-11-19",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11100",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Harrigan, Pat [R-NC-10]",
+        "party": "R",
+        "state": "NC"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11055",
+      "number": "HR 11055",
+      "title": "BRIDGE AI Act",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-18",
+      "latest_action": {
+        "date": "2026-11-18",
+        "text": "Referred to the House Committee on Homeland Security."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11055",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Fong, Vince [R-CA-20]",
+        "party": "R",
+        "state": "CA"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 1,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
+    },
+    {
+      "id": "119-HR-11145",
+      "number": "HR 11145",
+      "title": "To provide for the establishment of a U.S.-Kenya Agricultural and Critical Minerals Trade Partnership.",
+      "sector": "PAVE",
+      "introduced_date": "2026-11-24",
+      "latest_action": {
+        "date": "2026-11-24",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/11145",
+      "amendments_count": 0,
+      "amendments_url": null,
+      "status": "Committee",
+      "sponsor": {
+        "name": "Rep. Baird, James R. [R-IN-4]",
+        "party": "R",
+        "state": "IN"
+      },
+      "committee_count": 1,
+      "cosponsor_count": 0,
+      "amendments": [],
+      "momentum": 43,
+      "sector_trade_flag": false
     }
   ],
   "trades": [
+    {
+      "sector": "QTUM",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Rand Paul",
+      "transaction_date": "11/05/2026",
+      "filed_date": "11/25/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Rand Paul",
+      "transaction_date": "11/05/2026",
+      "filed_date": "11/25/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Rand Paul",
+      "transaction_date": "11/07/2026",
+      "filed_date": "11/25/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Rand Paul",
+      "transaction_date": "11/07/2026",
+      "filed_date": "11/25/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
+    },
+    {
+      "sector": "QTUM",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Rand Paul",
+      "transaction_date": "11/09/2026",
+      "filed_date": "11/25/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
+    },
+    {
+      "sector": "SMH",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "senator": "Rand Paul",
+      "transaction_date": "11/09/2026",
+      "filed_date": "11/25/2026",
+      "type": "Purchase",
+      "amount_range": "$1,001 - $15,000",
+      "report_url": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/"
+    },
     {
       "sector": "OTHER",
       "ticker": "STLN",
