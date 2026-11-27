@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:34:14Z",
+  "generated_at": "2026-11-27T19:29:44Z",
   "congress": 119,
   "sectors": {
     "PAVE": {
@@ -10,7 +10,7 @@
       "bill_count": 14,
       "trade_count": 0,
       "lobbying_count": 362,
-      "avg_momentum": 43
+      "avg_momentum": 42
     },
     "CIBR": {
       "name": "Cybersecurity",
@@ -20,7 +20,7 @@
       "bill_count": 4,
       "trade_count": 0,
       "lobbying_count": 288,
-      "avg_momentum": 40
+      "avg_momentum": 38
     },
     "GRID": {
       "name": "Grid & Electrification",
@@ -60,7 +60,7 @@
       "bill_count": 10,
       "trade_count": 0,
       "lobbying_count": 300,
-      "avg_momentum": 33
+      "avg_momentum": 32
     },
     "UFO": {
       "name": "Space",
@@ -80,7 +80,7 @@
       "bill_count": 7,
       "trade_count": 0,
       "lobbying_count": 235,
-      "avg_momentum": 41
+      "avg_momentum": 38
     },
     "SMH": {
       "name": "Semiconductors & AI",
@@ -831,7 +831,7 @@
       "committee_count": 2,
       "cosponsor_count": 3,
       "amendments": [],
-      "momentum": 44,
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -906,7 +906,7 @@
       "committee_count": 2,
       "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -931,7 +931,7 @@
       "committee_count": 2,
       "cosponsor_count": 25,
       "amendments": [],
-      "momentum": 53,
+      "momentum": 45,
       "sector_trade_flag": false
     },
     {
@@ -956,7 +956,7 @@
       "committee_count": 2,
       "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
@@ -981,7 +981,7 @@
       "committee_count": 1,
       "cosponsor_count": 2,
       "amendments": [],
-      "momentum": 44,
+      "momentum": 36,
       "sector_trade_flag": false
     },
     {
@@ -1081,7 +1081,7 @@
       "committee_count": 2,
       "cosponsor_count": 1,
       "amendments": [],
-      "momentum": 43,
+      "momentum": 35,
       "sector_trade_flag": false
     },
     {
